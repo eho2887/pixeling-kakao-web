@@ -24,6 +24,18 @@
       "thumb": "media/r-c00b1739/thumbs/980ec5b1e078.jpg",
       "mime": "image/png",
       "bytes": 52743
+    },
+    {
+      "id": "cd4ae3769687",
+      "kind": "image",
+      "t": "2026-10-09T16:12:00+09:00",
+      "time": "16:12",
+      "who": "수강생",
+      "text": "세로 영상 위에 보라색 아이콘과 초록색 수치 표기가 겹쳐진 화면 캡처. 원본 해상도가 낮아 지표 이름과 숫자는 정확히 판독되지 않음.",
+      "file": "media/r-c00b1739/cd4ae3769687.png",
+      "thumb": "media/r-c00b1739/thumbs/cd4ae3769687.jpg",
+      "mime": "image/png",
+      "bytes": 138070
     }
   ]
 }
