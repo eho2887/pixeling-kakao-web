@@ -1,8 +1,32 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-10-09T04:31:28.855Z",
+  "updated_at": "2026-10-09T05:02:43.852Z",
   "items": [
+    {
+      "id": "b607998ee7a5",
+      "url": "https://cafe.naver.com/dinohighclass/428024",
+      "kind": "cafe",
+      "title": "�����г븶�� ����Ŭ���� - ����Ŭ (��Ʃ��, AI, N��) : ���̹� ī��",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "13:38",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/428024"
+        }
+      ],
+      "fetched_at": "2026-10-09T05:02:43.852Z"
+    },
     {
       "id": "5ed558e63aa4",
       "url": "https://cafe.naver.com/dinohighclass/428012",

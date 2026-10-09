@@ -1,8 +1,130 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-10-09T04:31:28.855Z",
+  "updated_at": "2026-10-09T05:02:43.852Z",
   "items": [
+    {
+      "id": "03cf9453112d",
+      "url": "https://cafe.naver.com/dinohighclass/428042",
+      "kind": "cafe",
+      "title": "�����г븶�� ����Ŭ���� - ����Ŭ (��Ʃ��, AI, N��) : ���̹� ī��",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "13:59",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/428042"
+        }
+      ],
+      "fetched_at": "2026-10-09T05:02:43.852Z"
+    },
+    {
+      "id": "08c9b1383a02",
+      "url": "https://cafe.naver.com/dinohighclass/428037",
+      "kind": "cafe",
+      "title": "�����г븶�� ����Ŭ���� - ����Ŭ (��Ʃ��, AI, N��) : ���̹� ī��",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "13:49",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/428037"
+        }
+      ],
+      "fetched_at": "2026-10-09T05:02:43.852Z"
+    },
+    {
+      "id": "fbbf38c8d6c2",
+      "url": "https://cafe.naver.com/dinohighclass/428032",
+      "kind": "cafe",
+      "title": "�����г븶�� ����Ŭ���� - ����Ŭ (��Ʃ��, AI, N��) : ���̹� ī��",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "13:44",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/428032"
+        }
+      ],
+      "fetched_at": "2026-10-09T05:02:43.852Z"
+    },
+    {
+      "id": "647a9e590f5d",
+      "url": "https://www.youtube.com/watch?v=HwmAxElR3vI",
+      "kind": "youtube",
+      "title": "김세의와 렉카들의 공격으로 쫄딱망한 회사를 0원에서 850억매출로 만들수 있었던 이유.\"은현장의 삶\"",
+      "site": "YouTube",
+      "author": "장사의 신",
+      "thumb": "media/r-f7121a4e/link_thumbs/647a9e590f5d.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "13:34",
+          "who": "강사",
+          "text": "https://www.youtube.com/watch?v=HwmAxElR3vI"
+        }
+      ],
+      "fetched_at": "2026-10-09T05:02:43.852Z"
+    },
+    {
+      "id": "2c4b64aa5de9",
+      "url": "https://cafe.naver.com/dinohighclass/428019",
+      "kind": "cafe",
+      "title": "�����г븶�� ����Ŭ���� - ����Ŭ (��Ʃ��, AI, N��) : ���̹� ī��",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "13:31",
+          "who": "수강생",
+          "text": "48시간 500만 조회수 인증 지나가겠습니더 https://cafe.naver.com/dinohighclass/428019"
+        }
+      ],
+      "fetched_at": "2026-10-09T05:02:43.852Z"
+    },
     {
       "id": "6e3adc3cd863",
       "url": "https://www.youtube.com/watch?v=3c3C1OMCH8s",
