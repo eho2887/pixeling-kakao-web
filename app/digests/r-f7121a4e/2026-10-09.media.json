@@ -26,6 +26,18 @@
       "thumb": "media/r-f7121a4e/thumbs/437e479e7871.jpg",
       "mime": "image/png",
       "bytes": 54917
+    },
+    {
+      "id": "e40d4df57af2",
+      "kind": "file",
+      "t": "2026-10-09T13:23:00+09:00",
+      "time": "13:23",
+      "who": "수강생",
+      "text": "영상 파일, 길이 0:37. 첫 화면에 도시 전경과 풍선, '풍선을 날렸는데 도시 전체의 문제가 된 사건', 'BALLOONFEST 86' 자막.",
+      "name": "KakaoTalk_Video_[계좌].mp4",
+      "mime": "video/mp4",
+      "bytes": 8975271,
+      "remote": false
     }
   ]
 }
