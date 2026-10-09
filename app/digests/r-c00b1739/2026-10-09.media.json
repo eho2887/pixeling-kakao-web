@@ -12,6 +12,18 @@
       "text": "영상 파일, 길이 0:25. 첫 화면에 사람이 나옴(얼굴이 보여 옮기지 않음).",
       "name": "엘사드레스_모델영상_1x1_25s.mp4",
       "sensitive": true
+    },
+    {
+      "id": "980ec5b1e078",
+      "kind": "image",
+      "t": "2026-10-09T15:36:00+09:00",
+      "time": "15:36",
+      "who": "수강생",
+      "text": "Pixeling 프리셋·결과물 연결 화면 캡처. \"프리셋 엔진 상태를 확인하지 못했어요\", \"기존 프리셋 설정과 자동 연결 설정이 달라요. 기존 설정은 보존했어요.\", \"preset_existing_configuration_preserved\"가 표시됨.",
+      "file": "media/r-c00b1739/980ec5b1e078.png",
+      "thumb": "media/r-c00b1739/thumbs/980ec5b1e078.jpg",
+      "mime": "image/png",
+      "bytes": 52743
     }
   ]
 }

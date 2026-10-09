@@ -1,8 +1,32 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-10-09T06:33:16.590Z",
+  "updated_at": "2026-10-09T07:03:34.017Z",
   "items": [
+    {
+      "id": "b51c3c97ba1c",
+      "url": "https://naver.me/FJOYCJQu",
+      "kind": "web",
+      "title": "네이버 카페",
+      "site": "naver.me",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "15:47",
+          "who": "수강생",
+          "text": "https://naver.me/FJOYCJQu 챌린지 지나가용~"
+        }
+      ],
+      "fetched_at": "2026-10-09T07:03:34.017Z"
+    },
     {
       "id": "9b2682b41ed4",
       "url": "https://cafe.naver.com/dinohighclass/428109",
