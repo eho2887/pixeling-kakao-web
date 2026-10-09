@@ -1,5 +1,30 @@
 {
   "schema_version": 1,
-  "updated_at": null,
-  "rooms": []
+  "updated_at": "2026-10-09T03:33:00.299Z",
+  "rooms": [
+    {
+      "slug": "room-c00b1739",
+      "label": "쇼츠투벤츠 5기 신규반",
+      "room_id": "r-c00b1739",
+      "days": [
+        {
+          "date": "2026-10-08",
+          "title": "[쇼츠투벤츠 5기 신규반] 10/8(목) 하루 정리"
+        }
+      ],
+      "weeks": []
+    },
+    {
+      "slug": "room-f7121a4e",
+      "label": "쇼츠투벤츠 통합반",
+      "room_id": "r-f7121a4e",
+      "days": [
+        {
+          "date": "2026-10-08",
+          "title": "[쇼츠투벤츠 통합반] 10/8(목) 하루 정리"
+        }
+      ],
+      "weeks": []
+    }
+  ]
 }
