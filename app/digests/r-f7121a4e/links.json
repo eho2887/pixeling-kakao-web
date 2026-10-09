@@ -1,8 +1,186 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-10-09T05:32:54.671Z",
+  "updated_at": "2026-10-09T06:33:16.590Z",
   "items": [
+    {
+      "id": "aeffd0e4fa7d",
+      "url": "https://www.youtube.com/watch?v=lwtW5Gq5VEw",
+      "kind": "youtube",
+      "title": "사람의 본심은 이럴 때 드러난다 (칼 융의 내면수업)",
+      "site": "YouTube",
+      "author": "1분 수업",
+      "thumb": "media/r-f7121a4e/link_thumbs/aeffd0e4fa7d.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "15:23",
+          "who": "수강생",
+          "text": "선배님들 5기 질문 있습니다. https://www.youtube.com/shorts/lwtW5Gq5VEw 에서 나오는 성우 목소리를 쓰고 싶은데 아스트라가 신원미상이라네요~ 아시는분 선배님 계세요?"
+        }
+      ],
+      "fetched_at": "2026-10-09T06:33:16.590Z"
+    },
+    {
+      "id": "07b593b725f6",
+      "url": "https://cafe.naver.com/dinohighclass/428103",
+      "kind": "cafe",
+      "title": "�����г븶�� ����Ŭ���� - ����Ŭ (��Ʃ��, AI, N��) : ���̹� ī��",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "15:16",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/428103"
+        }
+      ],
+      "fetched_at": "2026-10-09T06:33:16.590Z"
+    },
+    {
+      "id": "6c97ae481179",
+      "url": "https://cafe.naver.com/dinohighclass/428085",
+      "kind": "cafe",
+      "title": "�����г븶�� ����Ŭ���� - ����Ŭ (��Ʃ��, AI, N��) : ���̹� ī��",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "14:50",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/428085"
+        }
+      ],
+      "fetched_at": "2026-10-09T06:33:16.590Z"
+    },
+    {
+      "id": "330a7896f8b8",
+      "url": "https://cafe.naver.com/dinohighclass?iframe_url_utf8=%2Fca-fe%2Fcafes%2F30819883%2Farticles%2F428058%253Fmenuid%3D241%2526boardtype%3DL%2526oldPath%3D%252FArticleRead.nhn%253Fclubid%253D30819883%2526articleid%253D428058%2526menuid%253D241%2526boardtype%253DL",
+      "kind": "cafe",
+      "title": "�����г븶�� ����Ŭ���� - ����Ŭ (��Ʃ��, AI, N��) : ���̹� ī��",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "14:48",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass?iframe_url_utf8=%2Fca-fe%2Fcafes%2F30819883%2Farticles%2F428058%253Fmenuid%3D241%2526boardtype%3DL%2526oldPath%3D%252FArticleRead.nhn%253Fclubid%253D30819883%2526articleid%253D428058%2526menuid%253D241%2526boardtype%253DL"
+        }
+      ],
+      "fetched_at": "2026-10-09T06:33:16.590Z"
+    },
+    {
+      "id": "381ced2bdc70",
+      "url": "https://cafe.naver.com/dinohighclass/428063",
+      "kind": "cafe",
+      "title": "�����г븶�� ����Ŭ���� - ����Ŭ (��Ʃ��, AI, N��) : ���̹� ī��",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "14:22",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/428063"
+        }
+      ],
+      "fetched_at": "2026-10-09T06:33:16.590Z"
+    },
+    {
+      "id": "647a9e590f5d",
+      "url": "https://www.youtube.com/watch?v=HwmAxElR3vI",
+      "kind": "youtube",
+      "title": "김세의와 렉카들의 공격으로 쫄딱망한 회사를 0원에서 850억매출로 만들수 있었던 이유.\"은현장의 삶\"",
+      "site": "YouTube",
+      "author": "장사의 신",
+      "thumb": "media/r-f7121a4e/link_thumbs/647a9e590f5d.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 2,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "14:20",
+          "who": "강사",
+          "text": "https://www.youtube.com/watch?v=HwmAxElR3vI"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "13:34",
+          "who": "강사",
+          "text": "https://www.youtube.com/watch?v=HwmAxElR3vI"
+        }
+      ],
+      "fetched_at": "2026-10-09T05:02:43.852Z"
+    },
+    {
+      "id": "0d210837c081",
+      "url": "https://cafe.naver.com/dinohighclass/428064",
+      "kind": "cafe",
+      "title": "�����г븶�� ����Ŭ���� - ����Ŭ (��Ʃ��, AI, N��) : ���̹� ī��",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "14:18",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/428064"
+        }
+      ],
+      "fetched_at": "2026-10-09T06:33:16.590Z"
+    },
     {
       "id": "9330baedf900",
       "url": "https://cafe.naver.com/dinohighclass/428059",
@@ -193,32 +371,6 @@
           "time": "13:44",
           "who": "수강생",
           "text": "https://cafe.naver.com/dinohighclass/428032"
-        }
-      ],
-      "fetched_at": "2026-10-09T05:02:43.852Z"
-    },
-    {
-      "id": "647a9e590f5d",
-      "url": "https://www.youtube.com/watch?v=HwmAxElR3vI",
-      "kind": "youtube",
-      "title": "김세의와 렉카들의 공격으로 쫄딱망한 회사를 0원에서 850억매출로 만들수 있었던 이유.\"은현장의 삶\"",
-      "site": "YouTube",
-      "author": "장사의 신",
-      "thumb": "media/r-f7121a4e/link_thumbs/647a9e590f5d.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-09",
-      "last_date": "2026-10-09",
-      "dates": [
-        "2026-10-09"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-09",
-          "time": "13:34",
-          "who": "강사",
-          "text": "https://www.youtube.com/watch?v=HwmAxElR3vI"
         }
       ],
       "fetched_at": "2026-10-09T05:02:43.852Z"

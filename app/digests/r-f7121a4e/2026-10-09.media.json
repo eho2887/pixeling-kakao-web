@@ -48,6 +48,54 @@
       "text": "영상 15.3 MB, 1:08. 실제 재생 확인: '사진 한 장만이 끝나지 않는 이유' 제목의 세로 영상. 사람 얼굴이 보여 개인정보 포함 미디어로 표시.",
       "name": "KakaoTalk_Video_[계좌].mp4",
       "sensitive": true
+    },
+    {
+      "id": "3641b9a73f82",
+      "kind": "image",
+      "t": "2026-10-09T14:18:00+09:00",
+      "time": "14:18",
+      "who": "강사",
+      "text": "대화 내용을 AI에 입력한 화면 캡처. \"이런 심리를 넣어서 새로운 대본을 만들어줄래?\" 문구와 쇼츠 제작 피드백 대화가 보임.",
+      "file": "media/r-f7121a4e/3641b9a73f82.png",
+      "thumb": "media/r-f7121a4e/thumbs/3641b9a73f82.jpg",
+      "mime": "image/png",
+      "bytes": 111328
+    },
+    {
+      "id": "ed8056f1ab66",
+      "kind": "image",
+      "t": "2026-10-09T14:19:00+09:00",
+      "time": "14:19",
+      "who": "강사",
+      "text": "영문 논문 페이지 캡처. \"Change in Rating\", \"Satisficers\", \"Maximizers\", \"Slower Peer\", \"Faster Peer\"가 표시된 막대그래프 두 개가 보임.",
+      "file": "media/r-f7121a4e/ed8056f1ab66.png",
+      "thumb": "media/r-f7121a4e/thumbs/ed8056f1ab66.jpg",
+      "mime": "image/png",
+      "bytes": 148472
+    },
+    {
+      "id": "eb997aae5a6c",
+      "kind": "image",
+      "t": "2026-10-09T14:20:00+09:00",
+      "time": "14:20",
+      "who": "강사",
+      "text": "AI 대본 생성 화면 캡처. \"새 대본 — 약 40초, 낭독 속도에 따라 조정\", \"한 장만 더 찍자.\" 그런데 왜 한 장으로 안 끝날까요?\"가 보임.",
+      "file": "media/r-f7121a4e/eb997aae5a6c.png",
+      "thumb": "media/r-f7121a4e/thumbs/eb997aae5a6c.jpg",
+      "mime": "image/png",
+      "bytes": 59303
+    },
+    {
+      "id": "c02a7fb4b799",
+      "kind": "image",
+      "t": "2026-10-09T14:23:00+09:00",
+      "time": "14:23",
+      "who": "강사",
+      "text": "AI 대본과 추가 질문을 입력한 화면 캡처. \"새 대본 — 약 40초, 낭독 속도에 따라 조정\" 제목과 녹색 질문 말풍선이 보임.",
+      "file": "media/r-f7121a4e/c02a7fb4b799.png",
+      "thumb": "media/r-f7121a4e/thumbs/c02a7fb4b799.jpg",
+      "mime": "image/png",
+      "bytes": 84866
     }
   ]
 }
