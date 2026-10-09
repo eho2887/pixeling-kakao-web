@@ -1,8 +1,130 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-10-09T05:02:43.852Z",
+  "updated_at": "2026-10-09T05:32:54.671Z",
   "items": [
+    {
+      "id": "9330baedf900",
+      "url": "https://cafe.naver.com/dinohighclass/428059",
+      "kind": "cafe",
+      "title": "�����г븶�� ����Ŭ���� - ����Ŭ (��Ʃ��, AI, N��) : ���̹� ī��",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "14:18",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/428059"
+        }
+      ],
+      "fetched_at": "2026-10-09T05:32:54.671Z"
+    },
+    {
+      "id": "56d4567d4434",
+      "url": "https://cafe.naver.com/dinohighclass/428060",
+      "kind": "cafe",
+      "title": "�����г븶�� ����Ŭ���� - ����Ŭ (��Ʃ��, AI, N��) : ���̹� ī��",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "14:17",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/428060"
+        }
+      ],
+      "fetched_at": "2026-10-09T05:32:54.671Z"
+    },
+    {
+      "id": "252b2ee6bdff",
+      "url": "https://naver.me/5Mv74OV4",
+      "kind": "web",
+      "title": "네이버 카페",
+      "site": "naver.me",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "14:11",
+          "who": "수강생",
+          "text": "https://naver.me/5Mv74OV4"
+        }
+      ],
+      "fetched_at": "2026-10-09T05:32:54.671Z"
+    },
+    {
+      "id": "2bc1d01b63c3",
+      "url": "https://www.youtube.com/watch?v=ciz5KoDTvC0",
+      "kind": "youtube",
+      "title": "When your girl ask you to take a photo😭😂 | this is crazyy!!😂 #shorts #comedycouple",
+      "site": "YouTube",
+      "author": "Ell & Darren",
+      "thumb": "media/r-f7121a4e/link_thumbs/2bc1d01b63c3.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "14:07",
+          "who": "수강생",
+          "text": "https://www.youtube.com/shorts/ciz5KoDTvC0"
+        }
+      ],
+      "fetched_at": "2026-10-09T05:32:54.671Z"
+    },
+    {
+      "id": "1ff5a9543476",
+      "url": "https://cafe.naver.com/dinohighclass/428047",
+      "kind": "cafe",
+      "title": "�����г븶�� ����Ŭ���� - ����Ŭ (��Ʃ��, AI, N��) : ���̹� ī��",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "14:05",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/428047"
+        }
+      ],
+      "fetched_at": "2026-10-09T05:32:54.671Z"
+    },
     {
       "id": "03cf9453112d",
       "url": "https://cafe.naver.com/dinohighclass/428042",

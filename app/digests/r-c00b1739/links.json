@@ -1,8 +1,80 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-10-09T05:02:43.852Z",
+  "updated_at": "2026-10-09T05:32:54.671Z",
   "items": [
+    {
+      "id": "4eebe73cff94",
+      "url": "https://cafe.naver.com/dinohighclass/428066",
+      "kind": "cafe",
+      "title": "�����г븶�� ����Ŭ���� - ����Ŭ (��Ʃ��, AI, N��) : ���̹� ī��",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "14:20",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/428066"
+        }
+      ],
+      "fetched_at": "2026-10-09T05:32:54.671Z"
+    },
+    {
+      "id": "4b026d8ca45a",
+      "url": "https://cafe.naver.com/dinohighclass/428057",
+      "kind": "cafe",
+      "title": "�����г븶�� ����Ŭ���� - ����Ŭ (��Ʃ��, AI, N��) : ���̹� ī��",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "14:12",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/428057 오늘 챌린지도 완성!"
+        }
+      ],
+      "fetched_at": "2026-10-09T05:32:54.671Z"
+    },
+    {
+      "id": "fe3c8ec2a154",
+      "url": "https://cafe.naver.com/dinohighclass/428048",
+      "kind": "cafe",
+      "title": "�����г븶�� ����Ŭ���� - ����Ŭ (��Ʃ��, AI, N��) : ���̹� ī��",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "14:06",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/428048"
+        }
+      ],
+      "fetched_at": "2026-10-09T05:32:54.671Z"
+    },
     {
       "id": "b607998ee7a5",
       "url": "https://cafe.naver.com/dinohighclass/428024",
