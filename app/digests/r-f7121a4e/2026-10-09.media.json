@@ -108,6 +108,15 @@
       "thumb": "media/r-f7121a4e/thumbs/fac1918ec64d.jpg",
       "mime": "image/jpeg",
       "bytes": 57497
+    },
+    {
+      "id": "7963bed220cd",
+      "kind": "image",
+      "t": "2026-10-09T18:25:00+09:00",
+      "time": "18:25",
+      "who": "수강생",
+      "text": "사람이 나온 사진.",
+      "sensitive": true
     }
   ]
 }
