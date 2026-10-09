@@ -1,8 +1,104 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-10-09T08:04:23.492Z",
+  "updated_at": "2026-10-09T08:34:30.005Z",
   "items": [
+    {
+      "id": "a1f0fd614c85",
+      "url": "https://m.cafe.naver.com/ca-fe/web/cafes/30819883/articles/428230?fromList=true&tc=cafe_home_all_articles",
+      "kind": "cafe",
+      "title": "네이버 카페",
+      "site": "m.cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "17:12",
+          "who": "수강생",
+          "text": "https://m.cafe.naver.com/ca-fe/web/cafes/30819883/articles/428230?fromList=true&tc=cafe_home_all_articles"
+        }
+      ],
+      "fetched_at": "2026-10-09T08:34:30.005Z"
+    },
+    {
+      "id": "1bd5fb0cb853",
+      "url": "https://cafe.naver.com/dinohighclass?iframe_url_utf8=%2Fca-fe%2Fcafes%2F30819883%2Farticles%2F428227%253Fmenuid%3D241%2526boardtype%3DL%2526oldPath%3D%252FArticleRead.nhn%253Fclubid%253D30819883%2526articleid%253D428227%2526menuid%253D241%2526boardtype%253DL",
+      "kind": "cafe",
+      "title": "�����г븶�� ����Ŭ���� - ����Ŭ (��Ʃ��, AI, N��) : ���̹� ī��",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "17:07",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass?iframe_url_utf8=%2Fca-fe%2Fcafes%2F30819883%2Farticles%2F428227%253Fmenuid%3D241%2526boardtype%3DL%2526oldPath%3D%252FArticleRead.nhn%253Fclubid%253D30819883%2526articleid%253D428227%2526menuid%253D241%2526boardtype%253DL"
+        }
+      ],
+      "fetched_at": "2026-10-09T08:34:30.005Z"
+    },
+    {
+      "id": "1170adff03ce",
+      "url": "https://cafe.naver.com/dinohighclass/428177",
+      "kind": "cafe",
+      "title": "�����г븶�� ����Ŭ���� - ����Ŭ (��Ʃ��, AI, N��) : ���̹� ī��",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "17:06",
+          "who": "수강생",
+          "text": "[쇼츠투벤츠 1~5기] 도롱이 9월 수익인증 3,315만원, 보는 눈 키우고 AI는 한발 먼저 https://cafe.naver.com/dinohighclass/428177"
+        }
+      ],
+      "fetched_at": "2026-10-09T08:34:30.005Z"
+    },
+    {
+      "id": "c98fefb480d7",
+      "url": "https://cafe.naver.com/dinohighclass/428161",
+      "kind": "cafe",
+      "title": "�����г븶�� ����Ŭ���� - ����Ŭ (��Ʃ��, AI, N��) : ���̹� ī��",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "17:05",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/428161 쇼츠투벤츠 5기 10만 조회수 달성"
+        }
+      ],
+      "fetched_at": "2026-10-09T08:34:30.005Z"
+    },
     {
       "id": "a9f3cae7017d",
       "url": "https://cafe.naver.com/dinohighclass/423192",
