@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "room_id": "r-c00b1739",
+  "date": "2026-10-10",
+  "items": [
+    {
+      "id": "dbb44311ac53",
+      "kind": "image",
+      "t": "2026-10-10T00:06:00+09:00",
+      "time": "00:06",
+      "who": "수강생",
+      "text": "픽셀링 AI 입력 화면 캡처. 모델 'GPT-6.1 Sol 울트라 (Ultra)'와 '모두 허용', '컴퓨터 사용', '예약' 표시가 보이며, 빨간 오류 안내에 '처리하지 못했어요. 연결과 영상 파일을 확인하고 다시 시도해 주세요.'라고 적혀 있음.",
+      "file": "media/r-c00b1739/dbb44311ac53.png",
+      "thumb": "media/r-c00b1739/thumbs/dbb44311ac53.jpg",
+      "mime": "image/png",
+      "bytes": 17438
+    }
+  ]
+}
