@@ -1,8 +1,127 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-10-09T08:34:30.005Z",
+  "updated_at": "2026-10-09T09:10:05.651Z",
   "items": [
+    {
+      "id": "53d9f80fb2ec",
+      "url": "https://cafe.naver.com/dinohighclass/428292",
+      "kind": "cafe",
+      "title": "�����г븶�� ����Ŭ���� - ����Ŭ (��Ʃ��, AI, N��) : ���̹� ī��",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "17:58",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/428292"
+        }
+      ],
+      "fetched_at": "2026-10-09T09:10:05.651Z"
+    },
+    {
+      "id": "ecad2ef560a4",
+      "url": "https://cafe.naver.com/dinohighclass/428294",
+      "kind": "cafe",
+      "title": "�����г븶�� ����Ŭ���� - ����Ŭ (��Ʃ��, AI, N��) : ���̹� ī��",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "17:56",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/428294"
+        }
+      ],
+      "fetched_at": "2026-10-09T09:10:05.651Z"
+    },
+    {
+      "id": "6c90b886c153",
+      "url": "https://cafe.naver.com/dinohighclass/428290",
+      "kind": "cafe",
+      "title": "�����г븶�� ����Ŭ���� - ����Ŭ (��Ʃ��, AI, N��) : ���̹� ī��",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "17:55",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/428290"
+        }
+      ],
+      "fetched_at": "2026-10-09T09:10:05.651Z"
+    },
+    {
+      "id": "1a39c16f4370",
+      "url": "https://cafe.naver.com/dinohighclass/428280",
+      "kind": "cafe",
+      "title": "�����г븶�� ����Ŭ���� - ����Ŭ (��Ʃ��, AI, N��) : ���̹� ī��",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "17:47",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/428280"
+        }
+      ],
+      "fetched_at": "2026-10-09T09:10:05.651Z"
+    },
+    {
+      "id": "c093211774d2",
+      "url": "https://www.youtube.com/@%EC%88%98%EC%95%84%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4",
+      "kind": "youtube",
+      "site": "youtube.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-09",
+          "time": "17:19",
+          "who": "수강생",
+          "text": "https://www.youtube.com/@%EC%88%98%EC%95%84%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4"
+        }
+      ],
+      "fetched_at": "2026-10-09T09:10:05.651Z"
+    },
     {
       "id": "a1f0fd614c85",
       "url": "https://m.cafe.naver.com/ca-fe/web/cafes/30819883/articles/428230?fromList=true&tc=cafe_home_all_articles",
