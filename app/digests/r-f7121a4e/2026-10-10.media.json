@@ -83,6 +83,16 @@
       "thumb": "media/r-f7121a4e/thumbs/6cd6a207fbb8.jpg",
       "mime": "image/png",
       "bytes": 15852
+    },
+    {
+      "id": "f0894f778e9d",
+      "kind": "file",
+      "t": "2026-10-10T22:07:00+09:00",
+      "time": "22:07",
+      "who": "수강생",
+      "text": "영상 파일, 길이 0:04. 첫 화면에 \"계정\" 설정 화면이 표시되어 있음(계정 정보가 보여 옮기지 않음).",
+      "name": "KakaoTalk_Video_[계좌]",
+      "sensitive": true
     }
   ]
 }
