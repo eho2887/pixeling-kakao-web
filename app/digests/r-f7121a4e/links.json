@@ -1,8 +1,80 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-10-10T06:39:29.281Z",
+  "updated_at": "2026-10-10T07:10:47.075Z",
   "items": [
+    {
+      "id": "228fb5c3c155",
+      "url": "https://cafe.naver.com/dinohighclass/429616",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-10",
+      "last_date": "2026-10-10",
+      "dates": [
+        "2026-10-10"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-10",
+          "time": "15:54",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/429616"
+        }
+      ],
+      "fetched_at": "2026-10-10T07:10:47.075Z"
+    },
+    {
+      "id": "bb21636dd3a5",
+      "url": "https://cafe.naver.com/dinohighclass/429615",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-10",
+      "last_date": "2026-10-10",
+      "dates": [
+        "2026-10-10"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-10",
+          "time": "15:52",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/429615"
+        }
+      ],
+      "fetched_at": "2026-10-10T07:10:47.075Z"
+    },
+    {
+      "id": "ef588d850324",
+      "url": "https://cafe.naver.com/dinohighclass/429516",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-10",
+      "last_date": "2026-10-10",
+      "dates": [
+        "2026-10-10"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-10",
+          "time": "15:45",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/429516"
+        }
+      ],
+      "fetched_at": "2026-10-10T07:10:47.075Z"
+    },
     {
       "id": "d4d2473cb9d8",
       "url": "https://cafe.naver.com/dinohighclass/429584",
