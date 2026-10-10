@@ -14,6 +14,15 @@
       "thumb": "media/r-c00b1739/thumbs/dbb44311ac53.jpg",
       "mime": "image/png",
       "bytes": 17438
+    },
+    {
+      "id": "86177d95dbcb",
+      "kind": "image",
+      "t": "2026-10-10T15:11:00+09:00",
+      "time": "15:11",
+      "who": "수강생",
+      "text": "강의 정리본 및 구글 스프레드 자료 링크 화면 캡처(이름이 보여 옮기지 않음). \"쇼츠투벤츠 5기 정규강의 1강 정리본\" 및 HTML 파일 목록 표시.",
+      "sensitive": true
     }
   ]
 }
