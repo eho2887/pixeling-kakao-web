@@ -47,6 +47,42 @@
       "thumb": "media/r-f7121a4e/thumbs/a3a1113c5e2a.jpg",
       "mime": "image/jpeg",
       "bytes": 14016
+    },
+    {
+      "id": "270d276821ec",
+      "kind": "image",
+      "t": "2026-10-10T19:47:00+09:00",
+      "time": "19:47",
+      "who": "수강생",
+      "text": "오류 문구 캡처. \"stream disconnected before completion: An error occurred while processing your request.\"와 \"help.openai.com\"이 표시되어 있음.",
+      "file": "media/r-f7121a4e/270d276821ec.jpg",
+      "thumb": "media/r-f7121a4e/thumbs/270d276821ec.jpg",
+      "mime": "image/jpeg",
+      "bytes": 446136
+    },
+    {
+      "id": "5562eba9e361",
+      "kind": "image",
+      "t": "2026-10-10T20:40:00+09:00",
+      "time": "20:40",
+      "who": "강사",
+      "text": "다운로드 자료 목록 캡처. \"기타 도움되는 자료\", \"Sort Instagram™ Reels & TikTok™ - Chrome 웹 스토어\", \"IG Sorter - Sort Feed - works on Instagram™ US - Chrome Web ...\"가 표시되어 있으며 앞의 두 항목에 표시가 있음.",
+      "file": "media/r-f7121a4e/5562eba9e361.png",
+      "thumb": "media/r-f7121a4e/thumbs/5562eba9e361.jpg",
+      "mime": "image/png",
+      "bytes": 99131
+    },
+    {
+      "id": "6cd6a207fbb8",
+      "kind": "image",
+      "t": "2026-10-10T20:49:00+09:00",
+      "time": "20:49",
+      "who": "수강생",
+      "text": "유튜브 스튜디오 Shorts 동영상 탭 화면 캡처. \"Shorts 동영상\" 제목과 조회수·댓글·좋아요 등의 표 머리글이 보이며 목록은 비어 있음.",
+      "file": "media/r-f7121a4e/6cd6a207fbb8.png",
+      "thumb": "media/r-f7121a4e/thumbs/6cd6a207fbb8.jpg",
+      "mime": "image/png",
+      "bytes": 15852
     }
   ]
 }
