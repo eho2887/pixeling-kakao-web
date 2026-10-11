@@ -53,6 +53,18 @@
       "mime": "video/mp4",
       "bytes": 4637262,
       "remote": false
+    },
+    {
+      "id": "0d9f4b7c3b39",
+      "kind": "image",
+      "t": "2026-10-11T20:06:00+09:00",
+      "time": "20:06",
+      "who": "수강생",
+      "text": "작업 목록 화면 캡처. '08:05 · 5개 · 추출 중', '09:43 · 6개 · 끝남', '09:38 · 6개 · 끝남' 표시(일부 잘림).",
+      "file": "media/r-f7121a4e/0d9f4b7c3b39.png",
+      "thumb": "media/r-f7121a4e/thumbs/0d9f4b7c3b39.jpg",
+      "mime": "image/png",
+      "bytes": 4817
     }
   ]
 }

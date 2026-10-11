@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "room_id": "r-c00b1739",
+  "date": "2026-10-11",
+  "items": [
+    {
+      "id": "817419f719dd",
+      "kind": "image",
+      "t": "2026-10-11T20:16:00+09:00",
+      "time": "20:16",
+      "who": "수강생",
+      "text": "이 채팅의 AI 설정 화면 캡처. 'GPT-6.1 Sol' 선택, '최대 (Max)', '빠른 모드' 켜짐.",
+      "file": "media/r-c00b1739/817419f719dd.png",
+      "thumb": "media/r-c00b1739/thumbs/817419f719dd.jpg",
+      "mime": "image/png",
+      "bytes": 28738
+    },
+    {
+      "id": "939e594fff79",
+      "kind": "image",
+      "t": "2026-10-11T21:18:00+09:00",
+      "time": "21:18",
+      "who": "수강생",
+      "text": "NAVER 카페 접근 안내 화면 캡처. '접속하신 카페는 카페 멤버만 들어가실 수 있습니다.', '회원님은 이 카페의 멤버가 아닙니다.', '카페홈 바로가기' 표시.",
+      "file": "media/r-c00b1739/939e594fff79.png",
+      "thumb": "media/r-c00b1739/thumbs/939e594fff79.jpg",
+      "mime": "image/png",
+      "bytes": 9980
+    }
+  ]
+}

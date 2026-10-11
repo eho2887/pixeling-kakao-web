@@ -1,8 +1,248 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-10-11T12:04:01.269Z",
+  "updated_at": "2026-10-11T12:34:58.493Z",
   "items": [
+    {
+      "id": "7a31711f7a92",
+      "url": "https://cafe.naver.com/dinohighclass/431528",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-11",
+      "last_date": "2026-10-11",
+      "dates": [
+        "2026-10-11"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-11",
+          "time": "21:25",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/431528"
+        }
+      ],
+      "fetched_at": "2026-10-11T12:34:58.493Z"
+    },
+    {
+      "id": "f58ae5a9c3b6",
+      "url": "https://m.cafe.naver.com/ca-fe/web/cafes/30819883/articles/431520?tc=cafe_search_result",
+      "kind": "cafe",
+      "title": "네이버 카페",
+      "site": "m.cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-11",
+      "last_date": "2026-10-11",
+      "dates": [
+        "2026-10-11"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-11",
+          "time": "21:24",
+          "who": "수강생",
+          "text": "https://m.cafe.naver.com/ca-fe/web/cafes/30819883/articles/431520?tc=cafe_search_result"
+        }
+      ],
+      "fetched_at": "2026-10-11T12:34:58.493Z"
+    },
+    {
+      "id": "867a505198fb",
+      "url": "https://cafe.naver.com/dinohighclass?iframe_url_utf8=%2Fca-fe%2Fcafes%2F30819883%2Farticles%2F431509%253Fmenuid%3D241%2526boardtype%3DL%2526oldPath%3D%252FArticleRead.nhn%253Fclubid%253D30819883%2526articleid%253D431509%2526menuid%253D241%2526boardtype%253DL",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-11",
+      "last_date": "2026-10-11",
+      "dates": [
+        "2026-10-11"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-11",
+          "time": "21:14",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass?iframe_url_utf8=%2Fca-fe%2Fcafes%2F30819883%2Farticles%2F431509%253Fmenuid%3D241%2526boardtype%3DL%2526oldPath%3D%252FArticleRead.nhn%253Fclubid%253D30819883%2526articleid%253D431509%2526menuid%253D241%2526boardtype%253DL"
+        }
+      ],
+      "fetched_at": "2026-10-11T12:34:58.493Z"
+    },
+    {
+      "id": "0b61968b4f42",
+      "url": "https://cafe.naver.com/dinohighclass/431504",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-11",
+      "last_date": "2026-10-11",
+      "dates": [
+        "2026-10-11"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-11",
+          "time": "21:13",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/431504"
+        }
+      ],
+      "fetched_at": "2026-10-11T12:34:58.493Z"
+    },
+    {
+      "id": "034ef1105973",
+      "url": "https://cafe.naver.com/dinohighclass/431500",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-11",
+      "last_date": "2026-10-11",
+      "dates": [
+        "2026-10-11"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-11",
+          "time": "21:12",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/431500"
+        }
+      ],
+      "fetched_at": "2026-10-11T12:34:58.493Z"
+    },
+    {
+      "id": "da4facce83d2",
+      "url": "https://cafe.naver.com/dinohighclass/431489",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-11",
+      "last_date": "2026-10-11",
+      "dates": [
+        "2026-10-11"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-11",
+          "time": "21:10",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/431489 기분 탓인지 오늘 GPT 리셋 때문인지, 패스트 모드를 써도 평소보다 결과물이 늦게 나와서 진이 빠지네요ㅠㅠ 다들 파이팅입니다!"
+        }
+      ],
+      "fetched_at": "2026-10-11T12:34:58.493Z"
+    },
+    {
+      "id": "6d8158ce088a",
+      "url": "https://cafe.naver.com/dinohighclass/431487",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-11",
+      "last_date": "2026-10-11",
+      "dates": [
+        "2026-10-11"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-11",
+          "time": "21:07",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/431487"
+        }
+      ],
+      "fetched_at": "2026-10-11T12:34:58.493Z"
+    },
+    {
+      "id": "d873e1dfde6f",
+      "url": "https://cafe.naver.com/dinohighclass/431478",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-11",
+      "last_date": "2026-10-11",
+      "dates": [
+        "2026-10-11"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-11",
+          "time": "21:06",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/431478"
+        }
+      ],
+      "fetched_at": "2026-10-11T12:34:58.493Z"
+    },
+    {
+      "id": "d887c09ae29b",
+      "url": "https://cafe.naver.com/dinohighclass/431483",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-11",
+      "last_date": "2026-10-11",
+      "dates": [
+        "2026-10-11"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-11",
+          "time": "21:06",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/431483"
+        }
+      ],
+      "fetched_at": "2026-10-11T12:34:58.493Z"
+    },
+    {
+      "id": "7eb96d47ebf8",
+      "url": "https://cafe.naver.com/dinohighclass/431476",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-11",
+      "last_date": "2026-10-11",
+      "dates": [
+        "2026-10-11"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-11",
+          "time": "21:03",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/431476"
+        }
+      ],
+      "fetched_at": "2026-10-11T12:34:58.493Z"
+    },
     {
       "id": "762235dbefe8",
       "url": "https://cafe.naver.com/dinohighclass/431448",
@@ -76,6 +316,54 @@
       "fetched_at": "2026-10-11T12:04:01.269Z"
     },
     {
+      "id": "3066cdea64d9",
+      "url": "https://naver.me/xLNnHGvz",
+      "kind": "web",
+      "title": "네이버 카페",
+      "site": "naver.me",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-11",
+      "last_date": "2026-10-11",
+      "dates": [
+        "2026-10-11"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-11",
+          "time": "20:40",
+          "who": "수강생",
+          "text": "https://naver.me/xLNnHGvz"
+        }
+      ],
+      "fetched_at": "2026-10-11T12:34:58.493Z"
+    },
+    {
+      "id": "3561b09f69b3",
+      "url": "https://cafe.naver.com/dinohighclass/431434",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-11",
+      "last_date": "2026-10-11",
+      "dates": [
+        "2026-10-11"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-11",
+          "time": "20:39",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/431434"
+        }
+      ],
+      "fetched_at": "2026-10-11T12:34:58.493Z"
+    },
+    {
       "id": "7ac7e79fa6d4",
       "url": "https://cafe.naver.com/dinohighclass/431427",
       "kind": "cafe",
@@ -122,6 +410,30 @@
         }
       ],
       "fetched_at": "2026-10-11T12:04:01.269Z"
+    },
+    {
+      "id": "af4b763f987f",
+      "url": "https://cafe.naver.com/dinohighclass/431424",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-11",
+      "last_date": "2026-10-11",
+      "dates": [
+        "2026-10-11"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-11",
+          "time": "20:35",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/431424"
+        }
+      ],
+      "fetched_at": "2026-10-11T12:34:58.493Z"
     },
     {
       "id": "397edc23799f",
@@ -196,6 +508,30 @@
       "fetched_at": "2026-10-11T12:04:01.269Z"
     },
     {
+      "id": "94629e3f80a2",
+      "url": "https://cafe.naver.com/dinohighclass/431362",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-11",
+      "last_date": "2026-10-11",
+      "dates": [
+        "2026-10-11"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-11",
+          "time": "20:05",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/431362"
+        }
+      ],
+      "fetched_at": "2026-10-11T12:34:58.493Z"
+    },
+    {
       "id": "caa845735496",
       "url": "https://cafe.naver.com/dinohighclass/431360",
       "kind": "cafe",
@@ -268,6 +604,30 @@
       "fetched_at": "2026-10-11T12:04:01.269Z"
     },
     {
+      "id": "cd792c3d6d73",
+      "url": "https://cafe.naver.com/dinohighclass/431337",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-11",
+      "last_date": "2026-10-11",
+      "dates": [
+        "2026-10-11"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-11",
+          "time": "19:54",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/431337"
+        }
+      ],
+      "fetched_at": "2026-10-11T12:34:58.493Z"
+    },
+    {
       "id": "f9f1edfdfd06",
       "url": "https://cafe.naver.com/dinohighclass/431325",
       "kind": "cafe",
@@ -338,6 +698,78 @@
         }
       ],
       "fetched_at": "2026-10-11T12:04:01.269Z"
+    },
+    {
+      "id": "8d683544957e",
+      "url": "https://cafe.naver.com/dinohighclass/431308",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-11",
+      "last_date": "2026-10-11",
+      "dates": [
+        "2026-10-11"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-11",
+          "time": "19:45",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/431308"
+        }
+      ],
+      "fetched_at": "2026-10-11T12:34:58.493Z"
+    },
+    {
+      "id": "1f2c9f90bcb7",
+      "url": "https://cafe.naver.com/dinohighclass/431305",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-11",
+      "last_date": "2026-10-11",
+      "dates": [
+        "2026-10-11"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-11",
+          "time": "19:44",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/431305"
+        }
+      ],
+      "fetched_at": "2026-10-11T12:34:58.493Z"
+    },
+    {
+      "id": "0e8403138219",
+      "url": "https://cafe.naver.com/dinohighclass/431091",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-11",
+      "last_date": "2026-10-11",
+      "dates": [
+        "2026-10-11"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-11",
+          "time": "19:42",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/431091"
+        }
+      ],
+      "fetched_at": "2026-10-11T12:34:58.493Z"
     },
     {
       "id": "9cf43d989a55",
