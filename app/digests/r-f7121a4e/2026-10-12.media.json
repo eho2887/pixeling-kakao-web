@@ -44,6 +44,18 @@
       "thumb": "media/r-f7121a4e/thumbs/43636ab2f28e.jpg",
       "mime": "image/png",
       "bytes": 5428
+    },
+    {
+      "id": "9b36097e3c5d",
+      "kind": "image",
+      "t": "2026-10-12T11:01:00+09:00",
+      "time": "11:01",
+      "who": "수강생",
+      "text": "오류 메시지 화면. \"Error running remote compact task: stream disconnected before completion: An error occurred while processing your request. You can retry your request, or contact us through our help center\" 문구가 보임.",
+      "file": "media/r-f7121a4e/9b36097e3c5d.png",
+      "thumb": "media/r-f7121a4e/thumbs/9b36097e3c5d.jpg",
+      "mime": "image/png",
+      "bytes": 14268
     }
   ]
 }
