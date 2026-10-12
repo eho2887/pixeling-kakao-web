@@ -56,6 +56,30 @@
       "thumb": "media/r-f7121a4e/thumbs/9b36097e3c5d.jpg",
       "mime": "image/png",
       "bytes": 14268
+    },
+    {
+      "id": "cb5f0e0dee1c",
+      "kind": "image",
+      "t": "2026-10-12T11:51:00+09:00",
+      "time": "11:51",
+      "who": "수강생",
+      "text": "YouTube 수익 창출 단계 화면 캡처. \"1단계 완료 / 기본 약관 검토\", \"2단계 시작 전 / YouTube용 애드센스 가입\", \"3단계 시작 전 / 검토\"가 표시되어 있음.",
+      "file": "media/r-f7121a4e/cb5f0e0dee1c.png",
+      "thumb": "media/r-f7121a4e/thumbs/cb5f0e0dee1c.jpg",
+      "mime": "image/png",
+      "bytes": 253276
+    },
+    {
+      "id": "1bbcae286fed",
+      "kind": "image",
+      "t": "2026-10-12T13:54:00+09:00",
+      "time": "13:54",
+      "who": "수강생",
+      "text": "플랜 업그레이드 화면 캡처. \"Go\", \"Plus\", \"Pro\" 및 \"₩13,000\", \"₩29,000\", \"₩159,000\"가 표시되어 있음.",
+      "file": "media/r-f7121a4e/1bbcae286fed.png",
+      "thumb": "media/r-f7121a4e/thumbs/1bbcae286fed.jpg",
+      "mime": "image/png",
+      "bytes": 74766
     }
   ]
 }
