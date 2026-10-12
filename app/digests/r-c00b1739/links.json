@@ -1,8 +1,132 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-10-12T06:37:22.068Z",
+  "updated_at": "2026-10-12T07:13:48.423Z",
   "items": [
+    {
+      "id": "070db043d621",
+      "url": "https://www.youtube.com/watch?v=wRnynmZ7fbs",
+      "kind": "youtube",
+      "title": "의사가 만들어 떼돈 번 제품 정체",
+      "site": "YouTube",
+      "author": "숏핑",
+      "thumb": "media/r-c00b1739/link_thumbs/070db043d621.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-12",
+      "last_date": "2026-10-12",
+      "dates": [
+        "2026-10-12"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-12",
+          "time": "16:00",
+          "who": "수강생",
+          "text": "여러분 혼담구란 무엇일까요? 1. https://youtube.com/shorts/bMhPDeHPIws ->(인물) 파인다이밍 쉐프 + 메추리알 요리 (상황) 2. https://www.youtube.com/shorts/wRnynmZ7fbs -> (인물) 의사 + 파고드는 발톱 (상황) 이제 쇼츠볼때 혼담구를 찾아보세요!"
+        }
+      ],
+      "fetched_at": "2026-10-12T07:13:48.423Z"
+    },
+    {
+      "id": "7d88938ae9ff",
+      "url": "https://www.youtube.com/watch?v=bMhPDeHPIws",
+      "kind": "youtube",
+      "title": "파인 다이닝 셰프가 해주는 메추리알 요리",
+      "site": "YouTube",
+      "author": "웃참 금지구역",
+      "thumb": "media/r-c00b1739/link_thumbs/7d88938ae9ff.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-12",
+      "last_date": "2026-10-12",
+      "dates": [
+        "2026-10-12"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-12",
+          "time": "16:00",
+          "who": "수강생",
+          "text": "여러분 혼담구란 무엇일까요? 1. https://youtube.com/shorts/bMhPDeHPIws ->(인물) 파인다이밍 쉐프 + 메추리알 요리 (상황) 2. https://www.youtube.com/shorts/wRnynmZ7fbs -> (인물) 의사 + 파고드는 발톱 (상황) 이제 쇼츠볼때 혼담구를 찾아보세요!"
+        }
+      ],
+      "fetched_at": "2026-10-12T07:13:48.423Z"
+    },
+    {
+      "id": "22cbd46d4545",
+      "url": "https://cafe.naver.com/dinohighclass/432826",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-12",
+      "last_date": "2026-10-12",
+      "dates": [
+        "2026-10-12"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-12",
+          "time": "15:57",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/432826"
+        }
+      ],
+      "fetched_at": "2026-10-12T07:13:48.423Z"
+    },
+    {
+      "id": "1caecf642d4b",
+      "url": "https://cafe.naver.com/f-e/cafes/30819883/articles/432824?menuid=246&referrerAllArticles=false",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-12",
+      "last_date": "2026-10-12",
+      "dates": [
+        "2026-10-12"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-12",
+          "time": "15:56",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/f-e/cafes/30819883/articles/432824?menuid=246&referrerAllArticles=false"
+        }
+      ],
+      "fetched_at": "2026-10-12T07:13:48.423Z"
+    },
+    {
+      "id": "416845f48c23",
+      "url": "https://cafe.naver.com/dinohighclass/432818",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-12",
+      "last_date": "2026-10-12",
+      "dates": [
+        "2026-10-12"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-12",
+          "time": "15:52",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/432818"
+        }
+      ],
+      "fetched_at": "2026-10-12T07:13:48.423Z"
+    },
     {
       "id": "37388d3b8e53",
       "url": "https://cafe.naver.com/dinohighclass/432762",
