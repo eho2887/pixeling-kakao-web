@@ -80,6 +80,15 @@
       "thumb": "media/r-f7121a4e/thumbs/1bbcae286fed.jpg",
       "mime": "image/png",
       "bytes": 74766
+    },
+    {
+      "id": "3627e7786b74",
+      "kind": "image",
+      "t": "2026-10-12T14:15:00+09:00",
+      "time": "14:15",
+      "who": "수강생",
+      "text": "픽셀링 오류 안내 화면 캡처. \"Error running remote compact task: stream disconnected before completion\" 문구가 표시되어 있음(요청 식별자는 옮기지 않음).",
+      "sensitive": true
     }
   ]
 }
