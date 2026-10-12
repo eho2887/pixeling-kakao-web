@@ -158,6 +158,24 @@
       "thumb": "media/r-f7121a4e/thumbs/9fb19a3051fe.jpg",
       "mime": "image/png",
       "bytes": 6415
+    },
+    {
+      "id": "4cd3bffaec08",
+      "kind": "image",
+      "t": "2026-10-12T21:08:00+09:00",
+      "time": "21:08",
+      "who": "수강생",
+      "text": "플랜 업그레이드 화면. \"Pro\", \"더 넉넉한 사용 한도\", \"JPY 30,000\" 표시. 하단에 대화 작성자와 날짜가 보여 옮기지 않음.",
+      "sensitive": true
+    },
+    {
+      "id": "45de266b3ac0",
+      "kind": "image",
+      "t": "2026-10-12T21:25:00+09:00",
+      "time": "21:25",
+      "who": "수강생",
+      "text": "ChatGPT 오류 화면 캡처. \"stream disconnected before completion: An error occurred while processing your request. You can retry your request, or contact us through our help center at help.openai.com if the error persists.\" 오류 두 건. 요청 식별자가 보여 옮기지 않음.",
+      "sensitive": true
     }
   ]
 }
