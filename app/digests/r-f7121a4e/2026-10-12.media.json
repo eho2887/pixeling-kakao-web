@@ -89,6 +89,75 @@
       "who": "수강생",
       "text": "픽셀링 오류 안내 화면 캡처. \"Error running remote compact task: stream disconnected before completion\" 문구가 표시되어 있음(요청 식별자는 옮기지 않음).",
       "sensitive": true
+    },
+    {
+      "id": "a3e02fd0388e",
+      "kind": "image",
+      "t": "2026-10-12T18:53:00+09:00",
+      "time": "18:53",
+      "who": "수강생",
+      "text": "YouTube에서의 수익 창출 화면. 멤버십·Supers·Shopping, 신청 전 2단계 인증 설정, 자격요건 구독자 106명/500명, 동영상 업로드 3개/3개, 유효 시청 시간 3,264시간/3,000시간이 표시됨.",
+      "file": "media/r-f7121a4e/a3e02fd0388e.png",
+      "thumb": "media/r-f7121a4e/thumbs/a3e02fd0388e.jpg",
+      "mime": "image/png",
+      "bytes": 135672
+    },
+    {
+      "id": "6a690248a9ac",
+      "kind": "image",
+      "t": "2026-10-12T18:55:00+09:00",
+      "time": "18:55",
+      "who": "수강생",
+      "text": "2단계 인증 사용 안내. Google 보안 페이지로 이동하고 완료 후 YouTube로 돌아오는 안내 및 나중에·계속 버튼 표시.",
+      "file": "media/r-f7121a4e/6a690248a9ac.png",
+      "thumb": "media/r-f7121a4e/thumbs/6a690248a9ac.jpg",
+      "mime": "image/png",
+      "bytes": 29726
+    },
+    {
+      "id": "f6bc6f7370d4",
+      "kind": "image",
+      "t": "2026-10-12T18:55:00+09:00",
+      "time": "18:55",
+      "who": "수강생",
+      "text": "2단계 인증 사용 안내 화면에서 계속 버튼을 빨간 테두리로 강조한 사진.",
+      "file": "media/r-f7121a4e/f6bc6f7370d4.png",
+      "thumb": "media/r-f7121a4e/thumbs/f6bc6f7370d4.jpg",
+      "mime": "image/png",
+      "bytes": 49184
+    },
+    {
+      "id": "56e7e43cceb6",
+      "kind": "image",
+      "t": "2026-10-12T18:55:00+09:00",
+      "time": "18:55",
+      "who": "수강생",
+      "text": "본인 인증을 위한 빈 비밀번호 입력 화면. 비밀번호 표시 체크박스, 비밀번호 찾기 및 다음 버튼 표시.",
+      "file": "media/r-f7121a4e/56e7e43cceb6.png",
+      "thumb": "media/r-f7121a4e/thumbs/56e7e43cceb6.jpg",
+      "mime": "image/png",
+      "bytes": 20972
+    },
+    {
+      "id": "e3e18fdec871",
+      "kind": "image",
+      "t": "2026-10-12T18:56:00+09:00",
+      "time": "18:56",
+      "who": "수강생",
+      "text": "Google 본인 인증을 할 수 없습니다 안내 화면. 계정 식별 영역이 보여 상세 값을 옮기지 않음.",
+      "sensitive": true
+    },
+    {
+      "id": "9fb19a3051fe",
+      "kind": "image",
+      "t": "2026-10-12T19:22:00+09:00",
+      "time": "19:22",
+      "who": "수강생",
+      "text": "채널 위반사항 화면. 현재 유효한 저작권 위반 경고 3회 중 1회가 표시됨.",
+      "file": "media/r-f7121a4e/9fb19a3051fe.png",
+      "thumb": "media/r-f7121a4e/thumbs/9fb19a3051fe.jpg",
+      "mime": "image/png",
+      "bytes": 6415
     }
   ]
 }
