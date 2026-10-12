@@ -32,6 +32,18 @@
       "thumb": "media/r-f7121a4e/thumbs/ee197e4d3e77.jpg",
       "mime": "image/png",
       "bytes": 24174
+    },
+    {
+      "id": "43636ab2f28e",
+      "kind": "image",
+      "t": "2026-10-12T10:05:00+09:00",
+      "time": "10:05",
+      "who": "수강생",
+      "text": "픽셀링 Cloud 동기화 설정 화면. \"Cloud 동기화됨 자동\" 문구와 켜진 토글, \"백업\", \"복원\", \"동기화\" 버튼이 보이며 자동 토글 영역을 빨간 사각형으로 강조함.",
+      "file": "media/r-f7121a4e/43636ab2f28e.png",
+      "thumb": "media/r-f7121a4e/thumbs/43636ab2f28e.jpg",
+      "mime": "image/png",
+      "bytes": 5428
     }
   ]
 }
