@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "room_id": "r-c00b1739",
+  "date": "2026-10-12",
+  "items": [
+    {
+      "id": "95ef0ebbbabd",
+      "kind": "image",
+      "t": "2026-10-12T00:43:00+09:00",
+      "time": "00:43",
+      "who": "강사",
+      "text": "유튜브 쇼츠 영상과 댓글 목록을 함께 찍은 화면 캡처. 영상에 \"사람이 가진 병보다 사람을 먼저 치료한 의사\"가 보이고 댓글 일부가 빨간 타원으로 표시되어 있음. 사람이 나온 사진.",
+      "sensitive": true
+    },
+    {
+      "id": "14de2b70045b",
+      "kind": "image",
+      "t": "2026-10-12T02:08:00+09:00",
+      "time": "02:08",
+      "who": "수강생",
+      "text": "앱 요청 오류 화면 캡처. 'stream disconnected before completion: An error occurred while processing your request. You can retry your request, or contact us through our help center at help.openai.com if the error persists. Please include the request ID c79bcf44-d5f6-4f63-a63e-cdc3c32bd4a7 in your message.'가 표시됨.",
+      "file": "media/r-c00b1739/14de2b70045b.png",
+      "thumb": "media/r-c00b1739/thumbs/14de2b70045b.jpg",
+      "mime": "image/png",
+      "bytes": 19090
+    },
+    {
+      "id": "3906deb7f7db",
+      "kind": "image",
+      "t": "2026-10-12T06:56:00+09:00",
+      "time": "06:56",
+      "who": "수강생",
+      "text": "① Pixeling desktop 왼쪽 메뉴 화면 캡처. '결과물', '프리셋', '디스커버리', '예약', '모든 도구', 'OpenAI', 'Gemini'가 보임. ② 계정 사용량 화면 캡처(계정 정보가 보여 옮기지 않음). 외 1장",
+      "sensitive": true
+    },
+    {
+      "id": "a83524d8b264",
+      "kind": "image",
+      "t": "2026-10-12T08:04:00+09:00",
+      "time": "08:04",
+      "who": "수강생",
+      "text": "YouTube Studio 왼쪽 메뉴 화면 캡처. 글자를 읽을 수 없는 사진.",
+      "file": "media/r-c00b1739/a83524d8b264.png",
+      "thumb": "media/r-c00b1739/thumbs/a83524d8b264.jpg",
+      "mime": "image/png",
+      "bytes": 80003
+    },
+    {
+      "id": "833c4b99db3b",
+      "kind": "image",
+      "t": "2026-10-12T08:09:00+09:00",
+      "time": "08:09",
+      "who": "수강생",
+      "text": "어두운 앱 설정 화면 캡처. 가운데 설정 창에서 드롭다운 목록이 열려 있음. 글자를 읽을 수 없는 사진.",
+      "file": "media/r-c00b1739/833c4b99db3b.png",
+      "thumb": "media/r-c00b1739/thumbs/833c4b99db3b.jpg",
+      "mime": "image/png",
+      "bytes": 440067
+    },
+    {
+      "id": "0b64d478f111",
+      "kind": "image",
+      "t": "2026-10-12T08:22:00+09:00",
+      "time": "08:22",
+      "who": "수강생",
+      "text": "강의 영상 화면 캡처. YouTube Shorts 목록과 가운데 재생 버튼이 보임. 사람이 나온 사진.",
+      "sensitive": true
+    },
+    {
+      "id": "3445b25510cd",
+      "kind": "image",
+      "t": "2026-10-12T08:25:00+09:00",
+      "time": "08:25",
+      "who": "수강생",
+      "text": "YouTube Studio 영상별 표 화면 캡처. 상단에 '개요', '콘텐츠', '시청자층', '수익', '트렌드', 'Outliers', 'Keywords', 'Optimize'가 보임. 표에 '0:21', '(92.0%)', '1,055,593', '(95.3%)', '991,502' 등이 표시됨.",
+      "file": "media/r-c00b1739/3445b25510cd.png",
+      "thumb": "media/r-c00b1739/thumbs/3445b25510cd.jpg",
+      "mime": "image/png",
+      "bytes": 236867
+    }
+  ]
+}
