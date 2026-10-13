@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "room_id": "r-f7121a4e",
+  "date": "2026-10-13",
+  "items": [
+    {
+      "id": "fbe27f529ed0",
+      "kind": "image",
+      "t": "2026-10-13T10:12:00+09:00",
+      "time": "10:12",
+      "who": "수강생",
+      "text": "쇼츠투벤츠 SEASON.5 2026년 10월 강의 일정표. 다시보기 1년이상 제공 안내와 동영상 녹화본·자료 기본 제공 및 강의 일정 변경 사전 알림 안내가 표시됨. 23~24일 일정 부근을 붉은색 원으로 강조한 사진.",
+      "file": "media/r-f7121a4e/fbe27f529ed0.jpg",
+      "thumb": "media/r-f7121a4e/thumbs/fbe27f529ed0.jpg",
+      "mime": "image/jpeg",
+      "bytes": 284771
+    }
+  ]
+}
