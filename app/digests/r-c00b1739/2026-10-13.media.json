@@ -95,6 +95,18 @@
       "thumb": "media/r-c00b1739/thumbs/00e405f60380.jpg",
       "mime": "image/png",
       "bytes": 25069
+    },
+    {
+      "id": "2ec4ff0f26ee",
+      "kind": "image",
+      "t": "2026-10-13T21:21:00+09:00",
+      "time": "21:21",
+      "who": "수강생",
+      "text": "픽셀링 화면 캡처. 중앙에 프리셋 연결 오류 안내창이 보임.",
+      "file": "media/r-c00b1739/2ec4ff0f26ee.jpg",
+      "thumb": "media/r-c00b1739/thumbs/2ec4ff0f26ee.jpg",
+      "mime": "image/jpeg",
+      "bytes": 3056302
     }
   ]
 }
