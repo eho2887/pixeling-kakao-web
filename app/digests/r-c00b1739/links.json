@@ -1,8 +1,167 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-10-13T03:11:01.285Z",
+  "updated_at": "2026-10-13T04:16:57.351Z",
   "items": [
+    {
+      "id": "3e519aa17e7b",
+      "url": "https://cafe.naver.com/dinohighclass/434411",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-13",
+      "last_date": "2026-10-13",
+      "dates": [
+        "2026-10-13"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-13",
+          "time": "13:10",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/434411 천벽 넘어서 가봅시다"
+        }
+      ],
+      "fetched_at": "2026-10-13T04:16:57.351Z"
+    },
+    {
+      "id": "b252f2129c31",
+      "url": "https://cafe.naver.com/dinohighclass/434291",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-13",
+      "last_date": "2026-10-13",
+      "dates": [
+        "2026-10-13"
+      ],
+      "mention_count": 2,
+      "contexts": [
+        {
+          "date": "2026-10-13",
+          "time": "12:57",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/434291"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "11:13",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/434291"
+        }
+      ],
+      "fetched_at": "2026-10-13T02:40:51.175Z"
+    },
+    {
+      "id": "752237967070",
+      "url": "https://codex-resets.com/ko",
+      "kind": "web",
+      "title": "Codex 사용 한도 리셋 추적 및 기록 | Codex Resets",
+      "site": "Codex Resets",
+      "description": "최신 OpenAI Codex 사용 한도 리셋과 리셋 기록을 확인하고, 새로운 리셋이 발표되면 알림을 받으세요.",
+      "thumb": "media/r-c00b1739/link_thumbs/752237967070.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-11",
+      "last_date": "2026-10-13",
+      "dates": [
+        "2026-10-11",
+        "2026-10-13"
+      ],
+      "mention_count": 2,
+      "contexts": [
+        {
+          "date": "2026-10-13",
+          "time": "12:46",
+          "who": "수강생",
+          "text": "https://codex-resets.com/ko 아스트라 리셋하는 정보 나오는 사이트 입니다. 이거 참고하면 효율이 좋아서 공유 드려봅니다."
+        },
+        {
+          "date": "2026-10-11",
+          "time": "17:11",
+          "who": "수강생",
+          "text": "https://codex-resets.com/ko"
+        }
+      ],
+      "fetched_at": "2026-10-11T09:54:44.791Z"
+    },
+    {
+      "id": "d35fbff2208f",
+      "url": "https://cafe.naver.com/dinohighclass/434336",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-13",
+      "last_date": "2026-10-13",
+      "dates": [
+        "2026-10-13"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-13",
+          "time": "12:42",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/434336"
+        }
+      ],
+      "fetched_at": "2026-10-13T04:16:57.351Z"
+    },
+    {
+      "id": "aad770c1d9ae",
+      "url": "https://cafe.naver.com/dinohighclass/434385",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-13",
+      "last_date": "2026-10-13",
+      "dates": [
+        "2026-10-13"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-13",
+          "time": "12:40",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/434385"
+        }
+      ],
+      "fetched_at": "2026-10-13T04:16:57.351Z"
+    },
+    {
+      "id": "bdfb7e7ff716",
+      "url": "https://naver.me/54KqxD5g?tc=shared_link",
+      "kind": "web",
+      "title": "네이버 카페",
+      "site": "naver.me",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-13",
+      "last_date": "2026-10-13",
+      "dates": [
+        "2026-10-13"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-13",
+          "time": "12:33",
+          "who": "수강생",
+          "text": "https://naver.me/54KqxD5g?tc=shared_link"
+        }
+      ],
+      "fetched_at": "2026-10-13T04:16:57.351Z"
+    },
     {
       "id": "d1f4f28de7a3",
       "url": "https://cafe.naver.com/dinohighclass/434340",
@@ -227,30 +386,6 @@
           "time": "11:20",
           "who": "수강생",
           "text": "https://cafe.naver.com/dinohighclass/434299"
-        }
-      ],
-      "fetched_at": "2026-10-13T02:40:51.175Z"
-    },
-    {
-      "id": "b252f2129c31",
-      "url": "https://cafe.naver.com/dinohighclass/434291",
-      "kind": "cafe",
-      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
-      "site": "cafe.naver.com",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-13",
-      "last_date": "2026-10-13",
-      "dates": [
-        "2026-10-13"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-13",
-          "time": "11:13",
-          "who": "수강생",
-          "text": "https://cafe.naver.com/dinohighclass/434291"
         }
       ],
       "fetched_at": "2026-10-13T02:40:51.175Z"
@@ -4723,32 +4858,6 @@
           "time": "17:17",
           "who": "수강생",
           "text": "https://cafe.naver.com/dinohighclass/431055"
-        }
-      ],
-      "fetched_at": "2026-10-11T09:54:44.791Z"
-    },
-    {
-      "id": "752237967070",
-      "url": "https://codex-resets.com/ko",
-      "kind": "web",
-      "title": "Codex 사용 한도 리셋 추적 및 기록 | Codex Resets",
-      "site": "Codex Resets",
-      "description": "최신 OpenAI Codex 사용 한도 리셋과 리셋 기록을 확인하고, 새로운 리셋이 발표되면 알림을 받으세요.",
-      "thumb": "media/r-c00b1739/link_thumbs/752237967070.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-11",
-      "last_date": "2026-10-11",
-      "dates": [
-        "2026-10-11"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-11",
-          "time": "17:11",
-          "who": "수강생",
-          "text": "https://codex-resets.com/ko"
         }
       ],
       "fetched_at": "2026-10-11T09:54:44.791Z"
