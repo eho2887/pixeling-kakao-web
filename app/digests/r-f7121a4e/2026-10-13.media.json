@@ -26,6 +26,30 @@
       "thumb": "media/r-f7121a4e/thumbs/4fee4d04edb1.jpg",
       "mime": "image/jpeg",
       "bytes": 87028
+    },
+    {
+      "id": "483205feb9a9",
+      "kind": "image",
+      "t": "2026-10-13T14:21:00+09:00",
+      "time": "14:21",
+      "who": "수강생",
+      "text": "사용량 설정 화면 캡처. 주간 사용 한도 99% 남음, 사용 한도 초기화에 사용 가능 1회 표시. 첨부 문구: 설정에 사용량 보시면",
+      "file": "media/r-f7121a4e/483205feb9a9.png",
+      "thumb": "media/r-f7121a4e/thumbs/483205feb9a9.jpg",
+      "mime": "image/png",
+      "bytes": 17004
+    },
+    {
+      "id": "6c120af31264",
+      "kind": "image",
+      "t": "2026-10-13T14:22:00+09:00",
+      "time": "14:22",
+      "who": "수강생",
+      "text": "Codex 사용량 화면 캡처. 주간 사용 한도 99% 남음, 초기화 사용 가능 2회, 재설정 예정 10월 30일 오전 3:50 및 11월 7일 오전 8:22 GMT+9 표시. 첨부 문구: 아 이건가요??",
+      "file": "media/r-f7121a4e/6c120af31264.png",
+      "thumb": "media/r-f7121a4e/thumbs/6c120af31264.jpg",
+      "mime": "image/png",
+      "bytes": 35610
     }
   ]
 }
