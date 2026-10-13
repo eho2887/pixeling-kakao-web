@@ -1,8 +1,58 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-10-13T23:42:57.090Z",
+  "updated_at": "2026-10-13T23:43:56.425Z",
   "items": [
+    {
+      "id": "92e79ade0ec5",
+      "url": "https://cafe.naver.com/dinohighclass/436037",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-14",
+      "last_date": "2026-10-14",
+      "dates": [
+        "2026-10-14"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-14",
+          "time": "08:35",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/436037"
+        }
+      ],
+      "fetched_at": "2026-10-13T23:43:56.425Z"
+    },
+    {
+      "id": "6dfa4cd0da30",
+      "url": "https://www.youtube.com/watch?v=tByhXkxDKDo",
+      "kind": "youtube",
+      "title": "소프트웨어는 끝났다? 앱 통째로 복사하는 미친 오픈소스.. ㄷㄷ",
+      "site": "YouTube",
+      "author": "성공지식백과",
+      "thumb": "media/r-f7121a4e/link_thumbs/6dfa4cd0da30.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-14",
+      "last_date": "2026-10-14",
+      "dates": [
+        "2026-10-14"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-14",
+          "time": "08:34",
+          "who": "수강생",
+          "text": "https://www.youtube.com/watch?v=tByhXkxDKDo 픽셀링이 얼마나 더 좋아질지 감도 안오네요"
+        }
+      ],
+      "fetched_at": "2026-10-13T23:43:56.425Z"
+    },
     {
       "id": "64df57758197",
       "url": "https://cafe.naver.com/dinohighclass/436036",
