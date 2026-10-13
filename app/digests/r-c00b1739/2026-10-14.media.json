@@ -26,6 +26,30 @@
       "thumb": "media/r-c00b1739/thumbs/8c06a828d89c.jpg",
       "mime": "image/png",
       "bytes": 8778
+    },
+    {
+      "id": "51bcd7b44203",
+      "kind": "image",
+      "t": "2026-10-14T08:37:00+09:00",
+      "time": "08:37",
+      "who": "수강생",
+      "text": "YouTube Shorts 화면 캡처. Latest·Popular·Oldest 탭과 여러 영상 썸네일이 보임.",
+      "file": "media/r-c00b1739/51bcd7b44203.png",
+      "thumb": "media/r-c00b1739/thumbs/51bcd7b44203.jpg",
+      "mime": "image/png",
+      "bytes": 307463
+    },
+    {
+      "id": "252248eee22b",
+      "kind": "image",
+      "t": "2026-10-14T08:46:00+09:00",
+      "time": "08:46",
+      "who": "수강생",
+      "text": "YouTube Shorts 결과 화면 캡처. 검색·정렬 영역과 여러 동영상 썸네일 및 조회수가 보임.",
+      "file": "media/r-c00b1739/252248eee22b.png",
+      "thumb": "media/r-c00b1739/thumbs/252248eee22b.jpg",
+      "mime": "image/png",
+      "bytes": 335030
     }
   ]
 }
