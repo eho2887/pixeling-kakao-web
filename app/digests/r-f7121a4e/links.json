@@ -1,8 +1,32 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-10-13T16:16:50.604Z",
+  "updated_at": "2026-10-13T16:25:22.477Z",
   "items": [
+    {
+      "id": "585f87e840a2",
+      "url": "https://naver.me/xHEPYqHa",
+      "kind": "web",
+      "title": "네이버 카페",
+      "site": "naver.me",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-14",
+      "last_date": "2026-10-14",
+      "dates": [
+        "2026-10-14"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-14",
+          "time": "01:16",
+          "who": "수강생",
+          "text": "https://naver.me/xHEPYqHa"
+        }
+      ],
+      "fetched_at": "2026-10-13T16:25:22.477Z"
+    },
     {
       "id": "4f9844c1a198",
       "url": "https://cafe.naver.com/dinohighclass/435899",

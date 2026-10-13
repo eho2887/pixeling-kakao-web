@@ -14,6 +14,18 @@
       "thumb": "media/r-c00b1739/thumbs/eb2d3c9bad50.jpg",
       "mime": "image/png",
       "bytes": 62711
+    },
+    {
+      "id": "8c06a828d89c",
+      "kind": "image",
+      "t": "2026-10-14T01:16:00+09:00",
+      "time": "01:16",
+      "who": "수강생",
+      "text": "조회수 9.7만 ↑, 평소보다 9.3만 높음",
+      "file": "media/r-c00b1739/8c06a828d89c.png",
+      "thumb": "media/r-c00b1739/thumbs/8c06a828d89c.jpg",
+      "mime": "image/png",
+      "bytes": 8778
     }
   ]
 }
