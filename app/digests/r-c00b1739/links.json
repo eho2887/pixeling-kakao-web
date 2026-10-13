@@ -1,8 +1,33 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-10-13T04:47:02.124Z",
+  "updated_at": "2026-10-13T06:53:02.163Z",
   "items": [
+    {
+      "id": "61aa533456d0",
+      "url": "https://tali.kr/codex-reset",
+      "kind": "web",
+      "title": "Codex 리셋 전광판 | 한국시간 예정 공지",
+      "site": "tali.kr",
+      "description": "Codex 리셋 예상 시각을 한국시간으로 보고, 사용량 리셋·리셋권 지급 이력을 달력에서 확인하세요.",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-13",
+      "last_date": "2026-10-13",
+      "dates": [
+        "2026-10-13"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-13",
+          "time": "15:47",
+          "who": "수강생",
+          "text": "Codex 리셋 전광판 | 한국시간 예정 공지 - https://tali.kr/codex-reset 이거 남은시간에 거의 근접ㅋㅋ"
+        }
+      ],
+      "fetched_at": "2026-10-13T06:53:02.163Z"
+    },
     {
       "id": "2bcdfd886780",
       "url": "https://cafe.naver.com/dinohighclass/434448",
