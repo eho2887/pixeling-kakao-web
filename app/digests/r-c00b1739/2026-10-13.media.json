@@ -47,6 +47,54 @@
       "thumb": "media/r-c00b1739/thumbs/87468edf0c0f.jpg",
       "mime": "image/png",
       "bytes": 87471
+    },
+    {
+      "id": "695dc1fa25ce",
+      "kind": "image",
+      "t": "2026-10-13T20:53:00+09:00",
+      "time": "20:53",
+      "who": "수강생",
+      "text": "유튜브 채널 통계 이미지. ‘지난 28일 동안 642 증가’ 문구가 보임.",
+      "file": "media/r-c00b1739/695dc1fa25ce.png",
+      "thumb": "media/r-c00b1739/thumbs/695dc1fa25ce.jpg",
+      "mime": "image/png",
+      "bytes": 5277
+    },
+    {
+      "id": "21610152b561",
+      "kind": "image",
+      "t": "2026-10-13T20:53:00+09:00",
+      "time": "20:53",
+      "who": "수강생",
+      "text": "유튜브 영상 이미지. Home Alone 영화 장면 및 Movieclips 채널 미리보기.",
+      "file": "media/r-c00b1739/21610152b561.png",
+      "thumb": "media/r-c00b1739/thumbs/21610152b561.jpg",
+      "mime": "image/png",
+      "bytes": 428242
+    },
+    {
+      "id": "5ade9ca7720b",
+      "kind": "image",
+      "t": "2026-10-13T20:54:00+09:00",
+      "time": "20:54",
+      "who": "수강생",
+      "text": "픽셀링 오류 화면 캡처. ‘외장 저장소가 연결되어 있지 않아요’ 및 같은 드라이브 관련 안내가 보임.",
+      "file": "media/r-c00b1739/5ade9ca7720b.png",
+      "thumb": "media/r-c00b1739/thumbs/5ade9ca7720b.jpg",
+      "mime": "image/png",
+      "bytes": 14130
+    },
+    {
+      "id": "00e405f60380",
+      "kind": "image",
+      "t": "2026-10-13T21:12:00+09:00",
+      "time": "21:12",
+      "who": "수강생",
+      "text": "픽셀링 복구 안내 화면 캡처. ‘해결했습니다. 픽셀링을 다시 실행했고, 프로그램 창이 열려 응답하는 것까지 확인했어요.’라는 문구가 보이고, 하단은 글씨가 작아 일부 읽기 어려움.",
+      "file": "media/r-c00b1739/00e405f60380.png",
+      "thumb": "media/r-c00b1739/thumbs/00e405f60380.jpg",
+      "mime": "image/png",
+      "bytes": 25069
     }
   ]
 }
