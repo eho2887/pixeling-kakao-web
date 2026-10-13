@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "room_id": "r-c00b1739",
+  "date": "2026-10-13",
+  "items": [
+    {
+      "id": "673cf94cfbad",
+      "kind": "image",
+      "t": "2026-10-13T15:54:00+09:00",
+      "time": "15:54",
+      "who": "수강생",
+      "text": "사용량 표시 화면 캡처. \"99% 남음\" 표시.",
+      "file": "media/r-c00b1739/673cf94cfbad.png",
+      "thumb": "media/r-c00b1739/thumbs/673cf94cfbad.jpg",
+      "mime": "image/png",
+      "bytes": 1954
+    },
+    {
+      "id": "f848185b0782",
+      "kind": "image",
+      "t": "2026-10-13T15:54:00+09:00",
+      "time": "15:54",
+      "who": "수강생",
+      "text": "YouTube 채널 자격 화면 캡처. \"영상 인증\", \"유효한 신분증\", \"채널 기록\" 항목과 이의신청 기한 2026년 11월 11일, 정책 위반 판단 경고 문구가 보임.",
+      "sensitive": true
+    }
+  ]
+}
