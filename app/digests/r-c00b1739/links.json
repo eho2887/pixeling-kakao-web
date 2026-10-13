@@ -1,8 +1,212 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-10-13T02:40:51.175Z",
+  "updated_at": "2026-10-13T03:11:01.285Z",
   "items": [
+    {
+      "id": "d1f4f28de7a3",
+      "url": "https://cafe.naver.com/dinohighclass/434340",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-13",
+      "last_date": "2026-10-13",
+      "dates": [
+        "2026-10-13"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-13",
+          "time": "11:58",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/434340"
+        }
+      ],
+      "fetched_at": "2026-10-13T03:11:01.285Z"
+    },
+    {
+      "id": "3d68ad8e1324",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "kind": "web",
+      "title": "Claude Code changelog - Claude Code Docs",
+      "site": "Claude Code Docs",
+      "description": "Release notes for Claude Code, including new features, improvements, and bug fixes by version.",
+      "thumb": "media/r-c00b1739/link_thumbs/3d68ad8e1324.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-13",
+      "last_date": "2026-10-13",
+      "dates": [
+        "2026-10-13"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-13",
+          "time": "11:57",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-13 오늘 전할 것들은 하나같이 '누가 한 일로 남고, 어디까지 허락됐나'에 관한 이야기입니다. 모델이 허락한 선을 넘는 비율은 안전장치를 걷어낸 상태에서 재어 공개됐고, 커밋에 적힌 이름은 원래 누구나 바꿀 수 있던 문자열이었고, 취약점 리포트는 사람 검토를 건너뛰고 나가고, 할인은 내일 끝납니다. 오늘 소식은 에이전트에 권한을 하나 더 주기 전에 '이 일이 누가 한 것으로 남고, 누가 멈출 수 있는지'를 먼저 확인하시는 데 참고하시면 좋겠어요. 1) 아스트라가 '허락한 선'을 넘는 비…"
+        }
+      ],
+      "fetched_at": "2026-10-13T03:11:01.285Z"
+    },
+    {
+      "id": "519145787ddb",
+      "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+      "kind": "web",
+      "title": "Push attribution for commits in limited public preview - GitHub Changelog",
+      "site": "The GitHub Blog",
+      "description": "GitHub now durably records the authenticated user who pushed each commit and surfaces that pusher identity in the UI and API alongside the existing author and committer fields. Commit author…",
+      "thumb": "media/r-c00b1739/link_thumbs/519145787ddb.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-13",
+      "last_date": "2026-10-13",
+      "dates": [
+        "2026-10-13"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-13",
+          "time": "11:57",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-13 오늘 전할 것들은 하나같이 '누가 한 일로 남고, 어디까지 허락됐나'에 관한 이야기입니다. 모델이 허락한 선을 넘는 비율은 안전장치를 걷어낸 상태에서 재어 공개됐고, 커밋에 적힌 이름은 원래 누구나 바꿀 수 있던 문자열이었고, 취약점 리포트는 사람 검토를 건너뛰고 나가고, 할인은 내일 끝납니다. 오늘 소식은 에이전트에 권한을 하나 더 주기 전에 '이 일이 누가 한 것으로 남고, 누가 멈출 수 있는지'를 먼저 확인하시는 데 참고하시면 좋겠어요. 1) 아스트라가 '허락한 선'을 넘는 비…"
+        }
+      ],
+      "fetched_at": "2026-10-13T03:11:01.285Z"
+    },
+    {
+      "id": "56a664d07405",
+      "url": "https://agent.minimax.io/docs/changelog",
+      "kind": "web",
+      "title": "MiniMax Agent Changelog – Product Updates & Release Notes",
+      "site": "MiniMax Agent",
+      "description": "Full history of MiniMax Agent updates from June 2025 to present. Desktop app, scheduled tasks, custom instructions, multi-model support, and 30+ feature releases.",
+      "thumb": "media/r-c00b1739/link_thumbs/56a664d07405.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-13",
+      "last_date": "2026-10-13",
+      "dates": [
+        "2026-10-13"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-13",
+          "time": "11:57",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-13 오늘 전할 것들은 하나같이 '누가 한 일로 남고, 어디까지 허락됐나'에 관한 이야기입니다. 모델이 허락한 선을 넘는 비율은 안전장치를 걷어낸 상태에서 재어 공개됐고, 커밋에 적힌 이름은 원래 누구나 바꿀 수 있던 문자열이었고, 취약점 리포트는 사람 검토를 건너뛰고 나가고, 할인은 내일 끝납니다. 오늘 소식은 에이전트에 권한을 하나 더 주기 전에 '이 일이 누가 한 것으로 남고, 누가 멈출 수 있는지'를 먼저 확인하시는 데 참고하시면 좋겠어요. 1) 아스트라가 '허락한 선'을 넘는 비…"
+        }
+      ],
+      "fetched_at": "2026-10-13T03:11:01.285Z"
+    },
+    {
+      "id": "6c8f46b98668",
+      "url": "https://agent.minimax.io/tools/m3-1-flash-preview",
+      "kind": "web",
+      "title": "M3.1-Flash-Preview: Coding & Research | MiniMax Code",
+      "site": "MiniMax Agent Tools",
+      "description": "Explore M3.1-Flash-Preview in MiniMax Code through real coding, financial analysis, image understanding and interactive frontend examples.",
+      "thumb": "media/r-c00b1739/link_thumbs/6c8f46b98668.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-13",
+      "last_date": "2026-10-13",
+      "dates": [
+        "2026-10-13"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-13",
+          "time": "11:57",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-13 오늘 전할 것들은 하나같이 '누가 한 일로 남고, 어디까지 허락됐나'에 관한 이야기입니다. 모델이 허락한 선을 넘는 비율은 안전장치를 걷어낸 상태에서 재어 공개됐고, 커밋에 적힌 이름은 원래 누구나 바꿀 수 있던 문자열이었고, 취약점 리포트는 사람 검토를 건너뛰고 나가고, 할인은 내일 끝납니다. 오늘 소식은 에이전트에 권한을 하나 더 주기 전에 '이 일이 누가 한 것으로 남고, 누가 멈출 수 있는지'를 먼저 확인하시는 데 참고하시면 좋겠어요. 1) 아스트라가 '허락한 선'을 넘는 비…"
+        }
+      ],
+      "fetched_at": "2026-10-13T03:11:01.285Z"
+    },
+    {
+      "id": "c4a1f46e5a98",
+      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "kind": "article",
+      "title": "Introducing the Anthropic Cyber Mission",
+      "site": "anthropic.com",
+      "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "thumb": "media/r-c00b1739/link_thumbs/c4a1f46e5a98.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-13",
+      "last_date": "2026-10-13",
+      "dates": [
+        "2026-10-13"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-13",
+          "time": "11:57",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-13 오늘 전할 것들은 하나같이 '누가 한 일로 남고, 어디까지 허락됐나'에 관한 이야기입니다. 모델이 허락한 선을 넘는 비율은 안전장치를 걷어낸 상태에서 재어 공개됐고, 커밋에 적힌 이름은 원래 누구나 바꿀 수 있던 문자열이었고, 취약점 리포트는 사람 검토를 건너뛰고 나가고, 할인은 내일 끝납니다. 오늘 소식은 에이전트에 권한을 하나 더 주기 전에 '이 일이 누가 한 것으로 남고, 누가 멈출 수 있는지'를 먼저 확인하시는 데 참고하시면 좋겠어요. 1) 아스트라가 '허락한 선'을 넘는 비…"
+        }
+      ],
+      "fetched_at": "2026-10-13T03:11:01.285Z"
+    },
+    {
+      "id": "d863dfbcce71",
+      "url": "https://deploymentsafety.openai.com/gpt-6-astra/obeying-restrictions",
+      "kind": "web",
+      "title": "GPT-6 Astra System Card - OpenAI Deployment Safety Hub",
+      "site": "OpenAI Deployment Safety Hub",
+      "description": "Today, we are releasing GPT-6 Astra, the most capable model we have ever broadly deployed. Astra is our first model to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+      "thumb": "media/r-c00b1739/link_thumbs/d863dfbcce71.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-13",
+      "last_date": "2026-10-13",
+      "dates": [
+        "2026-10-13"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-13",
+          "time": "11:57",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-13 오늘 전할 것들은 하나같이 '누가 한 일로 남고, 어디까지 허락됐나'에 관한 이야기입니다. 모델이 허락한 선을 넘는 비율은 안전장치를 걷어낸 상태에서 재어 공개됐고, 커밋에 적힌 이름은 원래 누구나 바꿀 수 있던 문자열이었고, 취약점 리포트는 사람 검토를 건너뛰고 나가고, 할인은 내일 끝납니다. 오늘 소식은 에이전트에 권한을 하나 더 주기 전에 '이 일이 누가 한 것으로 남고, 누가 멈출 수 있는지'를 먼저 확인하시는 데 참고하시면 좋겠어요. 1) 아스트라가 '허락한 선'을 넘는 비…"
+        }
+      ],
+      "fetched_at": "2026-10-13T03:11:01.285Z"
+    },
+    {
+      "id": "54f46a6d82ac",
+      "url": "https://cafe.naver.com/dinohighclass/434338",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-13",
+      "last_date": "2026-10-13",
+      "dates": [
+        "2026-10-13"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-13",
+          "time": "11:56",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/434338"
+        }
+      ],
+      "fetched_at": "2026-10-13T03:11:01.285Z"
+    },
     {
       "id": "676218e5ead4",
       "url": "https://cafe.naver.com/dinohighclass/434299",
