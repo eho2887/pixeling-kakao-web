@@ -1,8 +1,231 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-10-13T23:54:01.318Z",
+  "updated_at": "2026-10-14T00:30:45.593Z",
   "items": [
+    {
+      "id": "c795248a898b",
+      "url": "https://cafe.naver.com/dinohighclass/436074",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-14",
+      "last_date": "2026-10-14",
+      "dates": [
+        "2026-10-14"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-14",
+          "time": "09:27",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/436074"
+        }
+      ],
+      "fetched_at": "2026-10-14T00:30:45.593Z"
+    },
+    {
+      "id": "9a9cacdda74b",
+      "url": "https://cafe.naver.com/dinohighclass/436071",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-14",
+      "last_date": "2026-10-14",
+      "dates": [
+        "2026-10-14"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-14",
+          "time": "09:24",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/436071 좋은 하루 되세요~~"
+        }
+      ],
+      "fetched_at": "2026-10-14T00:30:45.593Z"
+    },
+    {
+      "id": "4d937d0d23b5",
+      "url": "https://help.openai.com/en/articles/20001516-managing-usage-with-gpt-6-astra-in-work-and-codex",
+      "kind": "web",
+      "site": "help.openai.com",
+      "reachable": false,
+      "private": false,
+      "first_date": "2026-10-14",
+      "last_date": "2026-10-14",
+      "dates": [
+        "2026-10-14"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-14",
+          "time": "09:19",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-14 오늘 전할 것들은 하나같이 에이전트가 늘어난 다음 그 아래에서 조용히 바뀌는 것들입니다. 소스 컨트롤이 갈려 나가고, 키가 새는 걸 막는 기본값이 켜지고, 요금은 토큰 구간으로 갈리고, 이름도 밝히지 않은 모델이 공짜로 풀립니다. 오늘 소식은 에이전트를 하나 더 늘리기 전에 '그래서 내 쪽에서 먼저 막히는 게 무엇인지'를 한 번 짚어 보시는 데 참고하시면 좋겠어요. 1) 아스트라는 세게 돌릴수록 좋아지는 게 아니에요 오픈AI 공식 모델 문서에 적힌 GPT-6 아스트라(Astra) 제…"
+        }
+      ],
+      "fetched_at": "2026-10-14T00:30:45.593Z"
+    },
+    {
+      "id": "56ee56e48ed2",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "kind": "web",
+      "title": "Redesigning source control at Anthropic",
+      "site": "anthropic.com",
+      "description": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months.",
+      "thumb": "media/r-f7121a4e/link_thumbs/56ee56e48ed2.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-14",
+      "last_date": "2026-10-14",
+      "dates": [
+        "2026-10-14"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-14",
+          "time": "09:19",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-14 오늘 전할 것들은 하나같이 에이전트가 늘어난 다음 그 아래에서 조용히 바뀌는 것들입니다. 소스 컨트롤이 갈려 나가고, 키가 새는 걸 막는 기본값이 켜지고, 요금은 토큰 구간으로 갈리고, 이름도 밝히지 않은 모델이 공짜로 풀립니다. 오늘 소식은 에이전트를 하나 더 늘리기 전에 '그래서 내 쪽에서 먼저 막히는 게 무엇인지'를 한 번 짚어 보시는 데 참고하시면 좋겠어요. 1) 아스트라는 세게 돌릴수록 좋아지는 게 아니에요 오픈AI 공식 모델 문서에 적힌 GPT-6 아스트라(Astra) 제…"
+        }
+      ],
+      "fetched_at": "2026-10-14T00:30:45.593Z"
+    },
+    {
+      "id": "67b4ce9b4e6a",
+      "url": "https://developers.openai.com/api/docs/models/gpt-6-astra",
+      "kind": "web",
+      "title": "GPT-6 Astra Model | OpenAI API",
+      "site": "OpenAI Developers",
+      "thumb": "media/r-f7121a4e/link_thumbs/67b4ce9b4e6a.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-14",
+      "last_date": "2026-10-14",
+      "dates": [
+        "2026-10-14"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-14",
+          "time": "09:19",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-14 오늘 전할 것들은 하나같이 에이전트가 늘어난 다음 그 아래에서 조용히 바뀌는 것들입니다. 소스 컨트롤이 갈려 나가고, 키가 새는 걸 막는 기본값이 켜지고, 요금은 토큰 구간으로 갈리고, 이름도 밝히지 않은 모델이 공짜로 풀립니다. 오늘 소식은 에이전트를 하나 더 늘리기 전에 '그래서 내 쪽에서 먼저 막히는 게 무엇인지'를 한 번 짚어 보시는 데 참고하시면 좋겠어요. 1) 아스트라는 세게 돌릴수록 좋아지는 게 아니에요 오픈AI 공식 모델 문서에 적힌 GPT-6 아스트라(Astra) 제…"
+        }
+      ],
+      "fetched_at": "2026-10-14T00:30:45.593Z"
+    },
+    {
+      "id": "81c406603eb0",
+      "url": "https://opencode.ai/docs/zen",
+      "kind": "web",
+      "title": "Models | OpenCode",
+      "site": "opencode.ai",
+      "description": "Curated coding models, pay-as-you-go pricing, and API access through OpenCode Console.",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-14",
+      "last_date": "2026-10-14",
+      "dates": [
+        "2026-10-14"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-14",
+          "time": "09:19",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-14 오늘 전할 것들은 하나같이 에이전트가 늘어난 다음 그 아래에서 조용히 바뀌는 것들입니다. 소스 컨트롤이 갈려 나가고, 키가 새는 걸 막는 기본값이 켜지고, 요금은 토큰 구간으로 갈리고, 이름도 밝히지 않은 모델이 공짜로 풀립니다. 오늘 소식은 에이전트를 하나 더 늘리기 전에 '그래서 내 쪽에서 먼저 막히는 게 무엇인지'를 한 번 짚어 보시는 데 참고하시면 좋겠어요. 1) 아스트라는 세게 돌릴수록 좋아지는 게 아니에요 오픈AI 공식 모델 문서에 적힌 GPT-6 아스트라(Astra) 제…"
+        }
+      ],
+      "fetched_at": "2026-10-14T00:30:45.593Z"
+    },
+    {
+      "id": "ad0dc492d322",
+      "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
+      "kind": "web",
+      "title": "Secret scanning blocks Anthropic keys by default, adds Salesforce - GitHub Changelog",
+      "site": "The GitHub Blog",
+      "description": "Secret scanning now detects new secret types from Salesforce, Anthropic, and Cloudsmith, with the new Anthropic secret types blocked with push protection by default. New secret scanning partner Salesforce is…",
+      "thumb": "media/r-f7121a4e/link_thumbs/ad0dc492d322.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-14",
+      "last_date": "2026-10-14",
+      "dates": [
+        "2026-10-14"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-14",
+          "time": "09:19",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-14 오늘 전할 것들은 하나같이 에이전트가 늘어난 다음 그 아래에서 조용히 바뀌는 것들입니다. 소스 컨트롤이 갈려 나가고, 키가 새는 걸 막는 기본값이 켜지고, 요금은 토큰 구간으로 갈리고, 이름도 밝히지 않은 모델이 공짜로 풀립니다. 오늘 소식은 에이전트를 하나 더 늘리기 전에 '그래서 내 쪽에서 먼저 막히는 게 무엇인지'를 한 번 짚어 보시는 데 참고하시면 좋겠어요. 1) 아스트라는 세게 돌릴수록 좋아지는 게 아니에요 오픈AI 공식 모델 문서에 적힌 GPT-6 아스트라(Astra) 제…"
+        }
+      ],
+      "fetched_at": "2026-10-14T00:30:45.593Z"
+    },
+    {
+      "id": "b28194f531af",
+      "url": "https://cursor.com/changelog",
+      "kind": "web",
+      "title": "Cursor의 새로운 소식 — 최신 업데이트 및 릴리스 노트",
+      "site": "Cursor",
+      "description": "새로운 업데이트와 개선 사항.",
+      "thumb": "media/r-f7121a4e/link_thumbs/b28194f531af.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-14",
+      "last_date": "2026-10-14",
+      "dates": [
+        "2026-10-14"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-14",
+          "time": "09:19",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-14 오늘 전할 것들은 하나같이 에이전트가 늘어난 다음 그 아래에서 조용히 바뀌는 것들입니다. 소스 컨트롤이 갈려 나가고, 키가 새는 걸 막는 기본값이 켜지고, 요금은 토큰 구간으로 갈리고, 이름도 밝히지 않은 모델이 공짜로 풀립니다. 오늘 소식은 에이전트를 하나 더 늘리기 전에 '그래서 내 쪽에서 먼저 막히는 게 무엇인지'를 한 번 짚어 보시는 데 참고하시면 좋겠어요. 1) 아스트라는 세게 돌릴수록 좋아지는 게 아니에요 오픈AI 공식 모델 문서에 적힌 GPT-6 아스트라(Astra) 제…"
+        }
+      ],
+      "fetched_at": "2026-10-14T00:30:45.593Z"
+    },
+    {
+      "id": "a337b3eb952f",
+      "url": "https://cafe.naver.com/dinohighclass/436062",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-14",
+      "last_date": "2026-10-14",
+      "dates": [
+        "2026-10-14"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-14",
+          "time": "09:16",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/436062"
+        }
+      ],
+      "fetched_at": "2026-10-14T00:30:45.593Z"
+    },
     {
       "id": "b0cf8530ad7a",
       "url": "https://cafe.naver.com/dinohighclass/436044",
