@@ -1,8 +1,152 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-10-14T16:52:04.806Z",
+  "updated_at": "2026-10-14T23:21:36.685Z",
   "items": [
+    {
+      "id": "4fd58930b522",
+      "url": "https://cafe.naver.com/dinohighclass/437669",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-15",
+      "last_date": "2026-10-15",
+      "dates": [
+        "2026-10-15"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-15",
+          "time": "07:56",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/437669"
+        }
+      ],
+      "fetched_at": "2026-10-14T23:21:36.685Z"
+    },
+    {
+      "id": "d279b26fde2d",
+      "url": "https://www.youtube.com/watch?v=NmbTDN7zPBA",
+      "kind": "youtube",
+      "title": "A2O LITE 멤버 9명 총정리",
+      "site": "YouTube",
+      "author": "아이돌옷장",
+      "thumb": "media/r-c00b1739/link_thumbs/d279b26fde2d.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-15",
+      "last_date": "2026-10-15",
+      "dates": [
+        "2026-10-15"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-15",
+          "time": "06:03",
+          "who": "수강생",
+          "text": "https://youtu.be/NmbTDN7zPBA 아스트라 쓴거 같은 트래픽 바로 뽑아먹은 곳 있네요"
+        }
+      ],
+      "fetched_at": "2026-10-14T23:21:36.685Z"
+    },
+    {
+      "id": "0326b50204af",
+      "url": "https://cafe.naver.com/dinohighclass/437632",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-15",
+      "last_date": "2026-10-15",
+      "dates": [
+        "2026-10-15"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-15",
+          "time": "03:35",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/437632"
+        }
+      ],
+      "fetched_at": "2026-10-14T23:21:36.685Z"
+    },
+    {
+      "id": "1baab8562986",
+      "url": "https://cafe.naver.com/dinohighclass/437621",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-15",
+      "last_date": "2026-10-15",
+      "dates": [
+        "2026-10-15"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-15",
+          "time": "03:07",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/437621"
+        }
+      ],
+      "fetched_at": "2026-10-14T23:21:36.685Z"
+    },
+    {
+      "id": "76f35c7f61b4",
+      "url": "https://cafe.naver.com/dinohighclass/435219",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-15",
+      "last_date": "2026-10-15",
+      "dates": [
+        "2026-10-15"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-15",
+          "time": "02:47",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/435219"
+        }
+      ],
+      "fetched_at": "2026-10-14T23:21:36.685Z"
+    },
+    {
+      "id": "876db401a2f7",
+      "url": "https://docs.google.com/spreadsheets/d/1kRWCMOMUinnoO3qhWU-2p7TnEkqczUrh44MyWK19mKA/edit?gid=0",
+      "kind": "doc",
+      "site": "docs.google.com",
+      "reachable": null,
+      "private": true,
+      "first_date": "2026-10-15",
+      "last_date": "2026-10-15",
+      "dates": [
+        "2026-10-15"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-15",
+          "time": "01:54",
+          "who": "수강생",
+          "text": "https://docs.google.com/spreadsheets/d/1kRWCMOMUinnoO3qhWU-2p7TnEkqczUrh44MyWK19mKA/edit?gid=0#gid=0"
+        }
+      ]
+    },
     {
       "id": "b2aac8ab86e2",
       "url": "https://cafe.naver.com/dinohighclass/437574",

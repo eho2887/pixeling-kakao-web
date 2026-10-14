@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "room_id": "r-c00b1739",
+  "date": "2026-10-15",
+  "items": [
+    {
+      "id": "cd1e70bbcabc",
+      "kind": "image",
+      "t": "2026-10-15T02:57:00+09:00",
+      "time": "02:57",
+      "who": "수강생",
+      "text": "응원 문구 이미지. ‘낙담 중이나 멈출 수 없다.’, ‘고개 쳐들어.’, ‘이제 시작일 뿐이야.’ 등 문구가 적혀 있음.",
+      "file": "media/r-c00b1739/cd1e70bbcabc.png",
+      "thumb": "media/r-c00b1739/thumbs/cd1e70bbcabc.jpg",
+      "mime": "image/png",
+      "bytes": 20192
+    },
+    {
+      "id": "4812e7d957c0",
+      "kind": "image",
+      "t": "2026-10-15T03:24:00+09:00",
+      "time": "03:24",
+      "who": "수강생",
+      "text": "휴대전화 대화 화면 캡처. 화면에 ‘모두 읽음’과 여러 개의 ‘새 답변’ 표시가 보임.",
+      "file": "media/r-c00b1739/4812e7d957c0.png",
+      "thumb": "media/r-c00b1739/thumbs/4812e7d957c0.jpg",
+      "mime": "image/png",
+      "bytes": 12534
+    },
+    {
+      "id": "d4c9356f8c96",
+      "kind": "image",
+      "t": "2026-10-15T05:09:00+09:00",
+      "time": "05:09",
+      "who": "수강생",
+      "text": "유튜브 디스커버리 검색 결과 화면 캡처. 상단에 ‘10월 14일’이 보이고 검색 결과 카드가 나열되어 있음. 일부 카드 제목은 화면에서 잘려 있음.",
+      "file": "media/r-c00b1739/d4c9356f8c96.png",
+      "thumb": "media/r-c00b1739/thumbs/d4c9356f8c96.jpg",
+      "mime": "image/png",
+      "bytes": 589338
+    }
+  ]
+}
