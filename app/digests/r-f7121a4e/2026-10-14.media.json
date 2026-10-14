@@ -72,6 +72,18 @@
       "thumb": "media/r-f7121a4e/thumbs/30b378e1a4fe.jpg",
       "mime": "image/png",
       "bytes": 2324500
+    },
+    {
+      "id": "317cb4558a9a",
+      "kind": "image",
+      "t": "2026-10-14T18:49:00+09:00",
+      "time": "18:49",
+      "who": "수강생",
+      "text": "픽셀링 영상 생성 화면 캡처. 파일 이름 '클래식.mp4'와 'Please upload a thumbnail' 안내, 하단 경고 '일일 업로드 한도 도달 일회성 인증을 통해 하루에 더 많은 동영상을 업로드하거나 24시간을 기다리세요. 인증하기'가 보임",
+      "file": "media/r-f7121a4e/317cb4558a9a.png",
+      "thumb": "media/r-f7121a4e/thumbs/317cb4558a9a.jpg",
+      "mime": "image/png",
+      "bytes": 362101
     }
   ]
 }

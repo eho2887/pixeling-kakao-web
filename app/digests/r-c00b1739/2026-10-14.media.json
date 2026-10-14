@@ -166,6 +166,45 @@
       "thumb": "media/r-c00b1739/thumbs/3ebd1dbdd9a9.jpg",
       "mime": "image/jpeg",
       "bytes": 124370
+    },
+    {
+      "id": "8052b01b824e",
+      "kind": "image",
+      "t": "2026-10-14T18:27:00+09:00",
+      "time": "18:27",
+      "who": "수강생",
+      "text": "Application Support 폴더 화면 캡처. Pixeling 폴더가 103.81 GB로 표시됨.",
+      "file": "media/r-c00b1739/8052b01b824e.png",
+      "thumb": "media/r-c00b1739/thumbs/8052b01b824e.jpg",
+      "mime": "image/png",
+      "bytes": 52229
+    },
+    {
+      "id": "37a38f3d08cb",
+      "kind": "image",
+      "t": "2026-10-14T18:28:00+09:00",
+      "time": "18:28",
+      "who": "수강생",
+      "text": "Pixeling 저장 공간 화면 캡처. 저장 공간 6.4 GB, C 드라이브 남은 공간 168 GB, '캐시 정리 -- 28 MB' 버튼이 보임.",
+      "sensitive": true
+    },
+    {
+      "id": "af74a5429795",
+      "kind": "image",
+      "t": "2026-10-14T18:36:00+09:00",
+      "time": "18:36",
+      "who": "수강생",
+      "text": "Pixeling 저장 공간 화면 캡처. Pixeling 자료 89.2 GB, Mac 남은 공간 20.7 GB로 표시. 사용량 항목에는 채팅 작업 자료 63.5 GB, 프리셋 소스 데이터 23.8 GB, 프리셋 정보 1.0 GB, 결과물 824 MB, API 관련 파일 93 MB가 보이고 캐시 정리 버튼이 있음.",
+      "sensitive": true
+    },
+    {
+      "id": "d34ad3634707",
+      "kind": "image",
+      "t": "2026-10-14T18:38:00+09:00",
+      "time": "18:38",
+      "who": "수강생",
+      "text": "Pixeling 저장 공간 정리 화면. 캐시 정리 0 MB, '지금 저장된 캐시가 없어요'로 표시됨. 프리셋 저장 공간 정리 75 MB. 안내 문구에 임시 파일만 정리되며 프리셋 소스 파일과 작업 결과물은 삭제되지 않는다고 표시됨. 저장 위치 이동은 현재 Windows에서 가능하다는 문구가 보임.",
+      "sensitive": true
     }
   ]
 }

@@ -1,8 +1,106 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-10-14T09:13:31.839Z",
+  "updated_at": "2026-10-14T09:59:25.758Z",
   "items": [
+    {
+      "id": "14b87dc50e0c",
+      "url": "https://cafe.naver.com/dinohighclass/436607",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-14",
+      "last_date": "2026-10-14",
+      "dates": [
+        "2026-10-14"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-14",
+          "time": "18:42",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/436607"
+        }
+      ],
+      "fetched_at": "2026-10-14T09:59:25.758Z"
+    },
+    {
+      "id": "21b4cff8b998",
+      "url": "https://cafe.naver.com/dinohighclass/436605",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-14",
+      "last_date": "2026-10-14",
+      "dates": [
+        "2026-10-14"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-14",
+          "time": "18:41",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/436605"
+        }
+      ],
+      "fetched_at": "2026-10-14T09:59:25.758Z"
+    },
+    {
+      "id": "598445ea2523",
+      "url": "https://cafe.naver.com/dinohighclass/436601",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-14",
+      "last_date": "2026-10-14",
+      "dates": [
+        "2026-10-14"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-14",
+          "time": "18:40",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/436601"
+        }
+      ],
+      "fetched_at": "2026-10-14T09:59:25.758Z"
+    },
+    {
+      "id": "d069fc5bee85",
+      "url": "https://open.kakao.com/o/sebaonSi",
+      "kind": "web",
+      "title": "월계리[픽셀링 개발자]",
+      "site": "open.kakao.com",
+      "description": "픽셀링에 대해 문의주세요!",
+      "thumb": "media/r-c00b1739/link_thumbs/d069fc5bee85.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-14",
+      "last_date": "2026-10-14",
+      "dates": [
+        "2026-10-14"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-14",
+          "time": "18:29",
+          "who": "수강생",
+          "text": "https://open.kakao.com/o/sebaonSi"
+        }
+      ],
+      "fetched_at": "2026-10-14T09:59:25.758Z"
+    },
     {
       "id": "b56cef7dadf1",
       "url": "https://cafe.naver.com/dinohighclass/436567",
