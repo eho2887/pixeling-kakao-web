@@ -130,6 +130,30 @@
       "thumb": "media/r-c00b1739/thumbs/b12d4b0501ab.jpg",
       "mime": "image/png",
       "bytes": 13248
+    },
+    {
+      "id": "9d792bfaf48c",
+      "kind": "image",
+      "t": "2026-10-14T15:41:00+09:00",
+      "time": "15:41",
+      "who": "수강생",
+      "text": "모든 대화가 전송하지 못했다고 나와요🥲",
+      "file": "media/r-c00b1739/9d792bfaf48c.jpg",
+      "thumb": "media/r-c00b1739/thumbs/9d792bfaf48c.jpg",
+      "mime": "image/jpeg",
+      "bytes": 6656127
+    },
+    {
+      "id": "1cc1acb4061b",
+      "kind": "image",
+      "t": "2026-10-14T16:11:00+09:00",
+      "time": "16:11",
+      "who": "수강생",
+      "text": "컴퓨터 모니터 화면과 아래쪽 책상, 탁상 달력이 보이는 사진. 화면 글씨는 판독할 수 없음.",
+      "file": "media/r-c00b1739/1cc1acb4061b.jpg",
+      "thumb": "media/r-c00b1739/thumbs/1cc1acb4061b.jpg",
+      "mime": "image/jpeg",
+      "bytes": 5004198
     }
   ]
 }
