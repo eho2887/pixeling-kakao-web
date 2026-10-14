@@ -118,6 +118,18 @@
       "thumb": "media/r-c00b1739/thumbs/ca6705a94f6f.jpg",
       "mime": "image/png",
       "bytes": 77872
+    },
+    {
+      "id": "b12d4b0501ab",
+      "kind": "image",
+      "t": "2026-10-14T15:09:00+09:00",
+      "time": "15:09",
+      "who": "수강생",
+      "text": "픽셀링 프리셋 불러오기 오류 화면 캡처. \"프리셋을 불러오지 못했어요.\" 기존 프리셋 설정과 저장 연결 설정을 확인하라는 안내와 \"다시 시도\" 버튼이 보임.",
+      "file": "media/r-c00b1739/b12d4b0501ab.png",
+      "thumb": "media/r-c00b1739/thumbs/b12d4b0501ab.jpg",
+      "mime": "image/png",
+      "bytes": 13248
     }
   ]
 }

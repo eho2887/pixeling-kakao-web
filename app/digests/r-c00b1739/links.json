@@ -1,8 +1,173 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-10-14T06:08:06.893Z",
+  "updated_at": "2026-10-14T06:38:06.832Z",
   "items": [
+    {
+      "id": "e68dc25c99ac",
+      "url": "https://cafe.naver.com/dinohighclass/436368",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-14",
+      "last_date": "2026-10-14",
+      "dates": [
+        "2026-10-14"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-14",
+          "time": "15:33",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/436368"
+        }
+      ],
+      "fetched_at": "2026-10-14T06:38:06.832Z"
+    },
+    {
+      "id": "0f712eaad11f",
+      "url": "https://cafe.naver.com/dinohighclass/436358?tc=shared_link",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-14",
+      "last_date": "2026-10-14",
+      "dates": [
+        "2026-10-14"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-14",
+          "time": "15:23",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/436358?tc=shared_link"
+        }
+      ],
+      "fetched_at": "2026-10-14T06:38:06.832Z"
+    },
+    {
+      "id": "584e956c7b81",
+      "url": "https://cafe.naver.com/dinohighclass/436354",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-14",
+      "last_date": "2026-10-14",
+      "dates": [
+        "2026-10-14"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-14",
+          "time": "15:17",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/436354"
+        }
+      ],
+      "fetched_at": "2026-10-14T06:38:06.832Z"
+    },
+    {
+      "id": "afe02999a73a",
+      "url": "https://cafe.naver.com/dinohighclass/436353",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-14",
+      "last_date": "2026-10-14",
+      "dates": [
+        "2026-10-14"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-14",
+          "time": "15:14",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/436353"
+        }
+      ],
+      "fetched_at": "2026-10-14T06:38:06.832Z"
+    },
+    {
+      "id": "beb292c3292a",
+      "url": "https://open.kakao.com/o/sg4Df2Oi",
+      "kind": "web",
+      "title": "의정뷰",
+      "site": "open.kakao.com",
+      "thumb": "media/r-c00b1739/link_thumbs/beb292c3292a.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-10",
+      "last_date": "2026-10-14",
+      "dates": [
+        "2026-10-10",
+        "2026-10-13",
+        "2026-10-14"
+      ],
+      "mention_count": 4,
+      "contexts": [
+        {
+          "date": "2026-10-14",
+          "time": "15:10",
+          "who": "수강생",
+          "text": "https://open.kakao.com/o/sg4Df2Oi 연락주세요"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "22:28",
+          "who": "수강생",
+          "text": "https://open.kakao.com/o/sg4Df2Oi"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "21:09",
+          "who": "수강생",
+          "text": "https://open.kakao.com/o/sg4Df2Oi 안되면 연락주세요"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "13:59",
+          "who": "수강생",
+          "text": "https://open.kakao.com/o/sg4Df2Oi 연락주세요"
+        }
+      ],
+      "fetched_at": "2026-10-10T06:09:06.189Z"
+    },
+    {
+      "id": "cb85f809af20",
+      "url": "https://cafe.naver.com/f-e/cafes/30819883/articles/436350?boardtype=L&menuid=241&referrerAllArticles=false",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-14",
+      "last_date": "2026-10-14",
+      "dates": [
+        "2026-10-14"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-14",
+          "time": "15:10",
+          "who": "수강생",
+          "text": "잠시 지나갈께요 ^^ https://cafe.naver.com/f-e/cafes/30819883/articles/436350?boardtype=L&menuid=241&referrerAllArticles=false"
+        }
+      ],
+      "fetched_at": "2026-10-14T06:38:06.832Z"
+    },
     {
       "id": "bda0e21f5fa0",
       "url": "https://cafe.naver.com/dinohighclass/436223",
@@ -1652,44 +1817,6 @@
         }
       ],
       "fetched_at": "2026-10-13T13:50:47.200Z"
-    },
-    {
-      "id": "beb292c3292a",
-      "url": "https://open.kakao.com/o/sg4Df2Oi",
-      "kind": "web",
-      "title": "의정뷰",
-      "site": "open.kakao.com",
-      "thumb": "media/r-c00b1739/link_thumbs/beb292c3292a.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-10",
-      "last_date": "2026-10-13",
-      "dates": [
-        "2026-10-10",
-        "2026-10-13"
-      ],
-      "mention_count": 3,
-      "contexts": [
-        {
-          "date": "2026-10-13",
-          "time": "22:28",
-          "who": "수강생",
-          "text": "https://open.kakao.com/o/sg4Df2Oi"
-        },
-        {
-          "date": "2026-10-13",
-          "time": "21:09",
-          "who": "수강생",
-          "text": "https://open.kakao.com/o/sg4Df2Oi 안되면 연락주세요"
-        },
-        {
-          "date": "2026-10-10",
-          "time": "13:59",
-          "who": "수강생",
-          "text": "https://open.kakao.com/o/sg4Df2Oi 연락주세요"
-        }
-      ],
-      "fetched_at": "2026-10-10T06:09:06.189Z"
     },
     {
       "id": "eec637759ec9",
