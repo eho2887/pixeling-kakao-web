@@ -60,6 +60,18 @@
       "time": "11:42",
       "who": "수강생",
       "text": "media/2026-10-14/1142-KangA-YouTube-playlist.png"
+    },
+    {
+      "id": "30b378e1a4fe",
+      "kind": "image",
+      "t": "2026-10-14T14:40:00+09:00",
+      "time": "14:40",
+      "who": "수강생",
+      "text": "전자책 홍보 이미지. 책 더미와 캐릭터를 그린 판촉용 그림이며, 작은 문구가 포함되어 있음.",
+      "file": "media/r-f7121a4e/30b378e1a4fe.png",
+      "thumb": "media/r-f7121a4e/thumbs/30b378e1a4fe.jpg",
+      "mime": "image/png",
+      "bytes": 2324500
     }
   ]
 }

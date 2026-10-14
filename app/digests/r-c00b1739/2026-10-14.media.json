@@ -106,6 +106,18 @@
       "time": "09:13",
       "who": "수강생",
       "text": "이미지 원본 저장: media/2026-10-14/0913-newcomer-1.png"
+    },
+    {
+      "id": "ca6705a94f6f",
+      "kind": "image",
+      "t": "2026-10-14T14:56:00+09:00",
+      "time": "14:56",
+      "who": "강사",
+      "text": "픽셀링 가입·설문 안내 이미지 캡처. 픽셀링 가입 후 신규 수강생 설문을 작성하고, 채팅방 상단 공지에서 노션 링크와 안내사항을 확인하도록 안내한다. app.pixeling.io 가입 및 events/shorts-to-benz-5 설문 링크가 보임.",
+      "file": "media/r-c00b1739/ca6705a94f6f.png",
+      "thumb": "media/r-c00b1739/thumbs/ca6705a94f6f.jpg",
+      "mime": "image/png",
+      "bytes": 77872
     }
   ]
 }
