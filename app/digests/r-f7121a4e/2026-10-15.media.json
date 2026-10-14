@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "room_id": "r-f7121a4e",
+  "date": "2026-10-15",
+  "items": [
+    {
+      "id": "46dd566f6143",
+      "kind": "image",
+      "t": "2026-10-15T00:17:00+09:00",
+      "time": "00:17",
+      "who": "수강생",
+      "text": "유튜브 수익 창출 제한 화면 캡처. “현재 채널에서 수익을 창출하지 않고 있습니다”, “중복되는 콘텐츠”, “동영상이 대량 제작되었거나 자동 생성된 것으로 보입니다.” 문구가 보임.",
+      "file": "media/r-f7121a4e/46dd566f6143.png",
+      "thumb": "media/r-f7121a4e/thumbs/46dd566f6143.jpg",
+      "mime": "image/png",
+      "bytes": 53677
+    },
+    {
+      "id": "2ea13758cbce",
+      "kind": "image",
+      "t": "2026-10-15T00:21:00+09:00",
+      "time": "00:21",
+      "who": "수강생",
+      "text": "흰 무 한 개를 손에 들고 세워 둔 사진. 잎이 붙어 있고 아래쪽이 뾰족하게 가늘어짐.",
+      "file": "media/r-f7121a4e/2ea13758cbce.jpg",
+      "thumb": "media/r-f7121a4e/thumbs/2ea13758cbce.jpg",
+      "mime": "image/jpeg",
+      "bytes": 133847
+    },
+    {
+      "id": "76f07c7fc0ed",
+      "kind": "image",
+      "t": "2026-10-15T00:23:00+09:00",
+      "time": "00:23",
+      "who": "수강생",
+      "text": "태양 이미지. 붉은 원형 천체와 표면의 밝은 영역이 보임.",
+      "file": "media/r-f7121a4e/76f07c7fc0ed.jpg",
+      "thumb": "media/r-f7121a4e/thumbs/76f07c7fc0ed.jpg",
+      "mime": "image/jpeg",
+      "bytes": 138403
+    },
+    {
+      "id": "ba9d9bda584c",
+      "kind": "image",
+      "t": "2026-10-15T00:24:00+09:00",
+      "time": "00:24",
+      "who": "수강생",
+      "text": "달 이미지. 회색 달 표면이 원형으로 보임.",
+      "file": "media/r-f7121a4e/ba9d9bda584c.jpg",
+      "thumb": "media/r-f7121a4e/thumbs/ba9d9bda584c.jpg",
+      "mime": "image/jpeg",
+      "bytes": 128556
+    },
+    {
+      "id": "dd468012e59d",
+      "kind": "image",
+      "t": "2026-10-15T00:26:00+09:00",
+      "time": "00:26",
+      "who": "수강생",
+      "text": "꿀이 흘러내리는 금색 BMW 차량 사진. 차량 전체와 바닥에 흐른 꿀이 보임.",
+      "file": "media/r-f7121a4e/dd468012e59d.png",
+      "thumb": "media/r-f7121a4e/thumbs/dd468012e59d.jpg",
+      "mime": "image/png",
+      "bytes": 2618453
+    }
+  ]
+}
