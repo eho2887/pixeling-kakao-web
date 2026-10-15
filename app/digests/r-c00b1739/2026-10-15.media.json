@@ -92,6 +92,18 @@
       "thumb": "media/r-c00b1739/thumbs/407db7a55988.jpg",
       "mime": "image/png",
       "bytes": 539631
+    },
+    {
+      "id": "d64f29a77561",
+      "kind": "image",
+      "t": "2026-10-15T16:21:00+09:00",
+      "time": "16:21",
+      "who": "수강생",
+      "text": "YouTube 분석 화면 캡처. 지난 60분 조회수 46, 상위 트래픽 소스는 YouTube 검색 93.5%, Shorts 피드 4.3%, 기타 YouTube 기능 2.2%.",
+      "file": "media/r-c00b1739/d64f29a77561.png",
+      "thumb": "media/r-c00b1739/thumbs/d64f29a77561.jpg",
+      "mime": "image/png",
+      "bytes": 32044
     }
   ]
 }
