@@ -1,8 +1,80 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-10-15T00:04:18.665Z",
+  "updated_at": "2026-10-15T00:35:04.683Z",
   "items": [
+    {
+      "id": "3781e0125661",
+      "url": "https://cafe.naver.com/dinohighclass/437714",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-15",
+      "last_date": "2026-10-15",
+      "dates": [
+        "2026-10-15"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-15",
+          "time": "09:30",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/437714"
+        }
+      ],
+      "fetched_at": "2026-10-15T00:35:04.683Z"
+    },
+    {
+      "id": "a88780891b2d",
+      "url": "https://cafe.naver.com/dinohighclass/437695",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-15",
+      "last_date": "2026-10-15",
+      "dates": [
+        "2026-10-15"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-15",
+          "time": "09:01",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/437695 숙제 완료~ 힘내세요"
+        }
+      ],
+      "fetched_at": "2026-10-15T00:35:04.683Z"
+    },
+    {
+      "id": "baaa0c7dc9d1",
+      "url": "https://cafe.naver.com/dinohighclass/437692",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-15",
+      "last_date": "2026-10-15",
+      "dates": [
+        "2026-10-15"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-15",
+          "time": "08:53",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/437692"
+        }
+      ],
+      "fetched_at": "2026-10-15T00:35:04.683Z"
+    },
     {
       "id": "d161e40355e8",
       "url": "https://cafe.naver.com/dinohighclass/437690",
@@ -2555,7 +2627,7 @@
           "text": "[콘자💙] 오늘의 AI 소식 2026-10-14 오늘 전할 것들은 하나같이 에이전트가 늘어난 다음 그 아래에서 조용히 바뀌는 것들입니다. 소스 컨트롤이 갈려 나가고, 키가 새는 걸 막는 기본값이 켜지고, 요금은 토큰 구간으로 갈리고, 이름도 밝히지 않은 모델이 공짜로 풀립니다. 오늘 소식은 에이전트를 하나 더 늘리기 전에 '그래서 내 쪽에서 먼저 막히는 게 무엇인지'를 한 번 짚어 보시는 데 참고하시면 좋겠어요. 1) 아스트라는 세게 돌릴수록 좋아지는 게 아니에요 오픈AI 공식 모델 문서에 적힌 GPT-6 아스트라(Astra) 제…"
         }
       ],
-      "fetched_at": "2026-10-14T00:30:45.593Z"
+      "fetched_at": "2026-10-15T00:35:04.683Z"
     },
     {
       "id": "549068f93772",
