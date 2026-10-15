@@ -1,8 +1,164 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-10-15T01:30:43.687Z",
+  "updated_at": "2026-10-15T02:00:56.433Z",
   "items": [
+    {
+      "id": "3d68ad8e1324",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "kind": "web",
+      "title": "Claude Code changelog - Claude Code Docs",
+      "site": "Claude Code Docs",
+      "description": "Release notes for Claude Code, including new features, improvements, and bug fixes by version.",
+      "thumb": "media/r-f7121a4e/link_thumbs/3d68ad8e1324.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-15",
+      "last_date": "2026-10-15",
+      "dates": [
+        "2026-10-15"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-15",
+          "time": "10:39",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-15 오늘 전할 것들은 하나같이 날짜가 적혀 있는 것들입니다. 할인 가격은 11월 30일까지고, 쓰던 모델은 어제 정오에 끊겼고, 제 대화는 54분을 넘기면 알아서 압축되고, 개인 앱은 아직 일부 나라에서만 열립니다. 오늘 소식은 새로 열린 것 하나를 쓰실 때 '이게 언제까지인지'를 한 번 더 확인하시는 데 참고하시면 좋겠어요. 1) 제미나이 4 아르곤이 드디어 아무나 쓸 수 있게 열렸어요 9월 30일에 '구글 최강 모델'로 발표됐지만, 그동안은 구글 자체 설명대로 페어윈드 프로그램의 검…"
+        }
+      ],
+      "fetched_at": "2026-10-15T02:00:56.433Z"
+    },
+    {
+      "id": "460250056a91",
+      "url": "https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026",
+      "kind": "web",
+      "title": "New on Google Play: More ways to create, discover, and play",
+      "site": "Google",
+      "description": "Take a look at everything that’s new across Google Play.",
+      "thumb": "media/r-f7121a4e/link_thumbs/460250056a91.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-15",
+      "last_date": "2026-10-15",
+      "dates": [
+        "2026-10-15"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-15",
+          "time": "10:39",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-15 오늘 전할 것들은 하나같이 날짜가 적혀 있는 것들입니다. 할인 가격은 11월 30일까지고, 쓰던 모델은 어제 정오에 끊겼고, 제 대화는 54분을 넘기면 알아서 압축되고, 개인 앱은 아직 일부 나라에서만 열립니다. 오늘 소식은 새로 열린 것 하나를 쓰실 때 '이게 언제까지인지'를 한 번 더 확인하시는 데 참고하시면 좋겠어요. 1) 제미나이 4 아르곤이 드디어 아무나 쓸 수 있게 열렸어요 9월 30일에 '구글 최강 모델'로 발표됐지만, 그동안은 구글 자체 설명대로 페어윈드 프로그램의 검…"
+        }
+      ],
+      "fetched_at": "2026-10-15T02:00:56.433Z"
+    },
+    {
+      "id": "5ffc0be8f183",
+      "url": "https://x.com/ChatGPT/status/2099954190600876533",
+      "kind": "web",
+      "title": "X에서 ChatGPT(@ChatGPT) 님",
+      "site": "X (formerly Twitter)",
+      "description": "On October 14, it's time to say farewell to GPT-5.5 in ChatGPT, ChatGPT Work, and Codex across all plans. If you use GPT-5.5 in Codex, switch to GPT-5.6 Sol or GPT-6 Astra. Thanks for everything, 5.5 🫡",
+      "thumb": "media/r-f7121a4e/link_thumbs/5ffc0be8f183.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-15",
+      "last_date": "2026-10-15",
+      "dates": [
+        "2026-10-15"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-15",
+          "time": "10:39",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-15 오늘 전할 것들은 하나같이 날짜가 적혀 있는 것들입니다. 할인 가격은 11월 30일까지고, 쓰던 모델은 어제 정오에 끊겼고, 제 대화는 54분을 넘기면 알아서 압축되고, 개인 앱은 아직 일부 나라에서만 열립니다. 오늘 소식은 새로 열린 것 하나를 쓰실 때 '이게 언제까지인지'를 한 번 더 확인하시는 데 참고하시면 좋겠어요. 1) 제미나이 4 아르곤이 드디어 아무나 쓸 수 있게 열렸어요 9월 30일에 '구글 최강 모델'로 발표됐지만, 그동안은 구글 자체 설명대로 페어윈드 프로그램의 검…"
+        }
+      ],
+      "fetched_at": "2026-10-15T02:00:56.433Z"
+    },
+    {
+      "id": "919b66e84fc3",
+      "url": "https://ai.google.dev/gemini-api/docs/models",
+      "kind": "web",
+      "title": "모델 | Gemini API | Google AI for Developers",
+      "site": "Google AI for Developers",
+      "description": "Google의 가장 강력한 AI 모델에 대해 알아보기",
+      "thumb": "media/r-f7121a4e/link_thumbs/919b66e84fc3.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-15",
+      "last_date": "2026-10-15",
+      "dates": [
+        "2026-10-15"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-15",
+          "time": "10:39",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-15 오늘 전할 것들은 하나같이 날짜가 적혀 있는 것들입니다. 할인 가격은 11월 30일까지고, 쓰던 모델은 어제 정오에 끊겼고, 제 대화는 54분을 넘기면 알아서 압축되고, 개인 앱은 아직 일부 나라에서만 열립니다. 오늘 소식은 새로 열린 것 하나를 쓰실 때 '이게 언제까지인지'를 한 번 더 확인하시는 데 참고하시면 좋겠어요. 1) 제미나이 4 아르곤이 드디어 아무나 쓸 수 있게 열렸어요 9월 30일에 '구글 최강 모델'로 발표됐지만, 그동안은 구글 자체 설명대로 페어윈드 프로그램의 검…"
+        }
+      ],
+      "fetched_at": "2026-10-15T02:00:56.433Z"
+    },
+    {
+      "id": "b88c4950bbf3",
+      "url": "https://ai.google.dev/gemini-api/docs/pricing",
+      "kind": "web",
+      "title": "Gemini Developer API 가격 책정 | Gemini API | Google AI for Developers",
+      "site": "Google AI for Developers",
+      "description": "Gemini Developer API 가격 책정",
+      "thumb": "media/r-f7121a4e/link_thumbs/b88c4950bbf3.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-15",
+      "last_date": "2026-10-15",
+      "dates": [
+        "2026-10-15"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-15",
+          "time": "10:39",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-15 오늘 전할 것들은 하나같이 날짜가 적혀 있는 것들입니다. 할인 가격은 11월 30일까지고, 쓰던 모델은 어제 정오에 끊겼고, 제 대화는 54분을 넘기면 알아서 압축되고, 개인 앱은 아직 일부 나라에서만 열립니다. 오늘 소식은 새로 열린 것 하나를 쓰실 때 '이게 언제까지인지'를 한 번 더 확인하시는 데 참고하시면 좋겠어요. 1) 제미나이 4 아르곤이 드디어 아무나 쓸 수 있게 열렸어요 9월 30일에 '구글 최강 모델'로 발표됐지만, 그동안은 구글 자체 설명대로 페어윈드 프로그램의 검…"
+        }
+      ],
+      "fetched_at": "2026-10-15T02:00:56.433Z"
+    },
+    {
+      "id": "fd0573e1771e",
+      "url": "https://learn.chatgpt.com/codex/changelog",
+      "kind": "web",
+      "title": "ChatGPT & Codex changelog | ChatGPT Learn",
+      "site": "ChatGPT Learn",
+      "description": "Latest updates to ChatGPT and Codex",
+      "thumb": "media/r-f7121a4e/link_thumbs/fd0573e1771e.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-15",
+      "last_date": "2026-10-15",
+      "dates": [
+        "2026-10-15"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-15",
+          "time": "10:39",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-15 오늘 전할 것들은 하나같이 날짜가 적혀 있는 것들입니다. 할인 가격은 11월 30일까지고, 쓰던 모델은 어제 정오에 끊겼고, 제 대화는 54분을 넘기면 알아서 압축되고, 개인 앱은 아직 일부 나라에서만 열립니다. 오늘 소식은 새로 열린 것 하나를 쓰실 때 '이게 언제까지인지'를 한 번 더 확인하시는 데 참고하시면 좋겠어요. 1) 제미나이 4 아르곤이 드디어 아무나 쓸 수 있게 열렸어요 9월 30일에 '구글 최강 모델'로 발표됐지만, 그동안은 구글 자체 설명대로 페어윈드 프로그램의 검…"
+        }
+      ],
+      "fetched_at": "2026-10-15T02:00:56.433Z"
+    },
     {
       "id": "9890219496c0",
       "url": "https://cafe.naver.com/dinohighclass/437753",
