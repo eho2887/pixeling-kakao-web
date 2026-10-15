@@ -62,6 +62,18 @@
       "thumb": "media/r-f7121a4e/thumbs/dd468012e59d.jpg",
       "mime": "image/png",
       "bytes": 2618453
+    },
+    {
+      "id": "f740c4cdfa2c",
+      "kind": "image",
+      "t": "2026-10-15T11:06:00+09:00",
+      "time": "11:06",
+      "who": "수강생",
+      "text": "노트북 화면을 촬영한 사진. 화면에 ‘ChatGPT is using your computer • Esc to cancel’ 배너가 보임.",
+      "file": "media/r-f7121a4e/f740c4cdfa2c.jpg",
+      "thumb": "media/r-f7121a4e/thumbs/f740c4cdfa2c.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2832671
     }
   ]
 }
