@@ -98,6 +98,14 @@
       "thumb": "media/r-f7121a4e/thumbs/7df54782c315.jpg",
       "mime": "image/jpeg",
       "bytes": 142608
+    },
+    {
+      "id": "ad2ebddb58eb",
+      "kind": "image",
+      "t": "2026-10-15T16:49:00+09:00",
+      "time": "16:49",
+      "who": "수강생",
+      "text": "ChatGPT 화면에 'Selected model is at capacity. Please try a different model.' 오류가 반복 표시됨."
     }
   ]
 }
