@@ -1,8 +1,164 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-10-15T02:34:16.929Z",
+  "updated_at": "2026-10-15T03:04:15.307Z",
   "items": [
+    {
+      "id": "52f0b52fa749",
+      "url": "https://cafe.naver.com/dinohighclass/437832",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-15",
+      "last_date": "2026-10-15",
+      "dates": [
+        "2026-10-15"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-15",
+          "time": "12:00",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/437832"
+        }
+      ],
+      "fetched_at": "2026-10-15T03:04:15.307Z"
+    },
+    {
+      "id": "d3875884e417",
+      "url": "https://cafe.naver.com/dinohighclass/437817",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-15",
+      "last_date": "2026-10-15",
+      "dates": [
+        "2026-10-15"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-15",
+          "time": "12:00",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/437817"
+        }
+      ],
+      "fetched_at": "2026-10-15T03:04:15.307Z"
+    },
+    {
+      "id": "9da5889c8619",
+      "url": "https://cafe.naver.com/dinohighclass/437808",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-15",
+      "last_date": "2026-10-15",
+      "dates": [
+        "2026-10-15"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-15",
+          "time": "11:58",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/437808"
+        }
+      ],
+      "fetched_at": "2026-10-15T03:04:15.307Z"
+    },
+    {
+      "id": "31ef25f01617",
+      "url": "https://cafe.naver.com/dinohighclass/437747",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-15",
+      "last_date": "2026-10-15",
+      "dates": [
+        "2026-10-15"
+      ],
+      "mention_count": 2,
+      "contexts": [
+        {
+          "date": "2026-10-15",
+          "time": "11:56",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/437747"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "10:17",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/437747"
+        }
+      ],
+      "fetched_at": "2026-10-15T01:23:40.503Z"
+    },
+    {
+      "id": "ac6faaef822e",
+      "url": "https://cafe.naver.com/dinohighclass/437827",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-15",
+      "last_date": "2026-10-15",
+      "dates": [
+        "2026-10-15"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-15",
+          "time": "11:54",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/437827"
+        }
+      ],
+      "fetched_at": "2026-10-15T03:04:15.307Z"
+    },
+    {
+      "id": "86d2c2e6ba3b",
+      "url": "https://notebook.google.com/notebook/0b5e4f5e-8108-412c-923d-79914434cec2",
+      "kind": "web",
+      "site": "notebook.google.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-11",
+      "last_date": "2026-10-15",
+      "dates": [
+        "2026-10-11",
+        "2026-10-15"
+      ],
+      "mention_count": 2,
+      "contexts": [
+        {
+          "date": "2026-10-15",
+          "time": "11:53",
+          "who": "수강생",
+          "text": "https://notebook.google.com/notebook/0b5e4f5e-8108-412c-923d-79914434cec2 이걸로 하세요"
+        },
+        {
+          "date": "2026-10-11",
+          "time": "23:13",
+          "who": "수강생",
+          "text": "https://notebook.google.com/notebook/0b5e4f5e-8108-412c-923d-79914434cec2 => 공지방에 룰쎔이 올려주신건데요 권한을 요청하라고 나오는데 저만 그런걸까요???"
+        }
+      ],
+      "fetched_at": "2026-10-12T00:17:04.707Z"
+    },
     {
       "id": "6000ea2cda32",
       "url": "https://cafe.naver.com/dinohighclass/437796",
@@ -251,30 +407,6 @@
           "time": "10:21",
           "who": "수강생",
           "text": "https://cafe.naver.com/dinohighclass/437750"
-        }
-      ],
-      "fetched_at": "2026-10-15T01:23:40.503Z"
-    },
-    {
-      "id": "31ef25f01617",
-      "url": "https://cafe.naver.com/dinohighclass/437747",
-      "kind": "cafe",
-      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
-      "site": "cafe.naver.com",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-15",
-      "last_date": "2026-10-15",
-      "dates": [
-        "2026-10-15"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-15",
-          "time": "10:17",
-          "who": "수강생",
-          "text": "https://cafe.naver.com/dinohighclass/437747"
         }
       ],
       "fetched_at": "2026-10-15T01:23:40.503Z"
@@ -14707,29 +14839,6 @@
         }
       ],
       "fetched_at": "2026-10-11T23:35:54.591Z"
-    },
-    {
-      "id": "86d2c2e6ba3b",
-      "url": "https://notebook.google.com/notebook/0b5e4f5e-8108-412c-923d-79914434cec2",
-      "kind": "web",
-      "site": "notebook.google.com",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-11",
-      "last_date": "2026-10-11",
-      "dates": [
-        "2026-10-11"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-11",
-          "time": "23:13",
-          "who": "수강생",
-          "text": "https://notebook.google.com/notebook/0b5e4f5e-8108-412c-923d-79914434cec2 => 공지방에 룰쎔이 올려주신건데요 권한을 요청하라고 나오는데 저만 그런걸까요???"
-        }
-      ],
-      "fetched_at": "2026-10-12T00:17:04.707Z"
     },
     {
       "id": "2e0e4bc9424c",
