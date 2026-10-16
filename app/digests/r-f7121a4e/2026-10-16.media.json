@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "room_id": "r-f7121a4e",
+  "date": "2026-10-16",
+  "items": [
+    {
+      "id": "2d518754dd67",
+      "kind": "image",
+      "t": "2026-10-16T13:13:00+09:00",
+      "time": "13:13",
+      "who": "수강생",
+      "text": "YouTube Studio 소유권 주장 개요 화면 캡처. 발생한 문제, 이 동영상에서 저작권 보호 콘텐츠가 발견되었습니다, 동영상이 모든 국가에서 차단됨, 채널에 미치는 영향 없음, 저작권 위반 경고가 아닙니다가 보임. 소유권 주장 항목: Legends Never Die / League of Legends, Against The Current / 음악 / 저작권. 함께 적힌 본문: 브금 때문에 이렇게 뜬 거 같은데 이거 그대로 올리면 노출 안되는건가요~??",
+      "file": "media/r-f7121a4e/2d518754dd67.png",
+      "thumb": "media/r-f7121a4e/thumbs/2d518754dd67.jpg",
+      "mime": "image/png",
+      "bytes": 43475
+    },
+    {
+      "id": "19dcd87f1863",
+      "kind": "image",
+      "t": "2026-10-16T13:14:00+09:00",
+      "time": "13:14",
+      "who": "수강생",
+      "text": "YouTube Studio 검토 화면 캡처. 저작권 항목에 이 동영상에서 저작권 소유자가 설정한 길이 제한을 초과하는 소유권 주장이 제기된 콘텐츠가 발견되었습니다. 이로 인해 하루 동안 이 동영상을 시청할 수 없습니다 문구가 보임.",
+      "file": "media/r-f7121a4e/19dcd87f1863.png",
+      "thumb": "media/r-f7121a4e/thumbs/19dcd87f1863.jpg",
+      "mime": "image/png",
+      "bytes": 29786
+    },
+    {
+      "id": "42031d5651bd",
+      "kind": "image",
+      "t": "2026-10-16T13:14:00+09:00",
+      "time": "13:14",
+      "who": "수강생",
+      "text": "YouTube 파트너 프로그램 알림 화면 캡처. YouTube 파트너 프로그램에 오신 것을 환영합니다 - 축하드립니다. 다음 단계를 알려드립니다. (12:08 PM)이 보임. 함께 적힌 본문: 채널 하나 더 수창 됐네요 휴",
+      "file": "media/r-f7121a4e/42031d5651bd.png",
+      "thumb": "media/r-f7121a4e/thumbs/42031d5651bd.jpg",
+      "mime": "image/png",
+      "bytes": 7742
+    }
+  ]
+}
