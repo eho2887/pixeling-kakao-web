@@ -1,8 +1,33 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-10-16T01:36:37.587Z",
+  "updated_at": "2026-10-16T02:12:53.960Z",
   "items": [
+    {
+      "id": "03ee5df778e7",
+      "url": "https://gazua.banpo.workers.dev/download",
+      "kind": "web",
+      "title": "반포자이가즈아 받기",
+      "site": "gazua.banpo.workers.dev",
+      "description": "대본을 넣으면 장면마다 그림을 그려 Vrew 파일로 만들어 드려요. Windows·Mac 설치 파일을 받는 곳이에요.",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-16",
+      "last_date": "2026-10-16",
+      "dates": [
+        "2026-10-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-16",
+          "time": "10:36",
+          "who": "수강생",
+          "text": "[롱폼 자동화 프로그램 설치 안내] 반포자이가즈아 아래 링크에서 설치 파일을 받으실 수 있고, 설치 방법도 단계별로 자세히 정리해 두었습니다. 👉 https://gazua.banpo.workers.dev/download ■ 설치가 안 되시나요? 아래 3가지를 메일로 보내 주시면 확인 후 도와드리겠습니다. 1. 막힌 화면 사진 - 휴대폰으로 모니터를 찍어 주셔도 괜찮습니다. 2. 어느 단계에서 막혔는지 ① 다운로드가 안 됨 ② 받은 파일을 눌러도 아무 반응이 없음 ③ 파란색 경고창이 뜸 ④ 설치 도중 멈춤 ⑤ 설치는 됐는데 앱이 실…"
+        }
+      ],
+      "fetched_at": "2026-10-16T02:12:53.960Z"
+    },
     {
       "id": "1ee2a5fdfc54",
       "url": "https://dev.meta.ai/install.sh",
