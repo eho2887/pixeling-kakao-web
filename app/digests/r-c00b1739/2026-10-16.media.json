@@ -35,6 +35,15 @@
       "thumb": "media/r-c00b1739/thumbs/8b6cfec06275.jpg",
       "mime": "image/png",
       "bytes": 155621
+    },
+    {
+      "id": "6e7b9197bd24",
+      "kind": "image",
+      "t": "2026-10-16T14:15:00+09:00",
+      "time": "14:15",
+      "who": "수강생",
+      "text": "프로그램 승인 화면 캡처. ‘승인 요청하기’, ‘승인 확인’, ‘방금 확인했어요.’ 표시가 보임.",
+      "sensitive": true
     }
   ]
 }
