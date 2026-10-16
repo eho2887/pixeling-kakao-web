@@ -1,8 +1,266 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-10-16T00:36:00.599Z",
+  "updated_at": "2026-10-16T01:06:28.788Z",
   "items": [
+    {
+      "id": "e4fc931fcbf6",
+      "url": "https://naver.me/5imoRuoL",
+      "kind": "web",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "naver.me",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-16",
+      "last_date": "2026-10-16",
+      "dates": [
+        "2026-10-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-16",
+          "time": "09:46",
+          "who": "수강생",
+          "text": "https://naver.me/5imoRuoL"
+        }
+      ],
+      "fetched_at": "2026-10-16T01:06:28.788Z"
+    },
+    {
+      "id": "4f09f32ceef1",
+      "url": "https://naver.me/GqflSReP",
+      "kind": "web",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "naver.me",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-16",
+      "last_date": "2026-10-16",
+      "dates": [
+        "2026-10-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-16",
+          "time": "09:45",
+          "who": "수강생",
+          "text": "https://naver.me/GqflSReP"
+        }
+      ],
+      "fetched_at": "2026-10-16T01:06:28.788Z"
+    },
+    {
+      "id": "1ee2a5fdfc54",
+      "url": "https://dev.meta.ai/install.sh",
+      "kind": "web",
+      "site": "dev.meta.ai",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-16",
+      "last_date": "2026-10-16",
+      "dates": [
+        "2026-10-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-16",
+          "time": "09:42",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-16 오늘 전할 것들은 하나같이 '여러 개를 묶는 쪽'과 '묶인 것을 하나씩 고정해 두는 쪽'으로 갈립니다. 하이드라퓨전은 모델 네 개를 묶어 답 하나를 내고, 뮤즈 코드는 모델과 에이전트를 한 구독에 묶고, 리플릿은 프로젝트 여러 개를 채팅 하나에 묶습니다. 반대로 액션 락파일은 의존성을 커밋 하나에 못 박고, 클로드 코드는 무인 모드가 하염없이 기다리지 않도록 상한을 박습니다. 오늘 소식은 새로 묶인 것 하나를 쓰실 때 '그 안에서 무엇이 고정돼 있고 무엇이 그날그날 달라지는지'를 한…"
+        }
+      ],
+      "fetched_at": "2026-10-16T01:06:28.788Z"
+    },
+    {
+      "id": "3d68ad8e1324",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "kind": "web",
+      "title": "Claude Code changelog - Claude Code Docs",
+      "site": "Claude Code Docs",
+      "description": "Release notes for Claude Code, including new features, improvements, and bug fixes by version.",
+      "thumb": "media/r-f7121a4e/link_thumbs/3d68ad8e1324.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-15",
+      "last_date": "2026-10-16",
+      "dates": [
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "mention_count": 2,
+      "contexts": [
+        {
+          "date": "2026-10-16",
+          "time": "09:42",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-16 오늘 전할 것들은 하나같이 '여러 개를 묶는 쪽'과 '묶인 것을 하나씩 고정해 두는 쪽'으로 갈립니다. 하이드라퓨전은 모델 네 개를 묶어 답 하나를 내고, 뮤즈 코드는 모델과 에이전트를 한 구독에 묶고, 리플릿은 프로젝트 여러 개를 채팅 하나에 묶습니다. 반대로 액션 락파일은 의존성을 커밋 하나에 못 박고, 클로드 코드는 무인 모드가 하염없이 기다리지 않도록 상한을 박습니다. 오늘 소식은 새로 묶인 것 하나를 쓰실 때 '그 안에서 무엇이 고정돼 있고 무엇이 그날그날 달라지는지'를 한…"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "10:39",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-15 오늘 전할 것들은 하나같이 날짜가 적혀 있는 것들입니다. 할인 가격은 11월 30일까지고, 쓰던 모델은 어제 정오에 끊겼고, 제 대화는 54분을 넘기면 알아서 압축되고, 개인 앱은 아직 일부 나라에서만 열립니다. 오늘 소식은 새로 열린 것 하나를 쓰실 때 '이게 언제까지인지'를 한 번 더 확인하시는 데 참고하시면 좋겠어요. 1) 제미나이 4 아르곤이 드디어 아무나 쓸 수 있게 열렸어요 9월 30일에 '구글 최강 모델'로 발표됐지만, 그동안은 구글 자체 설명대로 페어윈드 프로그램의 검…"
+        }
+      ],
+      "fetched_at": "2026-10-15T02:00:56.433Z"
+    },
+    {
+      "id": "b20a569689e7",
+      "url": "https://x.com/Replit/status/2110063308007157960",
+      "kind": "web",
+      "title": "X에서 Replit ⠕(@Replit) 님",
+      "site": "X (formerly Twitter)",
+      "description": "You came for the cute puppy. Stay for what you can create. 🐶 Introducing Runway for web design. Connect @runwayml 🤝 @Replit to generate images, video, and assets directly inside your project, from first idea to finished site. Connect in seconds: https://t.co/lKzqEu7wUa",
+      "thumb": "media/r-f7121a4e/link_thumbs/b20a569689e7.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-16",
+      "last_date": "2026-10-16",
+      "dates": [
+        "2026-10-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-16",
+          "time": "09:42",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-16 오늘 전할 것들은 하나같이 '여러 개를 묶는 쪽'과 '묶인 것을 하나씩 고정해 두는 쪽'으로 갈립니다. 하이드라퓨전은 모델 네 개를 묶어 답 하나를 내고, 뮤즈 코드는 모델과 에이전트를 한 구독에 묶고, 리플릿은 프로젝트 여러 개를 채팅 하나에 묶습니다. 반대로 액션 락파일은 의존성을 커밋 하나에 못 박고, 클로드 코드는 무인 모드가 하염없이 기다리지 않도록 상한을 박습니다. 오늘 소식은 새로 묶인 것 하나를 쓰실 때 '그 안에서 무엇이 고정돼 있고 무엇이 그날그날 달라지는지'를 한…"
+        }
+      ],
+      "fetched_at": "2026-10-16T01:06:28.788Z"
+    },
+    {
+      "id": "dd39bbc32cfc",
+      "url": "https://docs.replit.com/updates",
+      "kind": "web",
+      "title": "October 9, 2026 - Replit",
+      "site": "Replit Docs",
+      "description": "1 min read",
+      "thumb": "media/r-f7121a4e/link_thumbs/dd39bbc32cfc.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-16",
+      "last_date": "2026-10-16",
+      "dates": [
+        "2026-10-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-16",
+          "time": "09:42",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-16 오늘 전할 것들은 하나같이 '여러 개를 묶는 쪽'과 '묶인 것을 하나씩 고정해 두는 쪽'으로 갈립니다. 하이드라퓨전은 모델 네 개를 묶어 답 하나를 내고, 뮤즈 코드는 모델과 에이전트를 한 구독에 묶고, 리플릿은 프로젝트 여러 개를 채팅 하나에 묶습니다. 반대로 액션 락파일은 의존성을 커밋 하나에 못 박고, 클로드 코드는 무인 모드가 하염없이 기다리지 않도록 상한을 박습니다. 오늘 소식은 새로 묶인 것 하나를 쓰실 때 '그 안에서 무엇이 고정돼 있고 무엇이 그날그날 달라지는지'를 한…"
+        }
+      ],
+      "fetched_at": "2026-10-16T01:06:28.788Z"
+    },
+    {
+      "id": "f5fa4d6131d7",
+      "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+      "kind": "web",
+      "title": "GitHub Actions workflow lockfiles in public preview - GitHub Changelog",
+      "site": "The GitHub Blog",
+      "description": "GitHub Actions workflow dependency lockfiles are now in public preview for GitHub Enterprise Cloud, GitHub Enterprise Cloud with data residency, Team, and Free plans. Tags and branches can move after…",
+      "thumb": "media/r-f7121a4e/link_thumbs/f5fa4d6131d7.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-16",
+      "last_date": "2026-10-16",
+      "dates": [
+        "2026-10-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-16",
+          "time": "09:42",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-16 오늘 전할 것들은 하나같이 '여러 개를 묶는 쪽'과 '묶인 것을 하나씩 고정해 두는 쪽'으로 갈립니다. 하이드라퓨전은 모델 네 개를 묶어 답 하나를 내고, 뮤즈 코드는 모델과 에이전트를 한 구독에 묶고, 리플릿은 프로젝트 여러 개를 채팅 하나에 묶습니다. 반대로 액션 락파일은 의존성을 커밋 하나에 못 박고, 클로드 코드는 무인 모드가 하염없이 기다리지 않도록 상한을 박습니다. 오늘 소식은 새로 묶인 것 하나를 쓰실 때 '그 안에서 무엇이 고정돼 있고 무엇이 그날그날 달라지는지'를 한…"
+        }
+      ],
+      "fetched_at": "2026-10-16T01:06:28.788Z"
+    },
+    {
+      "id": "ff9cd4b3cf4f",
+      "url": "https://dev.meta.ai/products/muse-code",
+      "kind": "web",
+      "title": "Muse Code | Meta",
+      "site": "Meta Model API",
+      "description": "Explore performance benchmarks for Muse Spark. Competitive coding, reasoning, and agentic performance with multimodal understanding.",
+      "thumb": "media/r-f7121a4e/link_thumbs/ff9cd4b3cf4f.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-16",
+      "last_date": "2026-10-16",
+      "dates": [
+        "2026-10-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-16",
+          "time": "09:42",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-16 오늘 전할 것들은 하나같이 '여러 개를 묶는 쪽'과 '묶인 것을 하나씩 고정해 두는 쪽'으로 갈립니다. 하이드라퓨전은 모델 네 개를 묶어 답 하나를 내고, 뮤즈 코드는 모델과 에이전트를 한 구독에 묶고, 리플릿은 프로젝트 여러 개를 채팅 하나에 묶습니다. 반대로 액션 락파일은 의존성을 커밋 하나에 못 박고, 클로드 코드는 무인 모드가 하염없이 기다리지 않도록 상한을 박습니다. 오늘 소식은 새로 묶인 것 하나를 쓰실 때 '그 안에서 무엇이 고정돼 있고 무엇이 그날그날 달라지는지'를 한…"
+        }
+      ],
+      "fetched_at": "2026-10-16T01:06:28.788Z"
+    },
+    {
+      "id": "ffb5a326c8ee",
+      "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+      "kind": "web",
+      "title": "HydraFusion updates and new Max option - GitHub Changelog",
+      "site": "The GitHub Blog",
+      "description": "HydraFusion has an updated model pool, improved orchestration workflows, and introduces HydraFusion Max. Both HydraFusion and HydraFusion Max are available across VS Code, the GitHub Copilot app, and GitHub Copilot…",
+      "thumb": "media/r-f7121a4e/link_thumbs/ffb5a326c8ee.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-16",
+      "last_date": "2026-10-16",
+      "dates": [
+        "2026-10-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-16",
+          "time": "09:42",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-16 오늘 전할 것들은 하나같이 '여러 개를 묶는 쪽'과 '묶인 것을 하나씩 고정해 두는 쪽'으로 갈립니다. 하이드라퓨전은 모델 네 개를 묶어 답 하나를 내고, 뮤즈 코드는 모델과 에이전트를 한 구독에 묶고, 리플릿은 프로젝트 여러 개를 채팅 하나에 묶습니다. 반대로 액션 락파일은 의존성을 커밋 하나에 못 박고, 클로드 코드는 무인 모드가 하염없이 기다리지 않도록 상한을 박습니다. 오늘 소식은 새로 묶인 것 하나를 쓰실 때 '그 안에서 무엇이 고정돼 있고 무엇이 그날그날 달라지는지'를 한…"
+        }
+      ],
+      "fetched_at": "2026-10-16T01:06:28.788Z"
+    },
+    {
+      "id": "dd3de327890a",
+      "url": "https://cafe.naver.com/dinohighclass/439275",
+      "kind": "cafe",
+      "title": "디지털노마드 하이클래스 - 디하클 (유튜브, AI, N잡) : 네이버 카페",
+      "site": "cafe.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-16",
+      "last_date": "2026-10-16",
+      "dates": [
+        "2026-10-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-16",
+          "time": "09:30",
+          "who": "수강생",
+          "text": "https://cafe.naver.com/dinohighclass/439275"
+        }
+      ],
+      "fetched_at": "2026-10-16T01:06:28.788Z"
+    },
     {
       "id": "f8e57cd785d5",
       "url": "https://cafe.naver.com/dinohighclass/439070",
@@ -1658,32 +1916,6 @@
         }
       ],
       "fetched_at": "2026-10-15T02:34:16.929Z"
-    },
-    {
-      "id": "3d68ad8e1324",
-      "url": "https://code.claude.com/docs/en/changelog",
-      "kind": "web",
-      "title": "Claude Code changelog - Claude Code Docs",
-      "site": "Claude Code Docs",
-      "description": "Release notes for Claude Code, including new features, improvements, and bug fixes by version.",
-      "thumb": "media/r-f7121a4e/link_thumbs/3d68ad8e1324.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-15",
-      "last_date": "2026-10-15",
-      "dates": [
-        "2026-10-15"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-15",
-          "time": "10:39",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-15 오늘 전할 것들은 하나같이 날짜가 적혀 있는 것들입니다. 할인 가격은 11월 30일까지고, 쓰던 모델은 어제 정오에 끊겼고, 제 대화는 54분을 넘기면 알아서 압축되고, 개인 앱은 아직 일부 나라에서만 열립니다. 오늘 소식은 새로 열린 것 하나를 쓰실 때 '이게 언제까지인지'를 한 번 더 확인하시는 데 참고하시면 좋겠어요. 1) 제미나이 4 아르곤이 드디어 아무나 쓸 수 있게 열렸어요 9월 30일에 '구글 최강 모델'로 발표됐지만, 그동안은 구글 자체 설명대로 페어윈드 프로그램의 검…"
-        }
-      ],
-      "fetched_at": "2026-10-15T02:00:56.433Z"
     },
     {
       "id": "460250056a91",
