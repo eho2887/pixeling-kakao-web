@@ -23,6 +23,18 @@
       "thumb": "media/r-c00b1739/thumbs/39405becbf15.jpg",
       "mime": "image/jpeg",
       "bytes": 55149
+    },
+    {
+      "id": "8b6cfec06275",
+      "kind": "image",
+      "t": "2026-10-16T13:25:00+09:00",
+      "time": "13:25",
+      "who": "수강생",
+      "text": "사용설명서의 3단계 ‘계정 연결’ 화면 캡처. ‘계정 연결’, ‘GPT 연결하기’, ‘Grok 연결하기’가 보이고 GPT 사용량은 37% 남았음으로 표시됨.",
+      "file": "media/r-c00b1739/8b6cfec06275.png",
+      "thumb": "media/r-c00b1739/thumbs/8b6cfec06275.jpg",
+      "mime": "image/png",
+      "bytes": 155621
     }
   ]
 }

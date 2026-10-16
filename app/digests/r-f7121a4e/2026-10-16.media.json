@@ -38,6 +38,30 @@
       "thumb": "media/r-f7121a4e/thumbs/42031d5651bd.jpg",
       "mime": "image/png",
       "bytes": 7742
+    },
+    {
+      "id": "d9b10dadcf3c",
+      "kind": "image",
+      "t": "2026-10-16T13:33:00+09:00",
+      "time": "13:33",
+      "who": "수강생",
+      "text": "번역 화면 캡처. “Possible Codex reset by Oct 17, 05:00 UTC”와 “10월 17일 05:00 UTC를 기준으로 Codex 시스템 재설정이 가능합니다.”가 보임.",
+      "file": "media/r-f7121a4e/d9b10dadcf3c.jpg",
+      "thumb": "media/r-f7121a4e/thumbs/d9b10dadcf3c.jpg",
+      "mime": "image/jpeg",
+      "bytes": 66429
+    },
+    {
+      "id": "c4212725fd28",
+      "kind": "image",
+      "t": "2026-10-16T13:34:00+09:00",
+      "time": "13:34",
+      "who": "수강생",
+      "text": "Google 검색 결과 캡처. 검색어 “utc기준 10월17일 새벽5시”. “대한민국 표준시(KST) 기준으로 10월 17일 오후 2시(14:00)입니다.”, “한국(KST)은 협정 세계시(UTC)보다 9시간 빠릅니다.”와 UTC 10월 17일 05:00, KST 10월 17일 14:00이 보임.",
+      "file": "media/r-f7121a4e/c4212725fd28.jpg",
+      "thumb": "media/r-f7121a4e/thumbs/c4212725fd28.jpg",
+      "mime": "image/jpeg",
+      "bytes": 128993
     }
   ]
 }
