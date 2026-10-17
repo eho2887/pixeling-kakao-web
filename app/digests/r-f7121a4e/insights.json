@@ -2,14 +2,14 @@
   "schema_version": 1,
   "room_name": "(전체반) [쇼츠투벤츠] 5기 (1~5기 통합방)",
   "label": "쇼츠투벤츠 통합반",
-  "today": "2026-10-16",
+  "today": "2026-10-17",
   "missed_after_days": 2,
   "stale_after_days": 21,
   "counts": {
     "know_how": 13,
-    "need": 6,
-    "missed": 65,
-    "question": 58
+    "need": 3,
+    "missed": 75,
+    "question": 52
   },
   "sections": {
     "know_how": [
@@ -548,109 +548,6 @@
         ]
       },
       {
-        "key": "자동업로드-승인검토-차단",
-        "kind": "need",
-        "title": "자동승인검토가 업로드를 반복 차단하는 문제 확인 필요",
-        "detail": "아스트라가 자동승인검토 차단을 이유로 자동 업로드를 반복 거부한다는 지원 요청이다. 강사는 픽셀링에서 사용하는 아스트라인지 되묻고 확인을 요청했다. 원인 설명이나 실제 해결 결과는 나오지 않았다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 4,
-        "tags": [
-          "자동업로드",
-          "아스트라",
-          "승인검토"
-        ],
-        "first_date": "2026-10-15",
-        "last_date": "2026-10-15",
-        "dates": [
-          "2026-10-15"
-        ],
-        "mention_count": 2,
-        "evidence": [
-          {
-            "date": "2026-10-15",
-            "time": "13:50",
-            "who": "수강생",
-            "quote": "아스트라 자동승인검토가 자꾸 차단시킨다고 자동업로드를 자꾸 거부하는데 혹시 저만 이런가요?"
-          },
-          {
-            "date": "2026-10-15",
-            "time": "13:55",
-            "who": "강사",
-            "quote": "픽셀링에서 사용하는 아스트라이신가용? @수강생 확인 부탁드려요 !"
-          }
-        ]
-      },
-      {
-        "key": "픽셀링-자동업로드-연동안내",
-        "kind": "need",
-        "title": "지피티에서는 되는 자동 업로드의 픽셀링 안내 필요",
-        "detail": "지피티에서는 바로 되는 자동 업로드를 픽셀링에서 진행하려다 막혔다는 요청이다. 수강생은 전날 강의에서 다음 주에 되게 해준다고 들었다고 전했다. 실제 기능 제공이나 사용 절차 안내는 확인되지 않았다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 4,
-        "tags": [
-          "픽셀링",
-          "자동업로드",
-          "기능안내"
-        ],
-        "first_date": "2026-10-15",
-        "last_date": "2026-10-15",
-        "dates": [
-          "2026-10-15"
-        ],
-        "mention_count": 1,
-        "evidence": [
-          {
-            "date": "2026-10-15",
-            "time": "15:41",
-            "who": "수강생",
-            "quote": "혹시 자동업로드 하고 계시는 분들 픽셀링에서 바로 자동업로드까지 진행하고 계신가요?"
-          }
-        ]
-      },
-      {
-        "key": "픽셀링-구버전-다운로드안내",
-        "kind": "need",
-        "title": "구버전 픽셀링 재설치 여부와 기존 리스트 처리 안내 필요",
-        "detail": "공지화면이 떠서 새로 다운로드해야 하는지 혼동한 수강생이 구버전 다운로드 위치와 기존 리스트업 자료의 정리 여부를 물었다. 문답을 통해 대상은 아스트라를 쓰는 새 앱이 아니라 프리미엄일괄생성 기능이 있던 이전 앱임이 확인됐다. 다운로드 경로나 기존 자료 처리 방법은 안내되지 않았다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 3,
-        "tags": [
-          "픽셀링",
-          "구버전",
-          "설치",
-          "자료보존"
-        ],
-        "first_date": "2026-10-15",
-        "last_date": "2026-10-15",
-        "dates": [
-          "2026-10-15"
-        ],
-        "mention_count": 2,
-        "evidence": [
-          {
-            "date": "2026-10-15",
-            "time": "17:32",
-            "who": "수강생",
-            "quote": "기존 픽셀링 뉴데스크탑 다운로드하려는데, 어디에 있을까요~? 그리고 기존 리스트업 해논거도 다 정리해야 할까요~?"
-          },
-          {
-            "date": "2026-10-15",
-            "time": "17:34",
-            "who": "수강생",
-            "quote": "기존 픽셀링 뉴데스크탑 이라는게 아스트라를 이용하는 새 픽셀링 앱이 아니라, 프리미엄일괄생성 등의 기능이 있던 이전의 픽셀링 앱을 말씀하시는걸까요?"
-          }
-        ]
-      },
-      {
         "key": "계정잠김-이의신청-문안",
         "kind": "need",
         "title": "계정 잠김 이의신청 문안은 조교가 재공유",
@@ -791,7 +688,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 3
+        "days_open": 4
       },
       {
         "key": "재사용-항소영상-참고자료",
@@ -852,7 +749,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "픽셀링-로그인-문의불가",
@@ -913,7 +810,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "일대일방-정원초과-문의",
@@ -975,7 +872,149 @@
           }
         ],
         "origin": "missed",
-        "days_open": 5
+        "days_open": 6
+      },
+      {
+        "key": "ai롱폼-아동등장-수익화",
+        "kind": "question",
+        "title": "AI 시니어 사연에 아동이 등장하면 수익화 위험인가?",
+        "detail": "시니어 사연 롱폼 전체를 AI 영상으로 제작할 때 아이가 등장하면 수익 창출에 위험이 있는지 물었다. 해당 조건에 대한 답이나 판단 기준은 나오지 않았다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 5,
+        "tags": [
+          "AI영상",
+          "롱폼",
+          "수익화",
+          "아동"
+        ],
+        "first_date": "2026-10-15",
+        "last_date": "2026-10-15",
+        "dates": [
+          "2026-10-15"
+        ],
+        "mention_count": 1,
+        "evidence": [
+          {
+            "date": "2026-10-15",
+            "time": "11:58",
+            "who": "수강생",
+            "quote": "혹시 시니어사연 이런거 롱폼으로 만들때 ai로 풀영상만드는데 아이가 들어가면 수익창출 위험? 이 있을까요?"
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 2
+      },
+      {
+        "key": "수창재도전-기존채널-소재이동",
+        "kind": "question",
+        "title": "재도전 채널의 잘되는 소재를 수창 채널로 옮겨도 될까?",
+        "detail": "수익 창출이 풀려 조건을 다시 채우는 A채널에서 조회수가 잘 나오고 있는 상황이다. 수강생은 A의 조건은 천천히 채우면서, 수익은 없지만 수익 창출 상태인 일본 팬튜브 B채널에 올릴지 물었다. 채널 선택이나 소재 이동에 대한 답은 없었다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 5,
+        "tags": [
+          "수익화",
+          "채널운영",
+          "팬튜브"
+        ],
+        "first_date": "2026-10-15",
+        "last_date": "2026-10-15",
+        "dates": [
+          "2026-10-15"
+        ],
+        "mention_count": 2,
+        "evidence": [
+          {
+            "date": "2026-10-15",
+            "time": "12:53",
+            "who": "수강생",
+            "quote": "A에 수창조건 다시 채우려고 영상 올리고 있는데 생각보다 조회수가 너무 잘 나오더라구요 근데 수창이 풀린 채널이라 조회수가 아까워서요"
+          },
+          {
+            "date": "2026-10-15",
+            "time": "12:53",
+            "who": "수강생",
+            "quote": "A수창조건 천천히 채우고 일본 팬튜브하던 채널B에 올려볼까 하는데 어떨까요?"
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 2
+      },
+      {
+        "key": "음악쇼츠-저작권-기획",
+        "kind": "question",
+        "title": "음악 관련 쇼츠를 시작할 때 저작권 판단 기준 필요",
+        "detail": "음악 관련 쇼츠를 기획하는 초보 수강생이 저작권 문제가 많은지 물었다. 사용할 음악이나 영상의 출처·사용 방식은 제시되지 않았고, 판단 기준에 대한 답도 없었다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 5,
+        "tags": [
+          "음악",
+          "쇼츠",
+          "저작권"
+        ],
+        "first_date": "2026-10-15",
+        "last_date": "2026-10-15",
+        "dates": [
+          "2026-10-15"
+        ],
+        "mention_count": 1,
+        "evidence": [
+          {
+            "date": "2026-10-15",
+            "time": "17:14",
+            "who": "수강생",
+            "quote": "질문이 있는데요.. 음악관련 쇼츠를 하려고 생각했는데. 혹시 이건 저작권의 문제가 많을까요? 초보라서요"
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 2
+      },
+      {
+        "key": "플레이리스트-심사중-채널변경",
+        "kind": "question",
+        "title": "애드센스 연결 중 해외용 채널 변경 시점 확인 필요",
+        "detail": "플레이리스트 채널의 애드센스 연결 중 국내용에서 해외용으로 전환하려는 질문이다. 변경 대상은 채널명, 프로필 이미지, 배너 이미지와 영어 언어 설정이다. 제미나이로부터 심사 후 바꾸라는 답을 받았다고 했으나, 대화에서는 이를 확인하는 답이 나오지 않았다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 5,
+        "tags": [
+          "플레이리스트",
+          "애드센스",
+          "심사",
+          "채널설정"
+        ],
+        "first_date": "2026-10-15",
+        "last_date": "2026-10-15",
+        "dates": [
+          "2026-10-15"
+        ],
+        "mention_count": 2,
+        "evidence": [
+          {
+            "date": "2026-10-15",
+            "time": "12:56",
+            "who": "수강생",
+            "quote": "지금 플레이리스트 채널 애드센스 연결중인데 지금 국내용 플레이리스트 채널로 되어있는데 해외용 플레이리스트 채널로 바꿔도 될까요?"
+          },
+          {
+            "date": "2026-10-15",
+            "time": "12:56",
+            "who": "수강생",
+            "quote": "채널명, 프로필 이미지. 배너 이미지, 언어 영어로 변경할려고 했는데 제미나이한테 물어보니까 심사끝나고 바꾸라는데 심사끝나고 바꿔야 될까요?"
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 2
       },
       {
         "key": "픽셀링-컴퓨터사용-권한설명",
@@ -1038,7 +1077,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 7
+        "days_open": 8
       },
       {
         "key": "픽셀링-프로젝트-기기간동기화",
@@ -1097,7 +1136,212 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 3
+        "days_open": 4
+      },
+      {
+        "key": "자동업로드-승인검토-차단",
+        "kind": "need",
+        "title": "자동승인검토가 업로드를 반복 차단하는 문제 확인 필요",
+        "detail": "아스트라가 자동승인검토 차단을 이유로 자동 업로드를 반복 거부한다는 지원 요청이다. 강사는 픽셀링에서 사용하는 아스트라인지 되묻고 확인을 요청했다. 원인 설명이나 실제 해결 결과는 나오지 않았다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 4,
+        "tags": [
+          "자동업로드",
+          "아스트라",
+          "승인검토"
+        ],
+        "first_date": "2026-10-15",
+        "last_date": "2026-10-15",
+        "dates": [
+          "2026-10-15"
+        ],
+        "mention_count": 2,
+        "evidence": [
+          {
+            "date": "2026-10-15",
+            "time": "13:50",
+            "who": "수강생",
+            "quote": "아스트라 자동승인검토가 자꾸 차단시킨다고 자동업로드를 자꾸 거부하는데 혹시 저만 이런가요?"
+          },
+          {
+            "date": "2026-10-15",
+            "time": "13:55",
+            "who": "강사",
+            "quote": "픽셀링에서 사용하는 아스트라이신가용? @수강생 확인 부탁드려요 !"
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 2
+      },
+      {
+        "key": "픽셀링-자동업로드-연동안내",
+        "kind": "need",
+        "title": "지피티에서는 되는 자동 업로드의 픽셀링 안내 필요",
+        "detail": "지피티에서는 바로 되는 자동 업로드를 픽셀링에서 진행하려다 막혔다는 요청이다. 수강생은 전날 강의에서 다음 주에 되게 해준다고 들었다고 전했다. 실제 기능 제공이나 사용 절차 안내는 확인되지 않았다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 4,
+        "tags": [
+          "픽셀링",
+          "자동업로드",
+          "기능안내"
+        ],
+        "first_date": "2026-10-15",
+        "last_date": "2026-10-15",
+        "dates": [
+          "2026-10-15"
+        ],
+        "mention_count": 1,
+        "evidence": [
+          {
+            "date": "2026-10-15",
+            "time": "15:41",
+            "who": "수강생",
+            "quote": "혹시 자동업로드 하고 계시는 분들 픽셀링에서 바로 자동업로드까지 진행하고 계신가요?"
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 2
+      },
+      {
+        "key": "kie-api-주소설정",
+        "kind": "question",
+        "title": "KIE API 입력 아래 주소 칸에 무엇을 넣어야 하나?",
+        "detail": "KIE API를 입력했는데 주소를 다시 넣으라는 안내가 나오는 상황이다. API 아래의 주소 칸에 넣을 값에 대한 질문으로, 대화에는 입력값이나 설정 방법이 나오지 않았다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 3,
+        "tags": [
+          "KIE",
+          "API",
+          "설정"
+        ],
+        "first_date": "2026-10-15",
+        "last_date": "2026-10-15",
+        "dates": [
+          "2026-10-15"
+        ],
+        "mention_count": 1,
+        "evidence": [
+          {
+            "date": "2026-10-15",
+            "time": "17:07",
+            "who": "수강생",
+            "quote": "kie 설정했는데 주소를 다시 넣으라고 하는데요 kie api 넣고 밑에 주소는 어떤걸 넣어야 하나요?"
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 2
+      },
+      {
+        "key": "tts-파열음-제거",
+        "kind": "question",
+        "title": "TTS에 반복되는 공기 파열음 제거 방법은?",
+        "detail": "TTS 제작 시 공기 파열음 같은 소리가 계속 발생하며, 잡아 달라고 요청해도 없어지지 않는다는 질문이다. 사용 도구나 음성 설정은 제시되지 않았고, 제거 방법에 대한 답도 없었다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 3,
+        "tags": [
+          "TTS",
+          "음질",
+          "파열음"
+        ],
+        "first_date": "2026-10-15",
+        "last_date": "2026-10-15",
+        "dates": [
+          "2026-10-15"
+        ],
+        "mention_count": 1,
+        "evidence": [
+          {
+            "date": "2026-10-15",
+            "time": "11:09",
+            "who": "수강생",
+            "quote": "tts 할때 공기 파열음이라 해야하나 그게 계속 생겨서 잡아달라 해도 안잡히는데 꿀팁 있을까여"
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 2
+      },
+      {
+        "key": "랭킹쇼츠-동물소재-시작기준",
+        "kind": "question",
+        "title": "랭킹형 동물 소재를 시작할 채널력 기준은?",
+        "detail": "랭킹형 쇼츠 운영자가 동물 소재는 채널력이 쌓인 다음부터 하라고 들었으나 시작 시점을 판단하지 못하고 있다. 어느 상태부터 사용할 수 있는지에 대한 구체적인 기준은 답변되지 않았다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 3,
+        "tags": [
+          "랭킹형",
+          "동물소재",
+          "채널운영"
+        ],
+        "first_date": "2026-10-15",
+        "last_date": "2026-10-15",
+        "dates": [
+          "2026-10-15"
+        ],
+        "mention_count": 1,
+        "evidence": [
+          {
+            "date": "2026-10-15",
+            "time": "17:02",
+            "who": "수강생",
+            "quote": "제가 랭킹형 하는데요 동물 소재는 언제부터 써도 될까요? 채널력이 쌓인 다음부터 하라고 들어서 언제쯤이 좋은지 모르겠습니다"
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 2
+      },
+      {
+        "key": "픽셀링-구버전-다운로드안내",
+        "kind": "need",
+        "title": "구버전 픽셀링 재설치 여부와 기존 리스트 처리 안내 필요",
+        "detail": "공지화면이 떠서 새로 다운로드해야 하는지 혼동한 수강생이 구버전 다운로드 위치와 기존 리스트업 자료의 정리 여부를 물었다. 문답을 통해 대상은 아스트라를 쓰는 새 앱이 아니라 프리미엄일괄생성 기능이 있던 이전 앱임이 확인됐다. 다운로드 경로나 기존 자료 처리 방법은 안내되지 않았다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 3,
+        "tags": [
+          "픽셀링",
+          "구버전",
+          "설치",
+          "자료보존"
+        ],
+        "first_date": "2026-10-15",
+        "last_date": "2026-10-15",
+        "dates": [
+          "2026-10-15"
+        ],
+        "mention_count": 2,
+        "evidence": [
+          {
+            "date": "2026-10-15",
+            "time": "17:32",
+            "who": "수강생",
+            "quote": "기존 픽셀링 뉴데스크탑 다운로드하려는데, 어디에 있을까요~? 그리고 기존 리스트업 해논거도 다 정리해야 할까요~?"
+          },
+          {
+            "date": "2026-10-15",
+            "time": "17:34",
+            "who": "수강생",
+            "quote": "기존 픽셀링 뉴데스크탑 이라는게 아스트라를 이용하는 새 픽셀링 앱이 아니라, 프리미엄일괄생성 등의 기능이 있던 이전의 픽셀링 앱을 말씀하시는걸까요?"
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 2
       },
       {
         "key": "쇼츠-음악저작권-경고판단",
@@ -1158,7 +1402,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "애드센스-미국세금-명의",
@@ -1190,7 +1434,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 2
+        "days_open": 3
       },
       {
         "key": "썸네일-번호인증-제한",
@@ -1228,7 +1472,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 2
+        "days_open": 3
       },
       {
         "key": "픽셀링-대본확정-제작전환",
@@ -1273,7 +1517,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 2
+        "days_open": 3
       },
       {
         "key": "픽셀링-프로젝트-프리셋미적용",
@@ -1317,7 +1561,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 2
+        "days_open": 3
       },
       {
         "key": "서브작가-md-등록방법",
@@ -1349,7 +1593,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 2
+        "days_open": 3
       },
       {
         "key": "픽셀링-롱폼-tts정체",
@@ -1381,7 +1625,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 2
+        "days_open": 3
       },
       {
         "key": "영화채널-저작권경고-작품확인",
@@ -1420,7 +1664,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 3
+        "days_open": 4
       },
       {
         "key": "음원사이트-음악-사용조건",
@@ -1452,7 +1696,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 3
+        "days_open": 4
       },
       {
         "key": "해외채널-수익박탈-재도전",
@@ -1484,7 +1728,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 3
+        "days_open": 4
       },
       {
         "key": "ai-플레이리스트-제작안내",
@@ -1516,7 +1760,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 3
+        "days_open": 4
       },
       {
         "key": "자동업로드-쇼츠-bgm",
@@ -1548,7 +1792,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 3
+        "days_open": 4
       },
       {
         "key": "픽셀링-업로드-저화질",
@@ -1580,7 +1824,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 3
+        "days_open": 4
       },
       {
         "key": "애드센스-중복거절-재사용",
@@ -1618,7 +1862,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 4
+        "days_open": 5
       },
       {
         "key": "저작권-경고-추가업로드",
@@ -1657,7 +1901,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 4
+        "days_open": 5
       },
       {
         "key": "해외수창-관련채널-정지",
@@ -1695,7 +1939,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 4
+        "days_open": 5
       },
       {
         "key": "과제-구글시트-제출방법",
@@ -1739,7 +1983,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 4
+        "days_open": 5
       },
       {
         "key": "픽셀링-중간파일-용량정리",
@@ -1783,7 +2027,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 4
+        "days_open": 5
       },
       {
         "key": "픽셀링-프로젝트-버전관리",
@@ -1827,7 +2071,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 4
+        "days_open": 5
       },
       {
         "key": "깡계-2단계인증-가이드",
@@ -1859,7 +2103,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 4
+        "days_open": 5
       },
       {
         "key": "쇼츠-신규영상-조회수제로",
@@ -1891,7 +2135,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 4
+        "days_open": 5
       },
       {
         "key": "크롬-프로필분리-동시접속",
@@ -1923,7 +2167,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 4
+        "days_open": 5
       },
       {
         "key": "픽셀링-편집자-연결방법",
@@ -1967,7 +2211,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 4
+        "days_open": 5
       },
       {
         "key": "뉴스영상-저작권-사용",
@@ -1998,7 +2242,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "애드센스-법인선택-정정",
@@ -2030,7 +2274,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "원테이크-댓글모음-수창거절",
@@ -2062,7 +2306,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "픽셀링-tts-크레딧비용",
@@ -2100,7 +2344,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "픽셀링-롱폼-필요크레딧",
@@ -2132,7 +2376,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "해외영상-출처-유통가능",
@@ -2170,7 +2414,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "대본추출-ip차단-지원",
@@ -2208,7 +2452,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "아스트라-소재변경-결유지",
@@ -2252,7 +2496,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "줌강의-입장공지-누락",
@@ -2284,7 +2528,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "챗지피티-계정전환-채팅목록",
@@ -2322,7 +2566,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "병렬작업-노트북-다운",
@@ -2354,7 +2598,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "픽셀링-작가자료-읽기오류",
@@ -2387,7 +2631,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "픽셀링-프리셋-원본소리",
@@ -2419,7 +2663,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "쇼핑태그-대가성-표기",
@@ -2464,7 +2708,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "재사용-애드센스-삭제",
@@ -2497,7 +2741,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "쇼츠-조회수-기준차이",
@@ -2541,7 +2785,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "채널분석-실습-설명요청",
@@ -2579,7 +2823,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "픽셀링-업데이트-기능먹통",
@@ -2618,7 +2862,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "깡계-복구번호-로그인",
@@ -2656,7 +2900,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "쇼츠-공식사운드-pc업로드",
@@ -2694,7 +2938,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "쇼츠-배경음-모음",
@@ -2726,7 +2970,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "스튜디오-검토업로드-지연",
@@ -2758,7 +3002,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "인스타-강의예시-링크",
@@ -2790,7 +3034,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "캡컷-화면녹화-위치",
@@ -2821,7 +3065,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "픽셀링-교육-접근권한",
@@ -2865,7 +3109,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 7
+        "days_open": 8
       },
       {
         "key": "쿠팡-쇼핑태그-접속장애",
@@ -2903,7 +3147,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 7
+        "days_open": 8
       },
       {
         "key": "대본추출-복수영상-연결",
@@ -2935,7 +3179,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 7
+        "days_open": 8
       },
       {
         "key": "랭킹형-화면전환-효과음",
@@ -2967,7 +3211,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 7
+        "days_open": 8
       },
       {
         "key": "영상제작-외주-역할분담",
@@ -2999,7 +3243,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 7
+        "days_open": 8
       },
       {
         "key": "캡컷-애덤목소리-재사용",
@@ -3031,7 +3275,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 7
+        "days_open": 8
       },
       {
         "key": "픽셀링-설정-원격지원",
@@ -3069,7 +3313,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 7
+        "days_open": 8
       },
       {
         "key": "픽셀링-유튜브-예약업로드",
@@ -3107,7 +3351,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 7
+        "days_open": 8
       },
       {
         "key": "픽셀링-프리셋-검증오류",
@@ -3146,7 +3390,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 7
+        "days_open": 8
       },
       {
         "key": "수창신청-2단계인증-번호재사용",
@@ -3178,7 +3422,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 8
+        "days_open": 9
       },
       {
         "key": "팬튜브-플리-시청시간",
@@ -3210,7 +3454,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 8
+        "days_open": 9
       },
       {
         "key": "깡계-기존업로드폰-사용",
@@ -3242,10 +3486,39 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 8
+        "days_open": 9
       }
     ],
     "question": [
+      {
+        "key": "챌린지-누락-소급인정",
+        "kind": "question",
+        "title": "영상은 올렸지만 누락한 챌린지도 소급 인정되나요?",
+        "detail": "수강생이 영상은 업로드했으나 챌린지를 빼먹은 경우에도 소급해서 카운트되는지 물었다. 소급 인정 여부에 대한 답은 오늘 대화에 없다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 3,
+        "tags": [
+          "챌린지",
+          "소급인정"
+        ],
+        "first_date": "2026-10-17",
+        "last_date": "2026-10-17",
+        "dates": [
+          "2026-10-17"
+        ],
+        "mention_count": 1,
+        "evidence": [
+          {
+            "date": "2026-10-17",
+            "time": "22:02",
+            "who": "수강생",
+            "quote": "영상은 올렸는데, 챌린지를 빼먹으면, 그것도 소급해서 카운트가 되는건가욧?!"
+          }
+        ]
+      },
       {
         "key": "브금-소유권주장-전체차단",
         "kind": "question",
@@ -3668,79 +3941,6 @@
         ]
       },
       {
-        "key": "수창재도전-기존채널-소재이동",
-        "kind": "question",
-        "title": "재도전 채널의 잘되는 소재를 수창 채널로 옮겨도 될까?",
-        "detail": "수익 창출이 풀려 조건을 다시 채우는 A채널에서 조회수가 잘 나오고 있는 상황이다. 수강생은 A의 조건은 천천히 채우면서, 수익은 없지만 수익 창출 상태인 일본 팬튜브 B채널에 올릴지 물었다. 채널 선택이나 소재 이동에 대한 답은 없었다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 5,
-        "tags": [
-          "수익화",
-          "채널운영",
-          "팬튜브"
-        ],
-        "first_date": "2026-10-15",
-        "last_date": "2026-10-15",
-        "dates": [
-          "2026-10-15"
-        ],
-        "mention_count": 2,
-        "evidence": [
-          {
-            "date": "2026-10-15",
-            "time": "12:53",
-            "who": "수강생",
-            "quote": "A에 수창조건 다시 채우려고 영상 올리고 있는데 생각보다 조회수가 너무 잘 나오더라구요 근데 수창이 풀린 채널이라 조회수가 아까워서요"
-          },
-          {
-            "date": "2026-10-15",
-            "time": "12:53",
-            "who": "수강생",
-            "quote": "A수창조건 천천히 채우고 일본 팬튜브하던 채널B에 올려볼까 하는데 어떨까요?"
-          }
-        ]
-      },
-      {
-        "key": "플레이리스트-심사중-채널변경",
-        "kind": "question",
-        "title": "애드센스 연결 중 해외용 채널 변경 시점 확인 필요",
-        "detail": "플레이리스트 채널의 애드센스 연결 중 국내용에서 해외용으로 전환하려는 질문이다. 변경 대상은 채널명, 프로필 이미지, 배너 이미지와 영어 언어 설정이다. 제미나이로부터 심사 후 바꾸라는 답을 받았다고 했으나, 대화에서는 이를 확인하는 답이 나오지 않았다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 5,
-        "tags": [
-          "플레이리스트",
-          "애드센스",
-          "심사",
-          "채널설정"
-        ],
-        "first_date": "2026-10-15",
-        "last_date": "2026-10-15",
-        "dates": [
-          "2026-10-15"
-        ],
-        "mention_count": 2,
-        "evidence": [
-          {
-            "date": "2026-10-15",
-            "time": "12:56",
-            "who": "수강생",
-            "quote": "지금 플레이리스트 채널 애드센스 연결중인데 지금 국내용 플레이리스트 채널로 되어있는데 해외용 플레이리스트 채널로 바꿔도 될까요?"
-          },
-          {
-            "date": "2026-10-15",
-            "time": "12:56",
-            "who": "수강생",
-            "quote": "채널명, 프로필 이미지. 배너 이미지, 언어 영어로 변경할려고 했는데 제미나이한테 물어보니까 심사끝나고 바꾸라는데 심사끝나고 바꿔야 될까요?"
-          }
-        ]
-      },
-      {
         "key": "아스트라-효과음-지정방법",
         "kind": "question",
         "title": "아스트라 효과음은 사이트나 사전 다운로드 폴더 지정",
@@ -3810,157 +4010,6 @@
             "who": "수강생",
             "quote": "그리고 공지방에 올려주셨어요~ / 대화 캡처 화면. ‘대본분석 안되시는 분들은 이렇게 물어보세요’, ‘여기 접속하셔서’ 문구와 Gemini Notebook 미리보기",
             "from": "image"
-          }
-        ]
-      },
-      {
-        "key": "ai롱폼-아동등장-수익화",
-        "kind": "question",
-        "title": "AI 시니어 사연에 아동이 등장하면 수익화 위험인가?",
-        "detail": "시니어 사연 롱폼 전체를 AI 영상으로 제작할 때 아이가 등장하면 수익 창출에 위험이 있는지 물었다. 해당 조건에 대한 답이나 판단 기준은 나오지 않았다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 5,
-        "tags": [
-          "AI영상",
-          "롱폼",
-          "수익화",
-          "아동"
-        ],
-        "first_date": "2026-10-15",
-        "last_date": "2026-10-15",
-        "dates": [
-          "2026-10-15"
-        ],
-        "mention_count": 1,
-        "evidence": [
-          {
-            "date": "2026-10-15",
-            "time": "11:58",
-            "who": "수강생",
-            "quote": "혹시 시니어사연 이런거 롱폼으로 만들때 ai로 풀영상만드는데 아이가 들어가면 수익창출 위험? 이 있을까요?"
-          }
-        ]
-      },
-      {
-        "key": "음악쇼츠-저작권-기획",
-        "kind": "question",
-        "title": "음악 관련 쇼츠를 시작할 때 저작권 판단 기준 필요",
-        "detail": "음악 관련 쇼츠를 기획하는 초보 수강생이 저작권 문제가 많은지 물었다. 사용할 음악이나 영상의 출처·사용 방식은 제시되지 않았고, 판단 기준에 대한 답도 없었다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 5,
-        "tags": [
-          "음악",
-          "쇼츠",
-          "저작권"
-        ],
-        "first_date": "2026-10-15",
-        "last_date": "2026-10-15",
-        "dates": [
-          "2026-10-15"
-        ],
-        "mention_count": 1,
-        "evidence": [
-          {
-            "date": "2026-10-15",
-            "time": "17:14",
-            "who": "수강생",
-            "quote": "질문이 있는데요.. 음악관련 쇼츠를 하려고 생각했는데. 혹시 이건 저작권의 문제가 많을까요? 초보라서요"
-          }
-        ]
-      },
-      {
-        "key": "kie-api-주소설정",
-        "kind": "question",
-        "title": "KIE API 입력 아래 주소 칸에 무엇을 넣어야 하나?",
-        "detail": "KIE API를 입력했는데 주소를 다시 넣으라는 안내가 나오는 상황이다. API 아래의 주소 칸에 넣을 값에 대한 질문으로, 대화에는 입력값이나 설정 방법이 나오지 않았다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 3,
-        "tags": [
-          "KIE",
-          "API",
-          "설정"
-        ],
-        "first_date": "2026-10-15",
-        "last_date": "2026-10-15",
-        "dates": [
-          "2026-10-15"
-        ],
-        "mention_count": 1,
-        "evidence": [
-          {
-            "date": "2026-10-15",
-            "time": "17:07",
-            "who": "수강생",
-            "quote": "kie 설정했는데 주소를 다시 넣으라고 하는데요 kie api 넣고 밑에 주소는 어떤걸 넣어야 하나요?"
-          }
-        ]
-      },
-      {
-        "key": "tts-파열음-제거",
-        "kind": "question",
-        "title": "TTS에 반복되는 공기 파열음 제거 방법은?",
-        "detail": "TTS 제작 시 공기 파열음 같은 소리가 계속 발생하며, 잡아 달라고 요청해도 없어지지 않는다는 질문이다. 사용 도구나 음성 설정은 제시되지 않았고, 제거 방법에 대한 답도 없었다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 3,
-        "tags": [
-          "TTS",
-          "음질",
-          "파열음"
-        ],
-        "first_date": "2026-10-15",
-        "last_date": "2026-10-15",
-        "dates": [
-          "2026-10-15"
-        ],
-        "mention_count": 1,
-        "evidence": [
-          {
-            "date": "2026-10-15",
-            "time": "11:09",
-            "who": "수강생",
-            "quote": "tts 할때 공기 파열음이라 해야하나 그게 계속 생겨서 잡아달라 해도 안잡히는데 꿀팁 있을까여"
-          }
-        ]
-      },
-      {
-        "key": "랭킹쇼츠-동물소재-시작기준",
-        "kind": "question",
-        "title": "랭킹형 동물 소재를 시작할 채널력 기준은?",
-        "detail": "랭킹형 쇼츠 운영자가 동물 소재는 채널력이 쌓인 다음부터 하라고 들었으나 시작 시점을 판단하지 못하고 있다. 어느 상태부터 사용할 수 있는지에 대한 구체적인 기준은 답변되지 않았다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 3,
-        "tags": [
-          "랭킹형",
-          "동물소재",
-          "채널운영"
-        ],
-        "first_date": "2026-10-15",
-        "last_date": "2026-10-15",
-        "dates": [
-          "2026-10-15"
-        ],
-        "mention_count": 1,
-        "evidence": [
-          {
-            "date": "2026-10-15",
-            "time": "17:02",
-            "who": "수강생",
-            "quote": "제가 랭킹형 하는데요 동물 소재는 언제부터 써도 될까요? 채널력이 쌓인 다음부터 하라고 들어서 언제쯤이 좋은지 모르겠습니다"
           }
         ]
       },
