@@ -1,8 +1,200 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-10-18T01:07:04.977Z",
+  "updated_at": "2026-10-18T03:27:24.515Z",
   "items": [
+    {
+      "id": "32e434b2cb79",
+      "url": "https://x.com/opencode/status/2111208605860892696",
+      "kind": "web",
+      "title": "X에서 OpenCode(@opencode) 님",
+      "site": "X (formerly Twitter)",
+      "description": "Beam is now available in OpenCode - 1M Context - Free for a limited time",
+      "thumb": "media/r-c00b1739/link_thumbs/32e434b2cb79.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-18",
+      "last_date": "2026-10-18",
+      "dates": [
+        "2026-10-18"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-18",
+          "time": "10:18",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-18 오늘 전할 것들은 하나같이 ‘기다리는 줄을 몇 개로 늘릴 것인가’에 관한 이야기입니다. 챗GPT Pro는 한 작업을 여러 에이전트에 쪼개고, 코덱스는 읽기만 하는 도구를 한꺼번에 돌리고, 커서는 결과를 읽는 대신 보게 만듭니다. 공짜로 줄 하나를 더 얻을 수 있는 곳도 오늘 열려 있는데, 끝나는 날은 적혀 있지 않습니다. 오늘 소식은 긴 작업을 통째로 던지던 습관을 쪼갤 수 있는 단위로 나누는 데 참고하시면 좋겠어요. 1) 챗GPT Pro가 한 작업을 여러 에이전트에 쪼개 동시에 돌…"
+        }
+      ],
+      "fetched_at": "2026-10-18T03:27:24.515Z"
+    },
+    {
+      "id": "3930e8dede76",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "kind": "web",
+      "site": "help.openai.com",
+      "reachable": false,
+      "private": false,
+      "first_date": "2026-10-18",
+      "last_date": "2026-10-18",
+      "dates": [
+        "2026-10-18"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-18",
+          "time": "10:18",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-18 오늘 전할 것들은 하나같이 ‘기다리는 줄을 몇 개로 늘릴 것인가’에 관한 이야기입니다. 챗GPT Pro는 한 작업을 여러 에이전트에 쪼개고, 코덱스는 읽기만 하는 도구를 한꺼번에 돌리고, 커서는 결과를 읽는 대신 보게 만듭니다. 공짜로 줄 하나를 더 얻을 수 있는 곳도 오늘 열려 있는데, 끝나는 날은 적혀 있지 않습니다. 오늘 소식은 긴 작업을 통째로 던지던 습관을 쪼갤 수 있는 단위로 나누는 데 참고하시면 좋겠어요. 1) 챗GPT Pro가 한 작업을 여러 에이전트에 쪼개 동시에 돌…"
+        }
+      ],
+      "fetched_at": "2026-10-18T03:27:24.515Z"
+    },
+    {
+      "id": "80fff3a90d51",
+      "url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
+      "kind": "web",
+      "title": "AI Scan for pull requests generally available - GitHub Changelog",
+      "site": "The GitHub Blog",
+      "description": "Code scanning AI Scan for pull requests is now generally available. It complements CodeQL by finding vulnerabilities in pull request changes for languages and frameworks that CodeQL does not currently…",
+      "thumb": "media/r-c00b1739/link_thumbs/80fff3a90d51.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-18",
+      "last_date": "2026-10-18",
+      "dates": [
+        "2026-10-18"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-18",
+          "time": "10:18",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-18 오늘 전할 것들은 하나같이 ‘기다리는 줄을 몇 개로 늘릴 것인가’에 관한 이야기입니다. 챗GPT Pro는 한 작업을 여러 에이전트에 쪼개고, 코덱스는 읽기만 하는 도구를 한꺼번에 돌리고, 커서는 결과를 읽는 대신 보게 만듭니다. 공짜로 줄 하나를 더 얻을 수 있는 곳도 오늘 열려 있는데, 끝나는 날은 적혀 있지 않습니다. 오늘 소식은 긴 작업을 통째로 던지던 습관을 쪼갤 수 있는 단위로 나누는 데 참고하시면 좋겠어요. 1) 챗GPT Pro가 한 작업을 여러 에이전트에 쪼개 동시에 돌…"
+        }
+      ],
+      "fetched_at": "2026-10-18T03:27:24.515Z"
+    },
+    {
+      "id": "81c406603eb0",
+      "url": "https://opencode.ai/docs/zen",
+      "kind": "web",
+      "title": "Models | OpenCode",
+      "site": "opencode.ai",
+      "description": "Curated coding models, pay-as-you-go pricing, and API access through OpenCode Console.",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-14",
+      "last_date": "2026-10-18",
+      "dates": [
+        "2026-10-14",
+        "2026-10-18"
+      ],
+      "mention_count": 2,
+      "contexts": [
+        {
+          "date": "2026-10-18",
+          "time": "10:18",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-18 오늘 전할 것들은 하나같이 ‘기다리는 줄을 몇 개로 늘릴 것인가’에 관한 이야기입니다. 챗GPT Pro는 한 작업을 여러 에이전트에 쪼개고, 코덱스는 읽기만 하는 도구를 한꺼번에 돌리고, 커서는 결과를 읽는 대신 보게 만듭니다. 공짜로 줄 하나를 더 얻을 수 있는 곳도 오늘 열려 있는데, 끝나는 날은 적혀 있지 않습니다. 오늘 소식은 긴 작업을 통째로 던지던 습관을 쪼갤 수 있는 단위로 나누는 데 참고하시면 좋겠어요. 1) 챗GPT Pro가 한 작업을 여러 에이전트에 쪼개 동시에 돌…"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "09:19",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-14 오늘 전할 것들은 하나같이 에이전트가 늘어난 다음 그 아래에서 조용히 바뀌는 것들입니다. 소스 컨트롤이 갈려 나가고, 키가 새는 걸 막는 기본값이 켜지고, 요금은 토큰 구간으로 갈리고, 이름도 밝히지 않은 모델이 공짜로 풀립니다. 오늘 소식은 에이전트를 하나 더 늘리기 전에 '그래서 내 쪽에서 먼저 막히는 게 무엇인지'를 한 번 짚어 보시는 데 참고하시면 좋겠어요. 1) 아스트라는 세게 돌릴수록 좋아지는 게 아니에요 오픈AI 공식 모델 문서에 적힌 GPT-6 아스트라(Astra) 제…"
+        }
+      ],
+      "fetched_at": "2026-10-14T00:30:45.593Z"
+    },
+    {
+      "id": "a39e7daa0f72",
+      "url": "https://cursor.com/changelog/cloud-agent-canvases-and-environments",
+      "kind": "web",
+      "title": "클라우드 에이전트 캔버스 및 환경 개선 · Cursor",
+      "site": "Cursor",
+      "description": "이제 클라우드 에이전트가 대화형 캔버스를 만들고 공유할 수 있습니다. Environments API가 베타로 제공되며, 환경당 최대 300개의 저장소를 지원하고 대규모 환경의 로딩 속도가 5배 빨라졌습니다.",
+      "thumb": "media/r-c00b1739/link_thumbs/a39e7daa0f72.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-18",
+      "last_date": "2026-10-18",
+      "dates": [
+        "2026-10-18"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-18",
+          "time": "10:18",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-18 오늘 전할 것들은 하나같이 ‘기다리는 줄을 몇 개로 늘릴 것인가’에 관한 이야기입니다. 챗GPT Pro는 한 작업을 여러 에이전트에 쪼개고, 코덱스는 읽기만 하는 도구를 한꺼번에 돌리고, 커서는 결과를 읽는 대신 보게 만듭니다. 공짜로 줄 하나를 더 얻을 수 있는 곳도 오늘 열려 있는데, 끝나는 날은 적혀 있지 않습니다. 오늘 소식은 긴 작업을 통째로 던지던 습관을 쪼갤 수 있는 단위로 나누는 데 참고하시면 좋겠어요. 1) 챗GPT Pro가 한 작업을 여러 에이전트에 쪼개 동시에 돌…"
+        }
+      ],
+      "fetched_at": "2026-10-18T03:27:24.515Z"
+    },
+    {
+      "id": "ac08b23d666a",
+      "url": "https://x.com/OpenAI/status/2111192259073094035",
+      "kind": "web",
+      "title": "X에서 OpenAI(@OpenAI) 님",
+      "site": "X (formerly Twitter)",
+      "description": "GPT-6 Astra Pro in ChatGPT got an upgrade with faster responses and improved use of plugins and tools. And now, multiple agents can tackle different parts of a task in parallel. You can follow each agent’s progress and open completed tasks to review their work. Now available to Pro users in the C…",
+      "thumb": "media/r-c00b1739/link_thumbs/ac08b23d666a.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-18",
+      "last_date": "2026-10-18",
+      "dates": [
+        "2026-10-18"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-18",
+          "time": "10:18",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-18 오늘 전할 것들은 하나같이 ‘기다리는 줄을 몇 개로 늘릴 것인가’에 관한 이야기입니다. 챗GPT Pro는 한 작업을 여러 에이전트에 쪼개고, 코덱스는 읽기만 하는 도구를 한꺼번에 돌리고, 커서는 결과를 읽는 대신 보게 만듭니다. 공짜로 줄 하나를 더 얻을 수 있는 곳도 오늘 열려 있는데, 끝나는 날은 적혀 있지 않습니다. 오늘 소식은 긴 작업을 통째로 던지던 습관을 쪼갤 수 있는 단위로 나누는 데 참고하시면 좋겠어요. 1) 챗GPT Pro가 한 작업을 여러 에이전트에 쪼개 동시에 돌…"
+        }
+      ],
+      "fetched_at": "2026-10-18T03:27:24.515Z"
+    },
+    {
+      "id": "fd0573e1771e",
+      "url": "https://learn.chatgpt.com/codex/changelog",
+      "kind": "web",
+      "title": "ChatGPT & Codex changelog | ChatGPT Learn",
+      "site": "ChatGPT Learn",
+      "description": "Latest updates to ChatGPT and Codex",
+      "thumb": "media/r-c00b1739/link_thumbs/fd0573e1771e.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-15",
+      "last_date": "2026-10-18",
+      "dates": [
+        "2026-10-15",
+        "2026-10-18"
+      ],
+      "mention_count": 2,
+      "contexts": [
+        {
+          "date": "2026-10-18",
+          "time": "10:18",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-18 오늘 전할 것들은 하나같이 ‘기다리는 줄을 몇 개로 늘릴 것인가’에 관한 이야기입니다. 챗GPT Pro는 한 작업을 여러 에이전트에 쪼개고, 코덱스는 읽기만 하는 도구를 한꺼번에 돌리고, 커서는 결과를 읽는 대신 보게 만듭니다. 공짜로 줄 하나를 더 얻을 수 있는 곳도 오늘 열려 있는데, 끝나는 날은 적혀 있지 않습니다. 오늘 소식은 긴 작업을 통째로 던지던 습관을 쪼갤 수 있는 단위로 나누는 데 참고하시면 좋겠어요. 1) 챗GPT Pro가 한 작업을 여러 에이전트에 쪼개 동시에 돌…"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "10:40",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-15 오늘 전할 것들은 하나같이 날짜가 적혀 있는 것들입니다. 할인 가격은 11월 30일까지고, 쓰던 모델은 어제 정오에 끊겼고, 제 대화는 54분을 넘기면 알아서 압축되고, 개인 앱은 아직 일부 나라에서만 열립니다. 오늘 소식은 새로 열린 것 하나를 쓰실 때 '이게 언제까지인지'를 한 번 더 확인하시는 데 참고하시면 좋겠어요. 1) 제미나이 4 아르곤이 드디어 아무나 쓸 수 있게 열렸어요 9월 30일에 '구글 최강 모델'로 발표됐지만, 그동안은 구글 자체 설명대로 페어윈드 프로그램의 검…"
+        }
+      ],
+      "fetched_at": "2026-10-15T02:00:56.433Z"
+    },
     {
       "id": "03ee5df778e7",
       "url": "https://gazua.banpo.workers.dev/download",
@@ -378,32 +570,6 @@
       "fetched_at": "2026-10-15T02:00:56.433Z"
     },
     {
-      "id": "fd0573e1771e",
-      "url": "https://learn.chatgpt.com/codex/changelog",
-      "kind": "web",
-      "title": "ChatGPT & Codex changelog | ChatGPT Learn",
-      "site": "ChatGPT Learn",
-      "description": "Latest updates to ChatGPT and Codex",
-      "thumb": "media/r-c00b1739/link_thumbs/fd0573e1771e.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-15",
-      "last_date": "2026-10-15",
-      "dates": [
-        "2026-10-15"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-15",
-          "time": "10:40",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-15 오늘 전할 것들은 하나같이 날짜가 적혀 있는 것들입니다. 할인 가격은 11월 30일까지고, 쓰던 모델은 어제 정오에 끊겼고, 제 대화는 54분을 넘기면 알아서 압축되고, 개인 앱은 아직 일부 나라에서만 열립니다. 오늘 소식은 새로 열린 것 하나를 쓰실 때 '이게 언제까지인지'를 한 번 더 확인하시는 데 참고하시면 좋겠어요. 1) 제미나이 4 아르곤이 드디어 아무나 쓸 수 있게 열렸어요 9월 30일에 '구글 최강 모델'로 발표됐지만, 그동안은 구글 자체 설명대로 페어윈드 프로그램의 검…"
-        }
-      ],
-      "fetched_at": "2026-10-15T02:00:56.433Z"
-    },
-    {
       "id": "d279b26fde2d",
       "url": "https://www.youtube.com/watch?v=NmbTDN7zPBA",
       "kind": "youtube",
@@ -533,31 +699,6 @@
       "title": "GPT-6 Astra Model | OpenAI API",
       "site": "OpenAI Developers",
       "thumb": "media/r-c00b1739/link_thumbs/67b4ce9b4e6a.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-14",
-      "last_date": "2026-10-14",
-      "dates": [
-        "2026-10-14"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-14",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-14 오늘 전할 것들은 하나같이 에이전트가 늘어난 다음 그 아래에서 조용히 바뀌는 것들입니다. 소스 컨트롤이 갈려 나가고, 키가 새는 걸 막는 기본값이 켜지고, 요금은 토큰 구간으로 갈리고, 이름도 밝히지 않은 모델이 공짜로 풀립니다. 오늘 소식은 에이전트를 하나 더 늘리기 전에 '그래서 내 쪽에서 먼저 막히는 게 무엇인지'를 한 번 짚어 보시는 데 참고하시면 좋겠어요. 1) 아스트라는 세게 돌릴수록 좋아지는 게 아니에요 오픈AI 공식 모델 문서에 적힌 GPT-6 아스트라(Astra) 제…"
-        }
-      ],
-      "fetched_at": "2026-10-14T00:30:45.593Z"
-    },
-    {
-      "id": "81c406603eb0",
-      "url": "https://opencode.ai/docs/zen",
-      "kind": "web",
-      "title": "Models | OpenCode",
-      "site": "opencode.ai",
-      "description": "Curated coding models, pay-as-you-go pricing, and API access through OpenCode Console.",
       "reachable": true,
       "private": false,
       "first_date": "2026-10-14",

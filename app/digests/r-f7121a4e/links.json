@@ -1,8 +1,34 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-10-18T01:07:04.977Z",
+  "updated_at": "2026-10-18T03:27:24.515Z",
   "items": [
+    {
+      "id": "51f27216c15b",
+      "url": "https://www.youtube.com/watch?v=v9Xu-VDi1DU",
+      "kind": "youtube",
+      "title": "미스터비스트가 반한 제품?!",
+      "site": "YouTube",
+      "author": "해외쇼쇼",
+      "thumb": "media/r-f7121a4e/link_thumbs/51f27216c15b.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-18",
+      "last_date": "2026-10-18",
+      "dates": [
+        "2026-10-18"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-18",
+          "time": "11:25",
+          "who": "수강생",
+          "text": "https://www.youtube.com/shorts/v9Xu-VDi1DU 이거 tts 아시는부 ㄴ있을까요?"
+        }
+      ],
+      "fetched_at": "2026-10-18T03:27:24.515Z"
+    },
     {
       "id": "39fb283d4b80",
       "url": "https://music.youtube.com/playlist?list=OLAK5uy_no5tmD4plvx94CD-PvSFdzzfnRY8vwPH4",
