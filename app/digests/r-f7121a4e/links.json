@@ -1,8 +1,32 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-10-18T03:27:24.515Z",
+  "updated_at": "2026-10-18T13:26:33.347Z",
   "items": [
+    {
+      "id": "4da6cd32c954",
+      "url": "https://clipcreators.naver.com/web/dashboard",
+      "kind": "web",
+      "title": "NAVER 로그인",
+      "site": "clipcreators.naver.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-18",
+      "last_date": "2026-10-18",
+      "dates": [
+        "2026-10-18"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-18",
+          "time": "22:14",
+          "who": "수강생",
+          "text": "https://clipcreators.naver.com/web/dashboard"
+        }
+      ],
+      "fetched_at": "2026-10-18T13:26:33.347Z"
+    },
     {
       "id": "51f27216c15b",
       "url": "https://www.youtube.com/watch?v=v9Xu-VDi1DU",
