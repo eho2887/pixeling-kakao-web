@@ -14,6 +14,27 @@
       "thumb": "media/r-c00b1739/thumbs/d9746334ec30.jpg",
       "mime": "image/png",
       "bytes": 8585
+    },
+    {
+      "id": "177fab260875",
+      "kind": "image",
+      "t": "2026-10-18T21:08:00+09:00",
+      "time": "21:08",
+      "who": "수강생",
+      "text": "Pixeling Desktop 결제 페이지 화면 캡처. 화면에 “결제 기능 준비 중입니다”가 보임. 주소 표시줄에 app.pixeling.io/billing?tab=pricing가 보임",
+      "sensitive": true
+    },
+    {
+      "id": "1f934201e06a",
+      "kind": "image",
+      "t": "2026-10-18T21:23:00+09:00",
+      "time": "21:23",
+      "who": "수강생",
+      "text": "Pixeling Desktop 화면 캡처. 팝업에 “휴지통의 결과물을 881개를 영구히 지우실까요?”가 보이며, 배경에는 휴지통 항목들이 보임",
+      "file": "media/r-c00b1739/1f934201e06a.png",
+      "thumb": "media/r-c00b1739/thumbs/1f934201e06a.jpg",
+      "mime": "image/png",
+      "bytes": 60092
     }
   ]
 }
