@@ -1,8 +1,175 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-10-19T01:31:19.971Z",
+  "updated_at": "2026-10-19T02:37:20.763Z",
   "items": [
+    {
+      "id": "087d4a180e39",
+      "url": "https://x.com/deepseek_ai/status/2111375640717033777",
+      "kind": "web",
+      "title": "X에서 DeepSeek(@deepseek_ai) 님",
+      "site": "X (formerly Twitter)",
+      "description": "🚀 DeepSeek-V4.1-Flash-1017 is here! Stronger benchmark performance, faster task completion, and shorter outputs than the previous version—a Pareto improvement in performance and cost. Now live on our website, app, and API. 🛠️ Optimized for @DeepSeekHarness, Tencent CodeBuddy, WorkBuddy, and mor…",
+      "thumb": "media/r-f7121a4e/link_thumbs/087d4a180e39.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-19",
+      "dates": [
+        "2026-10-19"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-19",
+          "time": "10:16",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-19 오늘 전할 것들은 하나같이 ‘어느 모델을 얼마나 쓸 것인가’를 손으로 정하게 만드는 변화입니다. 디프시크는 최상급 가중치를 통째로 풀어 값을 0으로 내렸고, 오픈AI는 아스트라를 몇 번 쓸 수 있는지 숫자로 못 박았습니다. 안티그래비티는 자동화마다 모델을 고르게 했고, 리플릿은 가장 싼 클로드를 선택지에 넣었습니다. 성능 순위보다 ‘쓸 수 있는 횟수와 값’이 앞에 오는 날들입니다. 오늘 소식은 늘 쓰던 모델을 한 칸 올리거나 내려보는 데 참고하시면 좋겠어요. 1) 디프시크가 새 플래…"
+        }
+      ],
+      "fetched_at": "2026-10-19T02:37:20.763Z"
+    },
+    {
+      "id": "2157357401ae",
+      "url": "https://antigravity.google/docs/changelog",
+      "kind": "web",
+      "title": "Changelog | Google Antigravity Docs",
+      "site": "Google Antigravity Docs",
+      "description": "Track updates, improvements, and bug fixes across Google Antigravity.",
+      "thumb": "media/r-f7121a4e/link_thumbs/2157357401ae.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-19",
+      "dates": [
+        "2026-10-19"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-19",
+          "time": "10:16",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-19 오늘 전할 것들은 하나같이 ‘어느 모델을 얼마나 쓸 것인가’를 손으로 정하게 만드는 변화입니다. 디프시크는 최상급 가중치를 통째로 풀어 값을 0으로 내렸고, 오픈AI는 아스트라를 몇 번 쓸 수 있는지 숫자로 못 박았습니다. 안티그래비티는 자동화마다 모델을 고르게 했고, 리플릿은 가장 싼 클로드를 선택지에 넣었습니다. 성능 순위보다 ‘쓸 수 있는 횟수와 값’이 앞에 오는 날들입니다. 오늘 소식은 늘 쓰던 모델을 한 칸 올리거나 내려보는 데 참고하시면 좋겠어요. 1) 디프시크가 새 플래…"
+        }
+      ],
+      "fetched_at": "2026-10-19T02:37:20.763Z"
+    },
+    {
+      "id": "4d937d0d23b5",
+      "url": "https://help.openai.com/en/articles/20001516-managing-usage-with-gpt-6-astra-in-work-and-codex",
+      "kind": "web",
+      "site": "help.openai.com",
+      "reachable": false,
+      "private": false,
+      "first_date": "2026-10-14",
+      "last_date": "2026-10-19",
+      "dates": [
+        "2026-10-14",
+        "2026-10-19"
+      ],
+      "mention_count": 2,
+      "contexts": [
+        {
+          "date": "2026-10-19",
+          "time": "10:16",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-19 오늘 전할 것들은 하나같이 ‘어느 모델을 얼마나 쓸 것인가’를 손으로 정하게 만드는 변화입니다. 디프시크는 최상급 가중치를 통째로 풀어 값을 0으로 내렸고, 오픈AI는 아스트라를 몇 번 쓸 수 있는지 숫자로 못 박았습니다. 안티그래비티는 자동화마다 모델을 고르게 했고, 리플릿은 가장 싼 클로드를 선택지에 넣었습니다. 성능 순위보다 ‘쓸 수 있는 횟수와 값’이 앞에 오는 날들입니다. 오늘 소식은 늘 쓰던 모델을 한 칸 올리거나 내려보는 데 참고하시면 좋겠어요. 1) 디프시크가 새 플래…"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "09:19",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-14 오늘 전할 것들은 하나같이 에이전트가 늘어난 다음 그 아래에서 조용히 바뀌는 것들입니다. 소스 컨트롤이 갈려 나가고, 키가 새는 걸 막는 기본값이 켜지고, 요금은 토큰 구간으로 갈리고, 이름도 밝히지 않은 모델이 공짜로 풀립니다. 오늘 소식은 에이전트를 하나 더 늘리기 전에 '그래서 내 쪽에서 먼저 막히는 게 무엇인지'를 한 번 짚어 보시는 데 참고하시면 좋겠어요. 1) 아스트라는 세게 돌릴수록 좋아지는 게 아니에요 오픈AI 공식 모델 문서에 적힌 GPT-6 아스트라(Astra) 제…"
+        }
+      ],
+      "fetched_at": "2026-10-19T01:31:19.971Z"
+    },
+    {
+      "id": "97665fd5758a",
+      "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
+      "kind": "web",
+      "title": "Open source license compliance generally available - GitHub Changelog",
+      "site": "The GitHub Blog",
+      "description": "Enterprises can now manage their dependencies’ licenses at scale with sophisticated, ruleset-based checks that enforce a centralized policy. Open source license compliance is now generally available for GitHub Enterprise Cloud…",
+      "thumb": "media/r-f7121a4e/link_thumbs/97665fd5758a.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-19",
+      "dates": [
+        "2026-10-19"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-19",
+          "time": "10:16",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-19 오늘 전할 것들은 하나같이 ‘어느 모델을 얼마나 쓸 것인가’를 손으로 정하게 만드는 변화입니다. 디프시크는 최상급 가중치를 통째로 풀어 값을 0으로 내렸고, 오픈AI는 아스트라를 몇 번 쓸 수 있는지 숫자로 못 박았습니다. 안티그래비티는 자동화마다 모델을 고르게 했고, 리플릿은 가장 싼 클로드를 선택지에 넣었습니다. 성능 순위보다 ‘쓸 수 있는 횟수와 값’이 앞에 오는 날들입니다. 오늘 소식은 늘 쓰던 모델을 한 칸 올리거나 내려보는 데 참고하시면 좋겠어요. 1) 디프시크가 새 플래…"
+        }
+      ],
+      "fetched_at": "2026-10-19T02:37:20.763Z"
+    },
+    {
+      "id": "cac24968e5aa",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "kind": "web",
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017 · Hugging Face",
+      "site": "huggingface.co",
+      "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+      "thumb": "media/r-f7121a4e/link_thumbs/cac24968e5aa.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-19",
+      "dates": [
+        "2026-10-19"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-19",
+          "time": "10:16",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-19 오늘 전할 것들은 하나같이 ‘어느 모델을 얼마나 쓸 것인가’를 손으로 정하게 만드는 변화입니다. 디프시크는 최상급 가중치를 통째로 풀어 값을 0으로 내렸고, 오픈AI는 아스트라를 몇 번 쓸 수 있는지 숫자로 못 박았습니다. 안티그래비티는 자동화마다 모델을 고르게 했고, 리플릿은 가장 싼 클로드를 선택지에 넣었습니다. 성능 순위보다 ‘쓸 수 있는 횟수와 값’이 앞에 오는 날들입니다. 오늘 소식은 늘 쓰던 모델을 한 칸 올리거나 내려보는 데 참고하시면 좋겠어요. 1) 디프시크가 새 플래…"
+        }
+      ],
+      "fetched_at": "2026-10-19T02:37:20.763Z"
+    },
+    {
+      "id": "dd39bbc32cfc",
+      "url": "https://docs.replit.com/updates",
+      "kind": "web",
+      "title": "October 9, 2026 - Replit",
+      "site": "Replit Docs",
+      "description": "1 min read",
+      "thumb": "media/r-f7121a4e/link_thumbs/dd39bbc32cfc.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-16",
+      "last_date": "2026-10-19",
+      "dates": [
+        "2026-10-16",
+        "2026-10-19"
+      ],
+      "mention_count": 2,
+      "contexts": [
+        {
+          "date": "2026-10-19",
+          "time": "10:16",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-19 오늘 전할 것들은 하나같이 ‘어느 모델을 얼마나 쓸 것인가’를 손으로 정하게 만드는 변화입니다. 디프시크는 최상급 가중치를 통째로 풀어 값을 0으로 내렸고, 오픈AI는 아스트라를 몇 번 쓸 수 있는지 숫자로 못 박았습니다. 안티그래비티는 자동화마다 모델을 고르게 했고, 리플릿은 가장 싼 클로드를 선택지에 넣었습니다. 성능 순위보다 ‘쓸 수 있는 횟수와 값’이 앞에 오는 날들입니다. 오늘 소식은 늘 쓰던 모델을 한 칸 올리거나 내려보는 데 참고하시면 좋겠어요. 1) 디프시크가 새 플래…"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "09:42",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-16 오늘 전할 것들은 하나같이 '여러 개를 묶는 쪽'과 '묶인 것을 하나씩 고정해 두는 쪽'으로 갈립니다. 하이드라퓨전은 모델 네 개를 묶어 답 하나를 내고, 뮤즈 코드는 모델과 에이전트를 한 구독에 묶고, 리플릿은 프로젝트 여러 개를 채팅 하나에 묶습니다. 반대로 액션 락파일은 의존성을 커밋 하나에 못 박고, 클로드 코드는 무인 모드가 하염없이 기다리지 않도록 상한을 박습니다. 오늘 소식은 새로 묶인 것 하나를 쓰실 때 '그 안에서 무엇이 고정돼 있고 무엇이 그날그날 달라지는지'를 한…"
+        }
+      ],
+      "fetched_at": "2026-10-16T01:06:28.788Z"
+    },
     {
       "id": "4da6cd32c954",
       "url": "https://clipcreators.naver.com/web/dashboard",
@@ -167,32 +334,6 @@
       "site": "X (formerly Twitter)",
       "description": "You came for the cute puppy. Stay for what you can create. 🐶 Introducing Runway for web design. Connect @runwayml 🤝 @Replit to generate images, video, and assets directly inside your project, from first idea to finished site. Connect in seconds: https://t.co/lKzqEu7wUa",
       "thumb": "media/r-f7121a4e/link_thumbs/b20a569689e7.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-16",
-      "last_date": "2026-10-16",
-      "dates": [
-        "2026-10-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-16",
-          "time": "09:42",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-16 오늘 전할 것들은 하나같이 '여러 개를 묶는 쪽'과 '묶인 것을 하나씩 고정해 두는 쪽'으로 갈립니다. 하이드라퓨전은 모델 네 개를 묶어 답 하나를 내고, 뮤즈 코드는 모델과 에이전트를 한 구독에 묶고, 리플릿은 프로젝트 여러 개를 채팅 하나에 묶습니다. 반대로 액션 락파일은 의존성을 커밋 하나에 못 박고, 클로드 코드는 무인 모드가 하염없이 기다리지 않도록 상한을 박습니다. 오늘 소식은 새로 묶인 것 하나를 쓰실 때 '그 안에서 무엇이 고정돼 있고 무엇이 그날그날 달라지는지'를 한…"
-        }
-      ],
-      "fetched_at": "2026-10-16T01:06:28.788Z"
-    },
-    {
-      "id": "dd39bbc32cfc",
-      "url": "https://docs.replit.com/updates",
-      "kind": "web",
-      "title": "October 9, 2026 - Replit",
-      "site": "Replit Docs",
-      "description": "1 min read",
-      "thumb": "media/r-f7121a4e/link_thumbs/dd39bbc32cfc.jpg",
       "reachable": true,
       "private": false,
       "first_date": "2026-10-16",
@@ -608,29 +749,6 @@
         }
       ],
       "fetched_at": "2026-10-14T05:37:44.806Z"
-    },
-    {
-      "id": "4d937d0d23b5",
-      "url": "https://help.openai.com/en/articles/20001516-managing-usage-with-gpt-6-astra-in-work-and-codex",
-      "kind": "web",
-      "site": "help.openai.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-14",
-      "last_date": "2026-10-14",
-      "dates": [
-        "2026-10-14"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-14",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-14 오늘 전할 것들은 하나같이 에이전트가 늘어난 다음 그 아래에서 조용히 바뀌는 것들입니다. 소스 컨트롤이 갈려 나가고, 키가 새는 걸 막는 기본값이 켜지고, 요금은 토큰 구간으로 갈리고, 이름도 밝히지 않은 모델이 공짜로 풀립니다. 오늘 소식은 에이전트를 하나 더 늘리기 전에 '그래서 내 쪽에서 먼저 막히는 게 무엇인지'를 한 번 짚어 보시는 데 참고하시면 좋겠어요. 1) 아스트라는 세게 돌릴수록 좋아지는 게 아니에요 오픈AI 공식 모델 문서에 적힌 GPT-6 아스트라(Astra) 제…"
-        }
-      ],
-      "fetched_at": "2026-10-19T01:31:19.971Z"
     },
     {
       "id": "56ee56e48ed2",
