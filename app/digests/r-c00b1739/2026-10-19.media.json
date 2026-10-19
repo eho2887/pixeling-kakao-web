@@ -38,6 +38,18 @@
       "thumb": "media/r-c00b1739/thumbs/76aa3b013e5e.jpg",
       "mime": "image/png",
       "bytes": 2457
+    },
+    {
+      "id": "731ad240b900",
+      "kind": "image",
+      "t": "2026-10-19T17:34:00+09:00",
+      "time": "17:34",
+      "who": "수강생",
+      "text": "픽셀링 웹 메뉴에서 ‘픽셀링 정리’와 ‘픽셀링 강의’ 항목이 표시된 화면 캡처",
+      "file": "media/r-c00b1739/731ad240b900.png",
+      "thumb": "media/r-c00b1739/thumbs/731ad240b900.jpg",
+      "mime": "image/png",
+      "bytes": 23577
     }
   ]
 }
