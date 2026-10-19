@@ -1,8 +1,57 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-10-19T02:37:20.763Z",
+  "updated_at": "2026-10-19T05:05:25.478Z",
   "items": [
+    {
+      "id": "6e4a66045c25",
+      "url": "https://app.pixeling.io/",
+      "kind": "web",
+      "title": "디스커버리 | Pixeling",
+      "site": "Pixeling",
+      "description": "채팅으로 작업을 시작하고, 필요한 순간에만 편집기로 이어지는 픽시 커맨드 센터.",
+      "thumb": "media/r-f7121a4e/link_thumbs/6e4a66045c25.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-19",
+      "dates": [
+        "2026-10-19"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-19",
+          "time": "13:48",
+          "who": "수강생",
+          "text": "https://app.pixeling.io/ 여기 사이트에서 받으시면될거예용"
+        }
+      ],
+      "fetched_at": "2026-10-19T05:05:25.478Z"
+    },
+    {
+      "id": "4394c76223a1",
+      "url": "https://www.youtube.com/@gilyjourney/videos",
+      "kind": "youtube",
+      "site": "youtube.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-19",
+      "dates": [
+        "2026-10-19"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-19",
+          "time": "13:42",
+          "who": "수강생",
+          "text": "https://www.youtube.com/@gilyjourney/videos 롤러코스터 형식은 처음보는데, 이런것도 수창 계속 유지가 되나요?"
+        }
+      ],
+      "fetched_at": "2026-10-19T05:05:25.478Z"
+    },
     {
       "id": "087d4a180e39",
       "url": "https://x.com/deepseek_ai/status/2111375640717033777",
