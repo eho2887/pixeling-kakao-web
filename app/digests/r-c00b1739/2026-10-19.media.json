@@ -26,6 +26,18 @@
       "thumb": "media/r-c00b1739/thumbs/d838f095f732.jpg",
       "mime": "image/png",
       "bytes": 66931
+    },
+    {
+      "id": "76aa3b013e5e",
+      "kind": "image",
+      "t": "2026-10-19T15:29:00+09:00",
+      "time": "15:29",
+      "who": "수강생",
+      "text": "저장 공간 정보 화면 캡처. 크기: 71.9GB (77,291,178,121 바이트), 디스크 할당 크기: 72.0GB (77,387,866,112 바이트).",
+      "file": "media/r-c00b1739/76aa3b013e5e.png",
+      "thumb": "media/r-c00b1739/thumbs/76aa3b013e5e.jpg",
+      "mime": "image/png",
+      "bytes": 2457
     }
   ]
 }
