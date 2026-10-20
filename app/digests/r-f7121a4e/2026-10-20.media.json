@@ -14,6 +14,18 @@
       "thumb": "media/r-f7121a4e/thumbs/15dd6a88b64d.jpg",
       "mime": "image/png",
       "bytes": 18082
+    },
+    {
+      "id": "a724d10a0d33",
+      "kind": "image",
+      "t": "2026-10-20T17:01:00+09:00",
+      "time": "17:01",
+      "who": "수강생",
+      "text": "Windows 파일 탐색기 화면 캡처. E: 드라이브의 Pixeling_Storage_c97b533e-b3b9-4ed1-bb0c-423daf5d9966 폴더에 inventory, payload 폴더와 copy_plan.json (1KB), verified_copy.json (2KB)이 보임. 파일·폴더 수정 날짜는 2026-10-16 오전 9:58 및 오전 10:44로 표시됨.",
+      "file": "media/r-f7121a4e/a724d10a0d33.png",
+      "thumb": "media/r-f7121a4e/thumbs/a724d10a0d33.jpg",
+      "mime": "image/png",
+      "bytes": 11584
     }
   ]
 }
