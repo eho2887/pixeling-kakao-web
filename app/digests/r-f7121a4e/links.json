@@ -1,8 +1,33 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-10-20T04:01:33.958Z",
+  "updated_at": "2026-10-20T07:00:08.377Z",
   "items": [
+    {
+      "id": "c72f13e398e0",
+      "url": "https://open.kakao.com/o/se7Wa6Ki",
+      "kind": "web",
+      "title": "월억남 에드센스 끝판왕",
+      "site": "open.kakao.com",
+      "thumb": "media/r-f7121a4e/link_thumbs/c72f13e398e0.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-20",
+      "last_date": "2026-10-20",
+      "dates": [
+        "2026-10-20"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-20",
+          "time": "15:47",
+          "who": "수강생",
+          "text": "https://open.kakao.com/o/se7Wa6Ki 여기용"
+        }
+      ],
+      "fetched_at": "2026-10-20T07:00:08.377Z"
+    },
     {
       "id": "3930e8dede76",
       "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
