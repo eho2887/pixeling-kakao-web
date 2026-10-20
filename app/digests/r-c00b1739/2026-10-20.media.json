@@ -44,6 +44,42 @@
       "thumb": "media/r-c00b1739/thumbs/5e3e824e967f.jpg",
       "mime": "image/png",
       "bytes": 24900
+    },
+    {
+      "id": "15a26ee38264",
+      "kind": "image",
+      "t": "2026-10-20T19:04:00+09:00",
+      "time": "19:04",
+      "who": "조교",
+      "text": "이미지에 ‘사장님 오늘은 31개밖에 못드리네요...’라는 문구가 보임",
+      "file": "media/r-c00b1739/15a26ee38264.jpg",
+      "thumb": "media/r-c00b1739/thumbs/15a26ee38264.jpg",
+      "mime": "image/jpeg",
+      "bytes": 4251
+    },
+    {
+      "id": "3e64c9b9e012",
+      "kind": "image",
+      "t": "2026-10-20T19:11:00+09:00",
+      "time": "19:11",
+      "who": "수강생",
+      "text": "ChatGPT 대화 화면 캡처. 화면 중앙에 진행 표시 28%와 아래쪽 붉은 경고 문구가 보임",
+      "file": "media/r-c00b1739/3e64c9b9e012.png",
+      "thumb": "media/r-c00b1739/thumbs/3e64c9b9e012.jpg",
+      "mime": "image/png",
+      "bytes": 54043
+    },
+    {
+      "id": "8650e43929f1",
+      "kind": "image",
+      "t": "2026-10-20T19:22:00+09:00",
+      "time": "19:22",
+      "who": "수강생",
+      "text": "Zoom Workplace 오류 화면 캡처. \"잘못된 회의 ID\" 문구가 표시됨.",
+      "file": "media/r-c00b1739/8650e43929f1.png",
+      "thumb": "media/r-c00b1739/thumbs/8650e43929f1.jpg",
+      "mime": "image/png",
+      "bytes": 9908
     }
   ]
 }

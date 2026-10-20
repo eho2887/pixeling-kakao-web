@@ -38,6 +38,18 @@
       "thumb": "media/r-f7121a4e/thumbs/04a0697416d2.jpg",
       "mime": "image/png",
       "bytes": 24809
+    },
+    {
+      "id": "2c00e6b8056a",
+      "kind": "image",
+      "t": "2026-10-20T19:17:00+09:00",
+      "time": "19:17",
+      "who": "수강생",
+      "text": "프로젝트 '동물영상' 새 채팅 화면 캡처. 기본 작업 폴더에 '폴더 없음', '대화 17개 · 어제 수정'이 보이고 프리셋과 '서브작가 감동 동물1', '서브작가 기록 v2' 선택 항목이 표시됨.",
+      "file": "media/r-f7121a4e/2c00e6b8056a.png",
+      "thumb": "media/r-f7121a4e/thumbs/2c00e6b8056a.jpg",
+      "mime": "image/png",
+      "bytes": 62599
     }
   ]
 }
