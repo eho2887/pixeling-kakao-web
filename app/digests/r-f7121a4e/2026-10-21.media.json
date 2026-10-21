@@ -56,6 +56,30 @@
       "mime": "video/mp4",
       "bytes": 4651247,
       "remote": false
+    },
+    {
+      "id": "f332e0e8b244",
+      "kind": "image",
+      "t": "2026-10-21T17:02:00+09:00",
+      "time": "17:02",
+      "who": "수강생",
+      "text": "조회수 통계 표 화면 캡처. 2026.10.20 항목 조회 수가 여러 행 표시됨(118,370; 44,111; 147,317; 73,128; 191,971; 451,402; 128,330; 103,998; 170,373).",
+      "file": "media/r-f7121a4e/f332e0e8b244.png",
+      "thumb": "media/r-f7121a4e/thumbs/f332e0e8b244.jpg",
+      "mime": "image/png",
+      "bytes": 39408
+    },
+    {
+      "id": "783eb405dc1e",
+      "kind": "image",
+      "t": "2026-10-21T17:14:00+09:00",
+      "time": "17:14",
+      "who": "수강생",
+      "text": "Pixeling 프로젝트 백업 설정 화면. ‘4. 설정에서 자동 동기화를 활성화한다.’ 안내가 보이고 관련 설정이 표시됨.",
+      "file": "media/r-f7121a4e/783eb405dc1e.jpg",
+      "thumb": "media/r-f7121a4e/thumbs/783eb405dc1e.jpg",
+      "mime": "image/jpeg",
+      "bytes": 150417
     }
   ]
 }
