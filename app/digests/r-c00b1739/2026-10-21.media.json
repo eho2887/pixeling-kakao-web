@@ -50,6 +50,28 @@
       "thumb": "media/r-c00b1739/thumbs/81a6174bc7fc.jpg",
       "mime": "image/jpeg",
       "bytes": 80146
+    },
+    {
+      "id": "717fe2576212",
+      "kind": "image",
+      "t": "2026-10-21T18:17:00+09:00",
+      "time": "18:17",
+      "who": "수강생",
+      "text": "픽셀링 데스크톱 생성 요청 화면 캡처. 입력란에 “GeoGlobeTales 채널 프리셋으로 트리스탄다쿠냐 섬 이야기 쇼츠 만들어 줘”가 표시되고, 하단 오류 배너에 “처리하지 못했어요. 연결과 영상 파일을 확인하고 다시 시도해 주세요.”가 보임",
+      "file": "media/r-c00b1739/717fe2576212.png",
+      "thumb": "media/r-c00b1739/thumbs/717fe2576212.jpg",
+      "mime": "image/png",
+      "bytes": 372834
+    },
+    {
+      "id": "6251ae3b9762",
+      "kind": "file",
+      "t": "2026-10-21T19:53:00+09:00",
+      "time": "19:53",
+      "who": "수강생",
+      "text": "영상 파일 KakaoTalk_Video_[계좌].mp4, 길이 1:22. 첫 화면에 “마블, 가슴 아픈 장면 랭킹”, “스티브와 페기의 재회”, “70년 만에 다시 만난 연인”, “방금 나눈 대화마저 잊었다” 자막이 보임",
+      "name": "KakaoTalk_Video_[계좌].mp4",
+      "sensitive": true
     }
   ]
 }
