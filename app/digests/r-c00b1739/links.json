@@ -1,8 +1,34 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-10-21T04:06:46.061Z",
+  "updated_at": "2026-10-21T04:37:42.859Z",
   "items": [
+    {
+      "id": "b61a7e2853a6",
+      "url": "https://www.youtube.com/watch?v=7vkhoCM67PU",
+      "kind": "youtube",
+      "title": "YouTube Literally Just Changed the Algorithm",
+      "site": "YouTube",
+      "author": "vidIQ",
+      "thumb": "media/r-c00b1739/link_thumbs/b61a7e2853a6.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-21",
+      "last_date": "2026-10-21",
+      "dates": [
+        "2026-10-21"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-21",
+          "time": "13:10",
+          "who": "수강생",
+          "text": "https://youtu.be/7vkhoCM67PU"
+        }
+      ],
+      "fetched_at": "2026-10-21T04:37:42.859Z"
+    },
     {
       "id": "4ef7e320ce90",
       "url": "https://x.com/opencode/status/2111516673953935833](x.com/opencode/status/2111516673953935833",
