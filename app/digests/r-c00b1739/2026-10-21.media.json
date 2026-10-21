@@ -14,6 +14,18 @@
       "thumb": "media/r-c00b1739/thumbs/7062fd0e4adf.jpg",
       "mime": "image/png",
       "bytes": 30612
+    },
+    {
+      "id": "adcbe15eabf7",
+      "kind": "image",
+      "t": "2026-10-21T12:41:00+09:00",
+      "time": "12:41",
+      "who": "수강생",
+      "text": "Pixeling AI 작업 화면 캡처. 상단에 “편집 가능한 Blender 파일”이 보이고 메뉴에 “서브작가 업데이트”, “OpenAI 문서”, “Notion 기획서 구현”, “Notion 조사·문서화”, “Figma 모션 디자인”이 표시됨. 모델 선택은 “GPT-6 Astra 보통”, 사용량은 76%로 표시.",
+      "file": "media/r-c00b1739/adcbe15eabf7.png",
+      "thumb": "media/r-c00b1739/thumbs/adcbe15eabf7.jpg",
+      "mime": "image/png",
+      "bytes": 38850
     }
   ]
 }
