@@ -2,14 +2,14 @@
   "schema_version": 1,
   "room_name": "(전체반) [쇼츠투벤츠] 5기 (1~5기 통합방)",
   "label": "쇼츠투벤츠 통합반",
-  "today": "2026-10-21",
+  "today": "2026-10-22",
   "missed_after_days": 2,
   "stale_after_days": 21,
   "counts": {
     "know_how": 15,
-    "need": 9,
-    "missed": 91,
-    "question": 63
+    "need": 7,
+    "missed": 99,
+    "question": 57
   },
   "sections": {
     "know_how": [
@@ -729,72 +729,6 @@
         ]
       },
       {
-        "key": "아스트라-스킬-초보안내",
-        "kind": "need",
-        "title": "스킬이 쇼츠 제작의 필수인지 초보자 안내 필요",
-        "detail": "수강생은 카페에 공유된 스킬을 보고, 대화만 하는 현재 방식으로도 되는지와 다른 수강생들도 스킬을 만들어 쓰는지 물었다. AI 초보에게 스킬 작성이 막연하고, 영상 품질이나 조회수를 내려면 필요한 것처럼 느낀다고 재차 설명했다. 스킬의 필요 여부와 초보자가 시작할 범위에 대한 답은 나오지 않았다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 3,
-        "tags": [
-          "아스트라",
-          "스킬",
-          "초보안내"
-        ],
-        "first_date": "2026-10-20",
-        "last_date": "2026-10-20",
-        "dates": [
-          "2026-10-20"
-        ],
-        "mention_count": 2,
-        "evidence": [
-          {
-            "date": "2026-10-20",
-            "time": "16:14",
-            "who": "수강생",
-            "quote": "저런 스킬은 연습을 통해서 만들어진다기엔 ai초보인 저에게 너무 막연한데 저렇게 해야 일반 쇼츠도 조회수가 나올 것 같고.. 다른 분들도 저렇게 스킬 만들어서 쓰고 계신가요?.."
-          },
-          {
-            "date": "2026-10-20",
-            "time": "16:26",
-            "who": "수강생",
-            "quote": "네넴.. 룰쌤도 저렇게 스킬써서 안하시던데.. 그냥.. 저런 스킬내용이 어느정도는 있어야 룰쌤같은 영상 퀄이 나오는게 아닌가 싶은 생각이 문득 들어서요ㅎ"
-          }
-        ]
-      },
-      {
-        "key": "픽셀링-영상다운로드-지연",
-        "kind": "need",
-        "title": "업데이트·재실행 후에도 영상 다운로드 지연",
-        "detail": "수강생은 인터넷은 정상인데 픽셀링 영상 다운로드에 지연이 크다고 했다. 새로고침, 프로그램 업데이트, 다시 켜기를 모두 시도했지만 지속돼 추가 점검 안내가 필요하다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 3,
-        "tags": [
-          "픽셀링",
-          "다운로드",
-          "지연"
-        ],
-        "first_date": "2026-10-20",
-        "last_date": "2026-10-20",
-        "dates": [
-          "2026-10-20"
-        ],
-        "mention_count": 1,
-        "evidence": [
-          {
-            "date": "2026-10-20",
-            "time": "16:58",
-            "who": "수강생",
-            "quote": "저 인터넷은 잘돼는데 왜 픽셀링에서 영상 다운로드하면 딜레이가 많이 될까요 새로고침/프로그램 업데이트 /새로 켜기 다 했는데 말이죠..."
-          }
-        ]
-      },
-      {
         "key": "신청자료-구글시트-수령",
         "kind": "need",
         "title": "신청자료 수령 문의는 스팸함·더보기 확인으로 해소",
@@ -974,7 +908,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "픽셀링-프로젝트-기기간동기화",
@@ -1037,7 +971,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 8
+        "days_open": 9
       },
       {
         "key": "자동화프로그램-승인-대기",
@@ -1075,7 +1009,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 0
+        "days_open": 1
       },
       {
         "key": "챌린지-늦은가입-참여조건",
@@ -1107,7 +1041,39 @@
           }
         ],
         "origin": "missed",
-        "days_open": 0
+        "days_open": 1
+      },
+      {
+        "key": "저작권-2스트라이크-삭제",
+        "kind": "question",
+        "title": "2스트라이크 상태에서 삭제하면 막을 수 있는지 질문",
+        "detail": "수강생이 2스트라이크 상태라면 삭제로 막을 수 있다고 들었다며 빨리 지워도 되는지 물었다. 무엇을 막는다는 의미인지와 해당 설명의 근거는 대화에 드러나지 않으며, 삭제 효과에 대한 공식 답도 없었다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 5,
+        "tags": [
+          "저작권",
+          "스트라이크",
+          "삭제"
+        ],
+        "first_date": "2026-10-20",
+        "last_date": "2026-10-20",
+        "dates": [
+          "2026-10-20"
+        ],
+        "mention_count": 1,
+        "evidence": [
+          {
+            "date": "2026-10-20",
+            "time": "17:23",
+            "who": "수강생",
+            "quote": "얼른 지워버리면 안될까요?ㅠ아직 2스트라이크면 삭제하면 못건다고 들었는데"
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 2
       },
       {
         "key": "픽셀링-중간파일-용량정리",
@@ -1167,7 +1133,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 9
+        "days_open": 10
       },
       {
         "key": "픽셀링-편집자-연결방법",
@@ -1225,7 +1191,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 9
+        "days_open": 10
       },
       {
         "key": "픽셀링-프로젝트-프리셋미적용",
@@ -1276,7 +1242,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 7
+        "days_open": 8
       },
       {
         "key": "쇼핑강의-픽셀링-미게시",
@@ -1308,7 +1274,242 @@
           }
         ],
         "origin": "missed",
-        "days_open": 1
+        "days_open": 2
+      },
+      {
+        "key": "vpn-다채널-요금업체",
+        "kind": "question",
+        "title": "5개 채널용 VPN의 IP당 8000원대 조건 문의",
+        "detail": "수강생은 5개 채널을 만들고 VPN 업체를 찾으며, 강의에서 언급된 IP당 8000원대가 장기플랜 가격인지 물었다. 다른 수강생은 몇 개월치 결제로 할인받아 사용했다고 답했지만 업체명이나 정확한 요금 조건은 나오지 않았다. 조교가 18시 게릴라 강의를 예고했으나 질문의 실제 답변 내용은 대화에 없다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 3,
+        "tags": [
+          "VPN",
+          "다채널",
+          "비용"
+        ],
+        "first_date": "2026-10-20",
+        "last_date": "2026-10-20",
+        "dates": [
+          "2026-10-20"
+        ],
+        "mention_count": 2,
+        "evidence": [
+          {
+            "date": "2026-10-20",
+            "time": "17:45",
+            "who": "수강생",
+            "quote": "5개채널 만들고 VPN업체 찾는중입니다. 저번 강의때 IP당 8000원대 쓰신다고 하셨는데 장기플랜으로 쓰시는 가격인거죠?"
+          },
+          {
+            "date": "2026-10-20",
+            "time": "17:46",
+            "who": "조교",
+            "quote": "여섯시에 깡계랑 운영부분 이런거 해소해드리게 한시간만 게릴라할게요.."
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 2
+      },
+      {
+        "key": "쇼츠-업로드빈도-판단",
+        "kind": "question",
+        "title": "평균 2천 조회 채널에서 하루 2쇼츠 전환 문의",
+        "detail": "수강생은 쇼츠 11개를 올렸고 평균 조회수는 2천대, 1만을 넘긴 영상은 하나라고 밝혔다. 시니어 타겟으로 구독 전환은 높지만 조회수가 약하다고 느끼는 상황에서 하루 2개 업로드로 늘려도 되는지 물었으며, 답은 없었다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 3,
+        "tags": [
+          "쇼츠",
+          "업로드빈도",
+          "시니어"
+        ],
+        "first_date": "2026-10-20",
+        "last_date": "2026-10-20",
+        "dates": [
+          "2026-10-20"
+        ],
+        "mention_count": 1,
+        "evidence": [
+          {
+            "date": "2026-10-20",
+            "time": "11:43",
+            "who": "수강생",
+            "quote": "11개 올렸고 쇼츠 조회수가 평균 2천대고 만이 넘는게 하나 있어요 이 데이터로 1일 2쇼츠 해도 될까요? 시니어 타겟이라 구독전환은 높은데 조회수가 조금 약한 느낌이네요"
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 2
+      },
+      {
+        "key": "쇼츠피드-지연-업로드중단",
+        "kind": "question",
+        "title": "6시간 이상 피드 0 후 소량 노출: 쉬어야 하나",
+        "detail": "수강생은 최근 업로드 후 6시간 이상 피드가 0이다가 쇼츠피드가 100 정도 붙는다고 했다. 이 상황에서 며칠 업로드를 쉬어야 하는지 물었으나 답은 없었다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 3,
+        "tags": [
+          "쇼츠",
+          "피드",
+          "업로드"
+        ],
+        "first_date": "2026-10-20",
+        "last_date": "2026-10-20",
+        "dates": [
+          "2026-10-20"
+        ],
+        "mention_count": 1,
+        "evidence": [
+          {
+            "date": "2026-10-20",
+            "time": "17:56",
+            "who": "수강생",
+            "quote": "요즘 업로드하면 6시간 이상 피드 0뜨다가 쇼츠피드 찔끔찔끔 100 정도 주는데 몇일 업로드 쉬어야될까요?ㅠㅠ"
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 2
+      },
+      {
+        "key": "쇼핑태그-스티커-미표시",
+        "kind": "question",
+        "title": "첫 쇼핑태그 적용 후 스티커가 표시되지 않음",
+        "detail": "수강생이 처음 쇼핑태그를 달았지만 스티커가 나타나지 않는다고 물었다. 사용 환경이나 설정 상태에 관한 추가 설명과 답변은 없었다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 3,
+        "tags": [
+          "쇼핑태그",
+          "스티커"
+        ],
+        "first_date": "2026-10-20",
+        "last_date": "2026-10-20",
+        "dates": [
+          "2026-10-20"
+        ],
+        "mention_count": 1,
+        "evidence": [
+          {
+            "date": "2026-10-20",
+            "time": "18:09",
+            "who": "수강생",
+            "quote": "난생 첨으로 쇼핑태그 달았는데 스티커가 왜 안달리는걸까요?"
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 2
+      },
+      {
+        "key": "아스트라-스킬-초보안내",
+        "kind": "need",
+        "title": "스킬이 쇼츠 제작의 필수인지 초보자 안내 필요",
+        "detail": "수강생은 카페에 공유된 스킬을 보고, 대화만 하는 현재 방식으로도 되는지와 다른 수강생들도 스킬을 만들어 쓰는지 물었다. AI 초보에게 스킬 작성이 막연하고, 영상 품질이나 조회수를 내려면 필요한 것처럼 느낀다고 재차 설명했다. 스킬의 필요 여부와 초보자가 시작할 범위에 대한 답은 나오지 않았다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 3,
+        "tags": [
+          "아스트라",
+          "스킬",
+          "초보안내"
+        ],
+        "first_date": "2026-10-20",
+        "last_date": "2026-10-20",
+        "dates": [
+          "2026-10-20"
+        ],
+        "mention_count": 2,
+        "evidence": [
+          {
+            "date": "2026-10-20",
+            "time": "16:14",
+            "who": "수강생",
+            "quote": "저런 스킬은 연습을 통해서 만들어진다기엔 ai초보인 저에게 너무 막연한데 저렇게 해야 일반 쇼츠도 조회수가 나올 것 같고.. 다른 분들도 저렇게 스킬 만들어서 쓰고 계신가요?.."
+          },
+          {
+            "date": "2026-10-20",
+            "time": "16:26",
+            "who": "수강생",
+            "quote": "네넴.. 룰쌤도 저렇게 스킬써서 안하시던데.. 그냥.. 저런 스킬내용이 어느정도는 있어야 룰쌤같은 영상 퀄이 나오는게 아닌가 싶은 생각이 문득 들어서요ㅎ"
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 2
+      },
+      {
+        "key": "애드센스-사업자-폐업판단",
+        "kind": "question",
+        "title": "미사용 사업자를 향후 애드센스용으로 유지할지 문의",
+        "detail": "수강생은 사용하지 않는 사업자를 폐업하려다가 향후 애드센스를 위해 유지하는 편이 나은지 물었다. 사업자 재등록이 어렵다는 본인의 우려를 덧붙였으며, 유지·폐업 판단에 대한 답은 없었다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 3,
+        "tags": [
+          "애드센스",
+          "사업자",
+          "폐업"
+        ],
+        "first_date": "2026-10-20",
+        "last_date": "2026-10-20",
+        "dates": [
+          "2026-10-20"
+        ],
+        "mention_count": 1,
+        "evidence": [
+          {
+            "date": "2026-10-20",
+            "time": "11:23",
+            "who": "수강생",
+            "quote": "안녕하세요~ 안쓰는 사업자 폐업 신고할까 하는데 요즘 사업자내기도 어려우니 나중에 에드센스를 위해 살려두는게 나을까요? 경험 있으신분 조언 해 주시면 감사하겠습니다!"
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 2
+      },
+      {
+        "key": "픽셀링-영상다운로드-지연",
+        "kind": "need",
+        "title": "업데이트·재실행 후에도 영상 다운로드 지연",
+        "detail": "수강생은 인터넷은 정상인데 픽셀링 영상 다운로드에 지연이 크다고 했다. 새로고침, 프로그램 업데이트, 다시 켜기를 모두 시도했지만 지속돼 추가 점검 안내가 필요하다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 3,
+        "tags": [
+          "픽셀링",
+          "다운로드",
+          "지연"
+        ],
+        "first_date": "2026-10-20",
+        "last_date": "2026-10-20",
+        "dates": [
+          "2026-10-20"
+        ],
+        "mention_count": 1,
+        "evidence": [
+          {
+            "date": "2026-10-20",
+            "time": "16:58",
+            "who": "수강생",
+            "quote": "저 인터넷은 잘돼는데 왜 픽셀링에서 영상 다운로드하면 딜레이가 많이 될까요 새로고침/프로그램 업데이트 /새로 켜기 다 했는데 말이죠..."
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 2
       },
       {
         "key": "수창구매-조회수제로-대응",
@@ -1340,7 +1541,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 2
+        "days_open": 3
       },
       {
         "key": "인스타-봇인식-로그인차단",
@@ -1372,7 +1573,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 2
+        "days_open": 3
       },
       {
         "key": "픽셀링-대본확정-제작전환",
@@ -1432,7 +1633,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 7
+        "days_open": 8
       },
       {
         "key": "게릴라강의-녹화-누락",
@@ -1470,7 +1671,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 2
+        "days_open": 3
       },
       {
         "key": "동물명-오표기-수창심사",
@@ -1502,7 +1703,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 2
+        "days_open": 3
       },
       {
         "key": "롤러코스터영상-수창-유지",
@@ -1534,7 +1735,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 2
+        "days_open": 3
       },
       {
         "key": "롱폼프로그램-폴더생성-먹통",
@@ -1566,7 +1767,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 2
+        "days_open": 3
       },
       {
         "key": "시니어롱폼-애니메이션-모델선택",
@@ -1605,7 +1806,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 2
+        "days_open": 3
       },
       {
         "key": "픽셀링-레퍼런스분석-설정차이",
@@ -1637,7 +1838,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 2
+        "days_open": 3
       },
       {
         "key": "픽셀링-로그인-문의불가",
@@ -1700,7 +1901,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 11
+        "days_open": 12
       },
       {
         "key": "챌린지-누락-소급인정",
@@ -1731,7 +1932,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 4
+        "days_open": 5
       },
       {
         "key": "재사용-항소검토-업로드",
@@ -1764,7 +1965,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "픽셀링-모델선택-불가",
@@ -1825,7 +2026,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 8
+        "days_open": 9
       },
       {
         "key": "롱폼프로그램-기능-사용안내",
@@ -1870,7 +2071,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "수노-정책변경-비용",
@@ -1902,7 +2103,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "예약영상-삭제-타채널업로드",
@@ -1934,7 +2135,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "재사용-항소영상-참고자료",
@@ -1995,7 +2196,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 11
+        "days_open": 12
       },
       {
         "key": "ai롱폼-아동등장-수익화",
@@ -2028,7 +2229,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "수창재도전-기존채널-소재이동",
@@ -2066,7 +2267,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "음악쇼츠-저작권-기획",
@@ -2098,7 +2299,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "플레이리스트-심사중-채널변경",
@@ -2137,7 +2338,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "픽셀링-컴퓨터사용-권한설명",
@@ -2200,7 +2401,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "자동업로드-승인검토-차단",
@@ -2238,7 +2439,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "픽셀링-자동업로드-연동안내",
@@ -2270,7 +2471,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "kie-api-주소설정",
@@ -2302,7 +2503,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "tts-파열음-제거",
@@ -2334,7 +2535,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "랭킹쇼츠-동물소재-시작기준",
@@ -2366,7 +2567,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "픽셀링-구버전-다운로드안내",
@@ -2405,7 +2606,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "쇼츠-음악저작권-경고판단",
@@ -2466,7 +2667,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "애드센스-미국세금-명의",
@@ -2498,7 +2699,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 7
+        "days_open": 8
       },
       {
         "key": "썸네일-번호인증-제한",
@@ -2536,7 +2737,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 7
+        "days_open": 8
       },
       {
         "key": "서브작가-md-등록방법",
@@ -2568,7 +2769,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 7
+        "days_open": 8
       },
       {
         "key": "픽셀링-롱폼-tts정체",
@@ -2600,7 +2801,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 7
+        "days_open": 8
       },
       {
         "key": "영화채널-저작권경고-작품확인",
@@ -2639,7 +2840,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 8
+        "days_open": 9
       },
       {
         "key": "음원사이트-음악-사용조건",
@@ -2671,7 +2872,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 8
+        "days_open": 9
       },
       {
         "key": "해외채널-수익박탈-재도전",
@@ -2703,7 +2904,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 8
+        "days_open": 9
       },
       {
         "key": "ai-플레이리스트-제작안내",
@@ -2735,7 +2936,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 8
+        "days_open": 9
       },
       {
         "key": "자동업로드-쇼츠-bgm",
@@ -2767,7 +2968,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 8
+        "days_open": 9
       },
       {
         "key": "픽셀링-업로드-저화질",
@@ -2799,7 +3000,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 8
+        "days_open": 9
       },
       {
         "key": "애드센스-중복거절-재사용",
@@ -2837,7 +3038,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 9
+        "days_open": 10
       },
       {
         "key": "저작권-경고-추가업로드",
@@ -2876,7 +3077,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 9
+        "days_open": 10
       },
       {
         "key": "해외수창-관련채널-정지",
@@ -2914,7 +3115,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 9
+        "days_open": 10
       },
       {
         "key": "과제-구글시트-제출방법",
@@ -2958,7 +3159,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 9
+        "days_open": 10
       },
       {
         "key": "픽셀링-프로젝트-버전관리",
@@ -3002,7 +3203,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 9
+        "days_open": 10
       },
       {
         "key": "깡계-2단계인증-가이드",
@@ -3034,7 +3235,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 9
+        "days_open": 10
       },
       {
         "key": "쇼츠-신규영상-조회수제로",
@@ -3066,7 +3267,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 9
+        "days_open": 10
       },
       {
         "key": "크롬-프로필분리-동시접속",
@@ -3098,7 +3299,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 9
+        "days_open": 10
       },
       {
         "key": "뉴스영상-저작권-사용",
@@ -3129,7 +3330,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "애드센스-법인선택-정정",
@@ -3161,7 +3362,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "원테이크-댓글모음-수창거절",
@@ -3193,7 +3394,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "픽셀링-tts-크레딧비용",
@@ -3231,7 +3432,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "픽셀링-롱폼-필요크레딧",
@@ -3263,7 +3464,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "해외영상-출처-유통가능",
@@ -3301,7 +3502,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "대본추출-ip차단-지원",
@@ -3339,7 +3540,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "아스트라-소재변경-결유지",
@@ -3383,7 +3584,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "줌강의-입장공지-누락",
@@ -3415,7 +3616,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "챗지피티-계정전환-채팅목록",
@@ -3453,7 +3654,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "병렬작업-노트북-다운",
@@ -3485,7 +3686,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "픽셀링-작가자료-읽기오류",
@@ -3518,7 +3719,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "픽셀링-프리셋-원본소리",
@@ -3550,7 +3751,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "쇼핑태그-대가성-표기",
@@ -3595,7 +3796,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 11
+        "days_open": 12
       },
       {
         "key": "재사용-애드센스-삭제",
@@ -3628,7 +3829,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 11
+        "days_open": 12
       },
       {
         "key": "쇼츠-조회수-기준차이",
@@ -3672,7 +3873,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 11
+        "days_open": 12
       },
       {
         "key": "채널분석-실습-설명요청",
@@ -3710,7 +3911,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 11
+        "days_open": 12
       },
       {
         "key": "픽셀링-업데이트-기능먹통",
@@ -3749,7 +3950,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 11
+        "days_open": 12
       },
       {
         "key": "깡계-복구번호-로그인",
@@ -3787,7 +3988,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 11
+        "days_open": 12
       },
       {
         "key": "쇼츠-공식사운드-pc업로드",
@@ -3825,7 +4026,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 11
+        "days_open": 12
       },
       {
         "key": "쇼츠-배경음-모음",
@@ -3857,7 +4058,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 11
+        "days_open": 12
       },
       {
         "key": "스튜디오-검토업로드-지연",
@@ -3889,7 +4090,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 11
+        "days_open": 12
       },
       {
         "key": "인스타-강의예시-링크",
@@ -3921,7 +4122,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 11
+        "days_open": 12
       },
       {
         "key": "캡컷-화면녹화-위치",
@@ -3952,7 +4153,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 11
+        "days_open": 12
       },
       {
         "key": "픽셀링-교육-접근권한",
@@ -3996,7 +4197,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "쿠팡-쇼핑태그-접속장애",
@@ -4034,7 +4235,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "대본추출-복수영상-연결",
@@ -4066,7 +4267,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "랭킹형-화면전환-효과음",
@@ -4098,7 +4299,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "영상제작-외주-역할분담",
@@ -4130,7 +4331,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "캡컷-애덤목소리-재사용",
@@ -4162,7 +4363,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "픽셀링-설정-원격지원",
@@ -4200,7 +4401,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "픽셀링-유튜브-예약업로드",
@@ -4238,7 +4439,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "픽셀링-프리셋-검증오류",
@@ -4277,7 +4478,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "수창신청-2단계인증-번호재사용",
@@ -4309,7 +4510,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 13
+        "days_open": 14
       },
       {
         "key": "팬튜브-플리-시청시간",
@@ -4341,7 +4542,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 13
+        "days_open": 14
       },
       {
         "key": "깡계-기존업로드폰-사용",
@@ -4373,7 +4574,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 13
+        "days_open": 14
       }
     ],
     "question": [
@@ -4641,191 +4842,6 @@
             "time": "16:58",
             "who": "수강생",
             "quote": "일단 메모장에 Kie ai의 연결주소와 API Key를 넣어주고요. 저장할때 이름을 Kie API Key라고 주고 연결해서 쓰라고 하면 됩니다."
-          }
-        ]
-      },
-      {
-        "key": "vpn-다채널-요금업체",
-        "kind": "question",
-        "title": "5개 채널용 VPN의 IP당 8000원대 조건 문의",
-        "detail": "수강생은 5개 채널을 만들고 VPN 업체를 찾으며, 강의에서 언급된 IP당 8000원대가 장기플랜 가격인지 물었다. 다른 수강생은 몇 개월치 결제로 할인받아 사용했다고 답했지만 업체명이나 정확한 요금 조건은 나오지 않았다. 조교가 18시 게릴라 강의를 예고했으나 질문의 실제 답변 내용은 대화에 없다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 3,
-        "tags": [
-          "VPN",
-          "다채널",
-          "비용"
-        ],
-        "first_date": "2026-10-20",
-        "last_date": "2026-10-20",
-        "dates": [
-          "2026-10-20"
-        ],
-        "mention_count": 2,
-        "evidence": [
-          {
-            "date": "2026-10-20",
-            "time": "17:45",
-            "who": "수강생",
-            "quote": "5개채널 만들고 VPN업체 찾는중입니다. 저번 강의때 IP당 8000원대 쓰신다고 하셨는데 장기플랜으로 쓰시는 가격인거죠?"
-          },
-          {
-            "date": "2026-10-20",
-            "time": "17:46",
-            "who": "조교",
-            "quote": "여섯시에 깡계랑 운영부분 이런거 해소해드리게 한시간만 게릴라할게요.."
-          }
-        ]
-      },
-      {
-        "key": "저작권-2스트라이크-삭제",
-        "kind": "question",
-        "title": "2스트라이크 상태에서 삭제하면 막을 수 있는지 질문",
-        "detail": "수강생이 2스트라이크 상태라면 삭제로 막을 수 있다고 들었다며 빨리 지워도 되는지 물었다. 무엇을 막는다는 의미인지와 해당 설명의 근거는 대화에 드러나지 않으며, 삭제 효과에 대한 공식 답도 없었다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 5,
-        "tags": [
-          "저작권",
-          "스트라이크",
-          "삭제"
-        ],
-        "first_date": "2026-10-20",
-        "last_date": "2026-10-20",
-        "dates": [
-          "2026-10-20"
-        ],
-        "mention_count": 1,
-        "evidence": [
-          {
-            "date": "2026-10-20",
-            "time": "17:23",
-            "who": "수강생",
-            "quote": "얼른 지워버리면 안될까요?ㅠ아직 2스트라이크면 삭제하면 못건다고 들었는데"
-          }
-        ]
-      },
-      {
-        "key": "쇼츠-업로드빈도-판단",
-        "kind": "question",
-        "title": "평균 2천 조회 채널에서 하루 2쇼츠 전환 문의",
-        "detail": "수강생은 쇼츠 11개를 올렸고 평균 조회수는 2천대, 1만을 넘긴 영상은 하나라고 밝혔다. 시니어 타겟으로 구독 전환은 높지만 조회수가 약하다고 느끼는 상황에서 하루 2개 업로드로 늘려도 되는지 물었으며, 답은 없었다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 3,
-        "tags": [
-          "쇼츠",
-          "업로드빈도",
-          "시니어"
-        ],
-        "first_date": "2026-10-20",
-        "last_date": "2026-10-20",
-        "dates": [
-          "2026-10-20"
-        ],
-        "mention_count": 1,
-        "evidence": [
-          {
-            "date": "2026-10-20",
-            "time": "11:43",
-            "who": "수강생",
-            "quote": "11개 올렸고 쇼츠 조회수가 평균 2천대고 만이 넘는게 하나 있어요 이 데이터로 1일 2쇼츠 해도 될까요? 시니어 타겟이라 구독전환은 높은데 조회수가 조금 약한 느낌이네요"
-          }
-        ]
-      },
-      {
-        "key": "쇼츠피드-지연-업로드중단",
-        "kind": "question",
-        "title": "6시간 이상 피드 0 후 소량 노출: 쉬어야 하나",
-        "detail": "수강생은 최근 업로드 후 6시간 이상 피드가 0이다가 쇼츠피드가 100 정도 붙는다고 했다. 이 상황에서 며칠 업로드를 쉬어야 하는지 물었으나 답은 없었다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 3,
-        "tags": [
-          "쇼츠",
-          "피드",
-          "업로드"
-        ],
-        "first_date": "2026-10-20",
-        "last_date": "2026-10-20",
-        "dates": [
-          "2026-10-20"
-        ],
-        "mention_count": 1,
-        "evidence": [
-          {
-            "date": "2026-10-20",
-            "time": "17:56",
-            "who": "수강생",
-            "quote": "요즘 업로드하면 6시간 이상 피드 0뜨다가 쇼츠피드 찔끔찔끔 100 정도 주는데 몇일 업로드 쉬어야될까요?ㅠㅠ"
-          }
-        ]
-      },
-      {
-        "key": "쇼핑태그-스티커-미표시",
-        "kind": "question",
-        "title": "첫 쇼핑태그 적용 후 스티커가 표시되지 않음",
-        "detail": "수강생이 처음 쇼핑태그를 달았지만 스티커가 나타나지 않는다고 물었다. 사용 환경이나 설정 상태에 관한 추가 설명과 답변은 없었다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 3,
-        "tags": [
-          "쇼핑태그",
-          "스티커"
-        ],
-        "first_date": "2026-10-20",
-        "last_date": "2026-10-20",
-        "dates": [
-          "2026-10-20"
-        ],
-        "mention_count": 1,
-        "evidence": [
-          {
-            "date": "2026-10-20",
-            "time": "18:09",
-            "who": "수강생",
-            "quote": "난생 첨으로 쇼핑태그 달았는데 스티커가 왜 안달리는걸까요?"
-          }
-        ]
-      },
-      {
-        "key": "애드센스-사업자-폐업판단",
-        "kind": "question",
-        "title": "미사용 사업자를 향후 애드센스용으로 유지할지 문의",
-        "detail": "수강생은 사용하지 않는 사업자를 폐업하려다가 향후 애드센스를 위해 유지하는 편이 나은지 물었다. 사업자 재등록이 어렵다는 본인의 우려를 덧붙였으며, 유지·폐업 판단에 대한 답은 없었다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 3,
-        "tags": [
-          "애드센스",
-          "사업자",
-          "폐업"
-        ],
-        "first_date": "2026-10-20",
-        "last_date": "2026-10-20",
-        "dates": [
-          "2026-10-20"
-        ],
-        "mention_count": 1,
-        "evidence": [
-          {
-            "date": "2026-10-20",
-            "time": "11:23",
-            "who": "수강생",
-            "quote": "안녕하세요~ 안쓰는 사업자 폐업 신고할까 하는데 요즘 사업자내기도 어려우니 나중에 에드센스를 위해 살려두는게 나을까요? 경험 있으신분 조언 해 주시면 감사하겠습니다!"
           }
         ]
       },
