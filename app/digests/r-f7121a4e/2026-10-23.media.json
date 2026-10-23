@@ -98,6 +98,30 @@
       "who": "수강생",
       "text": "내용을 확인하지 못한 파일",
       "name": "퐈아아_오디오.mp3"
+    },
+    {
+      "id": "030ee1555f5f",
+      "kind": "image",
+      "t": "2026-10-23T18:00:00+09:00",
+      "time": "18:00",
+      "who": "수강생",
+      "text": "codex-resets.com의 Codex Resets 페이지 캡처. 리셋 예정이 약 8시간 이내로 표시되고, 설명에는 10월 24일(토) 새벽 2시 전후 일정과 최근 리셋 기록이 보임.",
+      "file": "media/r-f7121a4e/030ee1555f5f.png",
+      "thumb": "media/r-f7121a4e/thumbs/030ee1555f5f.jpg",
+      "mime": "image/png",
+      "bytes": 136006
+    },
+    {
+      "id": "4cb318fd76ae",
+      "kind": "image",
+      "t": "2026-10-23T18:01:00+09:00",
+      "time": "18:01",
+      "who": "수강생",
+      "text": "Tibo(@thsottiaux)의 X 게시물 두 건이 보이는 캡처. 상단은 Decisions API와 OpenResponses 관련, 아래는 “내일 오전 10시 PST 이전에 작은 배와 함께 착륙합니다.”라고 적혀 있음.",
+      "file": "media/r-f7121a4e/4cb318fd76ae.png",
+      "thumb": "media/r-f7121a4e/thumbs/4cb318fd76ae.jpg",
+      "mime": "image/png",
+      "bytes": 36527
     }
   ]
 }
