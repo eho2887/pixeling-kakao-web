@@ -50,6 +50,15 @@
       "thumb": "media/r-f7121a4e/thumbs/2d1f6cb90480.jpg",
       "mime": "image/png",
       "bytes": 143011
+    },
+    {
+      "id": "475c9dc2f9ed",
+      "kind": "image",
+      "t": "2026-10-23T12:16:00+09:00",
+      "time": "12:16",
+      "who": "수강생",
+      "text": "신한은행 알림톡 도착 화면 캡처(금융 알림 내용이 보여 구체적인 내용을 옮기지 않음). 메시지 문구: 신한 입금됐네요💙",
+      "sensitive": true
     }
   ]
 }
