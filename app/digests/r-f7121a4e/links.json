@@ -1,8 +1,34 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-10-23T09:47:49.564Z",
+  "updated_at": "2026-10-23T10:26:20.864Z",
   "items": [
+    {
+      "id": "723652dd29b1",
+      "url": "https://cloud.pixeling.io/s/65f2a4ba-f756-43c0-aff8-88c732a70b69.4hgIUdpFWhoh_qDDEf4SBiFM2Lw-YLP3blZqhzhfJl4",
+      "kind": "web",
+      "title": "요즘 뜨는 짜임으로 '김미화' 주제 숏폼 만들어줘",
+      "site": "Pixeling",
+      "description": "약 41초·세로 1080p입니다. 짧은 후킹과 실제 가족 발언으로 구성하고, BGM·자막 표시 프레임·음량을 확인해 결과물에 저장했습니다.",
+      "thumb": "media/r-f7121a4e/link_thumbs/723652dd29b1.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-23",
+      "last_date": "2026-10-23",
+      "dates": [
+        "2026-10-23"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-23",
+          "time": "19:10",
+          "who": "수강생",
+          "text": "https://cloud.pixeling.io/s/65f2a4ba-f756-43c0-aff8-88c732a70b69.4hgIUdpFWhoh_qDDEf4SBiFM2Lw-YLP3blZqhzhfJl4 룰쌤 말씀 듣고 잡도리 해보고 있습니다! 힘을 주세요 여러분!"
+        }
+      ],
+      "fetched_at": "2026-10-23T10:26:20.864Z"
+    },
     {
       "id": "752237967070",
       "url": "https://codex-resets.com/ko",
