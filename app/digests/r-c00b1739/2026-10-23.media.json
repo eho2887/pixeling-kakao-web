@@ -50,6 +50,30 @@
       "thumb": "media/r-c00b1739/thumbs/9b09ea44b251.jpg",
       "mime": "image/png",
       "bytes": 46332
+    },
+    {
+      "id": "b7ff4d1972fb",
+      "kind": "image",
+      "t": "2026-10-23T16:45:00+09:00",
+      "time": "16:45",
+      "who": "수강생",
+      "text": "MSI 모니터 설정 화면 사진. 화면 상단에 “1920 × 1080”, “60 Hz”, “HDR”이 보이고, 왼쪽 메뉴에 “프로”, “이미지”, “입력 소스”, “설정”이 보임. 나머지 글자는 흐려 판독하지 않음",
+      "file": "media/r-c00b1739/b7ff4d1972fb.jpg",
+      "thumb": "media/r-c00b1739/thumbs/b7ff4d1972fb.jpg",
+      "mime": "image/jpeg",
+      "bytes": 1232212
+    },
+    {
+      "id": "d9f9a62cb752",
+      "kind": "image",
+      "t": "2026-10-23T16:51:00+09:00",
+      "time": "16:51",
+      "who": "수강생",
+      "text": "앱 화면 캡처. 왼쪽에 “검색”, “새로 만들기”, “프로젝트”, “아티클”, “예약됨”, “Designing”, “사용자 지정” 메뉴가 보이고, 사람 모양 버튼과 “프로젝트” 항목이 붉은 테두리로 표시됨",
+      "file": "media/r-c00b1739/d9f9a62cb752.png",
+      "thumb": "media/r-c00b1739/thumbs/d9f9a62cb752.jpg",
+      "mime": "image/png",
+      "bytes": 6506
     }
   ]
 }
