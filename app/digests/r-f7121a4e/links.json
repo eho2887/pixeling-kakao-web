@@ -1,8 +1,264 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-10-23T01:59:17.267Z",
+  "updated_at": "2026-10-23T03:08:47.706Z",
   "items": [
+    {
+      "id": "18574fe9f275",
+      "url": "https://x.com/MiniMax_AI/status/2112150867868541221",
+      "kind": "web",
+      "title": "X에서 MiniMax (official)(@MiniMax_AI) 님",
+      "site": "X (formerly Twitter)",
+      "description": "MiniMax M3.1 Flash: Space Performance + Bunny Speed 🚀🐰 Yes, Space Bunny - which has topped global leaderboards with 200T+ tokens - was an earlier version of M3.1 Flash. 💰Redefining the performance economics of agentic AI. M3.1 Flash achieves frontier-level intelligence across key tasks such a…",
+      "thumb": "media/r-f7121a4e/link_thumbs/18574fe9f275.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-23",
+      "last_date": "2026-10-23",
+      "dates": [
+        "2026-10-23"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-23",
+          "time": "10:50",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
+        }
+      ],
+      "fetched_at": "2026-10-23T03:08:47.706Z"
+    },
+    {
+      "id": "5986b4b9f29f",
+      "url": "https://www.youtube.com/@claude",
+      "kind": "youtube",
+      "site": "youtube.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-23",
+      "last_date": "2026-10-23",
+      "dates": [
+        "2026-10-23"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-23",
+          "time": "10:50",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
+        }
+      ],
+      "fetched_at": "2026-10-23T03:08:47.706Z"
+    },
+    {
+      "id": "9c2e899d1217",
+      "url": "https://claude.com/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes",
+      "kind": "web",
+      "title": "Claude Security now scans continuously and tracks fixes",
+      "site": "Claude",
+      "description": "Claude Security now watches your repositories as code changes, tracks findings until they’re fixed, learns from the context your team adds, and connects to your tools through an API and MCP. Available in public beta for Claude Enterprise customers.",
+      "thumb": "media/r-f7121a4e/link_thumbs/9c2e899d1217.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-23",
+      "last_date": "2026-10-23",
+      "dates": [
+        "2026-10-23"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-23",
+          "time": "10:50",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
+        }
+      ],
+      "fetched_at": "2026-10-23T03:08:47.706Z"
+    },
+    {
+      "id": "aac3e7eb0278",
+      "url": "https://x.com/cline/status/2113356814322651618",
+      "kind": "web",
+      "title": "X에서 Cline(@cline) 님",
+      "site": "X (formerly Twitter)",
+      "description": "There’s new free models available in Cline: - Reflection Beam (501B) - Nemotron 3.5 Super VL (120B) - Poolside Laguna S 2.1 (118B) - Nemotron 3.5 Lightning (32B) - Solar Mini 4 (35B) 6 months ago these Terminal-Bench scores were frontier, open weights makes this more accessible.",
+      "thumb": "media/r-f7121a4e/link_thumbs/aac3e7eb0278.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-23",
+      "last_date": "2026-10-23",
+      "dates": [
+        "2026-10-23"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-23",
+          "time": "10:50",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
+        }
+      ],
+      "fetched_at": "2026-10-23T03:08:47.706Z"
+    },
+    {
+      "id": "b984a5c544e6",
+      "url": "https://www.minimax.io/blog/minimax-m31f",
+      "kind": "web",
+      "title": "MiniMax M3.1 Flash: Redefining Agent Performance and Cost - MiniMax Research",
+      "site": "MiniMax",
+      "description": "Today, we officially roll out MiniMax M3.1 Flash. As a next-generation Flash model, M3.1 Flash delivers a generational leap in agentic tasks, coding, Computer Use and cybersecurity, while making online inference nearly three times faster and reducing usage costs by 70%.",
+      "thumb": "media/r-f7121a4e/link_thumbs/b984a5c544e6.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-23",
+      "last_date": "2026-10-23",
+      "dates": [
+        "2026-10-23"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-23",
+          "time": "10:50",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
+        }
+      ],
+      "fetched_at": "2026-10-23T03:08:47.706Z"
+    },
+    {
+      "id": "d6ef153b0f46",
+      "url": "https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring",
+      "kind": "web",
+      "title": "Suppressing misalignment monitoring alerts and disabling misalignment monitoring · OpenAI Alignment",
+      "site": "alignment.openai.com",
+      "description": "Research on aligning AI with human values and intent, and reports documenting model failures.",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-23",
+      "last_date": "2026-10-23",
+      "dates": [
+        "2026-10-23"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-23",
+          "time": "10:50",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
+        }
+      ],
+      "fetched_at": "2026-10-23T03:08:47.706Z"
+    },
+    {
+      "id": "eb6c07482555",
+      "url": "https://x.com/coinbureau/status/2112696232422617438",
+      "kind": "web",
+      "title": "X에서 Coin Bureau(@coinbureau) 님",
+      "site": "X (formerly Twitter)",
+      "description": "🚨SHOCKING: OpenAI just disclosed TWO of its own AI agents DISABLED their safety monitoring, including one that DENIED doing it. A GPT-6 Astra agent removed its misalignment monitor while migrating code, then rewrote a test to require that monitoring was absent. Asked if it had removed the monito…",
+      "thumb": "media/r-f7121a4e/link_thumbs/eb6c07482555.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-23",
+      "last_date": "2026-10-23",
+      "dates": [
+        "2026-10-23"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-23",
+          "time": "10:50",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
+        }
+      ],
+      "fetched_at": "2026-10-23T03:08:47.706Z"
+    },
+    {
+      "id": "f5220dab8f55",
+      "url": "https://claude.com/resources/articles/claude-duet",
+      "kind": "web",
+      "title": "Introducing Claude Duet",
+      "site": "Claude",
+      "description": "Claude Duet is a new app where Claude works as a proactive agent. The research preview opens by waitlist today for Pro and Max subscribers in the US.",
+      "thumb": "media/r-f7121a4e/link_thumbs/f5220dab8f55.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-23",
+      "last_date": "2026-10-23",
+      "dates": [
+        "2026-10-23"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-23",
+          "time": "10:50",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
+        }
+      ],
+      "fetched_at": "2026-10-23T03:08:47.706Z"
+    },
+    {
+      "id": "f95146dc262b",
+      "url": "https://x.com/claudeai/status/2112962248218148878",
+      "kind": "web",
+      "title": "X에서 Claude(@claudeai) 님",
+      "site": "X (formerly Twitter)",
+      "description": "Claude Security now keeps up with your code as it changes. Connect your repositories once. Claude runs a deep first scan, then re-scans as changes land, so findings stay close to the current state of your code. In public beta on Claude Enterprise.",
+      "thumb": "media/r-f7121a4e/link_thumbs/f95146dc262b.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-23",
+      "last_date": "2026-10-23",
+      "dates": [
+        "2026-10-23"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-23",
+          "time": "10:50",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
+        }
+      ],
+      "fetched_at": "2026-10-23T03:08:47.706Z"
+    },
+    {
+      "id": "fe334ce675eb",
+      "url": "https://docs.cline.bot/getting-started/free-models",
+      "kind": "web",
+      "title": "Cline Free Models - Cline",
+      "site": "Cline",
+      "description": "Limited-time free model promotions for users with a Cline account.",
+      "thumb": "media/r-f7121a4e/link_thumbs/fe334ce675eb.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-23",
+      "last_date": "2026-10-23",
+      "dates": [
+        "2026-10-23"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-23",
+          "time": "10:50",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
+        }
+      ],
+      "fetched_at": "2026-10-23T03:08:47.706Z"
+    },
     {
       "id": "beb292c3292a",
       "url": "https://open.kakao.com/o/sg4Df2Oi",
