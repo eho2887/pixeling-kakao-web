@@ -1,8 +1,31 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-10-23T05:55:54.544Z",
+  "updated_at": "2026-10-23T06:58:49.859Z",
   "items": [
+    {
+      "id": "4501ac557982",
+      "url": "https://chromewebstore.google.com/detail/ig-sorter-sort-feed-works/faglepdniaalgbkakcbhioblejlfoihn?hl=ko",
+      "kind": "web",
+      "site": "chromewebstore.google.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-23",
+      "last_date": "2026-10-23",
+      "dates": [
+        "2026-10-23"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-23",
+          "time": "15:48",
+          "who": "수강생",
+          "text": "https://chromewebstore.google.com/detail/ig-sorter-sort-feed-works/faglepdniaalgbkakcbhioblejlfoihn?hl=ko"
+        }
+      ],
+      "fetched_at": "2026-10-23T06:58:49.859Z"
+    },
     {
       "id": "18574fe9f275",
       "url": "https://x.com/MiniMax_AI/status/2112150867868541221",
