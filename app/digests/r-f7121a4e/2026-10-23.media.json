@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "room_id": "r-f7121a4e",
+  "date": "2026-10-23",
+  "items": [
+    {
+      "id": "748f748f5b70",
+      "kind": "image",
+      "t": "2026-10-23T09:51:00+09:00",
+      "time": "09:51",
+      "who": "수강생",
+      "text": "과자 봉지 사진. 포장에 붉은색 테두리와 주황색 과자 그림, 큰 파란색 글자 모양 및 만화 캐릭터 그림이 보임. 작은 문구는 읽기 어려움",
+      "file": "media/r-f7121a4e/748f748f5b70.jpg",
+      "thumb": "media/r-f7121a4e/thumbs/748f748f5b70.jpg",
+      "mime": "image/jpeg",
+      "bytes": 158801
+    },
+    {
+      "id": "ada330bdb587",
+      "kind": "image",
+      "t": "2026-10-23T10:06:00+09:00",
+      "time": "10:06",
+      "who": "수강생",
+      "text": "Pixeling 저장 위치 변경 진행 화면. “저장 위치를 옮기는 중이에요”, “끝날 때까지 Pixeling을 쓸 수 없어요. 컴퓨터를 끄거나 외장 드라이브를 빼지 마세요.”, “/Volumes/T7”, “마지막으로 한 번 더 대조하는 중이에요”, “대조한 항목 407,811 / 799,622”, “취소” 버튼이 보임",
+      "file": "media/r-f7121a4e/ada330bdb587.jpg",
+      "thumb": "media/r-f7121a4e/thumbs/ada330bdb587.jpg",
+      "mime": "image/jpeg",
+      "bytes": 40808
+    }
+  ]
+}

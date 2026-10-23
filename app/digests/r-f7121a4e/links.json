@@ -1,8 +1,33 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-10-22T04:13:20.866Z",
+  "updated_at": "2026-10-23T01:28:59.365Z",
   "items": [
+    {
+      "id": "beb292c3292a",
+      "url": "https://open.kakao.com/o/sg4Df2Oi",
+      "kind": "web",
+      "title": "의정뷰",
+      "site": "open.kakao.com",
+      "thumb": "media/r-f7121a4e/link_thumbs/beb292c3292a.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-23",
+      "last_date": "2026-10-23",
+      "dates": [
+        "2026-10-23"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-23",
+          "time": "10:11",
+          "who": "수강생",
+          "text": "https://open.kakao.com/o/sg4Df2Oi 연락주세요!"
+        }
+      ],
+      "fetched_at": "2026-10-23T01:28:59.365Z"
+    },
     {
       "id": "ed00bd076c34",
       "url": "https://dihabooks.com/book/sidonam",
