@@ -1,8 +1,34 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-10-24T06:05:33.473Z",
+  "updated_at": "2026-10-24T08:56:00.364Z",
   "items": [
+    {
+      "id": "1f79452dc604",
+      "url": "https://www.youtube.com/watch?v=r6zIGXun57U",
+      "kind": "youtube",
+      "title": "Legends Never Die (ft. Against The Current) | Worlds 2017 - League of Legends",
+      "site": "YouTube",
+      "author": "League of Legends",
+      "thumb": "media/r-f7121a4e/link_thumbs/1f79452dc604.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-24",
+      "last_date": "2026-10-24",
+      "dates": [
+        "2026-10-24"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-24",
+          "time": "16:12",
+          "who": "수강생",
+          "text": "https://www.youtube.com/watch?v=r6zIGXun57U&list=RDr6zIGXun57U&start_radio=1"
+        }
+      ],
+      "fetched_at": "2026-10-24T08:56:00.364Z"
+    },
     {
       "id": "1e8aad221c14",
       "url": "https://www.myinstants.com/ko/index/kr",
