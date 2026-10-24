@@ -38,6 +38,30 @@
       "thumb": "media/r-c00b1739/thumbs/a51869fa08b7.jpg",
       "mime": "image/png",
       "bytes": 234824
+    },
+    {
+      "id": "b270e59f9584",
+      "kind": "image",
+      "t": "2026-10-24T18:52:00+09:00",
+      "time": "18:52",
+      "who": "강사",
+      "text": "픽셀링 강의 목록을 캡처한 화면. 강의 카드 여러 개가 보이고 한 항목을 빨간 화살표로 표시함.",
+      "file": "media/r-c00b1739/b270e59f9584.png",
+      "thumb": "media/r-c00b1739/thumbs/b270e59f9584.jpg",
+      "mime": "image/png",
+      "bytes": 1355122
+    },
+    {
+      "id": "20784ab0c897",
+      "kind": "image",
+      "t": "2026-10-24T19:03:00+09:00",
+      "time": "19:03",
+      "who": "수강생",
+      "text": "픽셀링 강의 타임라인 화면 캡처. 강의 구간별 시간표가 세로로 나열되어 있으며 읽히지 않는 작은 항목이 일부 있음.",
+      "file": "media/r-c00b1739/20784ab0c897.png",
+      "thumb": "media/r-c00b1739/thumbs/20784ab0c897.jpg",
+      "mime": "image/png",
+      "bytes": 80450
     }
   ]
 }
