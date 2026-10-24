@@ -1,8 +1,248 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-10-24T04:39:42.476Z",
+  "updated_at": "2026-10-24T06:05:33.473Z",
   "items": [
+    {
+      "id": "1e8aad221c14",
+      "url": "https://www.myinstants.com/ko/index/kr",
+      "kind": "web",
+      "title": "Myinstants - Korea, Republic of 의 인기 웃긴 소리",
+      "site": "myinstants",
+      "description": "사운드를 재생하려면 여기를 클릭하십시오.",
+      "thumb": "media/r-f7121a4e/link_thumbs/1e8aad221c14.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-13",
+      "last_date": "2026-10-24",
+      "dates": [
+        "2026-10-13",
+        "2026-10-15",
+        "2026-10-24"
+      ],
+      "mention_count": 3,
+      "contexts": [
+        {
+          "date": "2026-10-24",
+          "time": "12:01",
+          "who": "수강생",
+          "text": "https://www.myinstants.com/ko/index/kr/ 여기욥!"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "15:46",
+          "who": "수강생",
+          "text": "https://www.myinstants.com/ko/index/kr/ 여기서 다운받아 쓰라고 하거나 필요한 걸 미리 다운해서 폴더에 있으니 거기서 사용하라고 하면 돼요"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "19:24",
+          "who": "수강생",
+          "text": "https://www.myinstants.com/ko/index/kr/ 여기서 한번 찾아보세요!"
+        }
+      ],
+      "fetched_at": "2026-10-13T10:38:20.739Z"
+    },
+    {
+      "id": "97bb244ee930",
+      "url": "https://verdant-roadway-53f.notion.site/5-3e238801f0c880db8575c3e86d5cdb26?pvs=73",
+      "kind": "doc",
+      "site": "verdant-roadway-53f.notion.site",
+      "reachable": null,
+      "private": true,
+      "first_date": "2026-10-24",
+      "last_date": "2026-10-24",
+      "dates": [
+        "2026-10-24"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-24",
+          "time": "11:27",
+          "who": "수강생",
+          "text": "https://verdant-roadway-53f.notion.site/5-3e238801f0c880db8575c3e86d5cdb26?pvs=73 여기 효과음 모음집 보시며 ㄴ될거 같네요"
+        }
+      ]
+    },
+    {
+      "id": "004da8a983b6",
+      "url": "https://www.inceptionlabs.ai/",
+      "kind": "web",
+      "title": "Inception – When Every Millisecond Matters",
+      "site": "inceptionlabs.ai",
+      "description": "We are leveraging diffusion technology to develop a new generation of LLMs. Our dLLMs are much faster and more efficient than traditional autoregressive LLMs.",
+      "thumb": "media/r-f7121a4e/link_thumbs/004da8a983b6.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-24",
+      "last_date": "2026-10-24",
+      "dates": [
+        "2026-10-24"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-24",
+          "time": "09:31",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-24 AI 코딩의 경쟁은 모델 성능뿐 아니라 화면을 실제로 조작하는 능력, 속도, 이용 비용으로 넓어지고 있습니다. 오늘 소식은 내 프로젝트에서 무엇을 바로 시험할지 정하는 데 참고하시면 좋겠어요. 1) 아스트라로 코딩하면, 모델만큼 에이전트 설계도 중요해요 리플릿(Replit)은 9월 29일 공개한 기술 글에서 GPT-6 아스트라(Astra)를 사용하는 에이전트가 하위 에이전트의 모델과 추론 강도를 직접 선택하도록 설계했다고 설명했습니다. 회사 자체 평가에서는 DeepSWE와 Termi…"
+        }
+      ],
+      "fetched_at": "2026-10-24T06:05:33.473Z"
+    },
+    {
+      "id": "544b5f5a1e86",
+      "url": "https://replit.com/blog/free-the-models-harness-design-at-the-frontier",
+      "kind": "web",
+      "site": "replit.com",
+      "reachable": false,
+      "private": false,
+      "first_date": "2026-10-24",
+      "last_date": "2026-10-24",
+      "dates": [
+        "2026-10-24"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-24",
+          "time": "09:31",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-24 AI 코딩의 경쟁은 모델 성능뿐 아니라 화면을 실제로 조작하는 능력, 속도, 이용 비용으로 넓어지고 있습니다. 오늘 소식은 내 프로젝트에서 무엇을 바로 시험할지 정하는 데 참고하시면 좋겠어요. 1) 아스트라로 코딩하면, 모델만큼 에이전트 설계도 중요해요 리플릿(Replit)은 9월 29일 공개한 기술 글에서 GPT-6 아스트라(Astra)를 사용하는 에이전트가 하위 에이전트의 모델과 추론 강도를 직접 선택하도록 설계했다고 설명했습니다. 회사 자체 평가에서는 DeepSWE와 Termi…"
+        }
+      ],
+      "fetched_at": "2026-10-24T06:05:33.473Z"
+    },
+    {
+      "id": "614a0336a773",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+      "kind": "web",
+      "title": "Diffusion at Scale: Introducing Mercury 3 – Inception",
+      "site": "inceptionlabs.ai",
+      "description": "Mercury 3 is the most capable diffusion LLM released to date. It outperforms GPT-6 Luna and Claude Haiku 5.5 while running 4–8x faster at 1,000+ tokens per second.",
+      "thumb": "media/r-f7121a4e/link_thumbs/614a0336a773.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-24",
+      "last_date": "2026-10-24",
+      "dates": [
+        "2026-10-24"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-24",
+          "time": "09:31",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-24 AI 코딩의 경쟁은 모델 성능뿐 아니라 화면을 실제로 조작하는 능력, 속도, 이용 비용으로 넓어지고 있습니다. 오늘 소식은 내 프로젝트에서 무엇을 바로 시험할지 정하는 데 참고하시면 좋겠어요. 1) 아스트라로 코딩하면, 모델만큼 에이전트 설계도 중요해요 리플릿(Replit)은 9월 29일 공개한 기술 글에서 GPT-6 아스트라(Astra)를 사용하는 에이전트가 하위 에이전트의 모델과 추론 강도를 직접 선택하도록 설계했다고 설명했습니다. 회사 자체 평가에서는 DeepSWE와 Termi…"
+        }
+      ],
+      "fetched_at": "2026-10-24T06:05:33.473Z"
+    },
+    {
+      "id": "98a8579b3bd8",
+      "url": "https://www.kimi.ai/blog",
+      "kind": "web",
+      "title": "Kimi Research & Tech Blog | Models, Benchmarks & More",
+      "site": "kimi.ai",
+      "description": "Explore Kimi's tech blog for the latest AI models, research papers, and open-source benchmarks advancing frontier AI.",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-24",
+      "last_date": "2026-10-24",
+      "dates": [
+        "2026-10-24"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-24",
+          "time": "09:31",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-24 AI 코딩의 경쟁은 모델 성능뿐 아니라 화면을 실제로 조작하는 능력, 속도, 이용 비용으로 넓어지고 있습니다. 오늘 소식은 내 프로젝트에서 무엇을 바로 시험할지 정하는 데 참고하시면 좋겠어요. 1) 아스트라로 코딩하면, 모델만큼 에이전트 설계도 중요해요 리플릿(Replit)은 9월 29일 공개한 기술 글에서 GPT-6 아스트라(Astra)를 사용하는 에이전트가 하위 에이전트의 모델과 추론 강도를 직접 선택하도록 설계했다고 설명했습니다. 회사 자체 평가에서는 DeepSWE와 Termi…"
+        }
+      ],
+      "fetched_at": "2026-10-24T06:05:33.473Z"
+    },
+    {
+      "id": "bb1c34125888",
+      "url": "https://platform.kimi.ai/",
+      "kind": "web",
+      "title": "Kimi API Platform",
+      "site": "Kimi API Platform",
+      "description": "Kimi API Platform, providing the 2.8-trillion-parameter Kimi K3 large language model API with a 1M-token context window and Tool Calling. Professional code generation, intelligent dialogue, and visual reasoning to help developers build AI applications.",
+      "thumb": "media/r-f7121a4e/link_thumbs/bb1c34125888.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-24",
+      "last_date": "2026-10-24",
+      "dates": [
+        "2026-10-24"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-24",
+          "time": "09:31",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-24 AI 코딩의 경쟁은 모델 성능뿐 아니라 화면을 실제로 조작하는 능력, 속도, 이용 비용으로 넓어지고 있습니다. 오늘 소식은 내 프로젝트에서 무엇을 바로 시험할지 정하는 데 참고하시면 좋겠어요. 1) 아스트라로 코딩하면, 모델만큼 에이전트 설계도 중요해요 리플릿(Replit)은 9월 29일 공개한 기술 글에서 GPT-6 아스트라(Astra)를 사용하는 에이전트가 하위 에이전트의 모델과 추론 강도를 직접 선택하도록 설계했다고 설명했습니다. 회사 자체 평가에서는 DeepSWE와 Termi…"
+        }
+      ],
+      "fetched_at": "2026-10-24T06:05:33.473Z"
+    },
+    {
+      "id": "c1ba4113ee7b",
+      "url": "https://replit.com/blog/replit-introduces-free-mode",
+      "kind": "web",
+      "title": "Replit Introduces Free Mode | Replit",
+      "site": "Replit Blog",
+      "description": "AI models are now capable and affordable enough to make once-unreachable outcomes practical. The opportunity for everyone to pursue and collaborate on ambitious ideas, spend less time on busywork, and raise the quality and creative output across disciplines is nearly here. The possibility is here. But for most people, the reality is not. Replit users are already building million-dollar businesses…",
+      "thumb": "media/r-f7121a4e/link_thumbs/c1ba4113ee7b.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-24",
+      "last_date": "2026-10-24",
+      "dates": [
+        "2026-10-24"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-24",
+          "time": "09:31",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-24 AI 코딩의 경쟁은 모델 성능뿐 아니라 화면을 실제로 조작하는 능력, 속도, 이용 비용으로 넓어지고 있습니다. 오늘 소식은 내 프로젝트에서 무엇을 바로 시험할지 정하는 데 참고하시면 좋겠어요. 1) 아스트라로 코딩하면, 모델만큼 에이전트 설계도 중요해요 리플릿(Replit)은 9월 29일 공개한 기술 글에서 GPT-6 아스트라(Astra)를 사용하는 에이전트가 하위 에이전트의 모델과 추론 강도를 직접 선택하도록 설계했다고 설명했습니다. 회사 자체 평가에서는 DeepSWE와 Termi…"
+        }
+      ],
+      "fetched_at": "2026-10-24T06:05:33.473Z"
+    },
+    {
+      "id": "dc7da4894516",
+      "url": "https://cursor.com/docs/cloud-agent/self-hosted/computer-use",
+      "kind": "web",
+      "title": "Computer use and desktop sharing | Cursor Docs",
+      "site": "Cursor Documentation",
+      "description": "Let Cloud Agents click, type, take screenshots, and drive a browser on a macOS or Linux Self-Hosted Machines worker, and watch or control a Linux agent desktop from Cursor.",
+      "thumb": "media/r-f7121a4e/link_thumbs/dc7da4894516.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-24",
+      "last_date": "2026-10-24",
+      "dates": [
+        "2026-10-24"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-24",
+          "time": "09:31",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-24 AI 코딩의 경쟁은 모델 성능뿐 아니라 화면을 실제로 조작하는 능력, 속도, 이용 비용으로 넓어지고 있습니다. 오늘 소식은 내 프로젝트에서 무엇을 바로 시험할지 정하는 데 참고하시면 좋겠어요. 1) 아스트라로 코딩하면, 모델만큼 에이전트 설계도 중요해요 리플릿(Replit)은 9월 29일 공개한 기술 글에서 GPT-6 아스트라(Astra)를 사용하는 에이전트가 하위 에이전트의 모델과 추론 강도를 직접 선택하도록 설계했다고 설명했습니다. 회사 자체 평가에서는 DeepSWE와 Termi…"
+        }
+      ],
+      "fetched_at": "2026-10-24T06:05:33.473Z"
+    },
     {
       "id": "723652dd29b1",
       "url": "https://cloud.pixeling.io/s/65f2a4ba-f756-43c0-aff8-88c732a70b69.4hgIUdpFWhoh_qDDEf4SBiFM2Lw-YLP3blZqhzhfJl4",
@@ -1108,39 +1348,6 @@
         }
       ],
       "fetched_at": "2026-10-16T01:06:28.788Z"
-    },
-    {
-      "id": "1e8aad221c14",
-      "url": "https://www.myinstants.com/ko/index/kr",
-      "kind": "web",
-      "title": "Myinstants - Korea, Republic of 의 인기 웃긴 소리",
-      "site": "myinstants",
-      "description": "사운드를 재생하려면 여기를 클릭하십시오.",
-      "thumb": "media/r-f7121a4e/link_thumbs/1e8aad221c14.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-13",
-      "last_date": "2026-10-15",
-      "dates": [
-        "2026-10-13",
-        "2026-10-15"
-      ],
-      "mention_count": 2,
-      "contexts": [
-        {
-          "date": "2026-10-15",
-          "time": "15:46",
-          "who": "수강생",
-          "text": "https://www.myinstants.com/ko/index/kr/ 여기서 다운받아 쓰라고 하거나 필요한 걸 미리 다운해서 폴더에 있으니 거기서 사용하라고 하면 돼요"
-        },
-        {
-          "date": "2026-10-13",
-          "time": "19:24",
-          "who": "수강생",
-          "text": "https://www.myinstants.com/ko/index/kr/ 여기서 한번 찾아보세요!"
-        }
-      ],
-      "fetched_at": "2026-10-13T10:38:20.739Z"
     },
     {
       "id": "29297b922f1f",

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "room_id": "r-f7121a4e",
+  "date": "2026-10-24",
+  "items": [
+    {
+      "id": "19e334e223ea",
+      "kind": "image",
+      "t": "2026-10-24T13:50:00+09:00",
+      "time": "13:50",
+      "who": "수강생",
+      "text": "실내 모임 공간 사진. 긴 나무 테이블과 의자, 주방 카운터와 싱크대, 화분이 보임",
+      "file": "media/r-f7121a4e/19e334e223ea.jpg",
+      "thumb": "media/r-f7121a4e/thumbs/19e334e223ea.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2118089
+    }
+  ]
+}

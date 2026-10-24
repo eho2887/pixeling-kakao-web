@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-23T15:39:40.794Z",
+  "updated_at": "2026-10-24T06:08:11.811Z",
   "items": [
     {
       "room_id": "r-c00b1739",
@@ -17,7 +17,7 @@
       "label": "쇼츠투벤츠 통합반",
       "date": "2026-10-23",
       "title": "[쇼츠투벤츠 통합반] 10/23(금) 하루 정리",
-      "revision": 1,
+      "revision": 2,
       "file": "r-f7121a4e/2026-10-23.json"
     },
     {
