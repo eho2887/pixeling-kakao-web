@@ -2,17 +2,83 @@
   "schema_version": 1,
   "room_name": "(전체반) [쇼츠투벤츠] 5기 (1~5기 통합방)",
   "label": "쇼츠투벤츠 통합반",
-  "today": "2026-10-25",
+  "today": "2026-10-26",
   "missed_after_days": 2,
   "stale_after_days": 21,
   "counts": {
-    "know_how": 18,
+    "know_how": 20,
     "need": 7,
-    "missed": 110,
-    "question": 64
+    "missed": 116,
+    "question": 65
   },
   "sections": {
     "know_how": [
+      {
+        "key": "구매계정-소실-대체용도",
+        "kind": "know_how",
+        "title": "수강생 구매 계정 30개 중 5개가 바로 소실",
+        "detail": "수강생 경험: 구매한 계정 30개 중 5개가 바로 사라졌다고 보고했다. 같은 수강생은 좋지 않은 채널을 애드센스용으로 쓰는 대응도 언급했다. 계정 소실 원인과 대체 용도의 실제 결과는 제시되지 않아, 구매 위험을 설명할 사례로만 사용할 수 있다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "info",
+        "archived": false,
+        "importance": 5,
+        "tags": [
+          "계정구매",
+          "계정소실",
+          "애드센스"
+        ],
+        "first_date": "2026-10-26",
+        "last_date": "2026-10-26",
+        "dates": [
+          "2026-10-26"
+        ],
+        "mention_count": 2,
+        "evidence": [
+          {
+            "date": "2026-10-26",
+            "time": "14:41",
+            "who": "수강생",
+            "quote": "딜바는 근데 싸니깐 그냥 뭐 싼마이로 대량 물량치기 한다 생각하고 하는거죠뭐 안좋은 채널걸리면 에드센스용으로 쓴다던지 대응하면서"
+          },
+          {
+            "date": "2026-10-26",
+            "time": "14:43",
+            "who": "수강생",
+            "quote": "저도 30개 산거 바로 5개 증발했습니다 ㅋㅋ빡치지만..그 한번 터지는 그순간을 위해서 계쏙 트라이 트라이 킵고잉"
+          }
+        ]
+      },
+      {
+        "key": "계정-otp분실-복구경험",
+        "kind": "know_how",
+        "title": "OTP 분실 계정 2개, 고객센터 메일로 복구한 경험",
+        "detail": "수강생 경험: 채널 2개의 OTP를 잊어 40만원을 잃을 것으로 생각했으나, 아스트라에 분실 상황을 설명한 뒤 고객센터 메일을 통한 계정 복구와 2차인증 해제로 2개를 살렸다고 했다. 구체적인 고객센터, 제출 서류, 처리 기간은 공개되지 않았다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "info",
+        "archived": false,
+        "importance": 3,
+        "tags": [
+          "계정복구",
+          "OTP",
+          "아스트라"
+        ],
+        "first_date": "2026-10-26",
+        "last_date": "2026-10-26",
+        "dates": [
+          "2026-10-26"
+        ],
+        "mention_count": 1,
+        "evidence": [
+          {
+            "date": "2026-10-26",
+            "time": "14:45",
+            "who": "수강생",
+            "quote": "아스트라한테 잃어버렸다 어쨰쫌 해봐라 하니깐 지가 고객센터 메일보내서 계쩡복구해서 ..2개 2차인증 해제해서 ㅋㅋㅋ 2개 살렸습니다"
+          }
+        ]
+      },
       {
         "key": "롱폼-쇼츠병행-수창사례",
         "kind": "know_how",
@@ -694,46 +760,10 @@
     ],
     "need": [
       {
-        "key": "왕초보강의-화면크기-재업",
+        "key": "픽셀링-멈춤-되돌리기불가",
         "kind": "need",
-        "title": "카페 왕초보 다시보기 화면 작음, 재업 완료 확인 필요",
-        "detail": "카페 왕초보 강의 다시보기 화면이 너무 작아 원래 화면크기로 재업해 달라는 요청이 나왔다. 강사는 재업 예정이라고 답했고, 픽셀링에서는 잘 나온다고 안내했다. 픽셀링 시청이라는 대안은 나왔지만 카페 영상 재업 완료는 확인되지 않았다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 4,
-        "tags": [
-          "다시보기",
-          "화면크기",
-          "재업로드"
-        ],
-        "first_date": "2026-10-24",
-        "last_date": "2026-10-24",
-        "dates": [
-          "2026-10-24"
-        ],
-        "mention_count": 2,
-        "evidence": [
-          {
-            "date": "2026-10-24",
-            "time": "17:38",
-            "who": "수강생",
-            "quote": "혹시 여기 조교님들 보신다면 카페 왕초보 강의 다시보기 하려는데 화면이 너무 작아요 화면크기 원래대로 해서 재업 부탁드려도 될까요?"
-          },
-          {
-            "date": "2026-10-24",
-            "time": "17:39",
-            "who": "강사",
-            "quote": "일단 픽셀링에서는 잘 나옵니당 !"
-          }
-        ]
-      },
-      {
-        "key": "픽셀링-도구연결-복구실패",
-        "kind": "need",
-        "title": "도구 연결 경고, 설정 삭제·재실행 후에도 미해결",
-        "detail": "공유된 캡처에 따르면 도구가 다른 실행 파일이나 보관함에 연결되어 자동 복구가 덮어쓰지 않는다는 경고가 표시됐다. 수강생 경험: 고객 지원에서 받은 앱 종료 → config.toml의 [mcp_servers.pixagent_outputs] 삭제 → 앱 재실행 절차를 시도했지만 해결되지 않았다. 해당 절차를 반복 안내하기보다 실패 상태에 대한 추가 확인이 필요하다.",
+        "title": "픽셀링 정지 후 재시도에도 되돌리기 불가, 지원 필요",
+        "detail": "수강생이 픽셀링이 멈춘 상태에서 고쳐서 다시 해도 되돌릴 수 없다는 안내가 나온다고 보고했다. 오류 원인과 작업 복구 방법에 대한 답은 나오지 않았다.",
         "answer": "",
         "answered_date": "",
         "status": "unanswered",
@@ -742,33 +772,56 @@
         "tags": [
           "픽셀링",
           "오류",
-          "고객지원"
+          "작업복구"
         ],
-        "first_date": "2026-10-24",
-        "last_date": "2026-10-24",
+        "first_date": "2026-10-26",
+        "last_date": "2026-10-26",
         "dates": [
-          "2026-10-24"
+          "2026-10-26"
         ],
-        "mention_count": 3,
+        "mention_count": 1,
         "evidence": [
           {
-            "date": "2026-10-24",
-            "time": "16:08",
+            "date": "2026-10-26",
+            "time": "18:41",
             "who": "수강생",
-            "quote": "경고: “결과를 도구가 다른 실행 파일이나 보관함에 연결돼 있어요. 자동 복구는 이 연결을 덮어쓰지 않아요. 설정 > 정보에서 진단 정보를 보내 주세요.”",
-            "from": "image"
+            "quote": "음.. 픽셀링 오류 났는데.. 저만 그럴까요.. 지금 멈춰있는 상태에서 고쳐서 다시 해도 되돌릴 수 없다고 나오는데.."
+          }
+        ]
+      },
+      {
+        "key": "픽셀링-지난대화-썸네일표시",
+        "kind": "need",
+        "title": "지난 대화의 영상 썸네일 표시 선택 기능 요청",
+        "detail": "수강생이 픽셀링 왼쪽 대화 목록에서 며칠 전부터 영상 썸네일이 보이지 않는다고 했다. 대화 중 현재 대화에는 표시되지만 지난 대화의 표시가 문제라고 구분됐고, 다른 수강생은 지난 대화도 썸네일 표시 여부를 선택할 수 있게 해 달라고 요청했다. 기능 제공이나 해결 안내는 나오지 않았다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 3,
+        "tags": [
+          "픽셀링",
+          "썸네일",
+          "기능요청"
+        ],
+        "first_date": "2026-10-26",
+        "last_date": "2026-10-26",
+        "dates": [
+          "2026-10-26"
+        ],
+        "mention_count": 2,
+        "evidence": [
+          {
+            "date": "2026-10-26",
+            "time": "13:37",
+            "who": "수강생",
+            "quote": "저.. 픽셀링 왼쪽 대화들에 원래 가장 최신에 만든 영상의 썸네일 뜨지 않았었나요? 며칠 전부터 안 뜨는데"
           },
           {
-            "date": "2026-10-24",
-            "time": "16:09",
+            "date": "2026-10-26",
+            "time": "13:40",
             "who": "수강생",
-            "quote": "%LOCALAPPDATA%\\Programs\\Pixeling\\state\\codex-home\\config.toml 에서 [mcp_servers.pixagent_outputs] 칸을 지웁니다."
-          },
-          {
-            "date": "2026-10-24",
-            "time": "16:09",
-            "who": "수강생",
-            "quote": "고객 지원 문의 후 답변받은대로 해봤는데 여전히 해결되지 않아서.. 확인 부탁드려도 될까요?"
+            "quote": "@수강생 이것도 지난 대화도 썸네일까지 볼 수있게 볼수 없게 해서 선택으로 해주면 좋을듯해요 !"
           }
         ]
       },
@@ -989,6 +1042,93 @@
     ],
     "missed": [
       {
+        "key": "챌린지-누락-소급인정",
+        "kind": "question",
+        "title": "영상은 매일 올렸지만 인증 글 누락 시 재시작할까",
+        "detail": "수강생이 챌린지에서 4일째 올리지 못했으면 다시 시작해야 하는지 물었다. 이어 영상은 매일 업로드했으나 챌린지 글을 쓰지 못한 상황이라고 설명했다. 인증 글 누락분의 인정 여부나 재시작 기준에 대한 답은 나오지 않았다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 4,
+        "tags": [
+          "챌린지",
+          "인증누락",
+          "참여조건",
+          "소급인정"
+        ],
+        "first_date": "2026-10-17",
+        "last_date": "2026-10-26",
+        "dates": [
+          "2026-10-17",
+          "2026-10-26"
+        ],
+        "mention_count": 2,
+        "evidence": [
+          {
+            "date": "2026-10-17",
+            "time": "22:02",
+            "who": "수강생",
+            "quote": "영상은 올렸는데, 챌린지를 빼먹으면, 그것도 소급해서 카운트가 되는건가욧?!"
+          },
+          {
+            "date": "2026-10-26",
+            "time": "13:40",
+            "who": "수강생",
+            "quote": "혹시 챌린지 하다가 4일째 못올렀으면 다시시작하는건가요?ㅜㅜ"
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 9
+      },
+      {
+        "key": "픽셀링-작가자료-읽기오류",
+        "kind": "need",
+        "title": "작가 자료 읽기 오류로 멈춘 픽셀링 지원 필요",
+        "detail": "공유된 캡처에 따르면 GPT-6 Astra high 실행 중 42%에서 작가 자료를 읽지 못했다는 경고가 표시됐다. 경고에는 원본 보존 및 파일 권한·저장 상태 확인 안내가 있지만, 수강생은 오류 화면이 꺼지지 않아 진행하지 못한다고 했다. 해당 사례의 해결 결과는 나오지 않았다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 3,
+        "tags": [
+          "픽셀링",
+          "오류",
+          "파일권한"
+        ],
+        "first_date": "2026-10-11",
+        "last_date": "2026-10-26",
+        "dates": [
+          "2026-10-11",
+          "2026-10-26"
+        ],
+        "mention_count": 3,
+        "evidence": [
+          {
+            "date": "2026-10-11",
+            "time": "16:12",
+            "who": "수강생",
+            "quote": "작가 자료를 읽지 못했어요. 원본은 그대로 보존돼 있습니다. 파일 권한과 저장 상태를 확인해 주세요.",
+            "from": "image"
+          },
+          {
+            "date": "2026-10-26",
+            "time": "12:07",
+            "who": "수강생",
+            "quote": "Codex 실행 진행 화면 캡처. \"작가 자료를 읽지 못했어요. 원본은 그대로 보존돼 있습니다. 파일 권한과 저장 상태를 확인해 주세요.\" 경고와 42% 진행 표시, GPT-6 Astra high가 보임",
+            "from": "image"
+          },
+          {
+            "date": "2026-10-26",
+            "time": "12:09",
+            "who": "수강생",
+            "quote": "픽셀링에서 이런 오류가 뜨고 꺼지지가 않아서 진행이 안되는데 아시는분 계실까요?"
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 15
+      },
+      {
         "key": "픽셀링-모델선택-불가",
         "kind": "question",
         "title": "모델 선택 불가 재문의, 기본모델 종류도 안내 필요",
@@ -1048,7 +1188,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "게릴라강의-녹화-누락",
@@ -1095,7 +1235,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "자동화프로그램-승인-대기",
@@ -1156,7 +1296,218 @@
           }
         ],
         "origin": "missed",
-        "days_open": 4
+        "days_open": 5
+      },
+      {
+        "key": "왕초보강의-화면크기-재업",
+        "kind": "need",
+        "title": "카페 왕초보 다시보기 화면 작음, 재업 완료 확인 필요",
+        "detail": "카페 왕초보 강의 다시보기 화면이 너무 작아 원래 화면크기로 재업해 달라는 요청이 나왔다. 강사는 재업 예정이라고 답했고, 픽셀링에서는 잘 나온다고 안내했다. 픽셀링 시청이라는 대안은 나왔지만 카페 영상 재업 완료는 확인되지 않았다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 4,
+        "tags": [
+          "다시보기",
+          "화면크기",
+          "재업로드"
+        ],
+        "first_date": "2026-10-24",
+        "last_date": "2026-10-24",
+        "dates": [
+          "2026-10-24"
+        ],
+        "mention_count": 2,
+        "evidence": [
+          {
+            "date": "2026-10-24",
+            "time": "17:38",
+            "who": "수강생",
+            "quote": "혹시 여기 조교님들 보신다면 카페 왕초보 강의 다시보기 하려는데 화면이 너무 작아요 화면크기 원래대로 해서 재업 부탁드려도 될까요?"
+          },
+          {
+            "date": "2026-10-24",
+            "time": "17:39",
+            "who": "강사",
+            "quote": "일단 픽셀링에서는 잘 나옵니당 !"
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 2
+      },
+      {
+        "key": "롱폼-작가이미지-페르소나불일치",
+        "kind": "question",
+        "title": "작가의말에 다른 인물이 생성돼 페르소나 조정 문의",
+        "detail": "영상의 작가의말 부분이 작가 이미지로 생성되어, 넣으려던 아름다운 여인 페르소나와 뒷부분의 60대 작가 이미지가 달라졌다. 수강생은 페르소나 자체를 60대 작가로 바꿔야 하는지 물었고, 옷도 갑자기 달라진다고 덧붙였다. 조교는 해결법을 모른다고 밝혔으며 실제 조정 방법은 나오지 않았다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 3,
+        "tags": [
+          "롱폼",
+          "페르소나",
+          "이미지일관성"
+        ],
+        "first_date": "2026-10-24",
+        "last_date": "2026-10-24",
+        "dates": [
+          "2026-10-24"
+        ],
+        "mention_count": 1,
+        "evidence": [
+          {
+            "date": "2026-10-24",
+            "time": "17:22",
+            "who": "수강생",
+            "quote": "인트로 뒷부분에 제 페르소나(아름다운 여인) 넣어서 만들건데, 뒷부분은 이렇게 60대 작가가 나오는데 어떻게 하면 될까요? 차라리 페르소나를 이 60대 작가로 바꾸는게 나을까요?"
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 2
+      },
+      {
+        "key": "썰채널-기사사진-밈수집",
+        "kind": "question",
+        "title": "썰채널 기사사진·밈의 수집 경로와 작업 방식 문의",
+        "detail": "썰채널 제작에 쓰는 기사사진과 밈을 어디서 가져오는지 질문했다. 하나씩 수작업으로 찾아 넣는 방식인지도 궁금해했다. 오늘 대화에는 수집 경로나 작업 방식에 대한 답이 없다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 3,
+        "tags": [
+          "썰채널",
+          "소재수집",
+          "이미지"
+        ],
+        "first_date": "2026-10-24",
+        "last_date": "2026-10-24",
+        "dates": [
+          "2026-10-24"
+        ],
+        "mention_count": 1,
+        "evidence": [
+          {
+            "date": "2026-10-24",
+            "time": "12:48",
+            "who": "수강생",
+            "quote": "썰채널을 해보고싶은데 기사사진이나 밈들은 어디서 다 들고와서 하는건가요?? 하나씩 수작업으로 기사사진이나 밈을 찾아서 집어넣지는않아보이는데.."
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 2
+      },
+      {
+        "key": "픽셀링-gpt-복수기기",
+        "kind": "question",
+        "title": "윈도우·맥북에서 동일 계정으로 돌려도 되는지 문의",
+        "detail": "윈도우 노트북과 맥북에 같은 계정으로 픽셀링과 gpt를 로그인해 사용해도 되는지 물었다. 오늘 대화에는 복수 기기 사용 가능 여부나 조건에 대한 답이 없다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 3,
+        "tags": [
+          "픽셀링",
+          "계정",
+          "복수기기"
+        ],
+        "first_date": "2026-10-24",
+        "last_date": "2026-10-24",
+        "dates": [
+          "2026-10-24"
+        ],
+        "mention_count": 1,
+        "evidence": [
+          {
+            "date": "2026-10-24",
+            "time": "15:13",
+            "who": "수강생",
+            "quote": "삼성 윈도우 노트북이랑 맥북에 똑같은 아이디랑 계정으로 픽셀링, gpt 로그인해서 돌려도 괜찮죠??"
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 2
+      },
+      {
+        "key": "픽셀링-도구연결-복구실패",
+        "kind": "need",
+        "title": "도구 연결 경고, 설정 삭제·재실행 후에도 미해결",
+        "detail": "공유된 캡처에 따르면 도구가 다른 실행 파일이나 보관함에 연결되어 자동 복구가 덮어쓰지 않는다는 경고가 표시됐다. 수강생 경험: 고객 지원에서 받은 앱 종료 → config.toml의 [mcp_servers.pixagent_outputs] 삭제 → 앱 재실행 절차를 시도했지만 해결되지 않았다. 해당 절차를 반복 안내하기보다 실패 상태에 대한 추가 확인이 필요하다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 3,
+        "tags": [
+          "픽셀링",
+          "오류",
+          "고객지원"
+        ],
+        "first_date": "2026-10-24",
+        "last_date": "2026-10-24",
+        "dates": [
+          "2026-10-24"
+        ],
+        "mention_count": 3,
+        "evidence": [
+          {
+            "date": "2026-10-24",
+            "time": "16:08",
+            "who": "수강생",
+            "quote": "경고: “결과를 도구가 다른 실행 파일이나 보관함에 연결돼 있어요. 자동 복구는 이 연결을 덮어쓰지 않아요. 설정 > 정보에서 진단 정보를 보내 주세요.”",
+            "from": "image"
+          },
+          {
+            "date": "2026-10-24",
+            "time": "16:09",
+            "who": "수강생",
+            "quote": "%LOCALAPPDATA%\\Programs\\Pixeling\\state\\codex-home\\config.toml 에서 [mcp_servers.pixagent_outputs] 칸을 지웁니다."
+          },
+          {
+            "date": "2026-10-24",
+            "time": "16:09",
+            "who": "수강생",
+            "quote": "고객 지원 문의 후 답변받은대로 해봤는데 여전히 해결되지 않아서.. 확인 부탁드려도 될까요?"
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 2
+      },
+      {
+        "key": "픽셀링-영상생성-gpu",
+        "kind": "question",
+        "title": "그래픽카드 선택 전, Astra 영상 생성의 GPU 사용 문의",
+        "detail": "그래픽카드를 맞추려는 수강생이 픽셀링의 Astra 영상 생성이 서버 요청 방식인지 로컬 GPU 사용 방식인지 물었다. 어떤 하드웨어 조건을 고려해야 할지 모르겠다는 상황이다. 오늘 대화에 답은 없다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 3,
+        "tags": [
+          "픽셀링",
+          "영상생성",
+          "GPU"
+        ],
+        "first_date": "2026-10-24",
+        "last_date": "2026-10-24",
+        "dates": [
+          "2026-10-24"
+        ],
+        "mention_count": 1,
+        "evidence": [
+          {
+            "date": "2026-10-24",
+            "time": "16:06",
+            "who": "수강생",
+            "quote": "픽셀링에서 Astra로 영상을 생성할 때, 인터넷으로 서버에 요청하는 방식일까요 아니면 프로그램이 컴퓨터의 GPU를 직접 사용하는 방식일까요?"
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 2
       },
       {
         "key": "구글-api-과금한도",
@@ -1194,7 +1545,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 2
+        "days_open": 3
       },
       {
         "key": "픽셀링-구글드라이브-연결",
@@ -1238,7 +1589,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 2
+        "days_open": 3
       },
       {
         "key": "픽셀링-저장위치-이동정체",
@@ -1277,7 +1628,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 2
+        "days_open": 3
       },
       {
         "key": "가족계정-크롬프로필-분리",
@@ -1309,7 +1660,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 2
+        "days_open": 3
       },
       {
         "key": "인스타-소재영상-가로화면",
@@ -1341,7 +1692,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 2
+        "days_open": 3
       },
       {
         "key": "정규강의-초보-수강순서",
@@ -1379,7 +1730,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 2
+        "days_open": 3
       },
       {
         "key": "일대일방-정원초과-문의",
@@ -1442,7 +1793,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 14
+        "days_open": 15
       },
       {
         "key": "애드센스-비승인-연결변경",
@@ -1474,7 +1825,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 4
+        "days_open": 5
       },
       {
         "key": "픽셀링-프로젝트-기기간동기화",
@@ -1537,7 +1888,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "챌린지-늦은가입-참여조건",
@@ -1569,7 +1920,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 4
+        "days_open": 5
       },
       {
         "key": "픽셀링-업데이트-대화누락",
@@ -1601,7 +1952,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 4
+        "days_open": 5
       },
       {
         "key": "인스타-비팔노출-감소",
@@ -1639,7 +1990,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 4
+        "days_open": 5
       },
       {
         "key": "전자책-개정판-재발송",
@@ -1677,7 +2028,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 4
+        "days_open": 5
       },
       {
         "key": "픽셀러닝-이어보기-로딩불가",
@@ -1709,7 +2060,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 4
+        "days_open": 5
       },
       {
         "key": "저작권-2스트라이크-삭제",
@@ -1741,7 +2092,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "픽셀링-중간파일-용량정리",
@@ -1801,7 +2152,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 13
+        "days_open": 14
       },
       {
         "key": "픽셀링-편집자-연결방법",
@@ -1859,7 +2210,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 13
+        "days_open": 14
       },
       {
         "key": "픽셀링-프로젝트-프리셋미적용",
@@ -1910,7 +2261,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 11
+        "days_open": 12
       },
       {
         "key": "쇼핑강의-픽셀링-미게시",
@@ -1942,7 +2293,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "vpn-다채널-요금업체",
@@ -1980,7 +2331,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "쇼츠-업로드빈도-판단",
@@ -2012,7 +2363,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "쇼츠피드-지연-업로드중단",
@@ -2044,7 +2395,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "쇼핑태그-스티커-미표시",
@@ -2075,7 +2426,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "아스트라-스킬-초보안내",
@@ -2113,7 +2464,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "애드센스-사업자-폐업판단",
@@ -2145,7 +2496,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "픽셀링-영상다운로드-지연",
@@ -2177,7 +2528,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "수창구매-조회수제로-대응",
@@ -2209,7 +2560,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "인스타-봇인식-로그인차단",
@@ -2241,7 +2592,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "픽셀링-대본확정-제작전환",
@@ -2301,7 +2652,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 11
+        "days_open": 12
       },
       {
         "key": "동물명-오표기-수창심사",
@@ -2333,7 +2684,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "롤러코스터영상-수창-유지",
@@ -2365,7 +2716,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "롱폼프로그램-폴더생성-먹통",
@@ -2397,7 +2748,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "시니어롱폼-애니메이션-모델선택",
@@ -2436,7 +2787,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "픽셀링-레퍼런스분석-설정차이",
@@ -2468,7 +2819,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "픽셀링-로그인-문의불가",
@@ -2531,38 +2882,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 15
-      },
-      {
-        "key": "챌린지-누락-소급인정",
-        "kind": "question",
-        "title": "영상은 올렸지만 누락한 챌린지도 소급 인정되나요?",
-        "detail": "수강생이 영상은 업로드했으나 챌린지를 빼먹은 경우에도 소급해서 카운트되는지 물었다. 소급 인정 여부에 대한 답은 오늘 대화에 없다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 3,
-        "tags": [
-          "챌린지",
-          "소급인정"
-        ],
-        "first_date": "2026-10-17",
-        "last_date": "2026-10-17",
-        "dates": [
-          "2026-10-17"
-        ],
-        "mention_count": 1,
-        "evidence": [
-          {
-            "date": "2026-10-17",
-            "time": "22:02",
-            "who": "수강생",
-            "quote": "영상은 올렸는데, 챌린지를 빼먹으면, 그것도 소급해서 카운트가 되는건가욧?!"
-          }
-        ],
-        "origin": "overdue",
-        "days_open": 8
+        "days_open": 16
       },
       {
         "key": "재사용-항소검토-업로드",
@@ -2595,7 +2915,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 9
+        "days_open": 10
       },
       {
         "key": "롱폼프로그램-기능-사용안내",
@@ -2640,7 +2960,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 9
+        "days_open": 10
       },
       {
         "key": "수노-정책변경-비용",
@@ -2672,7 +2992,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 9
+        "days_open": 10
       },
       {
         "key": "예약영상-삭제-타채널업로드",
@@ -2704,7 +3024,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 9
+        "days_open": 10
       },
       {
         "key": "재사용-항소영상-참고자료",
@@ -2765,7 +3085,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 15
+        "days_open": 16
       },
       {
         "key": "ai롱폼-아동등장-수익화",
@@ -2798,7 +3118,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "수창재도전-기존채널-소재이동",
@@ -2836,7 +3156,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "음악쇼츠-저작권-기획",
@@ -2868,7 +3188,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "플레이리스트-심사중-채널변경",
@@ -2907,7 +3227,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "픽셀링-컴퓨터사용-권한설명",
@@ -2970,7 +3290,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 16
+        "days_open": 17
       },
       {
         "key": "자동업로드-승인검토-차단",
@@ -3008,7 +3328,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "픽셀링-자동업로드-연동안내",
@@ -3040,7 +3360,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "kie-api-주소설정",
@@ -3072,7 +3392,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "tts-파열음-제거",
@@ -3104,7 +3424,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "랭킹쇼츠-동물소재-시작기준",
@@ -3136,7 +3456,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "픽셀링-구버전-다운로드안내",
@@ -3175,7 +3495,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "쇼츠-음악저작권-경고판단",
@@ -3236,7 +3556,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 14
+        "days_open": 15
       },
       {
         "key": "애드센스-미국세금-명의",
@@ -3268,7 +3588,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 11
+        "days_open": 12
       },
       {
         "key": "썸네일-번호인증-제한",
@@ -3306,7 +3626,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 11
+        "days_open": 12
       },
       {
         "key": "서브작가-md-등록방법",
@@ -3338,7 +3658,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 11
+        "days_open": 12
       },
       {
         "key": "픽셀링-롱폼-tts정체",
@@ -3370,7 +3690,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 11
+        "days_open": 12
       },
       {
         "key": "영화채널-저작권경고-작품확인",
@@ -3409,7 +3729,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "음원사이트-음악-사용조건",
@@ -3441,7 +3761,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "해외채널-수익박탈-재도전",
@@ -3473,7 +3793,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "ai-플레이리스트-제작안내",
@@ -3505,7 +3825,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "자동업로드-쇼츠-bgm",
@@ -3537,7 +3857,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "픽셀링-업로드-저화질",
@@ -3569,7 +3889,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "애드센스-중복거절-재사용",
@@ -3607,7 +3927,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 13
+        "days_open": 14
       },
       {
         "key": "저작권-경고-추가업로드",
@@ -3646,7 +3966,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 13
+        "days_open": 14
       },
       {
         "key": "해외수창-관련채널-정지",
@@ -3684,7 +4004,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 13
+        "days_open": 14
       },
       {
         "key": "과제-구글시트-제출방법",
@@ -3728,7 +4048,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 13
+        "days_open": 14
       },
       {
         "key": "픽셀링-프로젝트-버전관리",
@@ -3772,7 +4092,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 13
+        "days_open": 14
       },
       {
         "key": "깡계-2단계인증-가이드",
@@ -3804,7 +4124,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 13
+        "days_open": 14
       },
       {
         "key": "쇼츠-신규영상-조회수제로",
@@ -3836,7 +4156,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 13
+        "days_open": 14
       },
       {
         "key": "크롬-프로필분리-동시접속",
@@ -3868,7 +4188,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 13
+        "days_open": 14
       },
       {
         "key": "뉴스영상-저작권-사용",
@@ -3899,7 +4219,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 14
+        "days_open": 15
       },
       {
         "key": "애드센스-법인선택-정정",
@@ -3931,7 +4251,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 14
+        "days_open": 15
       },
       {
         "key": "원테이크-댓글모음-수창거절",
@@ -3963,7 +4283,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 14
+        "days_open": 15
       },
       {
         "key": "픽셀링-tts-크레딧비용",
@@ -4001,7 +4321,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 14
+        "days_open": 15
       },
       {
         "key": "픽셀링-롱폼-필요크레딧",
@@ -4033,7 +4353,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 14
+        "days_open": 15
       },
       {
         "key": "해외영상-출처-유통가능",
@@ -4071,7 +4391,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 14
+        "days_open": 15
       },
       {
         "key": "대본추출-ip차단-지원",
@@ -4109,7 +4429,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 14
+        "days_open": 15
       },
       {
         "key": "아스트라-소재변경-결유지",
@@ -4153,7 +4473,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 14
+        "days_open": 15
       },
       {
         "key": "줌강의-입장공지-누락",
@@ -4185,7 +4505,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 14
+        "days_open": 15
       },
       {
         "key": "챗지피티-계정전환-채팅목록",
@@ -4223,7 +4543,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 14
+        "days_open": 15
       },
       {
         "key": "병렬작업-노트북-다운",
@@ -4255,40 +4575,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 14
-      },
-      {
-        "key": "픽셀링-작가자료-읽기오류",
-        "kind": "need",
-        "title": "작가 자료 읽기 실패에 권한·저장 확인 절차 필요",
-        "detail": "공유된 캡처에 따르면 픽셀링에서 작가 자료를 읽지 못했다는 오류가 표시됐다. 오류 문구는 원본 보존과 파일 권한·저장 상태 확인을 안내하지만, 실제 확인 절차나 해결 결과는 대화에 없었다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 3,
-        "tags": [
-          "픽셀링",
-          "파일권한",
-          "오류"
-        ],
-        "first_date": "2026-10-11",
-        "last_date": "2026-10-11",
-        "dates": [
-          "2026-10-11"
-        ],
-        "mention_count": 1,
-        "evidence": [
-          {
-            "date": "2026-10-11",
-            "time": "16:12",
-            "who": "수강생",
-            "quote": "작가 자료를 읽지 못했어요. 원본은 그대로 보존돼 있습니다. 파일 권한과 저장 상태를 확인해 주세요.",
-            "from": "image"
-          }
-        ],
-        "origin": "overdue",
-        "days_open": 14
+        "days_open": 15
       },
       {
         "key": "픽셀링-프리셋-원본소리",
@@ -4320,7 +4607,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 14
+        "days_open": 15
       },
       {
         "key": "쇼핑태그-대가성-표기",
@@ -4365,7 +4652,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 15
+        "days_open": 16
       },
       {
         "key": "재사용-애드센스-삭제",
@@ -4398,7 +4685,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 15
+        "days_open": 16
       },
       {
         "key": "쇼츠-조회수-기준차이",
@@ -4442,7 +4729,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 15
+        "days_open": 16
       },
       {
         "key": "채널분석-실습-설명요청",
@@ -4480,7 +4767,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 15
+        "days_open": 16
       },
       {
         "key": "픽셀링-업데이트-기능먹통",
@@ -4519,7 +4806,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 15
+        "days_open": 16
       },
       {
         "key": "깡계-복구번호-로그인",
@@ -4557,7 +4844,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 15
+        "days_open": 16
       },
       {
         "key": "쇼츠-공식사운드-pc업로드",
@@ -4595,7 +4882,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 15
+        "days_open": 16
       },
       {
         "key": "쇼츠-배경음-모음",
@@ -4627,7 +4914,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 15
+        "days_open": 16
       },
       {
         "key": "스튜디오-검토업로드-지연",
@@ -4659,7 +4946,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 15
+        "days_open": 16
       },
       {
         "key": "인스타-강의예시-링크",
@@ -4691,7 +4978,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 15
+        "days_open": 16
       },
       {
         "key": "캡컷-화면녹화-위치",
@@ -4722,7 +5009,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 15
+        "days_open": 16
       },
       {
         "key": "픽셀링-교육-접근권한",
@@ -4766,7 +5053,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 16
+        "days_open": 17
       },
       {
         "key": "쿠팡-쇼핑태그-접속장애",
@@ -4804,7 +5091,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 16
+        "days_open": 17
       },
       {
         "key": "대본추출-복수영상-연결",
@@ -4836,7 +5123,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 16
+        "days_open": 17
       },
       {
         "key": "랭킹형-화면전환-효과음",
@@ -4868,7 +5155,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 16
+        "days_open": 17
       },
       {
         "key": "영상제작-외주-역할분담",
@@ -4900,7 +5187,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 16
+        "days_open": 17
       },
       {
         "key": "캡컷-애덤목소리-재사용",
@@ -4932,7 +5219,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 16
+        "days_open": 17
       },
       {
         "key": "픽셀링-설정-원격지원",
@@ -4970,7 +5257,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 16
+        "days_open": 17
       },
       {
         "key": "픽셀링-유튜브-예약업로드",
@@ -5008,7 +5295,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 16
+        "days_open": 17
       },
       {
         "key": "픽셀링-프리셋-검증오류",
@@ -5047,7 +5334,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 16
+        "days_open": 17
       },
       {
         "key": "수창신청-2단계인증-번호재사용",
@@ -5079,7 +5366,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 17
+        "days_open": 18
       },
       {
         "key": "팬튜브-플리-시청시간",
@@ -5111,7 +5398,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 17
+        "days_open": 18
       },
       {
         "key": "깡계-기존업로드폰-사용",
@@ -5143,10 +5430,171 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 17
+        "days_open": 18
       }
     ],
     "question": [
+      {
+        "key": "틱톡-영상도용-신고대응",
+        "kind": "question",
+        "title": "로고까지 복제된 틱톡 도용 영상, 대응 경험 공유",
+        "detail": "수강생이 본인 틱톡 계정은 없는데 채널 로고와 전날 영상까지 대거 복제한 계정을 발견해 대응을 물었다. 수강생 답: 틱톡에도 직접 채널을 만들고 영상을 함께 게시하며 유튜브 채널 링크를 달라는 제안이 나왔다. 수강생 경험: 반대로 틱톡 영상을 유튜브에서 도용당해 여러 플랫폼에 함께 올리고 신고했으나, 항소와 시간 부담 때문에 포기한 사례도 있었다. 공식 신고 절차나 해당 도용 건의 처리 결과는 나오지 않았다.",
+        "answer": "수강생 답: 틱톡 채널에도 영상을 함께 올리고 유튜브 채널 링크를 달 것을 제안했다. 다른 수강생은 여러 플랫폼에 함께 게시하고 신고했지만 항소와 시간 부담으로 포기한 경험을 공유했다.",
+        "answered_date": "2026-10-26",
+        "status": "answered",
+        "archived": false,
+        "importance": 5,
+        "tags": [
+          "틱톡",
+          "영상도용",
+          "저작권",
+          "신고"
+        ],
+        "first_date": "2026-10-26",
+        "last_date": "2026-10-26",
+        "dates": [
+          "2026-10-26"
+        ],
+        "mention_count": 3,
+        "evidence": [
+          {
+            "date": "2026-10-26",
+            "time": "17:24",
+            "who": "수강생",
+            "quote": "저는 틱톡에 채널을 개설한게 없는데 내 채널 로고 영상그대로 대거 업로드 된 틱톡을 발견했습니다."
+          },
+          {
+            "date": "2026-10-26",
+            "time": "18:06",
+            "who": "수강생",
+            "quote": "저도 제 영상 그대로 가져가서 천만조회수 나온것도 있어요. 그냥 내가 잘만들었구나 생각하고 앞으론 틱톡도 채널 만들어서 영상 나오면 같이 올리세요 ㅎㅎ 유튜브 채널 링크 달아놓으시고"
+          },
+          {
+            "date": "2026-10-26",
+            "time": "18:13",
+            "who": "수강생",
+            "quote": "그래서 유튜브 채널이랑 인스타랑 다같이 올려서 쓴애들 신고까지했었는데 항소하면 처벌도 쉽지않고 시간도 너무 많이들어서 그냥 포기했었습니다"
+          }
+        ]
+      },
+      {
+        "key": "깡통계정-기기이동-설정순서",
+        "kind": "question",
+        "title": "공폰·PC에서 각각 일주일 대기하는 순서 확인 필요",
+        "detail": "수강생이 공폰 로그인 후 일주일을 기다려 비밀번호·인증·복구 정보를 설정하고, PC 로그인 후 다시 일주일 이상 기다려 채널을 개설하는 순서가 맞는지 물었다. 확인 답은 나오지 않았으므로 이 절차를 공식 운영 지침으로 사용할 근거는 없다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 3,
+        "tags": [
+          "계정",
+          "보안설정",
+          "채널개설"
+        ],
+        "first_date": "2026-10-26",
+        "last_date": "2026-10-26",
+        "dates": [
+          "2026-10-26"
+        ],
+        "mention_count": 1,
+        "evidence": [
+          {
+            "date": "2026-10-26",
+            "time": "14:47",
+            "who": "수강생",
+            "quote": "깡통 1.모으는 공폰에 로그인해둔다. 2. 일주일 후 폰에서 비번변경 및 opt 복구용메일 전번 설정 3. 그 후 pc에 로그인해서 일주일이상 묵힌 후에 채널 계설한다. 맞을까요?"
+          }
+        ]
+      },
+      {
+        "key": "평균조회율-조회수-소재판단",
+        "kind": "question",
+        "title": "평균 조회율은 높은데 조회수가 낮으면 소재 문제일까",
+        "detail": "수강생이 평균 조회율이 높아도 조회수가 낮은 경우 소재를 문제로 봐야 하는지 물었다. 실제 지표 수치나 영상 조건은 제시되지 않았고, 판단에 대한 답도 나오지 않았다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 3,
+        "tags": [
+          "조회율",
+          "조회수",
+          "소재"
+        ],
+        "first_date": "2026-10-26",
+        "last_date": "2026-10-26",
+        "dates": [
+          "2026-10-26"
+        ],
+        "mention_count": 1,
+        "evidence": [
+          {
+            "date": "2026-10-26",
+            "time": "18:08",
+            "who": "수강생",
+            "quote": "평균 조회율이 높아도 조회수가 낮은것도 소재가 문제일까요"
+          }
+        ]
+      },
+      {
+        "key": "픽셀링-자동이어가기-새채팅",
+        "kind": "question",
+        "title": "자동이어가기만 쓰고 새 채팅을 열지 않아도 될까",
+        "detail": "수강생이 픽셀링에서 자동이어가기를 사용하면서 새 채팅 없이 기존 대화를 계속 이어도 되는지 물었다. 새 채팅으로 전환해야 하는 조건이나 계속 사용해도 되는 범위에 대한 답은 나오지 않았다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 3,
+        "tags": [
+          "픽셀링",
+          "대화관리"
+        ],
+        "first_date": "2026-10-26",
+        "last_date": "2026-10-26",
+        "dates": [
+          "2026-10-26"
+        ],
+        "mention_count": 1,
+        "evidence": [
+          {
+            "date": "2026-10-26",
+            "time": "13:36",
+            "who": "수강생",
+            "quote": "선생님 픽셀링은 자동이어가기하고 새채팅은 안 열고 계속 대화 이어나가도 되나요?"
+          }
+        ]
+      },
+      {
+        "key": "필사숙제-미완료-추가제출",
+        "kind": "question",
+        "title": "필사 숙제 18개 남은 수강생의 추가 제출 가능 여부",
+        "detail": "수강생이 필사 숙제 18개를 아직 끝내지 못한 상태에서, 완료 후 카페에 올려도 되는지 물었다. 대화에는 제출 허용 여부나 적용 마감에 대한 답이 없어 안내가 필요하다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 3,
+        "tags": [
+          "필사",
+          "과제제출"
+        ],
+        "first_date": "2026-10-26",
+        "last_date": "2026-10-26",
+        "dates": [
+          "2026-10-26"
+        ],
+        "mention_count": 1,
+        "evidence": [
+          {
+            "date": "2026-10-26",
+            "time": "13:18",
+            "who": "수강생",
+            "quote": "저.. 필사 숙제 18개 남았는데 다하고 카페에 올려도 되나여? 아쉽네여 ㅠㅠ"
+          }
+        ]
+      },
       {
         "key": "픽셀링-강의-접속경로",
         "kind": "question",
@@ -5253,126 +5701,6 @@
             "time": "09:54",
             "who": "수강생",
             "quote": "하루 1개로 줄여서 퀄에 더 신경써보시는것도 좋을듯해요"
-          }
-        ]
-      },
-      {
-        "key": "롱폼-작가이미지-페르소나불일치",
-        "kind": "question",
-        "title": "작가의말에 다른 인물이 생성돼 페르소나 조정 문의",
-        "detail": "영상의 작가의말 부분이 작가 이미지로 생성되어, 넣으려던 아름다운 여인 페르소나와 뒷부분의 60대 작가 이미지가 달라졌다. 수강생은 페르소나 자체를 60대 작가로 바꿔야 하는지 물었고, 옷도 갑자기 달라진다고 덧붙였다. 조교는 해결법을 모른다고 밝혔으며 실제 조정 방법은 나오지 않았다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 3,
-        "tags": [
-          "롱폼",
-          "페르소나",
-          "이미지일관성"
-        ],
-        "first_date": "2026-10-24",
-        "last_date": "2026-10-24",
-        "dates": [
-          "2026-10-24"
-        ],
-        "mention_count": 1,
-        "evidence": [
-          {
-            "date": "2026-10-24",
-            "time": "17:22",
-            "who": "수강생",
-            "quote": "인트로 뒷부분에 제 페르소나(아름다운 여인) 넣어서 만들건데, 뒷부분은 이렇게 60대 작가가 나오는데 어떻게 하면 될까요? 차라리 페르소나를 이 60대 작가로 바꾸는게 나을까요?"
-          }
-        ]
-      },
-      {
-        "key": "썰채널-기사사진-밈수집",
-        "kind": "question",
-        "title": "썰채널 기사사진·밈의 수집 경로와 작업 방식 문의",
-        "detail": "썰채널 제작에 쓰는 기사사진과 밈을 어디서 가져오는지 질문했다. 하나씩 수작업으로 찾아 넣는 방식인지도 궁금해했다. 오늘 대화에는 수집 경로나 작업 방식에 대한 답이 없다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 3,
-        "tags": [
-          "썰채널",
-          "소재수집",
-          "이미지"
-        ],
-        "first_date": "2026-10-24",
-        "last_date": "2026-10-24",
-        "dates": [
-          "2026-10-24"
-        ],
-        "mention_count": 1,
-        "evidence": [
-          {
-            "date": "2026-10-24",
-            "time": "12:48",
-            "who": "수강생",
-            "quote": "썰채널을 해보고싶은데 기사사진이나 밈들은 어디서 다 들고와서 하는건가요?? 하나씩 수작업으로 기사사진이나 밈을 찾아서 집어넣지는않아보이는데.."
-          }
-        ]
-      },
-      {
-        "key": "픽셀링-gpt-복수기기",
-        "kind": "question",
-        "title": "윈도우·맥북에서 동일 계정으로 돌려도 되는지 문의",
-        "detail": "윈도우 노트북과 맥북에 같은 계정으로 픽셀링과 gpt를 로그인해 사용해도 되는지 물었다. 오늘 대화에는 복수 기기 사용 가능 여부나 조건에 대한 답이 없다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 3,
-        "tags": [
-          "픽셀링",
-          "계정",
-          "복수기기"
-        ],
-        "first_date": "2026-10-24",
-        "last_date": "2026-10-24",
-        "dates": [
-          "2026-10-24"
-        ],
-        "mention_count": 1,
-        "evidence": [
-          {
-            "date": "2026-10-24",
-            "time": "15:13",
-            "who": "수강생",
-            "quote": "삼성 윈도우 노트북이랑 맥북에 똑같은 아이디랑 계정으로 픽셀링, gpt 로그인해서 돌려도 괜찮죠??"
-          }
-        ]
-      },
-      {
-        "key": "픽셀링-영상생성-gpu",
-        "kind": "question",
-        "title": "그래픽카드 선택 전, Astra 영상 생성의 GPU 사용 문의",
-        "detail": "그래픽카드를 맞추려는 수강생이 픽셀링의 Astra 영상 생성이 서버 요청 방식인지 로컬 GPU 사용 방식인지 물었다. 어떤 하드웨어 조건을 고려해야 할지 모르겠다는 상황이다. 오늘 대화에 답은 없다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 3,
-        "tags": [
-          "픽셀링",
-          "영상생성",
-          "GPU"
-        ],
-        "first_date": "2026-10-24",
-        "last_date": "2026-10-24",
-        "dates": [
-          "2026-10-24"
-        ],
-        "mention_count": 1,
-        "evidence": [
-          {
-            "date": "2026-10-24",
-            "time": "16:06",
-            "who": "수강생",
-            "quote": "픽셀링에서 Astra로 영상을 생성할 때, 인터넷으로 서버에 요청하는 방식일까요 아니면 프로그램이 컴퓨터의 GPU를 직접 사용하는 방식일까요?"
           }
         ]
       },
