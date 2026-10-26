@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "room_id": "r-f7121a4e",
+  "date": "2026-10-26",
+  "items": [
+    {
+      "id": "e6c574e9a54c",
+      "kind": "image",
+      "t": "2026-10-26T12:07:00+09:00",
+      "time": "12:07",
+      "who": "수강생",
+      "text": "Codex 실행 진행 화면 캡처. \"작가 자료를 읽지 못했어요. 원본은 그대로 보존돼 있습니다. 파일 권한과 저장 상태를 확인해 주세요.\" 경고와 42% 진행 표시, GPT-6 Astra high가 보임",
+      "file": "media/r-f7121a4e/e6c574e9a54c.png",
+      "thumb": "media/r-f7121a4e/thumbs/e6c574e9a54c.jpg",
+      "mime": "image/png",
+      "bytes": 15024
+    },
+    {
+      "id": "687fa8a62c20",
+      "kind": "image",
+      "t": "2026-10-26T12:14:00+09:00",
+      "time": "12:14",
+      "who": "수강생",
+      "text": "계정 크레딧·자동 충전 및 초기화 설정 화면 캡처(계정 관련 수치와 날짜는 옮기지 않음)",
+      "sensitive": true
+    },
+    {
+      "id": "86664af862e9",
+      "kind": "image",
+      "t": "2026-10-26T12:16:00+09:00",
+      "time": "12:16",
+      "who": "수강생",
+      "text": "계정 사용량 초기화 화면 캡처(계정 사용량과 날짜 수치는 옮기지 않음)",
+      "sensitive": true
+    },
+    {
+      "id": "27f6266e7236",
+      "kind": "image",
+      "t": "2026-10-26T13:23:00+09:00",
+      "time": "13:23",
+      "who": "수강생",
+      "text": "유튜브 분석 화면 캡처(채널 실적 수치는 옮기지 않음)",
+      "sensitive": true
+    },
+    {
+      "id": "f86849852811",
+      "kind": "image",
+      "t": "2026-10-26T14:26:00+09:00",
+      "time": "14:26",
+      "who": "수강생",
+      "text": "X 게시물 캡처. \"Day 21/ Wonder what happens the remaining seven days. But today is a reset.\" 문구가 보임",
+      "file": "media/r-f7121a4e/f86849852811.jpg",
+      "thumb": "media/r-f7121a4e/thumbs/f86849852811.jpg",
+      "mime": "image/jpeg",
+      "bytes": 482435
+    },
+    {
+      "id": "5836980381a1",
+      "kind": "image",
+      "t": "2026-10-26T15:11:00+09:00",
+      "time": "15:11",
+      "who": "수강생",
+      "text": "Codex 사용량·초기화 화면 캡처(계정 사용량과 초기화 시각 등 개인 계정 정보는 옮기지 않음)",
+      "sensitive": true
+    }
+  ]
+}
