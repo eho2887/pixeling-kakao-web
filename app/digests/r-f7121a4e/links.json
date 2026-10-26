@@ -1,8 +1,356 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-10-25T06:16:20.793Z",
+  "updated_at": "2026-10-26T00:28:56.432Z",
   "items": [
+    {
+      "id": "0841d5358e11",
+      "url": "https://artificialanalysis.ai/agents/coding-agents](artificialanalysis.ai/agents/coding-agents",
+      "kind": "web",
+      "site": "artificialanalysis.ai",
+      "reachable": false,
+      "private": false,
+      "first_date": "2026-10-26",
+      "last_date": "2026-10-26",
+      "dates": [
+        "2026-10-26"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-26",
+          "time": "09:19",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
+        }
+      ],
+      "fetched_at": "2026-10-26T00:28:56.432Z"
+    },
+    {
+      "id": "1cd0e0030b5e",
+      "url": "https://block.xyz/dessa](block.xyz/dessa",
+      "kind": "web",
+      "site": "block.xyz",
+      "reachable": false,
+      "private": false,
+      "first_date": "2026-10-26",
+      "last_date": "2026-10-26",
+      "dates": [
+        "2026-10-26"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-26",
+          "time": "09:19",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
+        }
+      ],
+      "fetched_at": "2026-10-26T00:28:56.432Z"
+    },
+    {
+      "id": "1ffb4e07f284",
+      "url": "https://www.anthropic.com/news](anthropic.com/news",
+      "kind": "web",
+      "site": "anthropic.com",
+      "reachable": false,
+      "private": false,
+      "first_date": "2026-10-26",
+      "last_date": "2026-10-26",
+      "dates": [
+        "2026-10-26"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-26",
+          "time": "09:19",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
+        }
+      ],
+      "fetched_at": "2026-10-26T00:28:56.432Z"
+    },
+    {
+      "id": "2e2bce2a5eb6",
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation](anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "kind": "article",
+      "site": "anthropic.com",
+      "reachable": false,
+      "private": false,
+      "first_date": "2026-10-26",
+      "last_date": "2026-10-26",
+      "dates": [
+        "2026-10-26"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-26",
+          "time": "09:19",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
+        }
+      ],
+      "fetched_at": "2026-10-26T00:28:56.432Z"
+    },
+    {
+      "id": "3e88980ac4c0",
+      "url": "https://x.com/ArtificialAnlys/status/2113424556069372203](x.com/ArtificialAnlys/status/2113424556069372203",
+      "kind": "web",
+      "site": "x.com",
+      "reachable": false,
+      "private": false,
+      "first_date": "2026-10-26",
+      "last_date": "2026-10-26",
+      "dates": [
+        "2026-10-26"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-26",
+          "time": "09:19",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
+        }
+      ],
+      "fetched_at": "2026-10-26T00:28:56.432Z"
+    },
+    {
+      "id": "41c29ebb7d6f",
+      "url": "https://blog.google/](blog.google",
+      "kind": "web",
+      "site": "blog.google",
+      "reachable": false,
+      "private": false,
+      "first_date": "2026-10-26",
+      "last_date": "2026-10-26",
+      "dates": [
+        "2026-10-26"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-26",
+          "time": "09:19",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
+        }
+      ],
+      "fetched_at": "2026-10-26T00:28:56.432Z"
+    },
+    {
+      "id": "54a2d659b103",
+      "url": "https://artificialanalysis.ai/methodology/coding-agents-benchmarking](artificialanalysis.ai/methodology/coding-agents-benchmarking",
+      "kind": "web",
+      "site": "artificialanalysis.ai",
+      "reachable": false,
+      "private": false,
+      "first_date": "2026-10-26",
+      "last_date": "2026-10-26",
+      "dates": [
+        "2026-10-26"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-26",
+          "time": "09:19",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
+        }
+      ],
+      "fetched_at": "2026-10-26T00:28:56.432Z"
+    },
+    {
+      "id": "78283b25edba",
+      "url": "https://www.youtube.com/watch?v=8tjhiruPpBg](youtube.com/watch?v=8tjhiruPpBg",
+      "kind": "youtube",
+      "site": "youtube.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-26",
+      "last_date": "2026-10-26",
+      "dates": [
+        "2026-10-26"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-26",
+          "time": "09:19",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
+        }
+      ],
+      "fetched_at": "2026-10-26T00:28:56.432Z"
+    },
+    {
+      "id": "82c241d00461",
+      "url": "https://x.com/jack/status/2113697820222042296](x.com/jack/status/2113697820222042296",
+      "kind": "web",
+      "site": "x.com",
+      "reachable": false,
+      "private": false,
+      "first_date": "2026-10-26",
+      "last_date": "2026-10-26",
+      "dates": [
+        "2026-10-26"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-26",
+          "time": "09:19",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
+        }
+      ],
+      "fetched_at": "2026-10-26T00:28:56.432Z"
+    },
+    {
+      "id": "91262a805298",
+      "url": "https://medium.com/google-cloud/ai-agent-vs-ai-harness-where-memory-actually-lives-7067e64d20a3](medium.com/google-cloud/ai-agent-vs-ai-harness-where-memory-actually-lives-7067e64d20a3",
+      "kind": "blog",
+      "site": "medium.com",
+      "reachable": false,
+      "private": false,
+      "first_date": "2026-10-26",
+      "last_date": "2026-10-26",
+      "dates": [
+        "2026-10-26"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-26",
+          "time": "09:19",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
+        }
+      ],
+      "fetched_at": "2026-10-26T00:28:56.432Z"
+    },
+    {
+      "id": "adf7bef1d764",
+      "url": "https://x.com/RagavanThurair/status/2113691903866872251](x.com/RagavanThurair/status/2113691903866872251",
+      "kind": "web",
+      "site": "x.com",
+      "reachable": false,
+      "private": false,
+      "first_date": "2026-10-26",
+      "last_date": "2026-10-26",
+      "dates": [
+        "2026-10-26"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-26",
+          "time": "09:19",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
+        }
+      ],
+      "fetched_at": "2026-10-26T00:28:56.432Z"
+    },
+    {
+      "id": "e1e08b648d4e",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/](blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders",
+      "kind": "web",
+      "site": "blog.google",
+      "reachable": false,
+      "private": false,
+      "first_date": "2026-10-26",
+      "last_date": "2026-10-26",
+      "dates": [
+        "2026-10-26"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-26",
+          "time": "09:19",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
+        }
+      ],
+      "fetched_at": "2026-10-26T00:28:56.432Z"
+    },
+    {
+      "id": "f0443450177d",
+      "url": "https://www.youtube.com/watch?v=aZMKzHhlTh8",
+      "kind": "youtube",
+      "title": "HUGE GPT-7 BEL UPDATE! Claude REA BANNED, Gemini 4 Carbon Is INSANE, Qwen 4 LEAKS, & More! AI NEWS",
+      "site": "YouTube",
+      "author": "WorldofAI",
+      "thumb": "media/r-f7121a4e/link_thumbs/f0443450177d.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-26",
+      "last_date": "2026-10-26",
+      "dates": [
+        "2026-10-26"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-26",
+          "time": "09:19",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
+        }
+      ],
+      "fetched_at": "2026-10-26T00:28:56.432Z"
+    },
+    {
+      "id": "fe360ca6308e",
+      "url": "https://x.com/ArtificialAnlys/status/2113424551396934134](x.com/ArtificialAnlys/status/2113424551396934134",
+      "kind": "web",
+      "site": "x.com",
+      "reachable": false,
+      "private": false,
+      "first_date": "2026-10-26",
+      "last_date": "2026-10-26",
+      "dates": [
+        "2026-10-26"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-26",
+          "time": "09:19",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
+        }
+      ],
+      "fetched_at": "2026-10-26T00:28:56.432Z"
+    },
+    {
+      "id": "ff821e302bc6",
+      "url": "https://www.youtube.com/watch?v=2C_CefSQEAQ](youtube.com/watch?v=2C_CefSQEAQ",
+      "kind": "youtube",
+      "site": "youtube.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-26",
+      "last_date": "2026-10-26",
+      "dates": [
+        "2026-10-26"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-26",
+          "time": "09:19",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
+        }
+      ],
+      "fetched_at": "2026-10-26T00:28:56.432Z"
+    },
     {
       "id": "1f79452dc604",
       "url": "https://www.youtube.com/watch?v=r6zIGXun57U",
