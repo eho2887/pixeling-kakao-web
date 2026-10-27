@@ -1,8 +1,31 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-10-27T00:45:47.590Z",
+  "updated_at": "2026-10-27T02:19:50.386Z",
   "items": [
+    {
+      "id": "35e334c19874",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "kind": "web",
+      "site": "openai.com",
+      "reachable": false,
+      "private": false,
+      "first_date": "2026-10-27",
+      "last_date": "2026-10-27",
+      "dates": [
+        "2026-10-27"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-27",
+          "time": "10:48",
+          "who": "수강생",
+          "text": "GPT 새로운 모델 6.1 Terra 나왔대요~!! Sol도 6.1 모델 있는데, 그렇다면 Astra도 6.1이 출시될지도!? https://openai.com/index/introducing-gpt-6-1-terra/"
+        }
+      ],
+      "fetched_at": "2026-10-27T02:19:50.386Z"
+    },
     {
       "id": "aac0972f1ab8",
       "url": "https://www.youtube.com/@52out/videos",
