@@ -14,6 +14,18 @@
       "mime": "text/plain",
       "bytes": 7378,
       "remote": false
+    },
+    {
+      "id": "43f1f52db3b1",
+      "kind": "image",
+      "t": "2026-10-27T11:30:00+09:00",
+      "time": "11:30",
+      "who": "수강생",
+      "text": "유튜브 채널 동영상 목록 화면 캡처. 여러 영상의 제목과 조회수가 표시됨.",
+      "file": "media/r-f7121a4e/43f1f52db3b1.png",
+      "thumb": "media/r-f7121a4e/thumbs/43f1f52db3b1.jpg",
+      "mime": "image/png",
+      "bytes": 693790
     }
   ]
 }
