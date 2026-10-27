@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "room_id": "r-c00b1739",
+  "date": "2026-10-27",
+  "items": [
+    {
+      "id": "aa19d69e321c",
+      "kind": "image",
+      "t": "2026-10-27T00:56:00+09:00",
+      "time": "00:56",
+      "who": "수강생",
+      "text": "어두운 화면에 요청이 잠시 몰렸어요, 조금 뒤 다시 시도해 주세요라는 안내가 반복된 사진.",
+      "file": "media/r-c00b1739/aa19d69e321c.png",
+      "thumb": "media/r-c00b1739/thumbs/aa19d69e321c.jpg",
+      "mime": "image/png",
+      "bytes": 22626
+    }
+  ]
+}
