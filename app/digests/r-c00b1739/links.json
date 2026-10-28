@@ -1,8 +1,34 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-10-28T05:42:07.212Z",
+  "updated_at": "2026-10-28T06:16:32.408Z",
   "items": [
+    {
+      "id": "abebb210282b",
+      "url": "https://www.instagram.com/p/De_dJKdmwPS",
+      "kind": "web",
+      "title": "Instagram의 바이럴 해커 | 릴스 • 숏폼 • 퍼스널 브랜딩님 : \"인스타 롱폼 영상 출시🚨 릴스만 열심히 올리고 있었는데요, 이제 인스타 안에서 긴 영상까지 보게 된다고 하더라고요! 주변 크리에이터분들께 공유해서 소식 알려주세요🔥 #릴스 #인스타 #바이럴 #롱폼\"",
+      "site": "Instagram",
+      "description": "440 likes, 13 comments - viral.hacker_ - October 27, 2026: \"인스타 롱폼 영상 출시🚨 릴스만 열심히 올리고 있었는데요, 이제 인스타 안에서 긴 영상까지 보게 된다고 하더라고요! 주변 크리에이터분들께 공유해서 소식 알려주세요🔥 #릴스 #인스타 #바이럴 #롱폼\".",
+      "thumb": "media/r-c00b1739/link_thumbs/abebb210282b.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-28",
+      "last_date": "2026-10-28",
+      "dates": [
+        "2026-10-28"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-28",
+          "time": "14:41",
+          "who": "수강생",
+          "text": "인스타에도 롱폼 나온다고 하네욤💙 https://www.instagram.com/p/De_dJKdmwPS/"
+        }
+      ],
+      "fetched_at": "2026-10-28T06:16:32.408Z"
+    },
     {
       "id": "44e8137a4c90",
       "url": "https://claude.com/resources/videos",
