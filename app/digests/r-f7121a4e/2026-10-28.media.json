@@ -83,6 +83,54 @@
       "thumb": "media/r-f7121a4e/thumbs/79819efd0cda.jpg",
       "mime": "image/jpeg",
       "bytes": 97770
+    },
+    {
+      "id": "cd9c3e506a6b",
+      "kind": "image",
+      "t": "2026-10-28T13:45:00+09:00",
+      "time": "13:45",
+      "who": "수강생",
+      "text": "Tibo 계정 게시물 화면 캡처. 게시물에는 “poteto.com이 착륙했습니다.”라는 문구와 게시 시각, 조회 및 반응 수가 보임.",
+      "file": "media/r-f7121a4e/cd9c3e506a6b.jpg",
+      "thumb": "media/r-f7121a4e/thumbs/cd9c3e506a6b.jpg",
+      "mime": "image/jpeg",
+      "bytes": 23558
+    },
+    {
+      "id": "f86ce591fc98",
+      "kind": "image",
+      "t": "2026-10-28T13:50:00+09:00",
+      "time": "13:50",
+      "who": "수강생",
+      "text": "Codex Resets 웹페이지 캡처. 상단에 “Tibo 시간”, “현지 시간” 탭이 보이고 카드에 “리셋 예정 약 2시간 이내”라고 표시됨.",
+      "file": "media/r-f7121a4e/f86ce591fc98.png",
+      "thumb": "media/r-f7121a4e/thumbs/f86ce591fc98.jpg",
+      "mime": "image/png",
+      "bytes": 27387
+    },
+    {
+      "id": "531342e831fa",
+      "kind": "image",
+      "t": "2026-10-28T13:54:00+09:00",
+      "time": "13:54",
+      "who": "수강생",
+      "text": "Codex/OpenAI 사용량 안내 이미지. ‘Cost per Task’ 막대그래프가 보임.",
+      "file": "media/r-f7121a4e/531342e831fa.png",
+      "thumb": "media/r-f7121a4e/thumbs/531342e831fa.jpg",
+      "mime": "image/png",
+      "bytes": 112030
+    },
+    {
+      "id": "a7bef5dfe8cb",
+      "kind": "image",
+      "t": "2026-10-28T13:59:00+09:00",
+      "time": "13:59",
+      "who": "수강생",
+      "text": "Codex Resets 화면 이미지. ‘리셋 예정 약 2시간 이내’, 날짜 10/28, ‘오후 4:00까지’ 표시.",
+      "file": "media/r-f7121a4e/a7bef5dfe8cb.jpg",
+      "thumb": "media/r-f7121a4e/thumbs/a7bef5dfe8cb.jpg",
+      "mime": "image/jpeg",
+      "bytes": 33108
     }
   ]
 }
