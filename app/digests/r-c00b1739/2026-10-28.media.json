@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "room_id": "r-c00b1739",
+  "date": "2026-10-28",
+  "items": [
+    {
+      "id": "2f74dbfbcc57",
+      "kind": "image",
+      "t": "2026-10-28T11:38:00+09:00",
+      "time": "11:38",
+      "who": "수강생",
+      "text": "픽셀링 앱 화면 캡처: 왼쪽 탐색·목록 패널과 오른쪽 편집 영역, 영상 미리보기가 보임.",
+      "file": "media/r-c00b1739/2f74dbfbcc57.png",
+      "thumb": "media/r-c00b1739/thumbs/2f74dbfbcc57.jpg",
+      "mime": "image/png",
+      "bytes": 326671
+    },
+    {
+      "id": "386506d038f2",
+      "kind": "image",
+      "t": "2026-10-28T11:39:00+09:00",
+      "time": "11:39",
+      "who": "수강생",
+      "text": "픽셀링 데스크톱 화면 캡처. 왼쪽 패널에 “지난 7일 24”, “프리셋”, “리스트업”, “픽셀러닝”이 보이고 오른쪽에 “카톡방 꿀팁 정리 폴더 없음”이 표시됨.",
+      "file": "media/r-c00b1739/386506d038f2.png",
+      "thumb": "media/r-c00b1739/thumbs/386506d038f2.jpg",
+      "mime": "image/png",
+      "bytes": 245136
+    },
+    {
+      "id": "32d275a7ad8b",
+      "kind": "image",
+      "t": "2026-10-28T11:47:00+09:00",
+      "time": "11:47",
+      "who": "수강생",
+      "text": "X 앱 추천 피드의 게시물에 “Day 23/ Much requested iCloud Mail & Calendar plugins. Just kidding, today is a reset. Still much requested though!” 문구와 ChatGPT 게시물 카드가 보임.",
+      "file": "media/r-c00b1739/32d275a7ad8b.jpg",
+      "thumb": "media/r-c00b1739/thumbs/32d275a7ad8b.jpg",
+      "mime": "image/jpeg",
+      "bytes": 443872
+    },
+    {
+      "id": "ae2b72deb641",
+      "kind": "image",
+      "t": "2026-10-28T11:59:00+09:00",
+      "time": "11:59",
+      "who": "조교",
+      "text": "YouTube 수익 분석 표 화면 캡처. 2026.10.27 게시일 110, 81,031회, ₩6,483; 2026.10.26 22,618회, ₩5,663 및 377회, ₩56; 2026.10.25 1,113,419회, ₩229,052가 보임.",
+      "file": "media/r-c00b1739/ae2b72deb641.jpg",
+      "thumb": "media/r-c00b1739/thumbs/ae2b72deb641.jpg",
+      "mime": "image/jpeg",
+      "bytes": 21883
+    }
+  ]
+}

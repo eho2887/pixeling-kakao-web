@@ -26,6 +26,42 @@
       "thumb": "media/r-f7121a4e/thumbs/e3a301b22c4f.jpg",
       "mime": "image/png",
       "bytes": 832
+    },
+    {
+      "id": "51b452d97fa6",
+      "kind": "image",
+      "t": "2026-10-28T11:49:00+09:00",
+      "time": "11:49",
+      "who": "수강생",
+      "text": "Codex 사용 한도/초기화 화면 캡처. 주간 사용 한도와 “0% 남음”, “5일 3시간 후 초기화됩니다”가 표시됨.",
+      "file": "media/r-f7121a4e/51b452d97fa6.png",
+      "thumb": "media/r-f7121a4e/thumbs/51b452d97fa6.jpg",
+      "mime": "image/png",
+      "bytes": 7877
+    },
+    {
+      "id": "171cbcf7dcbe",
+      "kind": "image",
+      "t": "2026-10-28T11:50:00+09:00",
+      "time": "11:50",
+      "who": "수강생",
+      "text": "Telegram “Codex Resets Alert” 화면 캡처. “Codex reset expected by Oct 28, 07:00 UTC” 문구와 iCloud Mail & Calendar 플러그인 관련 게시물이 보임.",
+      "file": "media/r-f7121a4e/171cbcf7dcbe.png",
+      "thumb": "media/r-f7121a4e/thumbs/171cbcf7dcbe.jpg",
+      "mime": "image/png",
+      "bytes": 2552187
+    },
+    {
+      "id": "8d5f29a8f706",
+      "kind": "image",
+      "t": "2026-10-28T12:01:00+09:00",
+      "time": "12:01",
+      "who": "수강생",
+      "text": "YouTube 파트너 프로그램 가입 승인 이메일 캡처와 카카오톡 대화 화면이 함께 보임. 이름과 대화 일부는 가려져 있음.",
+      "file": "media/r-f7121a4e/8d5f29a8f706.png",
+      "thumb": "media/r-f7121a4e/thumbs/8d5f29a8f706.jpg",
+      "mime": "image/png",
+      "bytes": 1806384
     }
   ]
 }
