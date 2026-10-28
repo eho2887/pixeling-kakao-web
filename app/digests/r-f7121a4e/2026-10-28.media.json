@@ -155,6 +155,33 @@
       "thumb": "media/r-f7121a4e/thumbs/3733365c2f44.jpg",
       "mime": "image/png",
       "bytes": 27979
+    },
+    {
+      "id": "74f8a84a5a00",
+      "kind": "image",
+      "t": "2026-10-28T17:35:00+09:00",
+      "time": "17:35",
+      "who": "수강생",
+      "text": "YouTube Studio 화면 캡처(썸네일 포함)",
+      "sensitive": true
+    },
+    {
+      "id": "adea476966dc",
+      "kind": "image",
+      "t": "2026-10-28T17:37:00+09:00",
+      "time": "17:37",
+      "who": "수강생",
+      "text": "YouTube Studio 화면 캡처(썸네일 포함)",
+      "sensitive": true
+    },
+    {
+      "id": "7f2398b548fe",
+      "kind": "image",
+      "t": "2026-10-28T17:40:00+09:00",
+      "time": "17:40",
+      "who": "수강생",
+      "text": "Google Play 서비스 알림 화면 캡처(개인 정보 포함)",
+      "sensitive": true
     }
   ]
 }
