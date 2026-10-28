@@ -131,6 +131,30 @@
       "thumb": "media/r-f7121a4e/thumbs/a7bef5dfe8cb.jpg",
       "mime": "image/jpeg",
       "bytes": 33108
+    },
+    {
+      "id": "f14cfecc4710",
+      "kind": "image",
+      "t": "2026-10-28T14:18:00+09:00",
+      "time": "14:18",
+      "who": "수강생",
+      "text": "Pixeling Desktop 업데이트 화면에 “managed_installation_required” 오류가 보이며 설치 버전 1.0.183, 마지막 확인 2026. 10. 28. 오후 2:17로 표시됨.",
+      "file": "media/r-f7121a4e/f14cfecc4710.png",
+      "thumb": "media/r-f7121a4e/thumbs/f14cfecc4710.jpg",
+      "mime": "image/png",
+      "bytes": 20215
+    },
+    {
+      "id": "3733365c2f44",
+      "kind": "image",
+      "t": "2026-10-28T14:19:00+09:00",
+      "time": "14:19",
+      "who": "수강생",
+      "text": "Pixeling Desktop 업데이트 화면에 “지금 최신 상태로 보여요. 업데이트는 3분마다 자동으로 확인합니다.”라고 표시됨. 설치 버전 1.0.202, 마지막 확인 2026. 10. 28. 오후 2:18.",
+      "file": "media/r-f7121a4e/3733365c2f44.png",
+      "thumb": "media/r-f7121a4e/thumbs/3733365c2f44.jpg",
+      "mime": "image/png",
+      "bytes": 27979
     }
   ]
 }
