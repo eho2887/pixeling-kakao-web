@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "room_id": "r-f7121a4e",
+  "date": "2026-10-28",
+  "items": [
+    {
+      "id": "0694f812666e",
+      "kind": "image",
+      "t": "2026-10-28T09:34:00+09:00",
+      "time": "09:34",
+      "who": "수강생",
+      "text": "카카오톡 대화 화면 캡처. 여러 참여자의 짧은 채팅이 보이며, 하단에 질문 형태의 메시지가 표시됨",
+      "file": "media/r-f7121a4e/0694f812666e.png",
+      "thumb": "media/r-f7121a4e/thumbs/0694f812666e.jpg",
+      "mime": "image/png",
+      "bytes": 27395
+    },
+    {
+      "id": "e3a301b22c4f",
+      "kind": "image",
+      "t": "2026-10-28T09:39:00+09:00",
+      "time": "09:39",
+      "who": "수강생",
+      "text": "카카오톡 이름/역할 텍스트를 확대한 이미지. 검은 바탕에 일부 글자가 보임",
+      "file": "media/r-f7121a4e/e3a301b22c4f.png",
+      "thumb": "media/r-f7121a4e/thumbs/e3a301b22c4f.jpg",
+      "mime": "image/png",
+      "bytes": 832
+    }
+  ]
+}
