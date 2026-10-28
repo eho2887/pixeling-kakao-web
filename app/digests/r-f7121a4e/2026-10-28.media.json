@@ -71,6 +71,18 @@
       "who": "수강생",
       "text": "채널 위반사항 화면. 현재 유효한 저작권 위반 경고가 3회 중 2회로 표시됨.",
       "sensitive": true
+    },
+    {
+      "id": "79819efd0cda",
+      "kind": "image",
+      "t": "2026-10-28T13:21:00+09:00",
+      "time": "13:21",
+      "who": "수강생",
+      "text": "Codex Resets 화면 캡처. '3분 전', '10월 28일 오후 1:18', '69', '6.0일', '67.7일' 표시. 그 밖의 작은 글자는 일부 읽기 어려움.",
+      "file": "media/r-f7121a4e/79819efd0cda.jpg",
+      "thumb": "media/r-f7121a4e/thumbs/79819efd0cda.jpg",
+      "mime": "image/jpeg",
+      "bytes": 97770
     }
   ]
 }
