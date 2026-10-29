@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-10-29T01:45:46.766Z",
+  "updated_at": "2026-10-29T02:55:06.358Z",
   "items": [
     {
       "id": "6e4a66045c25",
@@ -19,8 +19,14 @@
         "2026-10-09",
         "2026-10-29"
       ],
-      "mention_count": 2,
+      "mention_count": 3,
       "contexts": [
+        {
+          "date": "2026-10-29",
+          "time": "11:36",
+          "who": "수강생",
+          "text": "https://app.pixeling.io/ 로그인은 되나요?"
+        },
         {
           "date": "2026-10-29",
           "time": "10:32",
@@ -35,6 +41,39 @@
         }
       ],
       "fetched_at": "2026-10-09T13:23:29.944Z"
+    },
+    {
+      "id": "85dd9255a825",
+      "url": "https://app.pixeling.io/login",
+      "kind": "web",
+      "title": "로그인 | Pixeling",
+      "site": "Pixeling",
+      "description": "Google 계정으로 간편하게 로그인하고 Pixeling을 시작하세요.",
+      "thumb": "media/r-c00b1739/link_thumbs/85dd9255a825.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-26",
+      "last_date": "2026-10-29",
+      "dates": [
+        "2026-10-26",
+        "2026-10-29"
+      ],
+      "mention_count": 2,
+      "contexts": [
+        {
+          "date": "2026-10-29",
+          "time": "11:34",
+          "who": "수강생",
+          "text": "https://app.pixeling.io/login"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "13:28",
+          "who": "강사",
+          "text": "픽셀링 가입하기: https://app.pixeling.io/login 가입 후 아래 ㅎ6 매니저님에게 오픈채팅으로 쇼츠투벤츠 수강생 룰루랄라릴리입니다.(채팅방 닉네임) 등급업 부탁드립니다 라고 메세지 보내주세요 쇼츠투벤츠 픽셀링 등업문의 http://pf.kakao.com/_PCdBX 매니저님이 확인하고 등급업 해드립니다. 최대 1일정도가 소요 될 수 있으니 기다려주세요 !"
+        }
+      ],
+      "fetched_at": "2026-10-26T07:10:00.003Z"
     },
     {
       "id": "abebb210282b",
@@ -281,7 +320,7 @@
           "text": "GPT 새로운 모델 6.1 Terra 나왔대요~!! Sol도 6.1 모델 있는데, 그렇다면 Astra도 6.1이 출시될지도!? https://openai.com/index/introducing-gpt-6-1-terra/"
         }
       ],
-      "fetched_at": "2026-10-28T02:30:45.650Z"
+      "fetched_at": "2026-10-29T02:55:06.358Z"
     },
     {
       "id": "aac0972f1ab8",
@@ -314,32 +353,6 @@
       "site": "카카오톡채널 - 픽셀링",
       "description": "국내를 넘어 글로벌로 한계를 넘어 무한으로 \"픽셀링\"",
       "thumb": "media/r-c00b1739/link_thumbs/47dc683a68ef.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "13:28",
-          "who": "강사",
-          "text": "픽셀링 가입하기: https://app.pixeling.io/login 가입 후 아래 ㅎ6 매니저님에게 오픈채팅으로 쇼츠투벤츠 수강생 룰루랄라릴리입니다.(채팅방 닉네임) 등급업 부탁드립니다 라고 메세지 보내주세요 쇼츠투벤츠 픽셀링 등업문의 http://pf.kakao.com/_PCdBX 매니저님이 확인하고 등급업 해드립니다. 최대 1일정도가 소요 될 수 있으니 기다려주세요 !"
-        }
-      ],
-      "fetched_at": "2026-10-26T07:10:00.003Z"
-    },
-    {
-      "id": "85dd9255a825",
-      "url": "https://app.pixeling.io/login",
-      "kind": "web",
-      "title": "로그인 | Pixeling",
-      "site": "Pixeling",
-      "description": "Google 계정으로 간편하게 로그인하고 Pixeling을 시작하세요.",
-      "thumb": "media/r-c00b1739/link_thumbs/85dd9255a825.jpg",
       "reachable": true,
       "private": false,
       "first_date": "2026-10-26",
