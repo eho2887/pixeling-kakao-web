@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "room_id": "r-f7121a4e",
+  "date": "2026-10-29",
+  "items": [
+    {
+      "id": "6ee95105a04b",
+      "kind": "image",
+      "t": "2026-10-29T11:19:00+09:00",
+      "time": "11:19",
+      "who": "수강생",
+      "text": "앱 화면의 배너에 \"영상으로 만들기 전에 대본·프리셋·TTS 방식을 확인해 주세요.\"라고 표시된 이미지입니다.",
+      "file": "media/r-f7121a4e/6ee95105a04b.png",
+      "thumb": "media/r-f7121a4e/thumbs/6ee95105a04b.jpg",
+      "mime": "image/png",
+      "bytes": 4697
+    }
+  ]
+}
