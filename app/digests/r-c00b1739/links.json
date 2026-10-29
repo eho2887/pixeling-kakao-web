@@ -1,8 +1,41 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-10-29T01:11:43.450Z",
+  "updated_at": "2026-10-29T01:45:46.766Z",
   "items": [
+    {
+      "id": "6e4a66045c25",
+      "url": "https://app.pixeling.io/",
+      "kind": "web",
+      "title": "디스커버리 | Pixeling",
+      "site": "Pixeling",
+      "description": "채팅으로 작업을 시작하고, 필요한 순간에만 편집기로 이어지는 픽시 커맨드 센터.",
+      "thumb": "media/r-c00b1739/link_thumbs/6e4a66045c25.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-09",
+      "last_date": "2026-10-29",
+      "dates": [
+        "2026-10-09",
+        "2026-10-29"
+      ],
+      "mention_count": 2,
+      "contexts": [
+        {
+          "date": "2026-10-29",
+          "time": "10:32",
+          "who": "수강생",
+          "text": "https://app.pixeling.io/ new 데스크톱 버전으로 받으시면되요. 5기 카페 노는행님 강의중에 픽셀링 다운 설치 코덱스 알려주는거 있는데, 헷갈리시면 그거보시면 좋을거 같네요. 1강이었던거 같습니다."
+        },
+        {
+          "date": "2026-10-09",
+          "time": "19:05",
+          "who": "수강생",
+          "text": "https://app.pixeling.io/ 연동 되는지 안되는지 모르겠네요"
+        }
+      ],
+      "fetched_at": "2026-10-09T13:23:29.944Z"
+    },
     {
       "id": "abebb210282b",
       "url": "https://www.instagram.com/p/De_dJKdmwPS",
@@ -2643,32 +2676,6 @@
         }
       ],
       "fetched_at": "2026-10-10T06:09:06.189Z"
-    },
-    {
-      "id": "6e4a66045c25",
-      "url": "https://app.pixeling.io/",
-      "kind": "web",
-      "title": "디스커버리 | Pixeling",
-      "site": "Pixeling",
-      "description": "채팅으로 작업을 시작하고, 필요한 순간에만 편집기로 이어지는 픽시 커맨드 센터.",
-      "thumb": "media/r-c00b1739/link_thumbs/6e4a66045c25.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-09",
-      "last_date": "2026-10-09",
-      "dates": [
-        "2026-10-09"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-09",
-          "time": "19:05",
-          "who": "수강생",
-          "text": "https://app.pixeling.io/ 연동 되는지 안되는지 모르겠네요"
-        }
-      ],
-      "fetched_at": "2026-10-09T13:23:29.944Z"
     },
     {
       "id": "a5678c6de57e",
