@@ -48,6 +48,18 @@
       "thumb": "media/r-c00b1739/thumbs/2454ce87d8b1.jpg",
       "mime": "image/png",
       "bytes": 470049
+    },
+    {
+      "id": "dc906c82895f",
+      "kind": "image",
+      "t": "2026-10-30T18:05:00+09:00",
+      "time": "18:05",
+      "who": "수강생",
+      "text": "카카오톡 오픈프로필 편집 화면 캡처. ‘프로필 사진 등록’ 팝업에 ‘운영정책에 어긋나는 이미지 등록 시 이용이 제한될 수 있습니다.’ 문구와 ‘앨범에서 사진 선택’, ‘사진 촬영’ 항목이 표시됨.",
+      "file": "media/r-c00b1739/dc906c82895f.jpg",
+      "thumb": "media/r-c00b1739/thumbs/dc906c82895f.jpg",
+      "mime": "image/jpeg",
+      "bytes": 65933
     }
   ]
 }
