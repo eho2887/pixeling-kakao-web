@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "room_id": "r-f7121a4e",
+  "date": "2026-10-30",
+  "items": [
+    {
+      "id": "364c85fe772a",
+      "kind": "image",
+      "t": "2026-10-30T09:30:00+09:00",
+      "time": "09:30",
+      "who": "수강생",
+      "text": "X 게시물 화면 캡처. 보이는 글: “Day 25/ We are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today. We heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage will stay the same.” 뒤에 ‘더 보기’가 보여 일부 잘림. 아래에는 “Graduating from The Reset Company to The Token Company.”",
+      "file": "media/r-f7121a4e/364c85fe772a.jpg",
+      "thumb": "media/r-f7121a4e/thumbs/364c85fe772a.jpg",
+      "mime": "image/jpeg",
+      "bytes": 113124
+    }
+  ]
+}
