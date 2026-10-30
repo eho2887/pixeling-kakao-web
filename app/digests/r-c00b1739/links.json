@@ -1,8 +1,60 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-10-30T08:01:18.939Z",
+  "updated_at": "2026-10-30T10:10:48.758Z",
   "items": [
+    {
+      "id": "cdac279dbd12",
+      "url": "https://www.youtube.com/watch?v=XjgD4z_y4Ps",
+      "kind": "youtube",
+      "title": "엄마냥 혼자 꿀 빨다가 딱 걸림",
+      "site": "YouTube",
+      "author": "안녕! 치앙마이 | annyeong.chiangmai",
+      "thumb": "media/r-c00b1739/link_thumbs/cdac279dbd12.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-30",
+      "last_date": "2026-10-30",
+      "dates": [
+        "2026-10-30"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-30",
+          "time": "18:53",
+          "who": "수강생",
+          "text": "https://youtube.com/shorts/XjgD4z_y4Ps"
+        }
+      ],
+      "fetched_at": "2026-10-30T10:10:48.758Z"
+    },
+    {
+      "id": "7e9531a8d07f",
+      "url": "https://www.youtube.com/watch?v=DFd4tQEhEt8",
+      "kind": "youtube",
+      "title": "한강에 아기 거북이를 방생하면 안 되는 이유",
+      "site": "YouTube",
+      "author": "안녕! 치앙마이 | annyeong.chiangmai",
+      "thumb": "media/r-c00b1739/link_thumbs/7e9531a8d07f.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-30",
+      "last_date": "2026-10-30",
+      "dates": [
+        "2026-10-30"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-10-30",
+          "time": "18:52",
+          "who": "수강생",
+          "text": "https://youtube.com/shorts/DFd4tQEhEt8"
+        }
+      ],
+      "fetched_at": "2026-10-30T10:10:48.758Z"
+    },
     {
       "id": "c2eba604d8de",
       "url": "https://www.youtube.com/watch?v=vyhr3eBGYgA",
