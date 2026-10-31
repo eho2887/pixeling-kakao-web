@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "room_id": "r-f7121a4e",
+  "date": "2026-10-31",
+  "items": [
+    {
+      "id": "23a65f5addb5",
+      "kind": "image",
+      "t": "2026-10-31T15:29:00+09:00",
+      "time": "15:29",
+      "who": "수강생",
+      "text": "사람이 나온 게시물 화면 캡처",
+      "sensitive": true
+    }
+  ]
+}
