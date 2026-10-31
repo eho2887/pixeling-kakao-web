@@ -14,6 +14,27 @@
       "thumb": "media/r-c00b1739/thumbs/449f87685751.jpg",
       "mime": "image/jpeg",
       "bytes": 5412716
+    },
+    {
+      "id": "a20055177a09",
+      "kind": "image",
+      "t": "2026-10-31T20:49:00+09:00",
+      "time": "20:49",
+      "who": "수강생",
+      "text": "2026년 10월 강의 일정표 화면 캡처. 날짜별 강의 일정과 시간 표시, 하단에 동영상 녹화본 및 강의 일정 변경 안내 문구가 일부 보임. (일부 잘림)",
+      "file": "media/r-c00b1739/a20055177a09.png",
+      "thumb": "media/r-c00b1739/thumbs/a20055177a09.jpg",
+      "mime": "image/png",
+      "bytes": 236410
+    },
+    {
+      "id": "a08cc187e1a3",
+      "kind": "image",
+      "t": "2026-10-31T20:53:00+09:00",
+      "time": "20:53",
+      "who": "수강생",
+      "text": "Google 계정 생성 시 휴대전화 확인 화면 사진(QR 인증 정보는 옮기지 않음).",
+      "sensitive": true
     }
   ]
 }
