@@ -11,6 +11,15 @@
       "who": "수강생",
       "text": "ChatGPT Plus·Google 계정·Claude Pro 사용 현황 화면. 5시간 창 사용량은 ChatGPT Plus와 Claude Pro 각각 0%, Google 계정 주간 창 사용량은 99%로 표시됨. 계정 정보 일부가 보여 값은 옮기지 않음",
       "sensitive": true
+    },
+    {
+      "id": "4763d8fd4721",
+      "kind": "image",
+      "t": "2026-11-03T07:11:00+09:00",
+      "time": "07:11",
+      "who": "수강생",
+      "text": "Gemini 및 Claude 사용량 화면 캡처. 계정 사용량 막대가 표시된 화면.",
+      "sensitive": true
     }
   ]
 }
