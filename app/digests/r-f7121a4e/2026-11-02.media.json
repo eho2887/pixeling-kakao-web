@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "room_id": "r-f7121a4e",
+  "date": "2026-11-02",
+  "items": [
+    {
+      "id": "9419117d1be0",
+      "kind": "file",
+      "t": "2026-11-02T22:25:00+09:00",
+      "time": "22:25",
+      "who": "수강생",
+      "text": "유튜브 쇼츠 칼카피 영상 파일. 첫 화면에 “184년 전, 유배지에서 아내에게 쓴 편지”, “요즘은 무슨 약을 드시옵니까?” 자막이 보임. 영상 길이 57초.",
+      "name": "bAlObWi_wfXP2KgUh7xbqg.mp4",
+      "mime": "video/mp4",
+      "bytes": 30737667,
+      "remote": false
+    }
+  ]
+}
