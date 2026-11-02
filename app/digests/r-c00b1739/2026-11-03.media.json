@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "room_id": "r-c00b1739",
+  "date": "2026-11-03",
+  "items": [
+    {
+      "id": "dcad8fc7c55e",
+      "kind": "image",
+      "t": "2026-11-03T02:00:00+09:00",
+      "time": "02:00",
+      "who": "수강생",
+      "text": "ChatGPT Plus·Google 계정·Claude Pro 사용 현황 화면. 5시간 창 사용량은 ChatGPT Plus와 Claude Pro 각각 0%, Google 계정 주간 창 사용량은 99%로 표시됨. 계정 정보 일부가 보여 값은 옮기지 않음",
+      "sensitive": true
+    }
+  ]
+}
