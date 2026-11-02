@@ -1,8 +1,33 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-11-02T04:40:36.195Z",
+  "updated_at": "2026-11-02T12:39:07.544Z",
   "items": [
+    {
+      "id": "3b352e62981e",
+      "url": "https://www.youtube.com/watch?v=MqO-6i5kGjo",
+      "kind": "youtube",
+      "title": "얼굴 보고 왔다가 사투리에 붙잡힘",
+      "site": "YouTube",
+      "author": "더집중",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-02",
+      "last_date": "2026-11-02",
+      "dates": [
+        "2026-11-02"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-02",
+          "time": "21:13",
+          "who": "수강생",
+          "text": "https://youtube.com/shorts/MqO-6i5kGjo 혹시 이거 BGM 이름 아시는 분 계실까요"
+        }
+      ],
+      "fetched_at": "2026-11-02T12:39:07.544Z"
+    },
     {
       "id": "3ce99330bfc4",
       "url": "https://www.youtube.com/watch?v=0QpWJfLgr-o",
