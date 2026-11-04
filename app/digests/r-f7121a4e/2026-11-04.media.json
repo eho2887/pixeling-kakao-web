@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "room_id": "r-f7121a4e",
+  "date": "2026-11-04",
+  "items": [
+    {
+      "id": "25400601979a",
+      "kind": "image",
+      "t": "2026-11-04T10:21:00+09:00",
+      "time": "10:21",
+      "who": "수강생",
+      "text": "한자 본문이 인쇄된 책의 펼친 두 페이지 사진. 하단에 한글 주석이 보이며, 글자가 작아 본문 전체를 판독할 수 없음.",
+      "file": "media/r-f7121a4e/25400601979a.jpg",
+      "thumb": "media/r-f7121a4e/thumbs/25400601979a.jpg",
+      "mime": "image/jpeg",
+      "bytes": 4037812
+    },
+    {
+      "id": "d6b7ba1817a2",
+      "kind": "image",
+      "t": "2026-11-04T10:22:00+09:00",
+      "time": "10:22",
+      "who": "수강생",
+      "text": "책 위에 초록색 지갑이 놓인 사진. 책 표지 글자가 일부 가려져 제목을 확인할 수 없음.",
+      "file": "media/r-f7121a4e/d6b7ba1817a2.jpg",
+      "thumb": "media/r-f7121a4e/thumbs/d6b7ba1817a2.jpg",
+      "mime": "image/jpeg",
+      "bytes": 4520118
+    }
+  ]
+}
