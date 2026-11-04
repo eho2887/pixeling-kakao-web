@@ -1,8 +1,259 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-11-04T00:59:14.346Z",
+  "updated_at": "2026-11-04T02:04:32.265Z",
   "items": [
+    {
+      "id": "0d297090385a",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "kind": "web",
+      "site": "openai.com",
+      "reachable": false,
+      "private": false,
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-04",
+      "dates": [
+        "2026-11-04"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-04",
+          "time": "10:30",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
+        }
+      ],
+      "fetched_at": "2026-11-04T02:04:32.265Z"
+    },
+    {
+      "id": "1f90f934b887",
+      "url": "https://www.youtube.com/watch?v=g26aGWAFhkA",
+      "kind": "youtube",
+      "title": "처음 만드는 AI 영상, 가입부터 다운로드까지 그대로 따라 하기",
+      "site": "YouTube",
+      "author": "AgentOS",
+      "thumb": "media/r-c00b1739/link_thumbs/1f90f934b887.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-04",
+      "dates": [
+        "2026-11-04"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-04",
+          "time": "10:30",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
+        }
+      ],
+      "fetched_at": "2026-11-04T02:04:32.265Z"
+    },
+    {
+      "id": "200b18663f58",
+      "url": "https://www.youtube.com/watch?v=FNpUPkAOE4g",
+      "kind": "youtube",
+      "title": "[한글자막] 클로드 코드 토큰을 아끼는 MS 도구, 실제로 얼마나 줄었을까?",
+      "site": "YouTube",
+      "author": "Tech Bridge",
+      "thumb": "media/r-c00b1739/link_thumbs/200b18663f58.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-04",
+      "dates": [
+        "2026-11-04"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-04",
+          "time": "10:30",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
+        }
+      ],
+      "fetched_at": "2026-11-04T02:04:32.265Z"
+    },
+    {
+      "id": "25493a43cba5",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "kind": "web",
+      "site": "openai.com",
+      "reachable": false,
+      "private": false,
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-04",
+      "dates": [
+        "2026-11-04"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-04",
+          "time": "10:30",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
+        }
+      ],
+      "fetched_at": "2026-11-04T02:04:32.265Z"
+    },
+    {
+      "id": "69a7c301367d",
+      "url": "https://x.com/i/web/status/2117444048227123277",
+      "kind": "web",
+      "title": "X에서 OpenAI(@OpenAI) 님",
+      "site": "X (formerly Twitter)",
+      "description": "As AI becomes more capable at finding vulnerabilities, defenders need to put it to work before attackers do. We’re planning our next internal security sprint at OpenAI and partnering with Cathedral Systems, whose researchers will use our models alongside our teams to challenge our defenses. They’l…",
+      "thumb": "media/r-c00b1739/link_thumbs/69a7c301367d.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-04",
+      "dates": [
+        "2026-11-04"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-04",
+          "time": "10:30",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
+        }
+      ],
+      "fetched_at": "2026-11-04T02:04:32.265Z"
+    },
+    {
+      "id": "886299adc4b7",
+      "url": "https://github.com/microsoft/TokenEconomizer",
+      "kind": "web",
+      "title": "GitHub - microsoft/TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents",
+      "site": "GitHub",
+      "description": "Experience-Driven Black-Box Cost Control for Coding Agents - microsoft/TokenEconomizer",
+      "thumb": "media/r-c00b1739/link_thumbs/886299adc4b7.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-04",
+      "dates": [
+        "2026-11-04"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-04",
+          "time": "10:30",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
+        }
+      ],
+      "fetched_at": "2026-11-04T02:04:32.265Z"
+    },
+    {
+      "id": "8f37445eb300",
+      "url": "https://higgsfield.ai/seedance/2.5",
+      "kind": "web",
+      "title": "Seedance 2.5 오디오 지원 AI 영상 생성기 | Higgsfield",
+      "site": "Higgsfield",
+      "description": "Higgsfield에서 동기화된 오디오, 50개의 레퍼런스, 일관된 캐릭터, 정밀한 영역 편집으로 최대 30초의 시네마틱 AI 영상을 만들어 보세요.",
+      "thumb": "media/r-c00b1739/link_thumbs/8f37445eb300.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-04",
+      "dates": [
+        "2026-11-04"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-04",
+          "time": "10:30",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
+        }
+      ],
+      "fetched_at": "2026-11-04T02:04:32.265Z"
+    },
+    {
+      "id": "9bc37e262684",
+      "url": "https://higgsfield.ai/",
+      "kind": "web",
+      "title": "Higgsfield AI · AI 네이티브 크리에이티브 스위트",
+      "site": "Higgsfield",
+      "description": "Higgsfield AI로 텍스트 프롬프트나 레퍼런스에서 이미지, 비디오, 음성 콘텐츠를 만들어 보세요. 미디어를 편집하고 업스케일하고, AI 에이전트로 크리에이티브 워크플로를 자동화하고, 웹과 모바일에서 콘텐츠를 생성할 수 있어요.",
+      "thumb": "media/r-c00b1739/link_thumbs/9bc37e262684.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-04",
+      "dates": [
+        "2026-11-04"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-04",
+          "time": "10:30",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
+        }
+      ],
+      "fetched_at": "2026-11-04T02:04:32.265Z"
+    },
+    {
+      "id": "bca108e4c77b",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "kind": "web",
+      "site": "openai.com",
+      "reachable": false,
+      "private": false,
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-04",
+      "dates": [
+        "2026-11-04"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-04",
+          "time": "10:30",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
+        }
+      ],
+      "fetched_at": "2026-11-04T02:04:32.265Z"
+    },
+    {
+      "id": "f2497d2da324",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026",
+      "kind": "web",
+      "title": "Designing responsible AI for learning",
+      "site": "Google",
+      "description": "We’re bringing Guided Learning capabilities to Search and Google Classroom, and evolving our approach to school controls.",
+      "thumb": "media/r-c00b1739/link_thumbs/f2497d2da324.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-04",
+      "dates": [
+        "2026-11-04"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-04",
+          "time": "10:30",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
+        }
+      ],
+      "fetched_at": "2026-11-04T02:04:32.265Z"
+    },
     {
       "id": "cdac279dbd12",
       "url": "https://www.youtube.com/watch?v=XjgD4z_y4Ps",
@@ -329,7 +580,7 @@
           "text": "[콘자💙] 오늘의 AI 소식 2026-10-28 AI를 잘 쓰는 방법은 더 강한 모델을 고르는 데서 끝나지 않고, 안전하게 일을 맡기고 만들고 검증하는 방식까지 이어집니다. 오늘은 아스트라 안전성 수치, 브랜드 전용 영상 앱 제작, 신약 연구 성과, 기업 업무 연결, 실전 AI 비용 전략을 서로 다른 관점에서 살펴봅니다. 1) 아스트라와 테라, 안전성 시험에선 심각한 경고가 26건 대 22건이었어요 오픈AI가 10월 26일 공개한 GPT-6 아스트라 시스템 카드 보완 자료에는 GPT-6.1 테라의 코딩 에이전트 안전성 비교가 담겼…"
         }
       ],
-      "fetched_at": "2026-11-03T01:45:37.650Z"
+      "fetched_at": "2026-11-04T02:04:32.265Z"
     },
     {
       "id": "bf35a979050e",
@@ -352,7 +603,7 @@
           "text": "[콘자💙] 오늘의 AI 소식 2026-10-28 AI를 잘 쓰는 방법은 더 강한 모델을 고르는 데서 끝나지 않고, 안전하게 일을 맡기고 만들고 검증하는 방식까지 이어집니다. 오늘은 아스트라 안전성 수치, 브랜드 전용 영상 앱 제작, 신약 연구 성과, 기업 업무 연결, 실전 AI 비용 전략을 서로 다른 관점에서 살펴봅니다. 1) 아스트라와 테라, 안전성 시험에선 심각한 경고가 26건 대 22건이었어요 오픈AI가 10월 26일 공개한 GPT-6 아스트라 시스템 카드 보완 자료에는 GPT-6.1 테라의 코딩 에이전트 안전성 비교가 담겼…"
         }
       ],
-      "fetched_at": "2026-11-03T01:45:37.650Z"
+      "fetched_at": "2026-11-04T02:04:32.265Z"
     },
     {
       "id": "c417f8e3d39d",
@@ -375,7 +626,7 @@
           "text": "[콘자💙] 오늘의 AI 소식 2026-10-28 AI를 잘 쓰는 방법은 더 강한 모델을 고르는 데서 끝나지 않고, 안전하게 일을 맡기고 만들고 검증하는 방식까지 이어집니다. 오늘은 아스트라 안전성 수치, 브랜드 전용 영상 앱 제작, 신약 연구 성과, 기업 업무 연결, 실전 AI 비용 전략을 서로 다른 관점에서 살펴봅니다. 1) 아스트라와 테라, 안전성 시험에선 심각한 경고가 26건 대 22건이었어요 오픈AI가 10월 26일 공개한 GPT-6 아스트라 시스템 카드 보완 자료에는 GPT-6.1 테라의 코딩 에이전트 안전성 비교가 담겼…"
         }
       ],
-      "fetched_at": "2026-11-03T01:45:37.650Z"
+      "fetched_at": "2026-11-04T02:04:32.265Z"
     },
     {
       "id": "dcad83d82733",
