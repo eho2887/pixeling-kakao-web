@@ -1,8 +1,34 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-11-04T09:28:22.242Z",
+  "updated_at": "2026-11-04T15:32:36.382Z",
   "items": [
+    {
+      "id": "42eeac46c69e",
+      "url": "https://app.notion.com/p/5-7-40e708749ada8053aca7d0753ca63cf2?source=copy_link](app.notion.com/p/5-7-40e708749ada8053aca7d0753ca63cf2?source=copy_link",
+      "kind": "web",
+      "title": "Notion | Where teams and agents work together",
+      "site": "Notion",
+      "description": "A collaborative AI workspace, built on your company context. Build and orchestrate agents right alongside your team's projects, meetings, and connected apps.",
+      "thumb": "media/r-f7121a4e/link_thumbs/42eeac46c69e.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-05",
+      "dates": [
+        "2026-11-05"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-05",
+          "time": "00:20",
+          "who": "수강생",
+          "text": "룰쌤 강의 감사합니다 수고하셨습니다~ <u>[https://app.notion.com/p/5-7-40e708749ada8053aca7d0753ca63cf2?source=copy_link](app.notion.com/p/5-7-40e708749ada8053aca7d0753ca63cf2?source=copy_link)</u> 오타 수정해둘게용 나중에 확인 하시면 될 것 같습니다~ 동기분들도 수고 많으셨습니다. 화이팅!"
+        }
+      ],
+      "fetched_at": "2026-11-04T15:32:36.382Z"
+    },
     {
       "id": "580f347e665b",
       "url": "https://open.kakao.com/o/sT4TodVi](open.kakao.com/o/sT4TodVi",
