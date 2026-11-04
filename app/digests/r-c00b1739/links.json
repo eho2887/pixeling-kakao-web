@@ -1,8 +1,31 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-11-04T04:46:45.493Z",
+  "updated_at": "2026-11-04T18:08:58.311Z",
   "items": [
+    {
+      "id": "420089f27309",
+      "url": "https://play.google.com/store/apps/details?id=com.pickle.client](play.google.com/store/apps/details?id=com.pickle.client",
+      "kind": "web",
+      "site": "play.google.com",
+      "reachable": false,
+      "private": false,
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-05",
+      "dates": [
+        "2026-11-05"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-05",
+          "time": "02:41",
+          "who": "수강생",
+          "text": "<u>[https://play.google.com/store/apps/details?id=com.pickle.client](play.google.com/store/apps/details?id=com.pickle.client)</u>"
+        }
+      ],
+      "fetched_at": "2026-11-04T18:08:58.311Z"
+    },
     {
       "id": "0d297090385a",
       "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
