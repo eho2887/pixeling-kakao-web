@@ -1,8 +1,31 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-11-05T05:20:42.137Z",
+  "updated_at": "2026-11-05T05:50:41.039Z",
   "items": [
+    {
+      "id": "f3035b6dc3ea",
+      "url": "https://www.youtube.com/channel/UCh9N0LA-PyqJXc6RI22BzrA",
+      "kind": "youtube",
+      "site": "youtube.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-05",
+      "dates": [
+        "2026-11-05"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-05",
+          "time": "14:49",
+          "who": "수강생",
+          "text": "제꺼 함 봐주십쇼 룰쌤..... https://www.youtube.com/channel/UCh9N0LA-PyqJXc6RI22BzrA 망한 채널인데 그저께 주신걸로 올려는 봤습니다"
+        }
+      ],
+      "fetched_at": "2026-11-05T05:50:41.039Z"
+    },
     {
       "id": "2b1a5b4c597f",
       "url": "https://www.youtube.com/watch?v=48eEbP0MkXA",
