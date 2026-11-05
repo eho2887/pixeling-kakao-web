@@ -1,8 +1,34 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-11-05T05:20:42.137Z",
+  "updated_at": "2026-11-05T06:23:13.053Z",
   "items": [
+    {
+      "id": "40f87ea831e4",
+      "url": "https://www.youtube.com/watch?v=m4K7aZbXkqA",
+      "kind": "youtube",
+      "title": "계정 제한을 시작한 오픈 AI ㄷㄷㄷ",
+      "site": "YouTube",
+      "author": "조코딩 JoCoding",
+      "thumb": "media/r-c00b1739/link_thumbs/40f87ea831e4.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-05",
+      "dates": [
+        "2026-11-05"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-05",
+          "time": "15:12",
+          "who": "수강생",
+          "text": "<u>[https://youtube.com/shorts/m4K7aZbXkqA)</u> 이건 뭔가요 ㅠㅠㅠ 1대의 기기에 여러계정 안된다니??"
+        }
+      ],
+      "fetched_at": "2026-11-05T06:23:13.053Z"
+    },
     {
       "id": "72b7caa73bb4",
       "url": "https://www.youtube.com/watch?v=48eEbP0MkXA](youtube.com/watch?v=48eEbP0MkXA",
