@@ -1,8 +1,32 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-11-05T06:23:13.053Z",
+  "updated_at": "2026-11-05T14:37:41.289Z",
   "items": [
+    {
+      "id": "661049fd28c5",
+      "url": "http://pf.kakao.com/_PCdBX](pf.kakao.com/_PCdBX",
+      "kind": "web",
+      "title": "카카오톡채널",
+      "site": "pf.kakao.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-05",
+      "dates": [
+        "2026-11-05"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-05",
+          "time": "23:16",
+          "who": "수강생",
+          "text": "가입 후 아래 ㅎ6 매니저님에게 오픈채팅으로 쇼츠투벤츠 수강생 룰루랄라릴리입니다.(채팅방 닉네임) 등급업 부탁드립니다 라고 메세지 보내주세요 쇼츠투벤츠 픽셀링 등업문의 <u>[http://pf.kakao.com/_PCdBX](pf.kakao.com/_PCdBX)</u> 매니저님이 확인하고 등급업 해드립니다. 최대 1일정도가 소요 될 수 있으니 기다려주세요 !"
+        }
+      ],
+      "fetched_at": "2026-11-05T14:37:41.289Z"
+    },
     {
       "id": "40f87ea831e4",
       "url": "https://www.youtube.com/watch?v=m4K7aZbXkqA",
