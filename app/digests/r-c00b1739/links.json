@@ -1,8 +1,31 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-11-05T03:40:25.379Z",
+  "updated_at": "2026-11-05T05:20:42.137Z",
   "items": [
+    {
+      "id": "72b7caa73bb4",
+      "url": "https://www.youtube.com/watch?v=48eEbP0MkXA](youtube.com/watch?v=48eEbP0MkXA",
+      "kind": "youtube",
+      "site": "youtube.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-05",
+      "last_date": "2026-11-05",
+      "dates": [
+        "2026-11-05"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-05",
+          "time": "13:57",
+          "who": "수강생",
+          "text": "<u>[https://www.youtube.com/watch?v=48eEbP0MkXA](youtube.com/watch?v=48eEbP0MkXA)</u> 뭔가 잘못됐어 단단히 => 이부분만 클립처럼 따서 효과음으로 사용하려고 하는데요. 효과음 같은것도 1분 쇼츠에는 ㄱㅊ은데 1분 이상 쇼츠에 짧게라도 사용하면 유튜브에서 걸리나요?"
+        }
+      ],
+      "fetched_at": "2026-11-05T05:20:42.137Z"
+    },
     {
       "id": "420089f27309",
       "url": "https://play.google.com/store/apps/details?id=com.pickle.client](play.google.com/store/apps/details?id=com.pickle.client",
@@ -698,7 +721,7 @@
           "text": "GPT 새로운 모델 6.1 Terra 나왔대요~!! Sol도 6.1 모델 있는데, 그렇다면 Astra도 6.1이 출시될지도!? https://openai.com/index/introducing-gpt-6-1-terra/"
         }
       ],
-      "fetched_at": "2026-11-04T04:46:45.493Z"
+      "fetched_at": "2026-11-05T05:20:42.137Z"
     },
     {
       "id": "aac0972f1ab8",
