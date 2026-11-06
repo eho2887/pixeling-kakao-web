@@ -1,8 +1,33 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-11-06T22:39:56.627Z",
+  "updated_at": "2026-11-06T23:42:54.126Z",
   "items": [
+    {
+      "id": "b5349c03d076",
+      "url": "https://qualitube.site/",
+      "kind": "web",
+      "title": "퀄리튜브 — 직접 만든 유튜브 수익화 채널",
+      "site": "qualitube.site",
+      "description": "1계정 · 1채널 · 1IP, 전용 서버에서 직접 키운 유튜브 수익화 채널. 28일 무상 A/S.",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-07",
+          "time": "08:20",
+          "who": "수강생",
+          "text": "qualitube.site/"
+        }
+      ],
+      "fetched_at": "2026-11-06T23:42:54.126Z"
+    },
     {
       "id": "14e90e72d340",
       "url": "https://openai.com/index/introducing-gpt-6-cyber",
