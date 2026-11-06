@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-11-06T01:24:43.216Z",
+  "updated_at": "2026-11-06T02:05:09.117Z",
   "items": [
     {
       "id": "13dde74c1b82",
@@ -25,6 +25,58 @@
         }
       ],
       "fetched_at": "2026-11-05T17:37:09.060Z"
+    },
+    {
+      "id": "23219da38b37",
+      "url": "https://www.youtube.com/watch?v=8ga_tSyiRvQ",
+      "kind": "youtube",
+      "title": "Ran-D - Zombie (official videoclip)",
+      "site": "YouTube",
+      "author": "Ran-D",
+      "thumb": "media/r-c00b1739/link_thumbs/23219da38b37.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-06",
+      "last_date": "2026-11-06",
+      "dates": [
+        "2026-11-06"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-06",
+          "time": "02:36",
+          "who": "수강생",
+          "text": "https://www.youtube.com/watch?v=pqJk1FB8Omc https://www.youtube.com/watch?v=8ga_tSyiRvQ"
+        }
+      ],
+      "fetched_at": "2026-11-06T02:05:09.117Z"
+    },
+    {
+      "id": "7c5db9e9dac1",
+      "url": "https://www.youtube.com/watch?v=pqJk1FB8Omc",
+      "kind": "youtube",
+      "title": "The Amazing Digital Circus Theme Song but is epic version by carameii",
+      "site": "YouTube",
+      "author": "Lord Gold",
+      "thumb": "media/r-c00b1739/link_thumbs/7c5db9e9dac1.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-06",
+      "last_date": "2026-11-06",
+      "dates": [
+        "2026-11-06"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-06",
+          "time": "02:36",
+          "who": "수강생",
+          "text": "https://www.youtube.com/watch?v=pqJk1FB8Omc https://www.youtube.com/watch?v=8ga_tSyiRvQ"
+        }
+      ],
+      "fetched_at": "2026-11-06T02:05:09.117Z"
     },
     {
       "id": "7e2c566ad6a7",
