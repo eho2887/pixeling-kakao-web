@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "room_id": "r-c00b1739",
+  "date": "2026-11-06",
+  "items": [
+    {
+      "id": "f10d8c85fab0",
+      "kind": "image",
+      "t": "2026-11-06T21:56:00+09:00",
+      "time": "21:56",
+      "who": "수강생",
+      "text": "설치 오류 창: “Failed to uninstall old application files. Please try running the installer again: 2”",
+      "file": "media/r-c00b1739/f10d8c85fab0.png",
+      "thumb": "media/r-c00b1739/thumbs/f10d8c85fab0.jpg",
+      "mime": "image/png",
+      "bytes": 5431
+    }
+  ]
+}
