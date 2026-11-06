@@ -1,8 +1,262 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-11-06T18:40:41.461Z",
+  "updated_at": "2026-11-06T22:39:56.627Z",
   "items": [
+    {
+      "id": "14e90e72d340",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "kind": "web",
+      "site": "openai.com",
+      "reachable": false,
+      "private": false,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-07",
+          "time": "07:18",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
+        }
+      ],
+      "fetched_at": "2026-11-06T22:39:56.627Z"
+    },
+    {
+      "id": "187bb7cb1c54",
+      "url": "https://thinkingmachines.ai/news/inkling-2-small",
+      "kind": "article",
+      "title": "Introducing Inkling 2 Small",
+      "site": "Thinking Machines Lab",
+      "description": "Today we are introducing the second generation of Inkling models with the release of Inkling 2 Small.",
+      "thumb": "media/r-c00b1739/link_thumbs/187bb7cb1c54.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-07",
+          "time": "07:18",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
+        }
+      ],
+      "fetched_at": "2026-11-06T22:39:56.627Z"
+    },
+    {
+      "id": "33232c8e9079",
+      "url": "https://x.com/AIatMeta/status/2118412135340572850",
+      "kind": "web",
+      "title": "X에서 AI at Meta(@AIatMeta) 님",
+      "site": "X (formerly Twitter)",
+      "description": "During Connect, we previewed Muse Realtime Avatar, our real-time embodiment technology that turns Muse Realtime Voice into expressive, interactive avatars. Today, we’re rolling it out in the @Muse app in the US, giving people a more natural way to engage with their personal agents. Learn more abo…",
+      "thumb": "media/r-c00b1739/link_thumbs/33232c8e9079.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-07",
+          "time": "07:18",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
+        }
+      ],
+      "fetched_at": "2026-11-06T22:39:56.627Z"
+    },
+    {
+      "id": "4a4ac6dd3283",
+      "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment",
+      "kind": "web",
+      "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
+      "site": "metr.org",
+      "description": "METR's high-access assessment of the degree to which AI is accelerating AI research and development at Anthropic.",
+      "thumb": "media/r-c00b1739/link_thumbs/4a4ac6dd3283.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-07",
+          "time": "07:18",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
+        }
+      ],
+      "fetched_at": "2026-11-06T22:39:56.627Z"
+    },
+    {
+      "id": "7d741eeaddf8",
+      "url": "https://www.youtube.com/watch?v=efnEcbHnRa0",
+      "kind": "youtube",
+      "title": "HUGE Claude Sonnet 6 LEAK, Anthropic's SECRET Fable 6?! GPT-6.2 Astra TODAY, & More! AI NEWS",
+      "site": "YouTube",
+      "author": "WorldofAI",
+      "thumb": "media/r-c00b1739/link_thumbs/7d741eeaddf8.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-07",
+          "time": "07:18",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
+        }
+      ],
+      "fetched_at": "2026-11-06T22:39:56.627Z"
+    },
+    {
+      "id": "82aeb97e7ba6",
+      "url": "https://www.accountingtoday.com/articles/ai-for-accounting-startup-basis-hits-1-15b-valuation",
+      "kind": "article",
+      "title": "AI-for-accounting startup Basis hits $1.15B valuation",
+      "site": "Accounting Today",
+      "description": "The startup has raised $138 million to date and said its platform is used by about 30% of the top 25 accounting firms and 20% of the top 150 firms.",
+      "thumb": "media/r-c00b1739/link_thumbs/82aeb97e7ba6.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-07",
+          "time": "07:18",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
+        }
+      ],
+      "fetched_at": "2026-11-06T22:39:56.627Z"
+    },
+    {
+      "id": "8646601bb785",
+      "url": "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars",
+      "kind": "article",
+      "title": "Give Your Muse a Voice",
+      "site": "Meta Newsroom",
+      "description": "We’re rolling out voice and expressive avatars in the Muse app, giving you a new way to interact with your Muse.",
+      "thumb": "media/r-c00b1739/link_thumbs/8646601bb785.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-07",
+          "time": "07:18",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
+        }
+      ],
+      "fetched_at": "2026-11-06T22:39:56.627Z"
+    },
+    {
+      "id": "afbafece1b5b",
+      "url": "https://www.youtube.com/watch?v=Bbhe9Pdiix8",
+      "kind": "youtube",
+      "title": "미국 상위 회계법인 30%가 쓴다는 AI 회사 베이시스 공동창업자의 19분 답 — 회사가 AI 에이전트를 믿고 맡기게 만드는 법",
+      "site": "YouTube",
+      "author": "AgentOS",
+      "thumb": "media/r-c00b1739/link_thumbs/afbafece1b5b.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-07",
+          "time": "07:18",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
+        }
+      ],
+      "fetched_at": "2026-11-06T22:39:56.627Z"
+    },
+    {
+      "id": "d23b2d855ee1",
+      "url": "https://www.youtube.com/watch?v=3zT_tgWHXWc",
+      "kind": "youtube",
+      "title": "GPT-6 Cyber Built 948 Exploits. And AI Is Now Speeding Up AI?",
+      "site": "YouTube",
+      "author": "Universe of AI",
+      "thumb": "media/r-c00b1739/link_thumbs/d23b2d855ee1.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-07",
+          "time": "07:18",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
+        }
+      ],
+      "fetched_at": "2026-11-06T22:39:56.627Z"
+    },
+    {
+      "id": "fbaa86a829ad",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "kind": "web",
+      "site": "openai.com",
+      "reachable": false,
+      "private": false,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-07",
+          "time": "07:18",
+          "who": "수강생",
+          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
+        }
+      ],
+      "fetched_at": "2026-11-06T22:39:56.627Z"
+    },
     {
       "id": "83b6dbf465b3",
       "url": "https://www.youtube.com/watch?v=gd2f2TFUfNQ](youtube.com/watch?v=gd2f2TFUfNQ",
