@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "room_id": "r-f7121a4e",
+  "date": "2026-11-06",
+  "items": [
+    {
+      "id": "453ba755171e",
+      "kind": "image",
+      "t": "2026-11-06T23:41:00+09:00",
+      "time": "23:41",
+      "who": "수강생",
+      "text": "AutoDL 영상 서버 도구 준비 화면. \"설치 공간이 부족합니다. 약 66GB 이상의 여유 공간이 필요합니다.\"",
+      "file": "media/r-f7121a4e/453ba755171e.jpg",
+      "thumb": "media/r-f7121a4e/thumbs/453ba755171e.jpg",
+      "mime": "image/jpeg",
+      "bytes": 96975
+    }
+  ]
+}
