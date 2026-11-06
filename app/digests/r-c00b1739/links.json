@@ -1,8 +1,41 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-11-06T03:50:37.632Z",
+  "updated_at": "2026-11-06T04:26:44.587Z",
   "items": [
+    {
+      "id": "47dc683a68ef",
+      "url": "http://pf.kakao.com/_PCdBX",
+      "kind": "web",
+      "title": "픽셀링",
+      "site": "카카오톡채널 - 픽셀링",
+      "description": "국내를 넘어 글로벌로 한계를 넘어 무한으로 \"픽셀링\"",
+      "thumb": "media/r-c00b1739/link_thumbs/47dc683a68ef.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-26",
+      "last_date": "2026-11-06",
+      "dates": [
+        "2026-10-26",
+        "2026-11-06"
+      ],
+      "mention_count": 2,
+      "contexts": [
+        {
+          "date": "2026-11-06",
+          "time": "12:20",
+          "who": "강사",
+          "text": "픽셀링(Pixeling) 이용 안내 효율적인 콘텐츠 생산을 위해 반드시 아래 절차를 완료해 주세요. 픽셀링 가입하기: https://app.pixeling.io/login 가입 후 아래 ㅎ6 매니저님에게 오픈채팅으로 쇼츠투벤츠 수강생 룰루랄라릴리입니다.(채팅방 닉네임) 등급업 부탁드립니다 라고 메세지 보내주세요 쇼츠투벤츠 픽셀링 등업문의 http://pf.kakao.com/_PCdBX 매니저님이 확인하고 등급업 해드립니다. 최대 1일정도가 소요 될 수 있으니 기다려주세요 !"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "13:28",
+          "who": "강사",
+          "text": "픽셀링 가입하기: https://app.pixeling.io/login 가입 후 아래 ㅎ6 매니저님에게 오픈채팅으로 쇼츠투벤츠 수강생 룰루랄라릴리입니다.(채팅방 닉네임) 등급업 부탁드립니다 라고 메세지 보내주세요 쇼츠투벤츠 픽셀링 등업문의 http://pf.kakao.com/_PCdBX 매니저님이 확인하고 등급업 해드립니다. 최대 1일정도가 소요 될 수 있으니 기다려주세요 !"
+        }
+      ],
+      "fetched_at": "2026-10-26T07:10:00.003Z"
+    },
     {
       "id": "661049fd28c5",
       "url": "http://pf.kakao.com/_PCdBX](pf.kakao.com/_PCdBX",
@@ -39,6 +72,46 @@
         }
       ],
       "fetched_at": "2026-11-05T14:37:41.289Z"
+    },
+    {
+      "id": "85dd9255a825",
+      "url": "https://app.pixeling.io/login",
+      "kind": "web",
+      "title": "로그인 | Pixeling",
+      "site": "Pixeling",
+      "description": "Google 계정으로 간편하게 로그인하고 Pixeling을 시작하세요.",
+      "thumb": "media/r-c00b1739/link_thumbs/85dd9255a825.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-26",
+      "last_date": "2026-11-06",
+      "dates": [
+        "2026-10-26",
+        "2026-10-29",
+        "2026-11-06"
+      ],
+      "mention_count": 3,
+      "contexts": [
+        {
+          "date": "2026-11-06",
+          "time": "12:20",
+          "who": "강사",
+          "text": "픽셀링(Pixeling) 이용 안내 효율적인 콘텐츠 생산을 위해 반드시 아래 절차를 완료해 주세요. 픽셀링 가입하기: https://app.pixeling.io/login 가입 후 아래 ㅎ6 매니저님에게 오픈채팅으로 쇼츠투벤츠 수강생 룰루랄라릴리입니다.(채팅방 닉네임) 등급업 부탁드립니다 라고 메세지 보내주세요 쇼츠투벤츠 픽셀링 등업문의 http://pf.kakao.com/_PCdBX 매니저님이 확인하고 등급업 해드립니다. 최대 1일정도가 소요 될 수 있으니 기다려주세요 !"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "11:34",
+          "who": "수강생",
+          "text": "https://app.pixeling.io/login"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "13:28",
+          "who": "강사",
+          "text": "픽셀링 가입하기: https://app.pixeling.io/login 가입 후 아래 ㅎ6 매니저님에게 오픈채팅으로 쇼츠투벤츠 수강생 룰루랄라릴리입니다.(채팅방 닉네임) 등급업 부탁드립니다 라고 메세지 보내주세요 쇼츠투벤츠 픽셀링 등업문의 http://pf.kakao.com/_PCdBX 매니저님이 확인하고 등급업 해드립니다. 최대 1일정도가 소요 될 수 있으니 기다려주세요 !"
+        }
+      ],
+      "fetched_at": "2026-10-26T07:10:00.003Z"
     },
     {
       "id": "aa4b48cdcc5d",
@@ -628,39 +701,6 @@
       "fetched_at": "2026-10-09T13:23:29.944Z"
     },
     {
-      "id": "85dd9255a825",
-      "url": "https://app.pixeling.io/login",
-      "kind": "web",
-      "title": "로그인 | Pixeling",
-      "site": "Pixeling",
-      "description": "Google 계정으로 간편하게 로그인하고 Pixeling을 시작하세요.",
-      "thumb": "media/r-c00b1739/link_thumbs/85dd9255a825.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-29",
-      "dates": [
-        "2026-10-26",
-        "2026-10-29"
-      ],
-      "mention_count": 2,
-      "contexts": [
-        {
-          "date": "2026-10-29",
-          "time": "11:34",
-          "who": "수강생",
-          "text": "https://app.pixeling.io/login"
-        },
-        {
-          "date": "2026-10-26",
-          "time": "13:28",
-          "who": "강사",
-          "text": "픽셀링 가입하기: https://app.pixeling.io/login 가입 후 아래 ㅎ6 매니저님에게 오픈채팅으로 쇼츠투벤츠 수강생 룰루랄라릴리입니다.(채팅방 닉네임) 등급업 부탁드립니다 라고 메세지 보내주세요 쇼츠투벤츠 픽셀링 등업문의 http://pf.kakao.com/_PCdBX 매니저님이 확인하고 등급업 해드립니다. 최대 1일정도가 소요 될 수 있으니 기다려주세요 !"
-        }
-      ],
-      "fetched_at": "2026-10-26T07:10:00.003Z"
-    },
-    {
       "id": "abebb210282b",
       "url": "https://www.instagram.com/p/De_dJKdmwPS",
       "kind": "web",
@@ -926,32 +966,6 @@
           "time": "14:32",
           "who": "수강생",
           "text": "훔 저라면 플리보다는 핀셋잡은 그룹의 롱폼,숏폼으로만 밀꺼같긴한데~ 플리랑 쇼츠하는 채널도 가끔 있더라구용! https://www.youtube.com/@52out/videos"
-        }
-      ],
-      "fetched_at": "2026-10-26T07:10:00.003Z"
-    },
-    {
-      "id": "47dc683a68ef",
-      "url": "http://pf.kakao.com/_PCdBX",
-      "kind": "web",
-      "title": "픽셀링",
-      "site": "카카오톡채널 - 픽셀링",
-      "description": "국내를 넘어 글로벌로 한계를 넘어 무한으로 \"픽셀링\"",
-      "thumb": "media/r-c00b1739/link_thumbs/47dc683a68ef.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "13:28",
-          "who": "강사",
-          "text": "픽셀링 가입하기: https://app.pixeling.io/login 가입 후 아래 ㅎ6 매니저님에게 오픈채팅으로 쇼츠투벤츠 수강생 룰루랄라릴리입니다.(채팅방 닉네임) 등급업 부탁드립니다 라고 메세지 보내주세요 쇼츠투벤츠 픽셀링 등업문의 http://pf.kakao.com/_PCdBX 매니저님이 확인하고 등급업 해드립니다. 최대 1일정도가 소요 될 수 있으니 기다려주세요 !"
         }
       ],
       "fetched_at": "2026-10-26T07:10:00.003Z"
