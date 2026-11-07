@@ -11,6 +11,18 @@
       "who": "조교",
       "text": "댓글 목록 화면 캡처. 댓글 작성자 정보가 보임.",
       "sensitive": true
+    },
+    {
+      "id": "341039aa842a",
+      "kind": "image",
+      "t": "2026-11-07T18:29:00+09:00",
+      "time": "18:29",
+      "who": "수강생",
+      "text": "프리셋 제작 방식에서 화자별 크롭 위치·컷별 배속·색감 지정 기능이 연결되지 않았다는 안내 화면.",
+      "file": "media/r-f7121a4e/341039aa842a.png",
+      "thumb": "media/r-f7121a4e/thumbs/341039aa842a.jpg",
+      "mime": "image/png",
+      "bytes": 9952
     }
   ]
 }
