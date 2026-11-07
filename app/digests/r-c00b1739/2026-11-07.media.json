@@ -26,6 +26,15 @@
       "thumb": "media/r-c00b1739/thumbs/e2bd71f6be37.jpg",
       "mime": "image/png",
       "bytes": 45301
+    },
+    {
+      "id": "aa3bb09bb83f",
+      "kind": "image",
+      "t": "2026-11-07T19:05:00+09:00",
+      "time": "19:05",
+      "who": "수강생",
+      "text": "Chrome 브라우저 Google 시작 화면. 주소 표시줄에 입력된 내용과 바로가기 아이콘이 보임.",
+      "sensitive": true
     }
   ]
 }
