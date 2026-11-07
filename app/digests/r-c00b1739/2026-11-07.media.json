@@ -59,6 +59,18 @@
       "thumb": "media/r-c00b1739/thumbs/73006d131923.jpg",
       "mime": "image/png",
       "bytes": 1942
+    },
+    {
+      "id": "e9c9c0bd6f24",
+      "kind": "image",
+      "t": "2026-11-07T22:47:00+09:00",
+      "time": "22:47",
+      "who": "수강생",
+      "text": "음성 생성 관련 대화 화면 캡처. “원본 소리만 끄고, 지침서의 ‘여성 B · 원본04 기반’ 내레이션을 1.2배로 넣어야 합니다.” 및 “기존 나레이션을 만들던 프로그램 이름이나 폴더 경로를 알려주세요.” 문구가 보임.",
+      "file": "media/r-c00b1739/e9c9c0bd6f24.png",
+      "thumb": "media/r-c00b1739/thumbs/e9c9c0bd6f24.jpg",
+      "mime": "image/png",
+      "bytes": 59958
     }
   ]
 }
