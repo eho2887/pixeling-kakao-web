@@ -23,6 +23,18 @@
       "thumb": "media/r-f7121a4e/thumbs/341039aa842a.jpg",
       "mime": "image/png",
       "bytes": 9952
+    },
+    {
+      "id": "2e64720d8cf9",
+      "kind": "image",
+      "t": "2026-11-07T23:06:00+09:00",
+      "time": "23:06",
+      "who": "수강생",
+      "text": "공개 상태와 게시일이 표시된 화면 캡처. 공개 상태: 공개, 게시일: 2026. 11. 7.",
+      "file": "media/r-f7121a4e/2e64720d8cf9.png",
+      "thumb": "media/r-f7121a4e/thumbs/2e64720d8cf9.jpg",
+      "mime": "image/png",
+      "bytes": 6098
     }
   ]
 }
