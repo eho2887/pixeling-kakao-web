@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "room_id": "r-f7121a4e",
+  "date": "2026-11-07",
+  "items": [
+    {
+      "id": "386b1ee30e5b",
+      "kind": "image",
+      "t": "2026-11-07T10:01:00+09:00",
+      "time": "10:01",
+      "who": "조교",
+      "text": "댓글 목록 화면 캡처. 댓글 작성자 정보가 보임.",
+      "sensitive": true
+    }
+  ]
+}
