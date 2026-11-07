@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "room_id": "r-c00b1739",
+  "date": "2026-11-07",
+  "items": [
+    {
+      "id": "92f6efdc1551",
+      "kind": "image",
+      "t": "2026-11-07T09:33:00+09:00",
+      "time": "09:33",
+      "who": "수강생",
+      "text": "YouTube에서의 수익 창출 화면 사진. 1단계 기본 약관 검토 완료, 2단계 YouTube용 애드센스 가입 완료, 3단계 검토 진행 중. (일부 글자 읽기 어려움)",
+      "file": "media/r-c00b1739/92f6efdc1551.jpg",
+      "thumb": "media/r-c00b1739/thumbs/92f6efdc1551.jpg",
+      "mime": "image/jpeg",
+      "bytes": 3030401
+    }
+  ]
+}
