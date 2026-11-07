@@ -1,8 +1,34 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-11-07T03:58:46.943Z",
+  "updated_at": "2026-11-07T06:00:47.952Z",
   "items": [
+    {
+      "id": "c276c9cfb42f",
+      "url": "https://litt.ly/_potato",
+      "kind": "web",
+      "title": "리틀리 | 감자의 '뚝딱' 쇼핑쇼츠",
+      "site": "리틀리 | 감자의 '뚝딱' 쇼핑쇼츠",
+      "description": "리틀리에서 만들어진 페이지 입니다.",
+      "thumb": "media/r-c00b1739/link_thumbs/c276c9cfb42f.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-07",
+          "time": "14:58",
+          "who": "수강생",
+          "text": "https://litt.ly/_potato"
+        }
+      ],
+      "fetched_at": "2026-11-07T06:00:47.952Z"
+    },
     {
       "id": "0ddb4d240bb9",
       "url": "https://www.instagram.com/reel/Dbf2QiwiIR0?srtk=MTA3b3Y4aHV6cDhncQ==",
@@ -1338,7 +1364,7 @@
           "text": "GPT 새로운 모델 6.1 Terra 나왔대요~!! Sol도 6.1 모델 있는데, 그렇다면 Astra도 6.1이 출시될지도!? https://openai.com/index/introducing-gpt-6-1-terra/"
         }
       ],
-      "fetched_at": "2026-11-06T05:37:07.467Z"
+      "fetched_at": "2026-11-07T06:00:47.952Z"
     },
     {
       "id": "aac0972f1ab8",
