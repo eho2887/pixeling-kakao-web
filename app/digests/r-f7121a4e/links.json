@@ -1,8 +1,274 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-11-07T10:15:26.471Z",
+  "updated_at": "2026-11-07T11:29:46.845Z",
   "items": [
+    {
+      "id": "c276c9cfb42f",
+      "url": "https://litt.ly/_potato",
+      "kind": "web",
+      "title": "리틀리 | 감자의 '뚝딱' 쇼핑쇼츠",
+      "site": "리틀리 | 감자의 '뚝딱' 쇼핑쇼츠",
+      "description": "리틀리에서 만들어진 페이지 입니다.",
+      "thumb": "media/r-f7121a4e/link_thumbs/c276c9cfb42f.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "mention_count": 2,
+      "contexts": [
+        {
+          "date": "2026-11-07",
+          "time": "20:08",
+          "who": "수강생",
+          "text": "😱 영상 하나 넣고 딸깍! 대본 쓰고, 음성 만들고, 효과음 찾고, 자막 넣고… 영상 하나 만들 때마다 준비할 게 너무 많았죠? 클로드 없이! 별도 TTS 유료 결제 없이! 효과음 준비도, 캡컷 편집도 없이! 픽셀링 아스트라에 감자의 MD + JSON 파일을 적용하면, 영상 하나로 대본·TTS·효과음·영상 배치·자막을 담은 완성 MP4까지! 📘 감자의 인스타 쇼핑쇼츠 제작키트 ✅ 호기심을 클릭으로 연결하는 ‘침 묻히기’ 전략 ✅ 망고복숭아·탁구포도로 배우는 소재 차별화 ✅ 다음에 뜰 새로운 상품을 찾는 방법 ✅ 인스타 계정 30일…"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "14:58",
+          "who": "수강생",
+          "text": "https://litt.ly/_potato"
+        }
+      ],
+      "fetched_at": "2026-11-07T06:00:47.952Z"
+    },
+    {
+      "id": "0ddb4d240bb9",
+      "url": "https://www.instagram.com/reel/Dbf2QiwiIR0?srtk=MTA3b3Y4aHV6cDhncQ==",
+      "kind": "video",
+      "title": "Instagram의 Sarah Roy님 : \"These new looplocks keep snacks, cereal, frozen foods, and more sealed tight without the bulky clips taking over your drawer. Once you try them, you’ll wonder where they’ve b…",
+      "site": "Instagram",
+      "description": "1,554 likes, 656 comments - findsworththebuy - August 1, 2026: \"These new looplocks keep snacks, cereal, frozen foods, and more sealed tight without the bulky clips taking over your drawer. Once you try them, you’ll wonder where they’ve been all your life! 🙌 Comment “LINK” and I’ll send it straight to your DMs! 💛 #kitchenfinds #homehacks #kitchengadgets #organizationideas #amazonfinds @livebound\".",
+      "thumb": "media/r-f7121a4e/link_thumbs/0ddb4d240bb9.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-07",
+          "time": "20:02",
+          "who": "수강생",
+          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
+        }
+      ],
+      "fetched_at": "2026-11-07T11:29:46.845Z"
+    },
+    {
+      "id": "426b907b451d",
+      "url": "https://www.instagram.com/home_salimm?cplk=ZjAxNHVmNHF2MThz",
+      "kind": "web",
+      "title": "살림홈(@home_salimm) • Instagram 사진 및 동영상",
+      "site": "instagram.com",
+      "description": "팔로워 151K명, 팔로잉 58명, 게시물 569개 - 살림홈(@home_salimm)님의 Instagram 사진 및 동영상 보기",
+      "thumb": "media/r-f7121a4e/link_thumbs/426b907b451d.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-07",
+          "time": "20:02",
+          "who": "수강생",
+          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
+        }
+      ],
+      "fetched_at": "2026-11-07T11:29:46.845Z"
+    },
+    {
+      "id": "65e34332463e",
+      "url": "https://www.instagram.com/salim_fairy?srtk=MW8zaDR0NnA4eW95OQ==",
+      "kind": "web",
+      "title": "살림요정(@salim_fairy) • Instagram 사진 및 동영상",
+      "site": "instagram.com",
+      "description": "팔로워 127K명, 팔로잉 210명, 게시물 553개 - 살림요정(@salim_fairy)님의 Instagram 사진 및 동영상 보기",
+      "thumb": "media/r-f7121a4e/link_thumbs/65e34332463e.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-07",
+          "time": "20:02",
+          "who": "수강생",
+          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
+        }
+      ],
+      "fetched_at": "2026-11-07T11:29:46.845Z"
+    },
+    {
+      "id": "982299006c97",
+      "url": "https://www.instagram.com/reel/DcOTBWwR1mW?obrf=MXgwbzQ2ZHV2bXFlMA==",
+      "kind": "video",
+      "title": "Instagram의 Nancy Karim님 : \"#ad Escribe COMIDA para el🔗 👉 Tambien la encuentras en @temu 🔍Codigo: kkc9893 (escríbelo en la barra de búsqueda todo en minúscula) 🌐O ingresa a https://app.temu.com/k/pwi6…",
+      "site": "Instagram",
+      "description": "52K likes, 13K comments - delicomida - August 19, 2026: \"#ad Escribe COMIDA para el🔗 👉 Tambien la encuentras en @temu 🔍Codigo: kkc9893 (escríbelo en la barra de búsqueda todo en minúscula) 🌐O ingresa a https://app.temu.com/k/pwi63pb79jm 📦 Se aplican términos y condiciones #shoptemu #temuhomefinds #hosting #foodwarmer\".",
+      "thumb": "media/r-f7121a4e/link_thumbs/982299006c97.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-07",
+          "time": "20:02",
+          "who": "수강생",
+          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
+        }
+      ],
+      "fetched_at": "2026-11-07T11:29:46.845Z"
+    },
+    {
+      "id": "a270b0ee5f67",
+      "url": "https://www.instagram.com/reel/DcB1_07Kx55?psln=amUxcDlibGR1YjBy",
+      "kind": "video",
+      "title": "Instagram의 Samantha Numan님 : \"WRITE: KITCHEN for top 5 no regret kitchen finds 🏡 I use these weekly if not daily in my household #kitchenfinds #amazonhomefinds #amazonbestsellers #kitchenideas #viral…",
+      "site": "Instagram",
+      "description": "4M likes, 30K comments - sam.shan.shops - August 14, 2026: \"WRITE: KITCHEN for top 5 no regret kitchen finds 🏡 I use these weekly if not daily in my household #kitchenfinds #amazonhomefinds #amazonbestsellers #kitchenideas #viralkitchengadgets\".",
+      "thumb": "media/r-f7121a4e/link_thumbs/a270b0ee5f67.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-07",
+          "time": "20:02",
+          "who": "수강생",
+          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
+        }
+      ],
+      "fetched_at": "2026-11-07T11:29:46.845Z"
+    },
+    {
+      "id": "b8d69fca51bc",
+      "url": "https://www.instagram.com/reel/DePIzpUmJvt?srtk=MWxxaGxwZ2xoYmJ5MA==",
+      "kind": "video",
+      "title": "Instagram의 Jessica Reynolds님 : \"The Concept vs the final product 🥵✅ #nails #nailgirl\"",
+      "site": "Instagram",
+      "description": "326K likes, 6,979 comments - jessica_reynolds.us - October 8, 2026: \"The Concept vs the final product 🥵✅ #nails #nailgirl\".",
+      "thumb": "media/r-f7121a4e/link_thumbs/b8d69fca51bc.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-07",
+          "time": "20:02",
+          "who": "수강생",
+          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
+        }
+      ],
+      "fetched_at": "2026-11-07T11:29:46.845Z"
+    },
+    {
+      "id": "b95182c6dbbb",
+      "url": "https://www.instagram.com/seoyseoa.pping?vrfl=d254N2lqd3J4eDNj",
+      "kind": "web",
+      "title": "서자매샤핑(@seoyseoa.pping) • Instagram 사진 및 동영상",
+      "site": "instagram.com",
+      "description": "팔로워 180K명, 팔로잉 1,260명, 게시물 1,743개 - 서자매샤핑(@seoyseoa.pping)님의 Instagram 사진 및 동영상 보기",
+      "thumb": "media/r-f7121a4e/link_thumbs/b95182c6dbbb.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-07",
+          "time": "20:02",
+          "who": "수강생",
+          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
+        }
+      ],
+      "fetched_at": "2026-11-07T11:29:46.845Z"
+    },
+    {
+      "id": "dcd07514db70",
+      "url": "https://www.instagram.com/home.in.on?mdxt=MWRpbXlqb2IycWtsZQ==",
+      "kind": "web",
+      "title": "홈인온 l 홈인테리어 l 생활꿀템(@home.in.on) • Instagram 사진 및 동영상",
+      "site": "instagram.com",
+      "description": "팔로워 110K명, 팔로잉 464명, 게시물 1,491개 - 홈인온 l 홈인테리어 l 생활꿀템(@home.in.on)님의 Instagram 사진 및 동영상 보기",
+      "thumb": "media/r-f7121a4e/link_thumbs/dcd07514db70.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-07",
+          "time": "20:02",
+          "who": "수강생",
+          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
+        }
+      ],
+      "fetched_at": "2026-11-07T11:29:46.845Z"
+    },
+    {
+      "id": "ec05ebacb1db",
+      "url": "https://www.instagram.com/homefixer_bear?vrfl=ZXRibWlwcGFmanhl",
+      "kind": "web",
+      "title": "베오 | 홈•인테리어•애널리스트(@homefixer_bear) • Instagram 사진 및 동영상",
+      "site": "instagram.com",
+      "description": "팔로워 53K명, 팔로잉 515명, 게시물 714개 - 베오 | 홈•인테리어•애널리스트(@homefixer_bear)님의 Instagram 사진 및 동영상 보기",
+      "thumb": "media/r-f7121a4e/link_thumbs/ec05ebacb1db.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-07",
+          "time": "20:02",
+          "who": "수강생",
+          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
+        }
+      ],
+      "fetched_at": "2026-11-07T11:29:46.845Z"
+    },
     {
       "id": "7e7bba40ebdb",
       "url": "https://www.youtube.com/watch?v=POAV3C6mAcw",
@@ -28,32 +294,6 @@
         }
       ],
       "fetched_at": "2026-11-07T08:37:29.225Z"
-    },
-    {
-      "id": "c276c9cfb42f",
-      "url": "https://litt.ly/_potato",
-      "kind": "web",
-      "title": "리틀리 | 감자의 '뚝딱' 쇼핑쇼츠",
-      "site": "리틀리 | 감자의 '뚝딱' 쇼핑쇼츠",
-      "description": "리틀리에서 만들어진 페이지 입니다.",
-      "thumb": "media/r-f7121a4e/link_thumbs/c276c9cfb42f.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-07",
-      "dates": [
-        "2026-11-07"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "14:58",
-          "who": "수강생",
-          "text": "https://litt.ly/_potato"
-        }
-      ],
-      "fetched_at": "2026-11-07T06:00:47.952Z"
     },
     {
       "id": "b5349c03d076",
