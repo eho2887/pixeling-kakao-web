@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "room_id": "r-c00b1739",
+  "date": "2026-11-08",
+  "items": [
+    {
+      "id": "b27d5fd48721",
+      "kind": "image",
+      "t": "2026-11-08T19:30:00+09:00",
+      "time": "19:30",
+      "who": "수강생",
+      "text": "영상 분석 화면 캡처. 조회수 4.5만, 시청 시간(단위: 시간) 1.3천과 후반에 급상승하는 그래프.",
+      "file": "media/r-c00b1739/b27d5fd48721.png",
+      "thumb": "media/r-c00b1739/thumbs/b27d5fd48721.jpg",
+      "mime": "image/png",
+      "bytes": 17460
+    },
+    {
+      "id": "9eae5e9ab4a3",
+      "kind": "image",
+      "t": "2026-11-08T19:35:00+09:00",
+      "time": "19:35",
+      "who": "수강생",
+      "text": "검은 배경 화면 캡처. 숫자 9.1만, 5.5만, 2.3만이 표시됨.",
+      "file": "media/r-c00b1739/9eae5e9ab4a3.png",
+      "thumb": "media/r-c00b1739/thumbs/9eae5e9ab4a3.jpg",
+      "mime": "image/png",
+      "bytes": 3273
+    },
+    {
+      "id": "7e41405abb30",
+      "kind": "image",
+      "t": "2026-11-08T19:42:00+09:00",
+      "time": "19:42",
+      "who": "수강생",
+      "text": "영상 분석 화면을 찍은 사진. 8951.2만, 시청 지속 시간 0:21(95.6%), 실시간 380,612와 그래프가 보임.",
+      "file": "media/r-c00b1739/7e41405abb30.jpg",
+      "thumb": "media/r-c00b1739/thumbs/7e41405abb30.jpg",
+      "mime": "image/jpeg",
+      "bytes": 3378821
+    }
+  ]
+}

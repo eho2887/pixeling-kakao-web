@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "room_id": "r-f7121a4e",
+  "date": "2026-11-08",
+  "items": [
+    {
+      "id": "41692cc2a0cc",
+      "kind": "image",
+      "t": "2026-11-08T19:45:00+09:00",
+      "time": "19:45",
+      "who": "수강생",
+      "text": "Google 계정의 보안 코드 확인 방법을 안내하는 화면 사진.",
+      "file": "media/r-f7121a4e/41692cc2a0cc.png",
+      "thumb": "media/r-f7121a4e/thumbs/41692cc2a0cc.jpg",
+      "mime": "image/png",
+      "bytes": 18693
+    }
+  ]
+}
