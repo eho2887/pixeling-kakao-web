@@ -38,6 +38,18 @@
       "thumb": "media/r-c00b1739/thumbs/7e41405abb30.jpg",
       "mime": "image/jpeg",
       "bytes": 3378821
+    },
+    {
+      "id": "b17e047c885a",
+      "kind": "image",
+      "t": "2026-11-08T20:45:00+09:00",
+      "time": "20:45",
+      "who": "수강생",
+      "text": "AI 작업 결과 화면 캡처. \"백그라운드로 유튜브 채널 10곳, 영상 목록 260개 수집을 완료했습니다. Threads 3개는 별도로 분류했습니다.\" 문구와 채널별 추천 활용 표가 보임.",
+      "file": "media/r-c00b1739/b17e047c885a.png",
+      "thumb": "media/r-c00b1739/thumbs/b17e047c885a.jpg",
+      "mime": "image/png",
+      "bytes": 42651
     }
   ]
 }
