@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "room_id": "r-c00b1739",
+  "date": "2026-11-09",
+  "items": [
+    {
+      "id": "bb52fd5a253c",
+      "kind": "image",
+      "t": "2026-11-09T18:01:00+09:00",
+      "time": "18:01",
+      "who": "수강생",
+      "text": "프로그램 실행 오류 창 사진. “Unhandled exception in script”, “Failed to execute script” 및 “WinError 183”이 보이며 나머지는 일부 흐림. 사용자 경로가 표시되어 개인정보 값을 옮기지 않음.",
+      "sensitive": true
+    }
+  ]
+}
