@@ -1,8 +1,60 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-11-09T07:00:49.115Z",
+  "updated_at": "2026-11-09T10:35:06.902Z",
   "items": [
+    {
+      "id": "da837a95146b",
+      "url": "https://www.youtube.com/watch?v=AQ23-vAicY8",
+      "kind": "youtube",
+      "title": "존박 - 맥도날드 랩으로 주문하기 (AI remix)",
+      "site": "YouTube",
+      "author": "멍청한 페페 (Dumbpepe)",
+      "thumb": "media/r-c00b1739/link_thumbs/da837a95146b.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-09",
+      "last_date": "2026-11-09",
+      "dates": [
+        "2026-11-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-09",
+          "time": "19:05",
+          "who": "수강생",
+          "text": "https://www.youtube.com/watch?v=AQ23-vAicY8 다음날 또 낼름 했네요 ㄷㄷㄷ"
+        }
+      ],
+      "fetched_at": "2026-11-09T10:35:06.902Z"
+    },
+    {
+      "id": "741ed8ff3469",
+      "url": "https://www.youtube.com/watch?v=AfTadVA22ac",
+      "kind": "youtube",
+      "title": "🍔맥도날드 REMIX | 내가 계속 듣고 싶어서 만든 노래",
+      "site": "YouTube",
+      "author": "PLASTIC WAVE",
+      "thumb": "media/r-c00b1739/link_thumbs/741ed8ff3469.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-09",
+      "last_date": "2026-11-09",
+      "dates": [
+        "2026-11-09"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-09",
+          "time": "19:02",
+          "who": "수강생",
+          "text": "https://youtu.be/AfTadVA22ac"
+        }
+      ],
+      "fetched_at": "2026-11-09T10:35:06.902Z"
+    },
     {
       "id": "c276c9cfb42f",
       "url": "https://litt.ly/_potato",
