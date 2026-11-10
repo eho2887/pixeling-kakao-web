@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "room_id": "r-f7121a4e",
+  "date": "2026-11-10",
+  "items": [
+    {
+      "id": "6a1cdaf84936",
+      "kind": "image",
+      "t": "2026-11-10T09:34:00+09:00",
+      "time": "09:34",
+      "who": "수강생",
+      "text": "모델 선택 메뉴 화면 캡처. GPT-6 Luna가 선택되어 있고 여러 모델 선택지가 표시됨.",
+      "file": "media/r-f7121a4e/6a1cdaf84936.png",
+      "thumb": "media/r-f7121a4e/thumbs/6a1cdaf84936.jpg",
+      "mime": "image/png",
+      "bytes": 30276
+    }
+  ]
+}
