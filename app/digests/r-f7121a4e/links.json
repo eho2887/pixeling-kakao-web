@@ -1,8 +1,40 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-11-09T14:16:49.105Z",
+  "updated_at": "2026-11-10T02:21:42.219Z",
   "items": [
+    {
+      "id": "6cb12b9cda0c",
+      "url": "https://www.youtube.com/watch?v=cIsAZlJQY1E",
+      "kind": "youtube",
+      "title": "재판장도 관객도 단체 최면 걸린 날 ㅋㅋ | 개그콘서트 Gagconcert | KBS 261101 방송",
+      "site": "YouTube",
+      "author": "개그콘서트",
+      "thumb": "media/r-f7121a4e/link_thumbs/6cb12b9cda0c.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-10",
+      "dates": [
+        "2026-11-10"
+      ],
+      "mention_count": 2,
+      "contexts": [
+        {
+          "date": "2026-11-10",
+          "time": "11:12",
+          "who": "수강생",
+          "text": "https://www.youtube.com/watch?v=cIsAZlJQY1E"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "11:12",
+          "who": "수강생",
+          "text": "https://www.youtube.com/watch?v=cIsAZlJQY1E 헐 이제 공중파도 랭킹형 쇼츠 올리네요 ㄷㄷ"
+        }
+      ],
+      "fetched_at": "2026-11-10T02:21:42.219Z"
+    },
     {
       "id": "05850bab91c0",
       "url": "https://litt.ly/richshorts",
