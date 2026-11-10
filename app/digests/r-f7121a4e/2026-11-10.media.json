@@ -38,6 +38,18 @@
       "thumb": "media/r-f7121a4e/thumbs/faa96cd9af44.jpg",
       "mime": "image/jpeg",
       "bytes": 211999
+    },
+    {
+      "id": "3e45d6b74d01",
+      "kind": "image",
+      "t": "2026-11-10T17:55:00+09:00",
+      "time": "17:55",
+      "who": "수강생",
+      "text": "파일 목록 화면 캡처. “모든 결과물 164개 · 9.5 GB” 표시.",
+      "file": "media/r-f7121a4e/3e45d6b74d01.png",
+      "thumb": "media/r-f7121a4e/thumbs/3e45d6b74d01.jpg",
+      "mime": "image/png",
+      "bytes": 2724
     }
   ]
 }
