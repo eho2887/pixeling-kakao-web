@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "room_id": "r-c00b1739",
+  "date": "2026-11-10",
+  "items": [
+    {
+      "id": "aa038fbc6467",
+      "kind": "image",
+      "t": "2026-11-10T21:01:00+09:00",
+      "time": "21:01",
+      "who": "수강생",
+      "text": "업로드 설정 화면 캡처. AI 사용 항목에 “AI 콘텐츠인가요?”와 “아니요”, “예” 선택지가 보이고, 광고 적합성 항목에 “평가를 해당 사항 없음으로 제출해요”가 표시됨.",
+      "file": "media/r-c00b1739/aa038fbc6467.png",
+      "thumb": "media/r-c00b1739/thumbs/aa038fbc6467.jpg",
+      "mime": "image/png",
+      "bytes": 57146
+    }
+  ]
+}
