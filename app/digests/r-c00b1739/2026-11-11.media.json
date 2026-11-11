@@ -14,6 +14,18 @@
       "thumb": "media/r-c00b1739/thumbs/626e57c45ba2.jpg",
       "mime": "image/png",
       "bytes": 1486
+    },
+    {
+      "id": "440417765385",
+      "kind": "image",
+      "t": "2026-11-11T16:29:00+09:00",
+      "time": "16:29",
+      "who": "수강생",
+      "text": "영상 수정과 채팅에서 바로 열기에 관한 화면 캡처",
+      "file": "media/r-c00b1739/440417765385.png",
+      "thumb": "media/r-c00b1739/thumbs/440417765385.jpg",
+      "mime": "image/png",
+      "bytes": 140875
     }
   ]
 }
