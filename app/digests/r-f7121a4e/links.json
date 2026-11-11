@@ -1,8 +1,34 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-11-11T11:05:22.998Z",
+  "updated_at": "2026-11-11T18:55:57.399Z",
   "items": [
+    {
+      "id": "a6c38ba79278",
+      "url": "https://www.youtube.com/watch?v=nqmAwWG6ou0",
+      "kind": "youtube",
+      "title": "jumper trend #roblox #plsgoviral #dothingsyoudontwanttodo #butifyoucloseyoureyes #helpmemakethismake",
+      "site": "YouTube",
+      "author": "amyra noob",
+      "thumb": "media/r-f7121a4e/link_thumbs/a6c38ba79278.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-12",
+      "last_date": "2026-11-12",
+      "dates": [
+        "2026-11-12"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-12",
+          "time": "00:26",
+          "who": "수강생",
+          "text": "https://www.youtube.com/shorts/nqmAwWG6ou0"
+        }
+      ],
+      "fetched_at": "2026-11-11T18:55:57.399Z"
+    },
     {
       "id": "408668873cb2",
       "url": "https://verdant-roadway-53f.notion.site/5-3e238801f0c880db8575c3e86d5cdb26",

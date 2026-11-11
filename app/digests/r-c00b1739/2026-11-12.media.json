@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "room_id": "r-c00b1739",
+  "date": "2026-11-12",
+  "items": [
+    {
+      "id": "314c61bee31e",
+      "kind": "image",
+      "t": "2026-11-12T02:16:00+09:00",
+      "time": "02:16",
+      "who": "수강생",
+      "text": "조회수와 시청 시간 그래프 화면 캡처. 조회수 2.8만, 시청 시간(단위: 시간) 287.9.",
+      "file": "media/r-c00b1739/314c61bee31e.png",
+      "thumb": "media/r-c00b1739/thumbs/314c61bee31e.jpg",
+      "mime": "image/png",
+      "bytes": 18235
+    }
+  ]
+}
