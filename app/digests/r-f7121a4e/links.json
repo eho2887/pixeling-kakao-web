@@ -1,8 +1,30 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-11-10T10:48:49.456Z",
+  "updated_at": "2026-11-11T01:06:43.423Z",
   "items": [
+    {
+      "id": "408668873cb2",
+      "url": "https://verdant-roadway-53f.notion.site/5-3e238801f0c880db8575c3e86d5cdb26",
+      "kind": "doc",
+      "site": "verdant-roadway-53f.notion.site",
+      "reachable": null,
+      "private": true,
+      "first_date": "2026-11-11",
+      "last_date": "2026-11-11",
+      "dates": [
+        "2026-11-11"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-11",
+          "time": "09:32",
+          "who": "수강생",
+          "text": "https://verdant-roadway-53f.notion.site/5-3e238801f0c880db8575c3e86d5cdb26"
+        }
+      ]
+    },
     {
       "id": "6cb12b9cda0c",
       "url": "https://www.youtube.com/watch?v=cIsAZlJQY1E",
