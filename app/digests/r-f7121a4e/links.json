@@ -1,8 +1,34 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-11-12T08:05:08.310Z",
+  "updated_at": "2026-11-12T08:36:24.148Z",
   "items": [
+    {
+      "id": "86a9b0d2cbb5",
+      "url": "https://www.youtube.com/watch?v=3kFl3Pes5QA",
+      "kind": "youtube",
+      "title": "커피 그라인더가 달렸다고?!",
+      "site": "YouTube",
+      "author": "사서알려줌",
+      "thumb": "media/r-f7121a4e/link_thumbs/86a9b0d2cbb5.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-12",
+      "last_date": "2026-11-12",
+      "dates": [
+        "2026-11-12"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-12",
+          "time": "17:18",
+          "who": "수강생",
+          "text": "https://youtube.com/shorts/3kFl3Pes5QA 혹시 이 나레이션 인물 누군지 아시는 선배님계실까요..."
+        }
+      ],
+      "fetched_at": "2026-11-12T08:36:24.148Z"
+    },
     {
       "id": "97bb244ee930",
       "url": "https://verdant-roadway-53f.notion.site/5-3e238801f0c880db8575c3e86d5cdb26?pvs=73",
@@ -782,7 +808,7 @@
           "text": "<u>[https://open.kakao.com/o/sYN4pUuh](open.kakao.com/o/sYN4pUuh)</u>"
         }
       ],
-      "fetched_at": "2026-11-11T08:26:51.667Z"
+      "fetched_at": "2026-11-12T08:36:24.148Z"
     },
     {
       "id": "49f4cc87446e",
