@@ -26,6 +26,15 @@
       "thumb": "media/r-c00b1739/thumbs/97e6cd9749b7.jpg",
       "mime": "image/png",
       "bytes": 55031
+    },
+    {
+      "id": "e8c6f06ab52d",
+      "kind": "image",
+      "t": "2026-11-12T13:48:00+09:00",
+      "time": "13:48",
+      "who": "수강생",
+      "text": "사람이 나온 사진. 영상 번역 화면에 원문과 한글 자막이 표시됨.",
+      "sensitive": true
     }
   ]
 }
