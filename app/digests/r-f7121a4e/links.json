@@ -1,8 +1,34 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-11-12T11:27:57.434Z",
+  "updated_at": "2026-11-12T16:45:47.845Z",
   "items": [
+    {
+      "id": "71991c84d280",
+      "url": "https://litt.ly/banpolong",
+      "kind": "web",
+      "title": "리틀리 | 반포자이가즈아",
+      "site": "리틀리 | 반포자이가즈아",
+      "description": "안녕하세요. 반포자이가즈아 입니다. 여러분 항상 감사합니다.😀 사랑합니다.",
+      "thumb": "media/r-f7121a4e/link_thumbs/71991c84d280.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-13",
+      "last_date": "2026-11-13",
+      "dates": [
+        "2026-11-13"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-13",
+          "time": "01:45",
+          "who": "수강생",
+          "text": "https://litt.ly/banpolong"
+        }
+      ],
+      "fetched_at": "2026-11-12T16:45:47.845Z"
+    },
     {
       "id": "86a9b0d2cbb5",
       "url": "https://www.youtube.com/watch?v=3kFl3Pes5QA",
