@@ -1,8 +1,37 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-11-11T19:26:10.661Z",
+  "updated_at": "2026-11-12T02:57:57.315Z",
   "items": [
+    {
+      "id": "97bb244ee930",
+      "url": "https://verdant-roadway-53f.notion.site/5-3e238801f0c880db8575c3e86d5cdb26?pvs=73",
+      "kind": "doc",
+      "site": "verdant-roadway-53f.notion.site",
+      "reachable": null,
+      "private": true,
+      "first_date": "2026-10-24",
+      "last_date": "2026-11-12",
+      "dates": [
+        "2026-10-24",
+        "2026-11-12"
+      ],
+      "mention_count": 2,
+      "contexts": [
+        {
+          "date": "2026-11-12",
+          "time": "11:48",
+          "who": "수강생",
+          "text": "쇼츠투벤츠 시즌 5 노션자료 [외부공유 절대 금지] https://verdant-roadway-53f.notion.site/5-3e238801f0c880db8575c3e86d5cdb26?pvs=73 여기 있어용"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "11:27",
+          "who": "수강생",
+          "text": "https://verdant-roadway-53f.notion.site/5-3e238801f0c880db8575c3e86d5cdb26?pvs=73 여기 효과음 모음집 보시며 ㄴ될거 같네요"
+        }
+      ]
+    },
     {
       "id": "64950bc60cec",
       "url": "https://www.youtube.com/watch?v=rQi7nkcbsqc",
@@ -1946,28 +1975,6 @@
         }
       ],
       "fetched_at": "2026-10-13T10:38:20.739Z"
-    },
-    {
-      "id": "97bb244ee930",
-      "url": "https://verdant-roadway-53f.notion.site/5-3e238801f0c880db8575c3e86d5cdb26?pvs=73",
-      "kind": "doc",
-      "site": "verdant-roadway-53f.notion.site",
-      "reachable": null,
-      "private": true,
-      "first_date": "2026-10-24",
-      "last_date": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-24",
-          "time": "11:27",
-          "who": "수강생",
-          "text": "https://verdant-roadway-53f.notion.site/5-3e238801f0c880db8575c3e86d5cdb26?pvs=73 여기 효과음 모음집 보시며 ㄴ될거 같네요"
-        }
-      ]
     },
     {
       "id": "004da8a983b6",

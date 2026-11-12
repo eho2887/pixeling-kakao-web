@@ -14,6 +14,18 @@
       "thumb": "media/r-c00b1739/thumbs/314c61bee31e.jpg",
       "mime": "image/png",
       "bytes": 18235
+    },
+    {
+      "id": "97e6cd9749b7",
+      "kind": "image",
+      "t": "2026-11-12T11:45:00+09:00",
+      "time": "11:45",
+      "who": "수강생",
+      "text": "영상 원본별 타임라인 구간과 장면 내용을 정리한 표 화면 캡처.",
+      "file": "media/r-c00b1739/97e6cd9749b7.png",
+      "thumb": "media/r-c00b1739/thumbs/97e6cd9749b7.jpg",
+      "mime": "image/png",
+      "bytes": 55031
     }
   ]
 }
