@@ -47,6 +47,18 @@
       "thumb": "media/r-c00b1739/thumbs/0ac68d2c423e.jpg",
       "mime": "image/jpeg",
       "bytes": 48031
+    },
+    {
+      "id": "1dc8d280f4ed",
+      "kind": "image",
+      "t": "2026-11-12T23:33:00+09:00",
+      "time": "23:33",
+      "who": "수강생",
+      "text": "조회수 69, 시청 시간 19.2시간, 구독자 수 +2가 표시된 분석 화면",
+      "file": "media/r-c00b1739/1dc8d280f4ed.png",
+      "thumb": "media/r-c00b1739/thumbs/1dc8d280f4ed.jpg",
+      "mime": "image/png",
+      "bytes": 21952
     }
   ]
 }
