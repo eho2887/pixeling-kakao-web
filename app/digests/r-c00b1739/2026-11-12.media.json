@@ -35,6 +35,18 @@
       "who": "수강생",
       "text": "사람이 나온 사진. 영상 번역 화면에 원문과 한글 자막이 표시됨.",
       "sensitive": true
+    },
+    {
+      "id": "0ac68d2c423e",
+      "kind": "image",
+      "t": "2026-11-12T19:08:00+09:00",
+      "time": "19:08",
+      "who": "조교",
+      "text": "GPU 고르기 안내 이미지. RTX PRO 6000 사양 확인, VRAM 96GB인지 확인, Server / Workstation / Max-Q를 구분, 지역·재고·시간 요금·디스크까지 확인.",
+      "file": "media/r-c00b1739/0ac68d2c423e.jpg",
+      "thumb": "media/r-c00b1739/thumbs/0ac68d2c423e.jpg",
+      "mime": "image/jpeg",
+      "bytes": 48031
     }
   ]
 }
