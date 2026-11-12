@@ -25,6 +25,18 @@
       "thumb": "media/r-f7121a4e/thumbs/63571874d289.jpg",
       "mime": "image/png",
       "bytes": 12716
+    },
+    {
+      "id": "5e594975aaa8",
+      "kind": "image",
+      "t": "2026-11-12T23:58:00+09:00",
+      "time": "23:58",
+      "who": "조교",
+      "text": "시청 시간 화면 캡처. “시청 시간(단위: 시간)”과 “4.5천” 표시",
+      "file": "media/r-f7121a4e/5e594975aaa8.jpg",
+      "thumb": "media/r-f7121a4e/thumbs/5e594975aaa8.jpg",
+      "mime": "image/jpeg",
+      "bytes": 8279
     }
   ]
 }
