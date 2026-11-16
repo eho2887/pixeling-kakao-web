@@ -1,8 +1,33 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-11-16T13:16:47.348Z",
+  "updated_at": "2026-11-16T14:03:49.853Z",
   "items": [
+    {
+      "id": "c658b9e4cbbf",
+      "url": "https://open.kakao.com/o/stU9vRth",
+      "kind": "web",
+      "title": "룰루랄라 쇼츠투벤츠 상담방",
+      "site": "open.kakao.com",
+      "thumb": "media/r-c00b1739/link_thumbs/c658b9e4cbbf.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:32",
+          "who": "강사",
+          "text": "https://open.kakao.com/o/stU9vRth 요기요 !"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:03:49.853Z"
+    },
     {
       "id": "a8e1c3b8fa26",
       "url": "https://www.youtube.com/watch?v=Jx352HcIhgo",

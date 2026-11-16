@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-11-16T13:16:47.348Z",
+  "updated_at": "2026-11-16T14:03:49.853Z",
   "items": [
     {
       "id": "c658b9e4cbbf",
@@ -434,6 +434,32 @@
         }
       ],
       "fetched_at": "2026-11-16T13:16:47.348Z"
+    },
+    {
+      "id": "802db761bb3e",
+      "url": "https://www.youtube.com/watch?v=VV-Ee8O9ddA",
+      "kind": "youtube",
+      "title": "친구들만 만나면 유치해지는 준완이 TOP10 #슬의생 #슬기로운의사생활",
+      "site": "YouTube",
+      "author": "호또모",
+      "thumb": "media/r-f7121a4e/link_thumbs/802db761bb3e.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-13",
+      "last_date": "2026-11-13",
+      "dates": [
+        "2026-11-13"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-13",
+          "time": "23:46",
+          "who": "수강생",
+          "text": "https://www.youtube.com/shorts/VV-Ee8O9ddA 동기여러분 혹시 이거 ai딸깍이라고 보이시나요?"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:03:49.853Z"
     },
     {
       "id": "71991c84d280",
