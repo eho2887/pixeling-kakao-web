@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-11-16T11:35:20.333Z",
+  "updated_at": "2026-11-16T12:25:22.924Z",
   "items": [
     {
       "id": "a8e1c3b8fa26",
@@ -195,6 +195,32 @@
         }
       ],
       "fetched_at": "2026-11-16T11:35:20.333Z"
+    },
+    {
+      "id": "164f4baa10a0",
+      "url": "https://link.kakaopay.com/_/gmLPfzV",
+      "kind": "web",
+      "title": "카카오페이 - 마음 놓고 금융하다.",
+      "site": "카카오페이 - 마음 놓고 금융하다.",
+      "description": "카카오페이는 금융의 수고로움을 줄이고 이로움을 키워 마음 놓고 금융할 수 있는 생활금융 플랫폼입니다.",
+      "thumb": "media/r-c00b1739/link_thumbs/164f4baa10a0.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-14",
+      "last_date": "2026-11-14",
+      "dates": [
+        "2026-11-14"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-14",
+          "time": "00:20",
+          "who": "수강생",
+          "text": "대박! 방금 280점으로 7000만냥 획득했어요~ # 한번 해볼래요? https://link.kakaopay.com/_/gmLPfzV"
+        }
+      ],
+      "fetched_at": "2026-11-16T12:25:22.924Z"
     },
     {
       "id": "7fa43a675220",
