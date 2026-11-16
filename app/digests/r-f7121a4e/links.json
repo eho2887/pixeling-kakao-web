@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-11-16T08:52:46.385Z",
+  "updated_at": "2026-11-16T09:37:24.707Z",
   "items": [
     {
       "id": "c658b9e4cbbf",
@@ -53,6 +53,55 @@
         }
       ],
       "fetched_at": "2026-11-16T08:52:46.385Z"
+    },
+    {
+      "id": "319d2219205c",
+      "url": "https://dihabooks.com/book/selfmadeyt",
+      "kind": "web",
+      "title": "날먹 유튜브 수익창출(링링권법, 🥇베스트셀러)",
+      "site": "디하북스",
+      "description": "밍구링링 작가의 전자책 「날먹 유튜브 수익창출(링링권법, 🥇베스트셀러)」 상품 정보입니다.",
+      "thumb": "media/r-f7121a4e/link_thumbs/319d2219205c.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-15",
+      "last_date": "2026-11-15",
+      "dates": [
+        "2026-11-15"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-15",
+          "time": "21:05",
+          "who": "수강생",
+          "text": "https://dihabooks.com/book/selfmadeyt/ 전자책 성과 후기 남겨주시면 치킨 드려요잉^^^"
+        }
+      ],
+      "fetched_at": "2026-11-16T09:37:24.707Z"
+    },
+    {
+      "id": "4a6fe5a468aa",
+      "url": "https://youtube.com/@zackdfilms",
+      "kind": "youtube",
+      "site": "youtube.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-15",
+      "last_date": "2026-11-15",
+      "dates": [
+        "2026-11-15"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-15",
+          "time": "14:44",
+          "who": "수강생",
+          "text": "https://youtube.com/@zackdfilms"
+        }
+      ],
+      "fetched_at": "2026-11-16T09:37:24.707Z"
     },
     {
       "id": "71991c84d280",
