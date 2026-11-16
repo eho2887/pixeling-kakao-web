@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-11-16T12:25:22.924Z",
+  "updated_at": "2026-11-16T13:16:47.348Z",
   "items": [
     {
       "id": "c658b9e4cbbf",
@@ -408,6 +408,32 @@
         }
       ],
       "fetched_at": "2026-11-16T12:25:22.924Z"
+    },
+    {
+      "id": "82732685a12c",
+      "url": "https://www.youtube.com/watch?v=kTzgbIFuYdc",
+      "kind": "youtube",
+      "title": "젠슨 황의 매트릭스 마지막 반전",
+      "site": "YouTube",
+      "author": "MuskLab",
+      "thumb": "media/r-f7121a4e/link_thumbs/82732685a12c.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-14",
+      "last_date": "2026-11-14",
+      "dates": [
+        "2026-11-14"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-14",
+          "time": "12:13",
+          "who": "수강생",
+          "text": "https://youtube.com/shorts/kTzgbIFuYdc 18시간만에 조회수 ㄷㄷ하네요"
+        }
+      ],
+      "fetched_at": "2026-11-16T13:16:47.348Z"
     },
     {
       "id": "71991c84d280",

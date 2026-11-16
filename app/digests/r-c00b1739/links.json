@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-11-16T12:25:22.924Z",
+  "updated_at": "2026-11-16T13:16:47.348Z",
   "items": [
     {
       "id": "a8e1c3b8fa26",
@@ -169,6 +169,32 @@
         }
       ],
       "fetched_at": "2026-11-16T11:35:20.333Z"
+    },
+    {
+      "id": "fd82df4c3d46",
+      "url": "https://www.youtube.com/watch?v=DOhs3U_Rm1w",
+      "kind": "youtube",
+      "title": "Roblox mukbang Asmr | 99 Nights in the forest",
+      "site": "YouTube",
+      "author": "Sweepy",
+      "thumb": "media/r-c00b1739/link_thumbs/fd82df4c3d46.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-14",
+      "last_date": "2026-11-14",
+      "dates": [
+        "2026-11-14"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-14",
+          "time": "16:54",
+          "who": "수강생",
+          "text": "https://youtube.com/shorts/DOhs3U_Rm1w"
+        }
+      ],
+      "fetched_at": "2026-11-16T13:16:47.348Z"
     },
     {
       "id": "9e268573e816",
