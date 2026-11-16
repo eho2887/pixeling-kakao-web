@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-11-16T14:54:06.097Z",
+  "updated_at": "2026-11-16T15:31:36.077Z",
   "items": [
     {
       "id": "06bf3c3d9db7",
@@ -778,8 +778,11 @@
       "id": "c276e9b14589",
       "url": "https://www.youtube.com/watch?v=4Bon8hxRnCQ",
       "kind": "youtube",
-      "site": "youtube.com",
-      "reachable": null,
+      "title": "현대, 토요타가 중동에 수출되면 벌어지는 일",
+      "site": "YouTube",
+      "author": "지식봄",
+      "thumb": "media/r-f7121a4e/link_thumbs/c276e9b14589.jpg",
+      "reachable": true,
       "private": false,
       "first_date": "2026-11-16",
       "last_date": "2026-11-16",
@@ -794,14 +797,18 @@
           "who": "수강생",
           "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
         }
-      ]
+      ],
+      "fetched_at": "2026-11-16T15:31:36.077Z"
     },
     {
       "id": "c317b0315393",
       "url": "https://www.youtube.com/watch?v=92QU2ZuFFr8",
       "kind": "youtube",
-      "site": "youtube.com",
-      "reachable": null,
+      "title": "소금을 끓여 전기를 만드는 집광형 태양열 발전소",
+      "site": "YouTube",
+      "author": "지식봄",
+      "thumb": "media/r-f7121a4e/link_thumbs/c317b0315393.jpg",
+      "reachable": true,
       "private": false,
       "first_date": "2026-11-16",
       "last_date": "2026-11-16",
@@ -816,14 +823,18 @@
           "who": "수강생",
           "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
         }
-      ]
+      ],
+      "fetched_at": "2026-11-16T15:31:36.077Z"
     },
     {
       "id": "c8642f6542b2",
       "url": "https://www.youtube.com/watch?v=Y6tk-4WImrE",
       "kind": "youtube",
-      "site": "youtube.com",
-      "reachable": null,
+      "title": "수컷 엘크가 번식기때 하는 행동",
+      "site": "YouTube",
+      "author": "지식봄",
+      "thumb": "media/r-f7121a4e/link_thumbs/c8642f6542b2.jpg",
+      "reachable": true,
       "private": false,
       "first_date": "2026-11-16",
       "last_date": "2026-11-16",
@@ -838,14 +849,18 @@
           "who": "수강생",
           "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
         }
-      ]
+      ],
+      "fetched_at": "2026-11-16T15:31:36.077Z"
     },
     {
       "id": "d300d08c243f",
       "url": "https://www.youtube.com/watch?v=9y2g6w52YMQ",
       "kind": "youtube",
-      "site": "youtube.com",
-      "reachable": null,
+      "title": "방진 매트 시공 전후 철판의 소음 차이",
+      "site": "YouTube",
+      "author": "지식봄",
+      "thumb": "media/r-f7121a4e/link_thumbs/d300d08c243f.jpg",
+      "reachable": true,
       "private": false,
       "first_date": "2026-11-16",
       "last_date": "2026-11-16",
@@ -860,14 +875,18 @@
           "who": "수강생",
           "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
         }
-      ]
+      ],
+      "fetched_at": "2026-11-16T15:31:36.077Z"
     },
     {
       "id": "dc2f0a2675d8",
       "url": "https://www.youtube.com/watch?v=ezaaF7gJ2nE",
       "kind": "youtube",
-      "site": "youtube.com",
-      "reachable": null,
+      "title": "사냥감을 물고 유영하는 악어의 진짜 목적",
+      "site": "YouTube",
+      "author": "지식봄",
+      "thumb": "media/r-f7121a4e/link_thumbs/dc2f0a2675d8.jpg",
+      "reachable": true,
       "private": false,
       "first_date": "2026-11-16",
       "last_date": "2026-11-16",
@@ -882,14 +901,18 @@
           "who": "수강생",
           "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
         }
-      ]
+      ],
+      "fetched_at": "2026-11-16T15:31:36.077Z"
     },
     {
       "id": "df2a1985b7e4",
       "url": "https://www.youtube.com/watch?v=naDFWveHS98",
       "kind": "youtube",
-      "site": "youtube.com",
-      "reachable": null,
+      "title": "넘치는 옛날 말통에 지친 사람들을 위한 오토스톱 말통",
+      "site": "YouTube",
+      "author": "지식봄",
+      "thumb": "media/r-f7121a4e/link_thumbs/df2a1985b7e4.jpg",
+      "reachable": true,
       "private": false,
       "first_date": "2026-11-16",
       "last_date": "2026-11-16",
@@ -904,14 +927,18 @@
           "who": "수강생",
           "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
         }
-      ]
+      ],
+      "fetched_at": "2026-11-16T15:31:36.077Z"
     },
     {
       "id": "e7d36b2e57c5",
       "url": "https://www.youtube.com/watch?v=Q5ufy3PTz28",
       "kind": "youtube",
-      "site": "youtube.com",
-      "reachable": null,
+      "title": "처음보는 장엄하고 우아한 방식의 파쿠르",
+      "site": "YouTube",
+      "author": "지식봄",
+      "thumb": "media/r-f7121a4e/link_thumbs/e7d36b2e57c5.jpg",
+      "reachable": true,
       "private": false,
       "first_date": "2026-11-16",
       "last_date": "2026-11-16",
@@ -926,14 +953,18 @@
           "who": "수강생",
           "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
         }
-      ]
+      ],
+      "fetched_at": "2026-11-16T15:31:36.077Z"
     },
     {
       "id": "e8bddfe87536",
       "url": "https://www.youtube.com/watch?v=CRjSY6ou5vs",
       "kind": "youtube",
-      "site": "youtube.com",
-      "reachable": null,
+      "title": "테슬라보다 먼저 거꾸로 달린 자동차",
+      "site": "YouTube",
+      "author": "지식봄",
+      "thumb": "media/r-f7121a4e/link_thumbs/e8bddfe87536.jpg",
+      "reachable": true,
       "private": false,
       "first_date": "2026-11-16",
       "last_date": "2026-11-16",
@@ -948,14 +979,17 @@
           "who": "수강생",
           "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
         }
-      ]
+      ],
+      "fetched_at": "2026-11-16T15:31:36.077Z"
     },
     {
       "id": "ebe2e539be9e",
       "url": "https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EB%87%8C%EA%B0%80+%EC%9A%B0%EC%A3%BC+%EB%B2%95%EC%B9%99%EC%97%90+%EC%A7%80%EB%B0%B0%EB%8B%B9%ED%95%98%EB%A9%B4+%EB%B2%8C%EC%96%B4%EC%A7%80%EB%8A%94+%ED%98%84%EC%83%81%22%2C%22mode%22%3A%22short%22%7D&outlier_score=3.6760515622650853&video_id=rKlS-HKO3OM",
       "kind": "web",
-      "site": "app.vidiq.com",
-      "reachable": null,
+      "title": "vidIQ",
+      "site": "vidIQ",
+      "description": "Growing your YouTube audience is hard. We make it easy.",
+      "reachable": true,
       "private": false,
       "first_date": "2026-11-16",
       "last_date": "2026-11-16",
@@ -970,14 +1004,17 @@
           "who": "수강생",
           "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
         }
-      ]
+      ],
+      "fetched_at": "2026-11-16T15:31:36.077Z"
     },
     {
       "id": "f099a530a18d",
       "url": "https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EC%B2%98%EC%9D%8C%EB%B3%B4%EB%8A%94+%EC%9E%A5%EC%97%84%ED%95%98%EA%B3%A0+%EC%9A%B0%EC%95%84%ED%95%9C+%EB%B0%A9%EC%8B%9D%EC%9D%98+%ED%8C%8C%EC%BF%A0%EB%A5%B4%22%2C%22mode%22%3A%22short%22%7D&outlier_score=1.3760964251637755&video_id=Q5ufy3PTz28",
       "kind": "web",
-      "site": "app.vidiq.com",
-      "reachable": null,
+      "title": "vidIQ",
+      "site": "vidIQ",
+      "description": "Growing your YouTube audience is hard. We make it easy.",
+      "reachable": true,
       "private": false,
       "first_date": "2026-11-16",
       "last_date": "2026-11-16",
@@ -992,14 +1029,18 @@
           "who": "수강생",
           "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
         }
-      ]
+      ],
+      "fetched_at": "2026-11-16T15:31:36.077Z"
     },
     {
       "id": "f6140483dbdf",
       "url": "https://www.youtube.com/watch?v=r5Qb5F_CHfg",
       "kind": "youtube",
-      "site": "youtube.com",
-      "reachable": null,
+      "title": "톱니바퀴 몇개로 구현한 작은 우주, 텔루리온",
+      "site": "YouTube",
+      "author": "지식봄",
+      "thumb": "media/r-f7121a4e/link_thumbs/f6140483dbdf.jpg",
+      "reachable": true,
       "private": false,
       "first_date": "2026-11-16",
       "last_date": "2026-11-16",
@@ -1014,7 +1055,8 @@
           "who": "수강생",
           "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
         }
-      ]
+      ],
+      "fetched_at": "2026-11-16T15:31:36.077Z"
     },
     {
       "id": "c658b9e4cbbf",
