@@ -1,8 +1,1021 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-11-16T14:03:49.853Z",
+  "updated_at": "2026-11-16T14:54:06.097Z",
   "items": [
+    {
+      "id": "06bf3c3d9db7",
+      "url": "https://www.youtube.com/watch?v=jFwoCgJ_PM0",
+      "kind": "youtube",
+      "title": "까마귀 조련사",
+      "site": "YouTube",
+      "author": "깔끔맨",
+      "thumb": "media/r-f7121a4e/link_thumbs/06bf3c3d9db7.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:43",
+          "who": "수강생",
+          "text": "채널링크 : https://www.youtube.com/@%EA%B9%94%EB%81%94%EB%A7%A80/shorts 영상 링크 https://www.youtube.com/shorts/MF5a18g4aS0 https://www.youtube.com/shorts/RXNYFIdhN5I https://www.youtube.com/shorts/aC2LELUZn3M https://www.youtube.com/shorts/jFwoCgJ_PM0 https://www.youtube.com/shorts/ODTI42bmo7s https://ww…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "34cfd1e74149",
+      "url": "https://www.youtube.com/watch?v=l1iOSINTZEU",
+      "kind": "youtube",
+      "title": "소의 뿔을 자르지 않는 이유",
+      "site": "YouTube",
+      "author": "깔끔맨",
+      "thumb": "media/r-f7121a4e/link_thumbs/34cfd1e74149.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:43",
+          "who": "수강생",
+          "text": "채널링크 : https://www.youtube.com/@%EA%B9%94%EB%81%94%EB%A7%A80/shorts 영상 링크 https://www.youtube.com/shorts/MF5a18g4aS0 https://www.youtube.com/shorts/RXNYFIdhN5I https://www.youtube.com/shorts/aC2LELUZn3M https://www.youtube.com/shorts/jFwoCgJ_PM0 https://www.youtube.com/shorts/ODTI42bmo7s https://ww…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "37e406aaf161",
+      "url": "https://www.youtube.com/@%EA%B9%94%EB%81%94%EB%A7%A80/shorts",
+      "kind": "youtube",
+      "site": "youtube.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:43",
+          "who": "수강생",
+          "text": "채널링크 : https://www.youtube.com/@%EA%B9%94%EB%81%94%EB%A7%A80/shorts 영상 링크 https://www.youtube.com/shorts/MF5a18g4aS0 https://www.youtube.com/shorts/RXNYFIdhN5I https://www.youtube.com/shorts/aC2LELUZn3M https://www.youtube.com/shorts/jFwoCgJ_PM0 https://www.youtube.com/shorts/ODTI42bmo7s https://ww…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "41b3b1a508de",
+      "url": "https://www.youtube.com/watch?v=FsOpCpoW-OQ",
+      "kind": "youtube",
+      "title": "인도 부잣집 마당",
+      "site": "YouTube",
+      "author": "깔끔맨",
+      "thumb": "media/r-f7121a4e/link_thumbs/41b3b1a508de.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:43",
+          "who": "수강생",
+          "text": "채널링크 : https://www.youtube.com/@%EA%B9%94%EB%81%94%EB%A7%A80/shorts 영상 링크 https://www.youtube.com/shorts/MF5a18g4aS0 https://www.youtube.com/shorts/RXNYFIdhN5I https://www.youtube.com/shorts/aC2LELUZn3M https://www.youtube.com/shorts/jFwoCgJ_PM0 https://www.youtube.com/shorts/ODTI42bmo7s https://ww…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "66b410281f61",
+      "url": "https://www.youtube.com/watch?v=aC2LELUZn3M",
+      "kind": "youtube",
+      "title": "세상에서 가장 별난 앵무새",
+      "site": "YouTube",
+      "author": "깔끔맨",
+      "thumb": "media/r-f7121a4e/link_thumbs/66b410281f61.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:43",
+          "who": "수강생",
+          "text": "채널링크 : https://www.youtube.com/@%EA%B9%94%EB%81%94%EB%A7%A80/shorts 영상 링크 https://www.youtube.com/shorts/MF5a18g4aS0 https://www.youtube.com/shorts/RXNYFIdhN5I https://www.youtube.com/shorts/aC2LELUZn3M https://www.youtube.com/shorts/jFwoCgJ_PM0 https://www.youtube.com/shorts/ODTI42bmo7s https://ww…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "7f36424182b7",
+      "url": "https://www.youtube.com/watch?v=RXNYFIdhN5I",
+      "kind": "youtube",
+      "title": "동물원의 말썽꾸러기",
+      "site": "YouTube",
+      "author": "깔끔맨",
+      "thumb": "media/r-f7121a4e/link_thumbs/7f36424182b7.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:43",
+          "who": "수강생",
+          "text": "채널링크 : https://www.youtube.com/@%EA%B9%94%EB%81%94%EB%A7%A80/shorts 영상 링크 https://www.youtube.com/shorts/MF5a18g4aS0 https://www.youtube.com/shorts/RXNYFIdhN5I https://www.youtube.com/shorts/aC2LELUZn3M https://www.youtube.com/shorts/jFwoCgJ_PM0 https://www.youtube.com/shorts/ODTI42bmo7s https://ww…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "8f06ee99c79e",
+      "url": "https://www.youtube.com/watch?v=WRgtPRGLJs4",
+      "kind": "youtube",
+      "title": "상자에 TV를 그린 이유",
+      "site": "YouTube",
+      "author": "깔끔맨",
+      "thumb": "media/r-f7121a4e/link_thumbs/8f06ee99c79e.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:43",
+          "who": "수강생",
+          "text": "채널링크 : https://www.youtube.com/@%EA%B9%94%EB%81%94%EB%A7%A80/shorts 영상 링크 https://www.youtube.com/shorts/MF5a18g4aS0 https://www.youtube.com/shorts/RXNYFIdhN5I https://www.youtube.com/shorts/aC2LELUZn3M https://www.youtube.com/shorts/jFwoCgJ_PM0 https://www.youtube.com/shorts/ODTI42bmo7s https://ww…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "a9f7388b5344",
+      "url": "https://www.youtube.com/watch?v=yN-Dd2T6Mrk",
+      "kind": "youtube",
+      "title": "몸에 밴 습관",
+      "site": "YouTube",
+      "author": "깔끔맨",
+      "thumb": "media/r-f7121a4e/link_thumbs/a9f7388b5344.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:43",
+          "who": "수강생",
+          "text": "채널링크 : https://www.youtube.com/@%EA%B9%94%EB%81%94%EB%A7%A80/shorts 영상 링크 https://www.youtube.com/shorts/MF5a18g4aS0 https://www.youtube.com/shorts/RXNYFIdhN5I https://www.youtube.com/shorts/aC2LELUZn3M https://www.youtube.com/shorts/jFwoCgJ_PM0 https://www.youtube.com/shorts/ODTI42bmo7s https://ww…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "b6d10b985e45",
+      "url": "https://www.youtube.com/watch?v=MF5a18g4aS0",
+      "kind": "youtube",
+      "title": "조개와 물고기의 신기한 관계",
+      "site": "YouTube",
+      "author": "깔끔맨",
+      "thumb": "media/r-f7121a4e/link_thumbs/b6d10b985e45.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:43",
+          "who": "수강생",
+          "text": "채널링크 : https://www.youtube.com/@%EA%B9%94%EB%81%94%EB%A7%A80/shorts 영상 링크 https://www.youtube.com/shorts/MF5a18g4aS0 https://www.youtube.com/shorts/RXNYFIdhN5I https://www.youtube.com/shorts/aC2LELUZn3M https://www.youtube.com/shorts/jFwoCgJ_PM0 https://www.youtube.com/shorts/ODTI42bmo7s https://ww…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "d30c84af0add",
+      "url": "https://www.youtube.com/watch?v=wRBKRSNwo-c",
+      "kind": "youtube",
+      "title": "승무원의 의외의 규칙",
+      "site": "YouTube",
+      "author": "깔끔맨",
+      "thumb": "media/r-f7121a4e/link_thumbs/d30c84af0add.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:43",
+          "who": "수강생",
+          "text": "채널링크 : https://www.youtube.com/@%EA%B9%94%EB%81%94%EB%A7%A80/shorts 영상 링크 https://www.youtube.com/shorts/MF5a18g4aS0 https://www.youtube.com/shorts/RXNYFIdhN5I https://www.youtube.com/shorts/aC2LELUZn3M https://www.youtube.com/shorts/jFwoCgJ_PM0 https://www.youtube.com/shorts/ODTI42bmo7s https://ww…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "f2afc22fd541",
+      "url": "https://www.youtube.com/watch?v=ODTI42bmo7s",
+      "kind": "youtube",
+      "title": "침팬지의 지능",
+      "site": "YouTube",
+      "author": "깔끔맨",
+      "thumb": "media/r-f7121a4e/link_thumbs/f2afc22fd541.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:43",
+          "who": "수강생",
+          "text": "채널링크 : https://www.youtube.com/@%EA%B9%94%EB%81%94%EB%A7%A80/shorts 영상 링크 https://www.youtube.com/shorts/MF5a18g4aS0 https://www.youtube.com/shorts/RXNYFIdhN5I https://www.youtube.com/shorts/aC2LELUZn3M https://www.youtube.com/shorts/jFwoCgJ_PM0 https://www.youtube.com/shorts/ODTI42bmo7s https://ww…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "08fbbd32fc69",
+      "url": "https://www.youtube.com/watch?v=19wvFWp_LUc",
+      "kind": "youtube",
+      "title": "드론에 스카이 콩콩을 단 하이브리드 드론",
+      "site": "YouTube",
+      "author": "지식봄",
+      "thumb": "media/r-f7121a4e/link_thumbs/08fbbd32fc69.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "11c516d6eba0",
+      "url": "https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EC%BB%B5%EA%B3%BC+%EC%B9%98%ED%82%A8%ED%83%80%EC%9B%94%EB%A1%9C+%EB%A7%8C%EB%93%A0+%EC%B4%88%ED%8C%8C%EB%A6%AC+%ED%8A%B8%EB%9E%A9%22%2C%22mode%22%3A%22short%22%7D&outlier_score=3.7431671950595837&video_id=jZSr7wpEtG8",
+      "kind": "web",
+      "title": "vidIQ",
+      "site": "vidIQ",
+      "description": "Growing your YouTube audience is hard. We make it easy.",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "207c85e4d803",
+      "url": "https://www.youtube.com/watch?v=rKlS-HKO3OM",
+      "kind": "youtube",
+      "title": "뇌가 우주 법칙에 지배당하면 벌어지는 현상",
+      "site": "YouTube",
+      "author": "지식봄",
+      "thumb": "media/r-f7121a4e/link_thumbs/207c85e4d803.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "2626d3efa27e",
+      "url": "https://www.youtube.com/watch?v=pr30NxmxOUI",
+      "kind": "youtube",
+      "title": "균열 없이 수축하는 집의 빈틈을 막는 탄성 폼",
+      "site": "YouTube",
+      "author": "지식봄",
+      "thumb": "media/r-f7121a4e/link_thumbs/2626d3efa27e.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "34b6899b8c94",
+      "url": "https://www.youtube.com/watch?v=uLDAXBNvRFc",
+      "kind": "youtube",
+      "title": "손가락은 닿은 적이 없다? 촉각의 진짜 정체",
+      "site": "YouTube",
+      "author": "지식봄",
+      "thumb": "media/r-f7121a4e/link_thumbs/34b6899b8c94.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "3636f12e0908",
+      "url": "https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EC%86%90%EA%B0%80%EB%9D%BD%EC%9D%80+%EB%8B%BF%EC%9D%80+%EC%A0%81%EC%9D%B4+%EC%97%86%EB%8B%A4%3F+%EC%B4%89%EA%B0%81%EC%9D%98+%EC%A7%84%EC%A7%9C+%EC%A0%95%EC%B2%B4%22%2C%22mode%22%3A%22short%22%7D&outlier_score=1.1845055147225891&video_id=uLDAXBNvRFc",
+      "kind": "web",
+      "title": "vidIQ",
+      "site": "vidIQ",
+      "description": "Growing your YouTube audience is hard. We make it easy.",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "40fe2beaa961",
+      "url": "https://www.youtube.com/watch?v=y9TSIS4W2y8",
+      "kind": "youtube",
+      "title": "갑작으런 비에 쓰는 꿀팁, 은박 담요로 우의 만들기",
+      "site": "YouTube",
+      "author": "지식봄",
+      "thumb": "media/r-f7121a4e/link_thumbs/40fe2beaa961.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "422480231afe",
+      "url": "https://www.youtube.com/watch?v=O-QRiB_kvvI",
+      "kind": "youtube",
+      "title": "에너지를 아끼기 위한 악어의 도둑기생",
+      "site": "YouTube",
+      "author": "지식봄",
+      "thumb": "media/r-f7121a4e/link_thumbs/422480231afe.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "4fe38baa36bd",
+      "url": "https://www.youtube.com/watch?v=PgxZSoGmGuc",
+      "kind": "youtube",
+      "title": "주인보다 80년을 더 살아남은 135억짜리 자동차",
+      "site": "YouTube",
+      "author": "지식봄",
+      "thumb": "media/r-f7121a4e/link_thumbs/4fe38baa36bd.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "5d5886588466",
+      "url": "https://www.youtube.com/watch?v=FDbPk1piwk8",
+      "kind": "youtube",
+      "title": "곰이 어깨동무까지 할 수 있는 이유",
+      "site": "YouTube",
+      "author": "지식봄",
+      "thumb": "media/r-f7121a4e/link_thumbs/5d5886588466.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "6a34c83f385e",
+      "url": "https://www.youtube.com/watch?v=jZSr7wpEtG8",
+      "kind": "youtube",
+      "title": "컵과 치킨타월로 만든 초파리 트랩",
+      "site": "YouTube",
+      "author": "지식봄",
+      "thumb": "media/r-f7121a4e/link_thumbs/6a34c83f385e.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "839951aaeba0",
+      "url": "https://www.youtube.com/watch?v=GLp2S3scXr0",
+      "kind": "youtube",
+      "title": "하늘에서 보석처럼 쏟아지는 물, 동굴 낙수와 햇무리",
+      "site": "YouTube",
+      "author": "지식봄",
+      "thumb": "media/r-f7121a4e/link_thumbs/839951aaeba0.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "902641377346",
+      "url": "https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts",
+      "kind": "youtube",
+      "site": "youtube.com",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "92e949d4f50d",
+      "url": "https://www.youtube.com/watch?v=9cQs3W4oC8o",
+      "kind": "youtube",
+      "title": "연골이 갈리는 줄 알았던 무릎 뼈 소리의 정체",
+      "site": "YouTube",
+      "author": "지식봄",
+      "thumb": "media/r-f7121a4e/link_thumbs/92e949d4f50d.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "a1d02530cfca",
+      "url": "https://www.youtube.com/watch?v=dGS4wfLDyyc",
+      "kind": "youtube",
+      "title": "도심 속 코르크 나무 수확? 프랑스 전단지 제거 작업",
+      "site": "YouTube",
+      "author": "지식봄",
+      "thumb": "media/r-f7121a4e/link_thumbs/a1d02530cfca.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "b2a1ccdaa6c8",
+      "url": "https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%BF%80%ED%8C%81%2C+%EC%9D%80%EB%B0%95+%EB%8B%B4%EC%9A%94%EB%A1%9C+%EC%9A%B0%EC%9D%98+%EB%A7%8C%EB%93%A4%EA%B8%B0%22%2C%22mode%22%3A%22short%22%7D&outlier_score=1.0023927446969327&video_id=y9TSIS4W2y8",
+      "kind": "web",
+      "title": "vidIQ",
+      "site": "vidIQ",
+      "description": "Growing your YouTube audience is hard. We make it easy.",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "b6e804be4c26",
+      "url": "https://www.youtube.com/watch?v=NOXLfq2fqdA",
+      "kind": "youtube",
+      "title": "13억이 45만 원으로? 세상에서 가장 비싼 폐달러 기념품",
+      "site": "YouTube",
+      "author": "지식봄",
+      "thumb": "media/r-f7121a4e/link_thumbs/b6e804be4c26.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "bac0d44c9c78",
+      "url": "https://www.youtube.com/watch?v=0ostMzfqPJc",
+      "kind": "youtube",
+      "title": "구강 내 트랙패드 기술의 결정체, 어그멘탈 마우스패드",
+      "site": "YouTube",
+      "author": "지식봄",
+      "thumb": "media/r-f7121a4e/link_thumbs/bac0d44c9c78.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "be3936036d93",
+      "url": "https://www.youtube.com/watch?v=EgHrK2tZ0D4",
+      "kind": "youtube",
+      "title": "F110 터보팬 엔진의 성능을 검증하는 런업 테스트 현장",
+      "site": "YouTube",
+      "author": "지식봄",
+      "thumb": "media/r-f7121a4e/link_thumbs/be3936036d93.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ],
+      "fetched_at": "2026-11-16T14:54:06.097Z"
+    },
+    {
+      "id": "c276e9b14589",
+      "url": "https://www.youtube.com/watch?v=4Bon8hxRnCQ",
+      "kind": "youtube",
+      "site": "youtube.com",
+      "reachable": null,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ]
+    },
+    {
+      "id": "c317b0315393",
+      "url": "https://www.youtube.com/watch?v=92QU2ZuFFr8",
+      "kind": "youtube",
+      "site": "youtube.com",
+      "reachable": null,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ]
+    },
+    {
+      "id": "c8642f6542b2",
+      "url": "https://www.youtube.com/watch?v=Y6tk-4WImrE",
+      "kind": "youtube",
+      "site": "youtube.com",
+      "reachable": null,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ]
+    },
+    {
+      "id": "d300d08c243f",
+      "url": "https://www.youtube.com/watch?v=9y2g6w52YMQ",
+      "kind": "youtube",
+      "site": "youtube.com",
+      "reachable": null,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ]
+    },
+    {
+      "id": "dc2f0a2675d8",
+      "url": "https://www.youtube.com/watch?v=ezaaF7gJ2nE",
+      "kind": "youtube",
+      "site": "youtube.com",
+      "reachable": null,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ]
+    },
+    {
+      "id": "df2a1985b7e4",
+      "url": "https://www.youtube.com/watch?v=naDFWveHS98",
+      "kind": "youtube",
+      "site": "youtube.com",
+      "reachable": null,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ]
+    },
+    {
+      "id": "e7d36b2e57c5",
+      "url": "https://www.youtube.com/watch?v=Q5ufy3PTz28",
+      "kind": "youtube",
+      "site": "youtube.com",
+      "reachable": null,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ]
+    },
+    {
+      "id": "e8bddfe87536",
+      "url": "https://www.youtube.com/watch?v=CRjSY6ou5vs",
+      "kind": "youtube",
+      "site": "youtube.com",
+      "reachable": null,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ]
+    },
+    {
+      "id": "ebe2e539be9e",
+      "url": "https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EB%87%8C%EA%B0%80+%EC%9A%B0%EC%A3%BC+%EB%B2%95%EC%B9%99%EC%97%90+%EC%A7%80%EB%B0%B0%EB%8B%B9%ED%95%98%EB%A9%B4+%EB%B2%8C%EC%96%B4%EC%A7%80%EB%8A%94+%ED%98%84%EC%83%81%22%2C%22mode%22%3A%22short%22%7D&outlier_score=3.6760515622650853&video_id=rKlS-HKO3OM",
+      "kind": "web",
+      "site": "app.vidiq.com",
+      "reachable": null,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ]
+    },
+    {
+      "id": "f099a530a18d",
+      "url": "https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EC%B2%98%EC%9D%8C%EB%B3%B4%EB%8A%94+%EC%9E%A5%EC%97%84%ED%95%98%EA%B3%A0+%EC%9A%B0%EC%95%84%ED%95%9C+%EB%B0%A9%EC%8B%9D%EC%9D%98+%ED%8C%8C%EC%BF%A0%EB%A5%B4%22%2C%22mode%22%3A%22short%22%7D&outlier_score=1.3760964251637755&video_id=Q5ufy3PTz28",
+      "kind": "web",
+      "site": "app.vidiq.com",
+      "reachable": null,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ]
+    },
+    {
+      "id": "f6140483dbdf",
+      "url": "https://www.youtube.com/watch?v=r5Qb5F_CHfg",
+      "kind": "youtube",
+      "site": "youtube.com",
+      "reachable": null,
+      "private": false,
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-16",
+          "time": "22:27",
+          "who": "수강생",
+          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
+        }
+      ]
+    },
     {
       "id": "c658b9e4cbbf",
       "url": "https://open.kakao.com/o/stU9vRth",
