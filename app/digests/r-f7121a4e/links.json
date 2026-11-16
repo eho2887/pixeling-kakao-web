@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-11-16T10:14:34.040Z",
+  "updated_at": "2026-11-16T10:53:05.265Z",
   "items": [
     {
       "id": "c658b9e4cbbf",
@@ -135,6 +135,84 @@
         }
       ],
       "fetched_at": "2026-11-06T08:37:24.913Z"
+    },
+    {
+      "id": "9f041ae04316",
+      "url": "https://www.youtube.com/watch?v=U2l84axmV3g",
+      "kind": "youtube",
+      "title": "쇠를 품은 목검, 꽃으로 꺾다｜매화는 다시 핀다 5화 「소년 비무」",
+      "site": "YouTube",
+      "author": "안녕하세요 회빙환입니다 잘부탁드립니다",
+      "thumb": "media/r-f7121a4e/link_thumbs/9f041ae04316.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-15",
+      "last_date": "2026-11-15",
+      "dates": [
+        "2026-11-15"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-15",
+          "time": "12:16",
+          "who": "조교",
+          "text": "https://www.youtube.com/watch?v=U2l84axmV3g"
+        }
+      ],
+      "fetched_at": "2026-11-16T10:53:05.265Z"
+    },
+    {
+      "id": "02ed80975604",
+      "url": "https://www.youtube.com/watch?v=yCZPwciwm_8",
+      "kind": "youtube",
+      "title": "“He Turned a Bow and Arrow Into a Gatling Gun!”☠️🔥 | Robin Hood | #Trending #Shorts",
+      "site": "YouTube",
+      "author": "Yah Bak",
+      "thumb": "media/r-f7121a4e/link_thumbs/02ed80975604.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-14",
+      "last_date": "2026-11-14",
+      "dates": [
+        "2026-11-14"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-14",
+          "time": "22:54",
+          "who": "수강생",
+          "text": "https://youtube.com/shorts/yCZPwciwm_8 영상이 원본이랑 질감이 많이 다른데 이런건 무슨 효과를 넣어야 하는지 아시는분 계실까요? 코덱스 하루종일 다그쳐도 반도 못따라가더라구요"
+        }
+      ],
+      "fetched_at": "2026-11-16T10:53:05.265Z"
+    },
+    {
+      "id": "aa9056334ac9",
+      "url": "https://www.youtube.com/watch?v=0LUyJBIJTjc",
+      "kind": "youtube",
+      "title": "서울상공 핵폭발",
+      "site": "YouTube",
+      "author": "만일의 연구소",
+      "thumb": "media/r-f7121a4e/link_thumbs/aa9056334ac9.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-14",
+      "last_date": "2026-11-14",
+      "dates": [
+        "2026-11-14"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-14",
+          "time": "22:37",
+          "who": "수강생",
+          "text": "https://youtu.be/0LUyJBIJTjc 아스트라로 만든것 같은데 조회수 ㄷㄷ"
+        }
+      ],
+      "fetched_at": "2026-11-16T10:53:05.265Z"
     },
     {
       "id": "71991c84d280",
