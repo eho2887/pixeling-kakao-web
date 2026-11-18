@@ -1,8 +1,31 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-11-17T08:59:10.268Z",
+  "updated_at": "2026-11-18T05:43:01.732Z",
   "items": [
+    {
+      "id": "766e5afc83e9",
+      "url": "https://hotdeal.zip/%ED%95%9C%EC%84%B1%EC%BB%B4%ED%93%A8%ED%84%B09800x3d-9070xt-2tb-%EC%99%84%EB%B3%B8%EC%B2%B4-5de0",
+      "kind": "web",
+      "site": "hotdeal.zip",
+      "reachable": false,
+      "private": false,
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-18",
+      "dates": [
+        "2026-11-18"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-18",
+          "time": "14:25",
+          "who": "수강생",
+          "text": "https://hotdeal.zip/%ED%95%9C%EC%84%B1%EC%BB%B4%ED%93%A8%ED%84%B09800x3d-9070xt-2tb-%EC%99%84%EB%B3%B8%EC%B2%B4-5de0"
+        }
+      ],
+      "fetched_at": "2026-11-18T05:43:01.732Z"
+    },
     {
       "id": "06bf3c3d9db7",
       "url": "https://www.youtube.com/watch?v=jFwoCgJ_PM0",
