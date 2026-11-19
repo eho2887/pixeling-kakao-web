@@ -1,8 +1,89 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-11-19T06:08:23.730Z",
+  "updated_at": "2026-11-19T07:15:27.418Z",
   "items": [
+    {
+      "id": "bc8c98b7b929",
+      "url": "https://litt.ly/banpolong/sale/NnRN3ny",
+      "kind": "web",
+      "title": "리틀리 | 반포자이가즈아",
+      "site": "리틀리 | 반포자이가즈아",
+      "description": "안녕하세요. 반포자이가즈아 입니다. 여러분 항상 감사합니다.😀 사랑합니다.",
+      "thumb": "media/r-f7121a4e/link_thumbs/bc8c98b7b929.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-19",
+      "last_date": "2026-11-19",
+      "dates": [
+        "2026-11-19"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-19",
+          "time": "15:57",
+          "who": "수강생",
+          "text": "https://litt.ly/banpolong/sale/NnRN3ny"
+        }
+      ],
+      "fetched_at": "2026-11-19T07:15:27.418Z"
+    },
+    {
+      "id": "408668873cb2",
+      "url": "https://verdant-roadway-53f.notion.site/5-3e238801f0c880db8575c3e86d5cdb26",
+      "kind": "doc",
+      "site": "verdant-roadway-53f.notion.site",
+      "reachable": null,
+      "private": true,
+      "first_date": "2026-11-11",
+      "last_date": "2026-11-19",
+      "dates": [
+        "2026-11-11",
+        "2026-11-19"
+      ],
+      "mention_count": 2,
+      "contexts": [
+        {
+          "date": "2026-11-19",
+          "time": "15:42",
+          "who": "수강생",
+          "text": "https://verdant-roadway-53f.notion.site/5-3e238801f0c880db8575c3e86d5cdb26"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "09:32",
+          "who": "수강생",
+          "text": "https://verdant-roadway-53f.notion.site/5-3e238801f0c880db8575c3e86d5cdb26"
+        }
+      ]
+    },
+    {
+      "id": "bc8208332ddc",
+      "url": "https://litt.ly/leesj7988__official",
+      "kind": "web",
+      "title": "리틀리 | 노는행님",
+      "site": "리틀리 | 노는행님",
+      "description": "AI로 돈 벌고, 인생은 즐겁게 😎",
+      "thumb": "media/r-f7121a4e/link_thumbs/bc8208332ddc.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-19",
+      "last_date": "2026-11-19",
+      "dates": [
+        "2026-11-19"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-19",
+          "time": "15:42",
+          "who": "수강생",
+          "text": "https://litt.ly/leesj7988__official"
+        }
+      ],
+      "fetched_at": "2026-11-19T07:15:27.418Z"
+    },
     {
       "id": "576602d44876",
       "url": "https://cafeptthumb-phinf.pstatic.net/MjAyNjExMThfNDYg/MDAxNzk1MDA0MzAyOTE0.irlL1b0ASzb-cJIqE0b-KZNlr7J9OSbpSCMQU7Xif_og.rFlXTy1Sssyk9Gf7YLVs4RwO9Oix3fu2sIjDQNRt_CAg.PNG/image.png?type=w1600",
@@ -1694,28 +1775,6 @@
         }
       ],
       "fetched_at": "2026-11-11T18:55:57.399Z"
-    },
-    {
-      "id": "408668873cb2",
-      "url": "https://verdant-roadway-53f.notion.site/5-3e238801f0c880db8575c3e86d5cdb26",
-      "kind": "doc",
-      "site": "verdant-roadway-53f.notion.site",
-      "reachable": null,
-      "private": true,
-      "first_date": "2026-11-11",
-      "last_date": "2026-11-11",
-      "dates": [
-        "2026-11-11"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-11",
-          "time": "09:32",
-          "who": "수강생",
-          "text": "https://verdant-roadway-53f.notion.site/5-3e238801f0c880db8575c3e86d5cdb26"
-        }
-      ]
     },
     {
       "id": "6cb12b9cda0c",
