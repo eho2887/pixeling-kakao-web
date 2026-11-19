@@ -1,8 +1,33 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-11-19T07:15:27.418Z",
+  "updated_at": "2026-11-19T07:48:12.083Z",
   "items": [
+    {
+      "id": "30e38a279806",
+      "url": "https://open.kakao.com/o/s84zHzIh",
+      "kind": "web",
+      "title": "2기 룰루랄라릴리 오픈 채팅방",
+      "site": "open.kakao.com",
+      "thumb": "media/r-f7121a4e/link_thumbs/30e38a279806.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-19",
+      "last_date": "2026-11-19",
+      "dates": [
+        "2026-11-19"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-19",
+          "time": "16:34",
+          "who": "강사",
+          "text": "https://open.kakao.com/o/s84zHzIh 여기용!"
+        }
+      ],
+      "fetched_at": "2026-11-19T07:48:12.083Z"
+    },
     {
       "id": "bc8c98b7b929",
       "url": "https://litt.ly/banpolong/sale/NnRN3ny",
