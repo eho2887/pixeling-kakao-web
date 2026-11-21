@@ -1,8 +1,31 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-11-21T09:37:29.872Z",
+  "updated_at": "2026-11-21T16:12:03.599Z",
   "items": [
+    {
+      "id": "bf9e02b2ae66",
+      "url": "https://url.kr/3eo6cl",
+      "kind": "web",
+      "site": "url.kr",
+      "reachable": false,
+      "private": false,
+      "first_date": "2026-11-22",
+      "last_date": "2026-11-22",
+      "dates": [
+        "2026-11-22"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-22",
+          "time": "01:03",
+          "who": "수강생",
+          "text": "🎁 당신의 노래를 만들어 드립니다 위로가 필요한 날, 응원이 필요한 날, 그냥 오늘이 좋은 날을 위한 노래. 듣고 싶은 곡 분위기만 알려 주세요. 완성곡을 메일로 보내 드립니다. 👉 https://url.kr/3eo6cl"
+        }
+      ],
+      "fetched_at": "2026-11-21T16:12:03.599Z"
+    },
     {
       "id": "4092b6d8322a",
       "url": "https://www.capcut.com/ko-kr/tools/capcut-black-friday-sale",
