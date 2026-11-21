@@ -1,8 +1,33 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-11-20T12:45:40.233Z",
+  "updated_at": "2026-11-21T08:30:12.965Z",
   "items": [
+    {
+      "id": "4092b6d8322a",
+      "url": "https://www.capcut.com/ko-kr/tools/capcut-black-friday-sale",
+      "kind": "web",
+      "title": "CapCut블랙 프라이데이 세일: 첫 달에 90% 할인을 받으세요!",
+      "site": "CapCut",
+      "description": "CapCutPC 전용. 신규 사용자, 만료가 임박한 사용자 및 30일 이상 전에 구독이 만료된 사용자는 매월 구독으로 첫 달에 90% 할인을 받을 수 있으며 신규 사용자를 위한 무료 평가판을 제공합니다!",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-21",
+      "dates": [
+        "2026-11-21"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-21",
+          "time": "17:06",
+          "who": "수강생",
+          "text": "https://www.capcut.com/ko-kr/tools/capcut-black-friday-sale 캡컷 이번에 블랙프라이데이 할인하네요. 신규사용자, 만료 임박 사용자 등. 첫달 2,000원정도에요. 픽셀링 에디터로 넘어가기전에 사용하실분들 이번에 부담없이 사용하면 좋을거 같아요."
+        }
+      ],
+      "fetched_at": "2026-11-21T08:30:12.965Z"
+    },
     {
       "id": "3daf47f5af7b",
       "url": "https://www.youtube.com/watch?v=PHhxgXPiikc",
