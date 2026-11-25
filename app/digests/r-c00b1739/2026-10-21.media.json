@@ -28,30 +28,6 @@
       "bytes": 38850
     },
     {
-      "id": "b08cfceb4e49",
-      "kind": "image",
-      "t": "2026-10-21T15:33:00+09:00",
-      "time": "15:33",
-      "who": "수강생",
-      "text": "시니어 사연 채널 영상 썸네일 목록 캡처. 여섯 개 썸네일과 일부 재생 시간·조회 수가 표시됨.",
-      "file": "media/r-c00b1739/b08cfceb4e49.jpg",
-      "thumb": "media/r-c00b1739/thumbs/b08cfceb4e49.jpg",
-      "mime": "image/jpeg",
-      "bytes": 422706
-    },
-    {
-      "id": "81a6174bc7fc",
-      "kind": "image",
-      "t": "2026-10-21T16:48:00+09:00",
-      "time": "16:48",
-      "who": "조교",
-      "text": "바람의나라: 연 로그인 대기열 화면(대기 번호 약 15380)",
-      "file": "media/r-c00b1739/81a6174bc7fc.jpg",
-      "thumb": "media/r-c00b1739/thumbs/81a6174bc7fc.jpg",
-      "mime": "image/jpeg",
-      "bytes": 80146
-    },
-    {
       "id": "717fe2576212",
       "kind": "image",
       "t": "2026-10-21T18:17:00+09:00",
@@ -64,16 +40,6 @@
       "bytes": 372834
     },
     {
-      "id": "6251ae3b9762",
-      "kind": "file",
-      "t": "2026-10-21T19:53:00+09:00",
-      "time": "19:53",
-      "who": "수강생",
-      "text": "영상 파일 KakaoTalk_Video_[계좌].mp4, 길이 1:22. 첫 화면에 “마블, 가슴 아픈 장면 랭킹”, “스티브와 페기의 재회”, “70년 만에 다시 만난 연인”, “방금 나눈 대화마저 잊었다” 자막이 보임",
-      "name": "KakaoTalk_Video_[계좌].mp4",
-      "sensitive": true
-    },
-    {
       "id": "3404f4fd9904",
       "kind": "image",
       "t": "2026-10-21T21:03:00+09:00",
@@ -84,18 +50,6 @@
       "thumb": "media/r-c00b1739/thumbs/3404f4fd9904.jpg",
       "mime": "image/png",
       "bytes": 10867
-    },
-    {
-      "id": "eb4970799301",
-      "kind": "image",
-      "t": "2026-10-21T21:23:00+09:00",
-      "time": "21:23",
-      "who": "수강생",
-      "text": "표 형식으로 건강 분야 유튜브 채널명·구독자 수·소개가 나열됨. 보이는 글자: 건강·의학, 닥터프렌즈, 143만, 의사들의 의학 설명, 진찰과 생활 건강, 닥터딩요, 95.7만.",
-      "file": "media/r-c00b1739/eb4970799301.png",
-      "thumb": "media/r-c00b1739/thumbs/eb4970799301.jpg",
-      "mime": "image/png",
-      "bytes": 24491
     }
   ]
 }

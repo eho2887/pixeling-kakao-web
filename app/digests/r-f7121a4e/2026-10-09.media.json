@@ -4,18 +4,6 @@
   "date": "2026-10-09",
   "items": [
     {
-      "id": "2005d23335fc",
-      "kind": "image",
-      "t": "2026-10-09T00:29:00+09:00",
-      "time": "00:29",
-      "who": "수강생",
-      "text": "Pixeling \"프리셋 저장\" 오류 화면 캡처. \"저장되지 않았어요\", \"이 영상과 일치하는 검증된 제작 기록을 찾지 못했어요. 문서나 제작 코드의 작업별 등록만으로는 저장할 수 없어요. Pixeling에서 제작·검증을 마친 출력 영상을 선택해 주세요.\" 문구와 \"이 채팅의 검증된 영상 찾기\", \"이 채팅에서 제작 준비\", \"닫기\", \"다시 확인\" 버튼이 보임.",
-      "file": "media/r-f7121a4e/2005d23335fc.png",
-      "thumb": "media/r-f7121a4e/thumbs/2005d23335fc.jpg",
-      "mime": "image/png",
-      "bytes": 43192
-    },
-    {
       "id": "437e479e7871",
       "kind": "image",
       "t": "2026-10-09T10:42:00+09:00",
@@ -26,52 +14,6 @@
       "thumb": "media/r-f7121a4e/thumbs/437e479e7871.jpg",
       "mime": "image/png",
       "bytes": 54917
-    },
-    {
-      "id": "e40d4df57af2",
-      "kind": "file",
-      "t": "2026-10-09T13:23:00+09:00",
-      "time": "13:23",
-      "who": "수강생",
-      "text": "영상 파일, 길이 0:37. 첫 화면에 도시 전경과 풍선, '풍선을 날렸는데 도시 전체의 문제가 된 사건', 'BALLOONFEST 86' 자막.",
-      "name": "KakaoTalk_Video_[계좌].mp4",
-      "mime": "video/mp4",
-      "bytes": 8975271,
-      "remote": false
-    },
-    {
-      "id": "7e61068651cc",
-      "kind": "file",
-      "t": "2026-10-09T14:09:00+09:00",
-      "time": "14:09",
-      "who": "수강생",
-      "text": "영상 15.3 MB, 1:08. 실제 재생 확인: '사진 한 장만이 끝나지 않는 이유' 제목의 세로 영상. 사람 얼굴이 보여 개인정보 포함 미디어로 표시.",
-      "name": "KakaoTalk_Video_[계좌].mp4",
-      "sensitive": true
-    },
-    {
-      "id": "3641b9a73f82",
-      "kind": "image",
-      "t": "2026-10-09T14:18:00+09:00",
-      "time": "14:18",
-      "who": "강사",
-      "text": "대화 내용을 AI에 입력한 화면 캡처. \"이런 심리를 넣어서 새로운 대본을 만들어줄래?\" 문구와 쇼츠 제작 피드백 대화가 보임.",
-      "file": "media/r-f7121a4e/3641b9a73f82.png",
-      "thumb": "media/r-f7121a4e/thumbs/3641b9a73f82.jpg",
-      "mime": "image/png",
-      "bytes": 111328
-    },
-    {
-      "id": "ed8056f1ab66",
-      "kind": "image",
-      "t": "2026-10-09T14:19:00+09:00",
-      "time": "14:19",
-      "who": "강사",
-      "text": "영문 논문 페이지 캡처. \"Change in Rating\", \"Satisficers\", \"Maximizers\", \"Slower Peer\", \"Faster Peer\"가 표시된 막대그래프 두 개가 보임.",
-      "file": "media/r-f7121a4e/ed8056f1ab66.png",
-      "thumb": "media/r-f7121a4e/thumbs/ed8056f1ab66.jpg",
-      "mime": "image/png",
-      "bytes": 148472
     },
     {
       "id": "eb997aae5a6c",
@@ -96,36 +38,6 @@
       "thumb": "media/r-f7121a4e/thumbs/c02a7fb4b799.jpg",
       "mime": "image/png",
       "bytes": 84866
-    },
-    {
-      "id": "fac1918ec64d",
-      "kind": "image",
-      "t": "2026-10-09T16:02:00+09:00",
-      "time": "16:02",
-      "who": "조교",
-      "text": "카카오톡 선물하기의 스타벅스 제품 교환권 1만원권 화면. \"당신을 위해 준비한 선물이에요\", \"스타벅스 선물을 보냈어요.\", \"모바일에서 확인해 주세요.\"가 표시됨.",
-      "file": "media/r-f7121a4e/fac1918ec64d.jpg",
-      "thumb": "media/r-f7121a4e/thumbs/fac1918ec64d.jpg",
-      "mime": "image/jpeg",
-      "bytes": 57497
-    },
-    {
-      "id": "7963bed220cd",
-      "kind": "image",
-      "t": "2026-10-09T18:25:00+09:00",
-      "time": "18:25",
-      "who": "수강생",
-      "text": "사람이 나온 사진.",
-      "sensitive": true
-    },
-    {
-      "id": "5e7484f395ea",
-      "kind": "image",
-      "t": "2026-10-09T19:32:00+09:00",
-      "time": "19:32",
-      "who": "수강생",
-      "text": "카카오톡 모바일 채팅 화면. 네이버 카페 성과 인증 링크와 미리보기가 보인다.",
-      "sensitive": true
     }
   ]
 }

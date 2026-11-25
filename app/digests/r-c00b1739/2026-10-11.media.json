@@ -4,18 +4,6 @@
   "date": "2026-10-11",
   "items": [
     {
-      "id": "817419f719dd",
-      "kind": "image",
-      "t": "2026-10-11T20:16:00+09:00",
-      "time": "20:16",
-      "who": "수강생",
-      "text": "이 채팅의 AI 설정 화면 캡처. 'GPT-6.1 Sol' 선택, '최대 (Max)', '빠른 모드' 켜짐.",
-      "file": "media/r-c00b1739/817419f719dd.png",
-      "thumb": "media/r-c00b1739/thumbs/817419f719dd.jpg",
-      "mime": "image/png",
-      "bytes": 28738
-    },
-    {
       "id": "939e594fff79",
       "kind": "image",
       "t": "2026-10-11T21:18:00+09:00",

@@ -4,36 +4,6 @@
   "date": "2026-10-12",
   "items": [
     {
-      "id": "839080c8b238",
-      "kind": "image",
-      "t": "2026-10-12T01:51:00+09:00",
-      "time": "01:51",
-      "who": "수강생",
-      "text": "YouTube 고급 기능·전화번호 인증 안내 화면 캡처(본인 확인·전화번호 입력 화면으로 값은 옮기지 않음).",
-      "sensitive": true
-    },
-    {
-      "id": "745801734468",
-      "kind": "image",
-      "t": "2026-10-12T02:10:00+09:00",
-      "time": "02:10",
-      "who": "수강생",
-      "text": "Google 본인 인증 화면 캡처. '카메라 액세스 권한 필요'가 표시됨(계정 정보가 보여 옮기지 않음).",
-      "sensitive": true
-    },
-    {
-      "id": "ee197e4d3e77",
-      "kind": "image",
-      "t": "2026-10-12T02:25:00+09:00",
-      "time": "02:25",
-      "who": "수강생",
-      "text": "유튜브 기능 설정 화면 캡처. '2. 중급 기능', '사용 설정됨', '맞춤 미리보기 이미지', '실시간 스트리밍', '길이가 15분을 넘는 동영상'이 보임. 요구사항에 '표준 기능이 사용 설정됨', '전화번호 인증'이 표시됨.",
-      "file": "media/r-f7121a4e/ee197e4d3e77.png",
-      "thumb": "media/r-f7121a4e/thumbs/ee197e4d3e77.jpg",
-      "mime": "image/png",
-      "bytes": 24174
-    },
-    {
       "id": "43636ab2f28e",
       "kind": "image",
       "t": "2026-10-12T10:05:00+09:00",
@@ -82,15 +52,6 @@
       "bytes": 74766
     },
     {
-      "id": "3627e7786b74",
-      "kind": "image",
-      "t": "2026-10-12T14:15:00+09:00",
-      "time": "14:15",
-      "who": "수강생",
-      "text": "픽셀링 오류 안내 화면 캡처. \"Error running remote compact task: stream disconnected before completion\" 문구가 표시되어 있음(요청 식별자는 옮기지 않음).",
-      "sensitive": true
-    },
-    {
       "id": "a3e02fd0388e",
       "kind": "image",
       "t": "2026-10-12T18:53:00+09:00",
@@ -101,18 +62,6 @@
       "thumb": "media/r-f7121a4e/thumbs/a3e02fd0388e.jpg",
       "mime": "image/png",
       "bytes": 135672
-    },
-    {
-      "id": "6a690248a9ac",
-      "kind": "image",
-      "t": "2026-10-12T18:55:00+09:00",
-      "time": "18:55",
-      "who": "수강생",
-      "text": "2단계 인증 사용 안내. Google 보안 페이지로 이동하고 완료 후 YouTube로 돌아오는 안내 및 나중에·계속 버튼 표시.",
-      "file": "media/r-f7121a4e/6a690248a9ac.png",
-      "thumb": "media/r-f7121a4e/thumbs/6a690248a9ac.jpg",
-      "mime": "image/png",
-      "bytes": 29726
     },
     {
       "id": "f6bc6f7370d4",
@@ -127,27 +76,6 @@
       "bytes": 49184
     },
     {
-      "id": "56e7e43cceb6",
-      "kind": "image",
-      "t": "2026-10-12T18:55:00+09:00",
-      "time": "18:55",
-      "who": "수강생",
-      "text": "본인 인증을 위한 빈 비밀번호 입력 화면. 비밀번호 표시 체크박스, 비밀번호 찾기 및 다음 버튼 표시.",
-      "file": "media/r-f7121a4e/56e7e43cceb6.png",
-      "thumb": "media/r-f7121a4e/thumbs/56e7e43cceb6.jpg",
-      "mime": "image/png",
-      "bytes": 20972
-    },
-    {
-      "id": "e3e18fdec871",
-      "kind": "image",
-      "t": "2026-10-12T18:56:00+09:00",
-      "time": "18:56",
-      "who": "수강생",
-      "text": "Google 본인 인증을 할 수 없습니다 안내 화면. 계정 식별 영역이 보여 상세 값을 옮기지 않음.",
-      "sensitive": true
-    },
-    {
       "id": "9fb19a3051fe",
       "kind": "image",
       "t": "2026-10-12T19:22:00+09:00",
@@ -158,24 +86,6 @@
       "thumb": "media/r-f7121a4e/thumbs/9fb19a3051fe.jpg",
       "mime": "image/png",
       "bytes": 6415
-    },
-    {
-      "id": "4cd3bffaec08",
-      "kind": "image",
-      "t": "2026-10-12T21:08:00+09:00",
-      "time": "21:08",
-      "who": "수강생",
-      "text": "플랜 업그레이드 화면. \"Pro\", \"더 넉넉한 사용 한도\", \"JPY 30,000\" 표시. 하단에 대화 작성자와 날짜가 보여 옮기지 않음.",
-      "sensitive": true
-    },
-    {
-      "id": "45de266b3ac0",
-      "kind": "image",
-      "t": "2026-10-12T21:25:00+09:00",
-      "time": "21:25",
-      "who": "수강생",
-      "text": "ChatGPT 오류 화면 캡처. \"stream disconnected before completion: An error occurred while processing your request. You can retry your request, or contact us through our help center at help.openai.com if the error persists.\" 오류 두 건. 요청 식별자가 보여 옮기지 않음.",
-      "sensitive": true
     }
   ]
 }

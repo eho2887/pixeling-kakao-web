@@ -16,15 +16,6 @@
       "bytes": 1954
     },
     {
-      "id": "f848185b0782",
-      "kind": "image",
-      "t": "2026-10-13T15:54:00+09:00",
-      "time": "15:54",
-      "who": "수강생",
-      "text": "YouTube 채널 자격 화면 캡처. \"영상 인증\", \"유효한 신분증\", \"채널 기록\" 항목과 이의신청 기한 2026년 11월 11일, 정책 위반 판단 경고 문구가 보임.",
-      "sensitive": true
-    },
-    {
       "id": "9c4ab4fda270",
       "kind": "image",
       "t": "2026-10-13T19:25:00+09:00",
@@ -47,30 +38,6 @@
       "thumb": "media/r-c00b1739/thumbs/87468edf0c0f.jpg",
       "mime": "image/png",
       "bytes": 87471
-    },
-    {
-      "id": "695dc1fa25ce",
-      "kind": "image",
-      "t": "2026-10-13T20:53:00+09:00",
-      "time": "20:53",
-      "who": "수강생",
-      "text": "유튜브 채널 통계 이미지. ‘지난 28일 동안 642 증가’ 문구가 보임.",
-      "file": "media/r-c00b1739/695dc1fa25ce.png",
-      "thumb": "media/r-c00b1739/thumbs/695dc1fa25ce.jpg",
-      "mime": "image/png",
-      "bytes": 5277
-    },
-    {
-      "id": "21610152b561",
-      "kind": "image",
-      "t": "2026-10-13T20:53:00+09:00",
-      "time": "20:53",
-      "who": "수강생",
-      "text": "유튜브 영상 이미지. Home Alone 영화 장면 및 Movieclips 채널 미리보기.",
-      "file": "media/r-c00b1739/21610152b561.png",
-      "thumb": "media/r-c00b1739/thumbs/21610152b561.jpg",
-      "mime": "image/png",
-      "bytes": 428242
     },
     {
       "id": "5ade9ca7720b",
@@ -119,33 +86,6 @@
       "thumb": "media/r-c00b1739/thumbs/1e3faf15a6eb.jpg",
       "mime": "image/png",
       "bytes": 72405
-    },
-    {
-      "id": "247905342537",
-      "kind": "image",
-      "t": "2026-10-13T22:22:00+09:00",
-      "time": "22:22",
-      "who": "수강생",
-      "text": "대화형 앱 화면 캡처. 대화 목록과 메시지 내용이 보여 내용을 옮기지 않음.",
-      "sensitive": true
-    },
-    {
-      "id": "89a24060be92",
-      "kind": "image",
-      "t": "2026-10-13T22:24:00+09:00",
-      "time": "22:24",
-      "who": "수강생",
-      "text": "앱 화면 캡처. 하단에 빨간 오류 안내 영역이 보이고, 대화 목록과 메시지 내용이 있어 글자는 옮기지 않음.",
-      "sensitive": true
-    },
-    {
-      "id": "e85ce3d7dc38",
-      "kind": "image",
-      "t": "2026-10-13T22:28:00+09:00",
-      "time": "22:28",
-      "who": "수강생",
-      "text": "Windows 명령 실행 허용 대화상자. PowerShell 명령과 허용 관련 선택지가 보임.",
-      "sensitive": true
     }
   ]
 }

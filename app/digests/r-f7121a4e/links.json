@@ -4,84 +4,6 @@
   "updated_at": "2026-11-25T03:51:56.396Z",
   "items": [
     {
-      "id": "801d55b23f3f",
-      "url": "https://gitflic.ru/project/kurtbestor/hitomi-downloader/release/a8b96f1b-eb39-44f9-90de-8cec329f3f6b",
-      "kind": "web",
-      "title": "kurtbestor/Hitomi Downloader",
-      "site": "gitflic.ru",
-      "description": "Участвуйте в разработке kurtbestor/Hitomi Downloader, создав учетную запись в GitFlic.",
-      "thumb": "media/r-f7121a4e/link_thumbs/801d55b23f3f.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-25",
-      "last_date": "2026-11-25",
-      "dates": [
-        "2026-11-25"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-25",
-          "time": "12:39",
-          "who": "수강생",
-          "text": "그 혹시 룰루선생님. 사용하시던 히토미 다운로더 노션에는 안보이고. Github 배포페이지꺼는 접근이 차단되었다고 하는데요. gitflic에 있는거 알려주는데요. https://gitflic.ru/project/kurtbestor/hitomi-downloader/release/a8b96f1b-eb39-44f9-90de-8cec329f3f6b 이거 받으면 될까요?"
-        }
-      ],
-      "fetched_at": "2026-11-25T03:51:56.396Z"
-    },
-    {
-      "id": "fd5d5362dcc8",
-      "url": "https://www.youtube.com/watch?v=e5xe6xHFLA8",
-      "kind": "youtube",
-      "title": "날수 있지만 비행은 사치인 새 #동물#새#로드러너#유머#힐링#animal",
-      "site": "YouTube",
-      "author": "유머더쿠",
-      "thumb": "media/r-f7121a4e/link_thumbs/fd5d5362dcc8.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-25",
-      "last_date": "2026-11-25",
-      "dates": [
-        "2026-11-25"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-25",
-          "time": "01:29",
-          "who": "수강생",
-          "text": "https://youtube.com/shorts/e5xe6xHFLA8"
-        }
-      ],
-      "fetched_at": "2026-11-24T16:54:32.768Z"
-    },
-    {
-      "id": "157e23132c90",
-      "url": "https://www.youtube.com/watch?v=WUgY4Z1W-fA",
-      "kind": "youtube",
-      "title": "날개 놔두고 코요테 약 올리는 새… 진짜 실존한다고? #로드러너 #코요테 #신기한동물 #약육강식",
-      "site": "YouTube",
-      "author": "푸닥푸닥",
-      "thumb": "media/r-f7121a4e/link_thumbs/157e23132c90.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-25",
-      "last_date": "2026-11-25",
-      "dates": [
-        "2026-11-25"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-25",
-          "time": "01:21",
-          "who": "수강생",
-          "text": "https://youtube.com/shorts/WUgY4Z1W-fA"
-        }
-      ],
-      "fetched_at": "2026-11-24T16:54:32.768Z"
-    },
-    {
       "id": "b2bddfa78754",
       "url": "https://cloudconvert.com/mp4-converter",
       "kind": "web",
@@ -96,14 +18,7 @@
         "2026-11-24"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-24",
-          "time": "14:22",
-          "who": "수강생",
-          "text": "https://cloudconvert.com/mp4-converter"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-24T05:35:35.728Z"
     },
     {
@@ -122,38 +37,8 @@
         "2026-11-22"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-22",
-          "time": "05:11",
-          "who": "수강생",
-          "text": "리트냥이로 천만원 버는법 https://www.threads.com/share/BAAXA9mkRG"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-21T20:32:50.033Z"
-    },
-    {
-      "id": "bf9e02b2ae66",
-      "url": "https://url.kr/3eo6cl",
-      "kind": "web",
-      "site": "url.kr",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-11-22",
-      "last_date": "2026-11-22",
-      "dates": [
-        "2026-11-22"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-22",
-          "time": "01:03",
-          "who": "수강생",
-          "text": "🎁 당신의 노래를 만들어 드립니다 위로가 필요한 날, 응원이 필요한 날, 그냥 오늘이 좋은 날을 위한 노래. 듣고 싶은 곡 분위기만 알려 주세요. 완성곡을 메일로 보내 드립니다. 👉 https://url.kr/3eo6cl"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
     },
     {
       "id": "4092b6d8322a",
@@ -170,41 +55,8 @@
         "2026-11-21"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-21",
-          "time": "17:06",
-          "who": "수강생",
-          "text": "https://www.capcut.com/ko-kr/tools/capcut-black-friday-sale 캡컷 이번에 블랙프라이데이 할인하네요. 신규사용자, 만료 임박 사용자 등. 첫달 2,000원정도에요. 픽셀링 에디터로 넘어가기전에 사용하실분들 이번에 부담없이 사용하면 좋을거 같아요."
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-21T08:30:12.965Z"
-    },
-    {
-      "id": "7d3ec463ff70",
-      "url": "https://www.instagram.com/reel/Df6Au9GtZPv?cnvx=bWk0bDM3Ync0eGVy",
-      "kind": "video",
-      "title": "Instagram의 Pacidrop님 : \"Blue, pink or green — which one would you pick? 💙💗💚 Comment the colour and I’ll DM you the link 👇 #pacifier #babymusthaves #momhack #newparents\"",
-      "site": "Instagram",
-      "description": "24K likes, 150 comments - pacidrop - November 18, 2026: \"Blue, pink or green — which one would you pick? 💙💗💚 Comment the colour and I’ll DM you the link 👇 #pacifier #babymusthaves #momhack #newparents\".",
-      "thumb": "media/r-f7121a4e/link_thumbs/7d3ec463ff70.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-20",
-      "dates": [
-        "2026-11-20"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-20",
-          "time": "17:03",
-          "who": "수강생",
-          "text": "※ 인스타 쇼핑 어떤 소재가 터질가요?? 1. https://www.instagram.com/reel/Df6Au9GtZPv/?cnvx=bWk0bDM3Ync0eGVy 3일 이내 100만 조회수 돌파영상"
-        }
-      ],
-      "fetched_at": "2026-11-20T08:28:53.122Z"
     },
     {
       "id": "3b24dec9dd41",
@@ -222,41 +74,8 @@
         "2026-11-20"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-20",
-          "time": "15:11",
-          "who": "수강생",
-          "text": "📌 1:1 디하클 고객센터입니다 강의 수강 관련 문의는 여기로 남겨주세요 ☺ http://pf.kakao.com/_EJixlG"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-20T06:13:31.596Z"
-    },
-    {
-      "id": "1989b0e5539b",
-      "url": "https://www.runninghub.ai/ko",
-      "kind": "web",
-      "title": "RunningHub AI | 올인원 AI 비디오, 이미지 및 콘텐츠 제작 플랫폼",
-      "site": "RunningHub",
-      "description": "8,000개 이상의 AI 모델 버전, 10만 개 이상의 워크플로우, 강력한 크리에이티브 툴을 통해 단 한 곳에서 시네마틱 비디오, 놀라운 이미지, 그리고 전문적인 콘텐츠를 제작해 보세요.",
-      "thumb": "media/r-f7121a4e/link_thumbs/1989b0e5539b.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-20",
-      "dates": [
-        "2026-11-20"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-20",
-          "time": "13:18",
-          "who": "수강생",
-          "text": "러닝허브가 https://www.runninghub.ai/ko 이거 맞죠?"
-        }
-      ],
-      "fetched_at": "2026-11-20T04:33:18.691Z"
     },
     {
       "id": "30e38a279806",
@@ -273,14 +92,7 @@
         "2026-11-19"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-19",
-          "time": "16:34",
-          "who": "강사",
-          "text": "https://open.kakao.com/o/s84zHzIh 여기용!"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-19T07:48:12.083Z"
     },
     {
@@ -299,14 +111,7 @@
         "2026-11-19"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-19",
-          "time": "15:57",
-          "who": "수강생",
-          "text": "https://litt.ly/banpolong/sale/NnRN3ny"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-19T07:15:27.418Z"
     },
     {
@@ -323,20 +128,7 @@
         "2026-11-19"
       ],
       "mention_count": 2,
-      "contexts": [
-        {
-          "date": "2026-11-19",
-          "time": "15:42",
-          "who": "수강생",
-          "text": "https://verdant-roadway-53f.notion.site/5-3e238801f0c880db8575c3e86d5cdb26"
-        },
-        {
-          "date": "2026-11-11",
-          "time": "09:32",
-          "who": "수강생",
-          "text": "https://verdant-roadway-53f.notion.site/5-3e238801f0c880db8575c3e86d5cdb26"
-        }
-      ]
+      "contexts": []
     },
     {
       "id": "bc8208332ddc",
@@ -354,14 +146,7 @@
         "2026-11-19"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-19",
-          "time": "15:42",
-          "who": "수강생",
-          "text": "https://litt.ly/leesj7988__official"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-19T07:15:27.418Z"
     },
     {
@@ -377,90 +162,8 @@
         "2026-11-18"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-18",
-          "time": "21:29",
-          "who": "수강생",
-          "text": "https://cafeptthumb-phinf.pstatic.net/MjAyNjExMThfNDYg/MDAxNzk1MDA0MzAyOTE0.irlL1b0ASzb-cJIqE0b-KZNlr7J9OSbpSCMQU7Xif_og.rFlXTy1Sssyk9Gf7YLVs4RwO9Oix3fu2sIjDQNRt_CAg.PNG/image.png?type=w1600"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-18T12:40:20.873Z"
-    },
-    {
-      "id": "766e5afc83e9",
-      "url": "https://hotdeal.zip/%ED%95%9C%EC%84%B1%EC%BB%B4%ED%93%A8%ED%84%B09800x3d-9070xt-2tb-%EC%99%84%EB%B3%B8%EC%B2%B4-5de0",
-      "kind": "web",
-      "site": "hotdeal.zip",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-11-18",
-      "last_date": "2026-11-18",
-      "dates": [
-        "2026-11-18"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-18",
-          "time": "14:25",
-          "who": "수강생",
-          "text": "https://hotdeal.zip/%ED%95%9C%EC%84%B1%EC%BB%B4%ED%93%A8%ED%84%B09800x3d-9070xt-2tb-%EC%99%84%EB%B3%B8%EC%B2%B4-5de0"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "06bf3c3d9db7",
-      "url": "https://www.youtube.com/watch?v=jFwoCgJ_PM0",
-      "kind": "youtube",
-      "title": "까마귀 조련사",
-      "site": "YouTube",
-      "author": "깔끔맨",
-      "thumb": "media/r-f7121a4e/link_thumbs/06bf3c3d9db7.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:43",
-          "who": "수강생",
-          "text": "채널링크 : https://www.youtube.com/@%EA%B9%94%EB%81%94%EB%A7%A80/shorts 영상 링크 https://www.youtube.com/shorts/MF5a18g4aS0 https://www.youtube.com/shorts/RXNYFIdhN5I https://www.youtube.com/shorts/aC2LELUZn3M https://www.youtube.com/shorts/jFwoCgJ_PM0 https://www.youtube.com/shorts/ODTI42bmo7s https://ww…"
-        }
-      ],
-      "fetched_at": "2026-11-16T14:54:06.097Z"
-    },
-    {
-      "id": "34cfd1e74149",
-      "url": "https://www.youtube.com/watch?v=l1iOSINTZEU",
-      "kind": "youtube",
-      "title": "소의 뿔을 자르지 않는 이유",
-      "site": "YouTube",
-      "author": "깔끔맨",
-      "thumb": "media/r-f7121a4e/link_thumbs/34cfd1e74149.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:43",
-          "who": "수강생",
-          "text": "채널링크 : https://www.youtube.com/@%EA%B9%94%EB%81%94%EB%A7%A80/shorts 영상 링크 https://www.youtube.com/shorts/MF5a18g4aS0 https://www.youtube.com/shorts/RXNYFIdhN5I https://www.youtube.com/shorts/aC2LELUZn3M https://www.youtube.com/shorts/jFwoCgJ_PM0 https://www.youtube.com/shorts/ODTI42bmo7s https://ww…"
-        }
-      ],
-      "fetched_at": "2026-11-16T14:54:06.097Z"
     },
     {
       "id": "37e406aaf161",
@@ -475,248 +178,7 @@
         "2026-11-16"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:43",
-          "who": "수강생",
-          "text": "채널링크 : https://www.youtube.com/@%EA%B9%94%EB%81%94%EB%A7%A80/shorts 영상 링크 https://www.youtube.com/shorts/MF5a18g4aS0 https://www.youtube.com/shorts/RXNYFIdhN5I https://www.youtube.com/shorts/aC2LELUZn3M https://www.youtube.com/shorts/jFwoCgJ_PM0 https://www.youtube.com/shorts/ODTI42bmo7s https://ww…"
-        }
-      ],
-      "fetched_at": "2026-11-16T14:54:06.097Z"
-    },
-    {
-      "id": "41b3b1a508de",
-      "url": "https://www.youtube.com/watch?v=FsOpCpoW-OQ",
-      "kind": "youtube",
-      "title": "인도 부잣집 마당",
-      "site": "YouTube",
-      "author": "깔끔맨",
-      "thumb": "media/r-f7121a4e/link_thumbs/41b3b1a508de.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:43",
-          "who": "수강생",
-          "text": "채널링크 : https://www.youtube.com/@%EA%B9%94%EB%81%94%EB%A7%A80/shorts 영상 링크 https://www.youtube.com/shorts/MF5a18g4aS0 https://www.youtube.com/shorts/RXNYFIdhN5I https://www.youtube.com/shorts/aC2LELUZn3M https://www.youtube.com/shorts/jFwoCgJ_PM0 https://www.youtube.com/shorts/ODTI42bmo7s https://ww…"
-        }
-      ],
-      "fetched_at": "2026-11-16T14:54:06.097Z"
-    },
-    {
-      "id": "66b410281f61",
-      "url": "https://www.youtube.com/watch?v=aC2LELUZn3M",
-      "kind": "youtube",
-      "title": "세상에서 가장 별난 앵무새",
-      "site": "YouTube",
-      "author": "깔끔맨",
-      "thumb": "media/r-f7121a4e/link_thumbs/66b410281f61.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:43",
-          "who": "수강생",
-          "text": "채널링크 : https://www.youtube.com/@%EA%B9%94%EB%81%94%EB%A7%A80/shorts 영상 링크 https://www.youtube.com/shorts/MF5a18g4aS0 https://www.youtube.com/shorts/RXNYFIdhN5I https://www.youtube.com/shorts/aC2LELUZn3M https://www.youtube.com/shorts/jFwoCgJ_PM0 https://www.youtube.com/shorts/ODTI42bmo7s https://ww…"
-        }
-      ],
-      "fetched_at": "2026-11-16T14:54:06.097Z"
-    },
-    {
-      "id": "7f36424182b7",
-      "url": "https://www.youtube.com/watch?v=RXNYFIdhN5I",
-      "kind": "youtube",
-      "title": "동물원의 말썽꾸러기",
-      "site": "YouTube",
-      "author": "깔끔맨",
-      "thumb": "media/r-f7121a4e/link_thumbs/7f36424182b7.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:43",
-          "who": "수강생",
-          "text": "채널링크 : https://www.youtube.com/@%EA%B9%94%EB%81%94%EB%A7%A80/shorts 영상 링크 https://www.youtube.com/shorts/MF5a18g4aS0 https://www.youtube.com/shorts/RXNYFIdhN5I https://www.youtube.com/shorts/aC2LELUZn3M https://www.youtube.com/shorts/jFwoCgJ_PM0 https://www.youtube.com/shorts/ODTI42bmo7s https://ww…"
-        }
-      ],
-      "fetched_at": "2026-11-16T14:54:06.097Z"
-    },
-    {
-      "id": "8f06ee99c79e",
-      "url": "https://www.youtube.com/watch?v=WRgtPRGLJs4",
-      "kind": "youtube",
-      "title": "상자에 TV를 그린 이유",
-      "site": "YouTube",
-      "author": "깔끔맨",
-      "thumb": "media/r-f7121a4e/link_thumbs/8f06ee99c79e.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:43",
-          "who": "수강생",
-          "text": "채널링크 : https://www.youtube.com/@%EA%B9%94%EB%81%94%EB%A7%A80/shorts 영상 링크 https://www.youtube.com/shorts/MF5a18g4aS0 https://www.youtube.com/shorts/RXNYFIdhN5I https://www.youtube.com/shorts/aC2LELUZn3M https://www.youtube.com/shorts/jFwoCgJ_PM0 https://www.youtube.com/shorts/ODTI42bmo7s https://ww…"
-        }
-      ],
-      "fetched_at": "2026-11-16T14:54:06.097Z"
-    },
-    {
-      "id": "a9f7388b5344",
-      "url": "https://www.youtube.com/watch?v=yN-Dd2T6Mrk",
-      "kind": "youtube",
-      "title": "몸에 밴 습관",
-      "site": "YouTube",
-      "author": "깔끔맨",
-      "thumb": "media/r-f7121a4e/link_thumbs/a9f7388b5344.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:43",
-          "who": "수강생",
-          "text": "채널링크 : https://www.youtube.com/@%EA%B9%94%EB%81%94%EB%A7%A80/shorts 영상 링크 https://www.youtube.com/shorts/MF5a18g4aS0 https://www.youtube.com/shorts/RXNYFIdhN5I https://www.youtube.com/shorts/aC2LELUZn3M https://www.youtube.com/shorts/jFwoCgJ_PM0 https://www.youtube.com/shorts/ODTI42bmo7s https://ww…"
-        }
-      ],
-      "fetched_at": "2026-11-16T14:54:06.097Z"
-    },
-    {
-      "id": "b6d10b985e45",
-      "url": "https://www.youtube.com/watch?v=MF5a18g4aS0",
-      "kind": "youtube",
-      "title": "조개와 물고기의 신기한 관계",
-      "site": "YouTube",
-      "author": "깔끔맨",
-      "thumb": "media/r-f7121a4e/link_thumbs/b6d10b985e45.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:43",
-          "who": "수강생",
-          "text": "채널링크 : https://www.youtube.com/@%EA%B9%94%EB%81%94%EB%A7%A80/shorts 영상 링크 https://www.youtube.com/shorts/MF5a18g4aS0 https://www.youtube.com/shorts/RXNYFIdhN5I https://www.youtube.com/shorts/aC2LELUZn3M https://www.youtube.com/shorts/jFwoCgJ_PM0 https://www.youtube.com/shorts/ODTI42bmo7s https://ww…"
-        }
-      ],
-      "fetched_at": "2026-11-16T14:54:06.097Z"
-    },
-    {
-      "id": "d30c84af0add",
-      "url": "https://www.youtube.com/watch?v=wRBKRSNwo-c",
-      "kind": "youtube",
-      "title": "승무원의 의외의 규칙",
-      "site": "YouTube",
-      "author": "깔끔맨",
-      "thumb": "media/r-f7121a4e/link_thumbs/d30c84af0add.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:43",
-          "who": "수강생",
-          "text": "채널링크 : https://www.youtube.com/@%EA%B9%94%EB%81%94%EB%A7%A80/shorts 영상 링크 https://www.youtube.com/shorts/MF5a18g4aS0 https://www.youtube.com/shorts/RXNYFIdhN5I https://www.youtube.com/shorts/aC2LELUZn3M https://www.youtube.com/shorts/jFwoCgJ_PM0 https://www.youtube.com/shorts/ODTI42bmo7s https://ww…"
-        }
-      ],
-      "fetched_at": "2026-11-16T14:54:06.097Z"
-    },
-    {
-      "id": "f2afc22fd541",
-      "url": "https://www.youtube.com/watch?v=ODTI42bmo7s",
-      "kind": "youtube",
-      "title": "침팬지의 지능",
-      "site": "YouTube",
-      "author": "깔끔맨",
-      "thumb": "media/r-f7121a4e/link_thumbs/f2afc22fd541.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:43",
-          "who": "수강생",
-          "text": "채널링크 : https://www.youtube.com/@%EA%B9%94%EB%81%94%EB%A7%A80/shorts 영상 링크 https://www.youtube.com/shorts/MF5a18g4aS0 https://www.youtube.com/shorts/RXNYFIdhN5I https://www.youtube.com/shorts/aC2LELUZn3M https://www.youtube.com/shorts/jFwoCgJ_PM0 https://www.youtube.com/shorts/ODTI42bmo7s https://ww…"
-        }
-      ],
-      "fetched_at": "2026-11-16T14:54:06.097Z"
-    },
-    {
-      "id": "08fbbd32fc69",
-      "url": "https://www.youtube.com/watch?v=19wvFWp_LUc",
-      "kind": "youtube",
-      "title": "드론에 스카이 콩콩을 단 하이브리드 드론",
-      "site": "YouTube",
-      "author": "지식봄",
-      "thumb": "media/r-f7121a4e/link_thumbs/08fbbd32fc69.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-16T14:54:06.097Z"
     },
     {
@@ -734,92 +196,7 @@
         "2026-11-16"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
-      "fetched_at": "2026-11-16T14:54:06.097Z"
-    },
-    {
-      "id": "207c85e4d803",
-      "url": "https://www.youtube.com/watch?v=rKlS-HKO3OM",
-      "kind": "youtube",
-      "title": "뇌가 우주 법칙에 지배당하면 벌어지는 현상",
-      "site": "YouTube",
-      "author": "지식봄",
-      "thumb": "media/r-f7121a4e/link_thumbs/207c85e4d803.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
-      "fetched_at": "2026-11-16T14:54:06.097Z"
-    },
-    {
-      "id": "2626d3efa27e",
-      "url": "https://www.youtube.com/watch?v=pr30NxmxOUI",
-      "kind": "youtube",
-      "title": "균열 없이 수축하는 집의 빈틈을 막는 탄성 폼",
-      "site": "YouTube",
-      "author": "지식봄",
-      "thumb": "media/r-f7121a4e/link_thumbs/2626d3efa27e.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
-      "fetched_at": "2026-11-16T14:54:06.097Z"
-    },
-    {
-      "id": "34b6899b8c94",
-      "url": "https://www.youtube.com/watch?v=uLDAXBNvRFc",
-      "kind": "youtube",
-      "title": "손가락은 닿은 적이 없다? 촉각의 진짜 정체",
-      "site": "YouTube",
-      "author": "지식봄",
-      "thumb": "media/r-f7121a4e/link_thumbs/34b6899b8c94.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-16T14:54:06.097Z"
     },
     {
@@ -837,170 +214,7 @@
         "2026-11-16"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
-      "fetched_at": "2026-11-16T14:54:06.097Z"
-    },
-    {
-      "id": "40fe2beaa961",
-      "url": "https://www.youtube.com/watch?v=y9TSIS4W2y8",
-      "kind": "youtube",
-      "title": "갑작으런 비에 쓰는 꿀팁, 은박 담요로 우의 만들기",
-      "site": "YouTube",
-      "author": "지식봄",
-      "thumb": "media/r-f7121a4e/link_thumbs/40fe2beaa961.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
-      "fetched_at": "2026-11-16T14:54:06.097Z"
-    },
-    {
-      "id": "422480231afe",
-      "url": "https://www.youtube.com/watch?v=O-QRiB_kvvI",
-      "kind": "youtube",
-      "title": "에너지를 아끼기 위한 악어의 도둑기생",
-      "site": "YouTube",
-      "author": "지식봄",
-      "thumb": "media/r-f7121a4e/link_thumbs/422480231afe.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
-      "fetched_at": "2026-11-16T14:54:06.097Z"
-    },
-    {
-      "id": "4fe38baa36bd",
-      "url": "https://www.youtube.com/watch?v=PgxZSoGmGuc",
-      "kind": "youtube",
-      "title": "주인보다 80년을 더 살아남은 135억짜리 자동차",
-      "site": "YouTube",
-      "author": "지식봄",
-      "thumb": "media/r-f7121a4e/link_thumbs/4fe38baa36bd.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
-      "fetched_at": "2026-11-16T14:54:06.097Z"
-    },
-    {
-      "id": "5d5886588466",
-      "url": "https://www.youtube.com/watch?v=FDbPk1piwk8",
-      "kind": "youtube",
-      "title": "곰이 어깨동무까지 할 수 있는 이유",
-      "site": "YouTube",
-      "author": "지식봄",
-      "thumb": "media/r-f7121a4e/link_thumbs/5d5886588466.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
-      "fetched_at": "2026-11-16T14:54:06.097Z"
-    },
-    {
-      "id": "6a34c83f385e",
-      "url": "https://www.youtube.com/watch?v=jZSr7wpEtG8",
-      "kind": "youtube",
-      "title": "컵과 치킨타월로 만든 초파리 트랩",
-      "site": "YouTube",
-      "author": "지식봄",
-      "thumb": "media/r-f7121a4e/link_thumbs/6a34c83f385e.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
-      "fetched_at": "2026-11-16T14:54:06.097Z"
-    },
-    {
-      "id": "839951aaeba0",
-      "url": "https://www.youtube.com/watch?v=GLp2S3scXr0",
-      "kind": "youtube",
-      "title": "하늘에서 보석처럼 쏟아지는 물, 동굴 낙수와 햇무리",
-      "site": "YouTube",
-      "author": "지식봄",
-      "thumb": "media/r-f7121a4e/link_thumbs/839951aaeba0.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-16T14:54:06.097Z"
     },
     {
@@ -1016,66 +230,7 @@
         "2026-11-16"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
-      "fetched_at": "2026-11-16T14:54:06.097Z"
-    },
-    {
-      "id": "92e949d4f50d",
-      "url": "https://www.youtube.com/watch?v=9cQs3W4oC8o",
-      "kind": "youtube",
-      "title": "연골이 갈리는 줄 알았던 무릎 뼈 소리의 정체",
-      "site": "YouTube",
-      "author": "지식봄",
-      "thumb": "media/r-f7121a4e/link_thumbs/92e949d4f50d.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
-      "fetched_at": "2026-11-16T14:54:06.097Z"
-    },
-    {
-      "id": "a1d02530cfca",
-      "url": "https://www.youtube.com/watch?v=dGS4wfLDyyc",
-      "kind": "youtube",
-      "title": "도심 속 코르크 나무 수확? 프랑스 전단지 제거 작업",
-      "site": "YouTube",
-      "author": "지식봄",
-      "thumb": "media/r-f7121a4e/link_thumbs/a1d02530cfca.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-16T14:54:06.097Z"
     },
     {
@@ -1093,301 +248,8 @@
         "2026-11-16"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-16T14:54:06.097Z"
-    },
-    {
-      "id": "b6e804be4c26",
-      "url": "https://www.youtube.com/watch?v=NOXLfq2fqdA",
-      "kind": "youtube",
-      "title": "13억이 45만 원으로? 세상에서 가장 비싼 폐달러 기념품",
-      "site": "YouTube",
-      "author": "지식봄",
-      "thumb": "media/r-f7121a4e/link_thumbs/b6e804be4c26.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
-      "fetched_at": "2026-11-16T14:54:06.097Z"
-    },
-    {
-      "id": "bac0d44c9c78",
-      "url": "https://www.youtube.com/watch?v=0ostMzfqPJc",
-      "kind": "youtube",
-      "title": "구강 내 트랙패드 기술의 결정체, 어그멘탈 마우스패드",
-      "site": "YouTube",
-      "author": "지식봄",
-      "thumb": "media/r-f7121a4e/link_thumbs/bac0d44c9c78.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
-      "fetched_at": "2026-11-16T14:54:06.097Z"
-    },
-    {
-      "id": "be3936036d93",
-      "url": "https://www.youtube.com/watch?v=EgHrK2tZ0D4",
-      "kind": "youtube",
-      "title": "F110 터보팬 엔진의 성능을 검증하는 런업 테스트 현장",
-      "site": "YouTube",
-      "author": "지식봄",
-      "thumb": "media/r-f7121a4e/link_thumbs/be3936036d93.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
-      "fetched_at": "2026-11-16T14:54:06.097Z"
-    },
-    {
-      "id": "c276e9b14589",
-      "url": "https://www.youtube.com/watch?v=4Bon8hxRnCQ",
-      "kind": "youtube",
-      "title": "현대, 토요타가 중동에 수출되면 벌어지는 일",
-      "site": "YouTube",
-      "author": "지식봄",
-      "thumb": "media/r-f7121a4e/link_thumbs/c276e9b14589.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
-      "fetched_at": "2026-11-16T15:31:36.077Z"
-    },
-    {
-      "id": "c317b0315393",
-      "url": "https://www.youtube.com/watch?v=92QU2ZuFFr8",
-      "kind": "youtube",
-      "title": "소금을 끓여 전기를 만드는 집광형 태양열 발전소",
-      "site": "YouTube",
-      "author": "지식봄",
-      "thumb": "media/r-f7121a4e/link_thumbs/c317b0315393.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
-      "fetched_at": "2026-11-16T15:31:36.077Z"
-    },
-    {
-      "id": "c8642f6542b2",
-      "url": "https://www.youtube.com/watch?v=Y6tk-4WImrE",
-      "kind": "youtube",
-      "title": "수컷 엘크가 번식기때 하는 행동",
-      "site": "YouTube",
-      "author": "지식봄",
-      "thumb": "media/r-f7121a4e/link_thumbs/c8642f6542b2.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
-      "fetched_at": "2026-11-16T15:31:36.077Z"
-    },
-    {
-      "id": "d300d08c243f",
-      "url": "https://www.youtube.com/watch?v=9y2g6w52YMQ",
-      "kind": "youtube",
-      "title": "방진 매트 시공 전후 철판의 소음 차이",
-      "site": "YouTube",
-      "author": "지식봄",
-      "thumb": "media/r-f7121a4e/link_thumbs/d300d08c243f.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
-      "fetched_at": "2026-11-16T15:31:36.077Z"
-    },
-    {
-      "id": "dc2f0a2675d8",
-      "url": "https://www.youtube.com/watch?v=ezaaF7gJ2nE",
-      "kind": "youtube",
-      "title": "사냥감을 물고 유영하는 악어의 진짜 목적",
-      "site": "YouTube",
-      "author": "지식봄",
-      "thumb": "media/r-f7121a4e/link_thumbs/dc2f0a2675d8.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
-      "fetched_at": "2026-11-16T15:31:36.077Z"
-    },
-    {
-      "id": "df2a1985b7e4",
-      "url": "https://www.youtube.com/watch?v=naDFWveHS98",
-      "kind": "youtube",
-      "title": "넘치는 옛날 말통에 지친 사람들을 위한 오토스톱 말통",
-      "site": "YouTube",
-      "author": "지식봄",
-      "thumb": "media/r-f7121a4e/link_thumbs/df2a1985b7e4.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
-      "fetched_at": "2026-11-16T15:31:36.077Z"
-    },
-    {
-      "id": "e7d36b2e57c5",
-      "url": "https://www.youtube.com/watch?v=Q5ufy3PTz28",
-      "kind": "youtube",
-      "title": "처음보는 장엄하고 우아한 방식의 파쿠르",
-      "site": "YouTube",
-      "author": "지식봄",
-      "thumb": "media/r-f7121a4e/link_thumbs/e7d36b2e57c5.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
-      "fetched_at": "2026-11-16T15:31:36.077Z"
-    },
-    {
-      "id": "e8bddfe87536",
-      "url": "https://www.youtube.com/watch?v=CRjSY6ou5vs",
-      "kind": "youtube",
-      "title": "테슬라보다 먼저 거꾸로 달린 자동차",
-      "site": "YouTube",
-      "author": "지식봄",
-      "thumb": "media/r-f7121a4e/link_thumbs/e8bddfe87536.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
-      "fetched_at": "2026-11-16T15:31:36.077Z"
     },
     {
       "id": "ebe2e539be9e",
@@ -1404,14 +266,7 @@
         "2026-11-16"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-16T15:31:36.077Z"
     },
     {
@@ -1429,40 +284,7 @@
         "2026-11-16"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
-      "fetched_at": "2026-11-16T15:31:36.077Z"
-    },
-    {
-      "id": "f6140483dbdf",
-      "url": "https://www.youtube.com/watch?v=r5Qb5F_CHfg",
-      "kind": "youtube",
-      "title": "톱니바퀴 몇개로 구현한 작은 우주, 텔루리온",
-      "site": "YouTube",
-      "author": "지식봄",
-      "thumb": "media/r-f7121a4e/link_thumbs/f6140483dbdf.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:27",
-          "who": "수강생",
-          "text": "이건 채널 링크고 https://www.youtube.com/@%EC%A7%80%EC%8B%9D%EC%9D%84%EB%B3%B4%EB%8B%A4/shorts 다음은 예시 영상 링크들이야 https://www.youtube.com/shorts/y9TSIS4W2y8 https://app.vidiq.com/outliers?filters=%7B%22title_search_query%22%3A%22%EA%B0%91%EC%9E%91%EC%9C%BC%EB%9F%B0+%EB%B9%84%EC%97%90+%EC%93%B0%EB%8A%94+%EA%B…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-16T15:31:36.077Z"
     },
     {
@@ -1480,14 +302,7 @@
         "2026-11-16"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "15:41",
-          "who": "강사",
-          "text": "https://open.kakao.com/o/stU9vRth 요기로 톡주세요 !"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-16T08:52:46.385Z"
     },
     {
@@ -1506,14 +321,7 @@
         "2026-11-16"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "15:37",
-          "who": "수강생",
-          "text": "https://link.inpock.co.kr/inpock/referral/KVMPEADA 이거 인포크 초대링크인데ㅎㅎ 친구 1달무료사용가능하세용!"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-16T08:52:46.385Z"
     },
     {
@@ -1534,32 +342,7 @@
         "2026-11-16"
       ],
       "mention_count": 4,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "10:27",
-          "who": "수강생",
-          "text": "https://litt.ly/_potato 공지방, 상단 노션보시면 조교님들 링크 다 있어용. 참고하세요."
-        },
-        {
-          "date": "2026-11-14",
-          "time": "18:17",
-          "who": "수강생",
-          "text": "📢 감자 쇼핑 강의 공지 1. 감자 PDF책 업데이트 안내 11/13(목) 오후 4시 15분에 PDF책이 업데이트되었습니다. ✅ 11/13 오후 4시 15분 이후 구매하신 분 → 이미 업데이트된 버전을 받으셨어요. 따로 확인하실 필요 없습니다! ✅ 그 전에 구매하신 분 → 업데이트 버전을 메일로 보내드렸어요. 메일함을 확인해주세요. ※ 메일이 안 보이면 스팸메일함도 꼭 확인해주세요! ❗ 그래도 못 받으셨다면 아래 메일로 [성함 / 연락처]를 남겨주세요. 확인 후 다시 보내드릴게요. 📧 [이메일] 2. 더우인 우회 사이트 https…"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "20:08",
-          "who": "수강생",
-          "text": "😱 영상 하나 넣고 딸깍! 대본 쓰고, 음성 만들고, 효과음 찾고, 자막 넣고… 영상 하나 만들 때마다 준비할 게 너무 많았죠? 클로드 없이! 별도 TTS 유료 결제 없이! 효과음 준비도, 캡컷 편집도 없이! 픽셀링 아스트라에 감자의 MD + JSON 파일을 적용하면, 영상 하나로 대본·TTS·효과음·영상 배치·자막을 담은 완성 MP4까지! 📘 감자의 인스타 쇼핑쇼츠 제작키트 ✅ 호기심을 클릭으로 연결하는 ‘침 묻히기’ 전략 ✅ 망고복숭아·탁구포도로 배우는 소재 차별화 ✅ 다음에 뜰 새로운 상품을 찾는 방법 ✅ 인스타 계정 30일…"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "14:58",
-          "who": "수강생",
-          "text": "https://litt.ly/_potato"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-07T06:00:47.952Z"
     },
     {
@@ -1578,14 +361,7 @@
         "2026-11-15"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-15",
-          "time": "21:05",
-          "who": "수강생",
-          "text": "https://dihabooks.com/book/selfmadeyt/ 전자책 성과 후기 남겨주시면 치킨 드려요잉^^^"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-16T09:37:24.707Z"
     },
     {
@@ -1601,14 +377,7 @@
         "2026-11-15"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-15",
-          "time": "14:44",
-          "who": "수강생",
-          "text": "https://youtube.com/@zackdfilms"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-16T09:37:24.707Z"
     },
     {
@@ -1628,20 +397,7 @@
         "2026-11-15"
       ],
       "mention_count": 2,
-      "contexts": [
-        {
-          "date": "2026-11-15",
-          "time": "14:28",
-          "who": "수강생",
-          "text": "저번에 황제님이 공유주신 곳이에요 https://open.kakao.com/o/sYN4pUuh"
-        },
-        {
-          "date": "2026-11-06",
-          "time": "16:13",
-          "who": "수강생",
-          "text": "https://open.kakao.com/o/sYN4pUuh"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-06T08:37:24.913Z"
     },
     {
@@ -1660,66 +416,7 @@
         "2026-11-15"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-15",
-          "time": "12:16",
-          "who": "조교",
-          "text": "https://www.youtube.com/watch?v=U2l84axmV3g"
-        }
-      ],
-      "fetched_at": "2026-11-16T10:53:05.265Z"
-    },
-    {
-      "id": "02ed80975604",
-      "url": "https://www.youtube.com/watch?v=yCZPwciwm_8",
-      "kind": "youtube",
-      "title": "“He Turned a Bow and Arrow Into a Gatling Gun!”☠️🔥 | Robin Hood | #Trending #Shorts",
-      "site": "YouTube",
-      "author": "Yah Bak",
-      "thumb": "media/r-f7121a4e/link_thumbs/02ed80975604.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-14",
-      "last_date": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-14",
-          "time": "22:54",
-          "who": "수강생",
-          "text": "https://youtube.com/shorts/yCZPwciwm_8 영상이 원본이랑 질감이 많이 다른데 이런건 무슨 효과를 넣어야 하는지 아시는분 계실까요? 코덱스 하루종일 다그쳐도 반도 못따라가더라구요"
-        }
-      ],
-      "fetched_at": "2026-11-16T10:53:05.265Z"
-    },
-    {
-      "id": "aa9056334ac9",
-      "url": "https://www.youtube.com/watch?v=0LUyJBIJTjc",
-      "kind": "youtube",
-      "title": "서울상공 핵폭발",
-      "site": "YouTube",
-      "author": "만일의 연구소",
-      "thumb": "media/r-f7121a4e/link_thumbs/aa9056334ac9.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-14",
-      "last_date": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-14",
-          "time": "22:37",
-          "who": "수강생",
-          "text": "https://youtu.be/0LUyJBIJTjc 아스트라로 만든것 같은데 조회수 ㄷㄷ"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-16T10:53:05.265Z"
     },
     {
@@ -1741,32 +438,7 @@
         "2026-11-14"
       ],
       "mention_count": 4,
-      "contexts": [
-        {
-          "date": "2026-11-14",
-          "time": "21:23",
-          "who": "수강생",
-          "text": "급하시면 우선 요기서 필요한거 찾아보시겠어용? https://www.myinstants.com/ko/index/kr/"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "12:01",
-          "who": "수강생",
-          "text": "https://www.myinstants.com/ko/index/kr/ 여기욥!"
-        },
-        {
-          "date": "2026-10-15",
-          "time": "15:46",
-          "who": "수강생",
-          "text": "https://www.myinstants.com/ko/index/kr/ 여기서 다운받아 쓰라고 하거나 필요한 걸 미리 다운해서 폴더에 있으니 거기서 사용하라고 하면 돼요"
-        },
-        {
-          "date": "2026-10-13",
-          "time": "19:24",
-          "who": "수강생",
-          "text": "https://www.myinstants.com/ko/index/kr/ 여기서 한번 찾아보세요!"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-13T10:38:20.739Z"
     },
     {
@@ -1783,14 +455,7 @@
         "2026-11-14"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-14",
-          "time": "18:17",
-          "who": "수강생",
-          "text": "📢 감자 쇼핑 강의 공지 1. 감자 PDF책 업데이트 안내 11/13(목) 오후 4시 15분에 PDF책이 업데이트되었습니다. ✅ 11/13 오후 4시 15분 이후 구매하신 분 → 이미 업데이트된 버전을 받으셨어요. 따로 확인하실 필요 없습니다! ✅ 그 전에 구매하신 분 → 업데이트 버전을 메일로 보내드렸어요. 메일함을 확인해주세요. ※ 메일이 안 보이면 스팸메일함도 꼭 확인해주세요! ❗ 그래도 못 받으셨다면 아래 메일로 [성함 / 연락처]를 남겨주세요. 확인 후 다시 보내드릴게요. 📧 [이메일] 2. 더우인 우회 사이트 https…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-16T12:25:22.924Z"
     },
     {
@@ -1809,119 +474,8 @@
         "2026-11-14"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-14",
-          "time": "18:17",
-          "who": "수강생",
-          "text": "📢 감자 쇼핑 강의 공지 1. 감자 PDF책 업데이트 안내 11/13(목) 오후 4시 15분에 PDF책이 업데이트되었습니다. ✅ 11/13 오후 4시 15분 이후 구매하신 분 → 이미 업데이트된 버전을 받으셨어요. 따로 확인하실 필요 없습니다! ✅ 그 전에 구매하신 분 → 업데이트 버전을 메일로 보내드렸어요. 메일함을 확인해주세요. ※ 메일이 안 보이면 스팸메일함도 꼭 확인해주세요! ❗ 그래도 못 받으셨다면 아래 메일로 [성함 / 연락처]를 남겨주세요. 확인 후 다시 보내드릴게요. 📧 [이메일] 2. 더우인 우회 사이트 https…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-16T12:25:22.924Z"
-    },
-    {
-      "id": "33bf81173492",
-      "url": "https://www.youtube.com/watch?v=NXI3JNRH404",
-      "kind": "youtube",
-      "title": "이재명 아들 이동호, 대형사고 쳤다",
-      "site": "YouTube",
-      "author": "VOK",
-      "thumb": "media/r-f7121a4e/link_thumbs/33bf81173492.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-14",
-      "last_date": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-14",
-          "time": "12:53",
-          "who": "강사",
-          "text": "https://www.youtube.com/shorts/NXI3JNRH404"
-        }
-      ],
-      "fetched_at": "2026-11-16T12:25:22.924Z"
-    },
-    {
-      "id": "0e97e84a0523",
-      "url": "https://www.youtube.com/watch?v=L1JZueOViuQ",
-      "kind": "youtube",
-      "title": "실종장병 죽어갈 때 이재명, 아들이랑 골프쳤나? #이재명 #골프 #아들 #실종 #주진우",
-      "site": "YouTube",
-      "author": "주진우의 이슈해설",
-      "thumb": "media/r-f7121a4e/link_thumbs/0e97e84a0523.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-14",
-      "last_date": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-14",
-          "time": "12:52",
-          "who": "강사",
-          "text": "https://www.youtube.com/shorts/L1JZueOViuQ"
-        }
-      ],
-      "fetched_at": "2026-11-16T12:25:22.924Z"
-    },
-    {
-      "id": "82732685a12c",
-      "url": "https://www.youtube.com/watch?v=kTzgbIFuYdc",
-      "kind": "youtube",
-      "title": "젠슨 황의 매트릭스 마지막 반전",
-      "site": "YouTube",
-      "author": "MuskLab",
-      "thumb": "media/r-f7121a4e/link_thumbs/82732685a12c.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-14",
-      "last_date": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-14",
-          "time": "12:13",
-          "who": "수강생",
-          "text": "https://youtube.com/shorts/kTzgbIFuYdc 18시간만에 조회수 ㄷㄷ하네요"
-        }
-      ],
-      "fetched_at": "2026-11-16T13:16:47.348Z"
-    },
-    {
-      "id": "802db761bb3e",
-      "url": "https://www.youtube.com/watch?v=VV-Ee8O9ddA",
-      "kind": "youtube",
-      "title": "친구들만 만나면 유치해지는 준완이 TOP10 #슬의생 #슬기로운의사생활",
-      "site": "YouTube",
-      "author": "호또모",
-      "thumb": "media/r-f7121a4e/link_thumbs/802db761bb3e.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-13",
-      "last_date": "2026-11-13",
-      "dates": [
-        "2026-11-13"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-13",
-          "time": "23:46",
-          "who": "수강생",
-          "text": "https://www.youtube.com/shorts/VV-Ee8O9ddA 동기여러분 혹시 이거 ai딸깍이라고 보이시나요?"
-        }
-      ],
-      "fetched_at": "2026-11-16T14:03:49.853Z"
     },
     {
       "id": "71991c84d280",
@@ -1939,41 +493,8 @@
         "2026-11-13"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-13",
-          "time": "01:45",
-          "who": "수강생",
-          "text": "https://litt.ly/banpolong"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-12T16:45:47.845Z"
-    },
-    {
-      "id": "86a9b0d2cbb5",
-      "url": "https://www.youtube.com/watch?v=3kFl3Pes5QA",
-      "kind": "youtube",
-      "title": "커피 그라인더가 달렸다고?!",
-      "site": "YouTube",
-      "author": "사서알려줌",
-      "thumb": "media/r-f7121a4e/link_thumbs/86a9b0d2cbb5.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-12",
-      "last_date": "2026-11-12",
-      "dates": [
-        "2026-11-12"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-12",
-          "time": "17:18",
-          "who": "수강생",
-          "text": "https://youtube.com/shorts/3kFl3Pes5QA 혹시 이 나레이션 인물 누군지 아시는 선배님계실까요..."
-        }
-      ],
-      "fetched_at": "2026-11-12T08:36:24.148Z"
     },
     {
       "id": "97bb244ee930",
@@ -1989,72 +510,7 @@
         "2026-11-12"
       ],
       "mention_count": 2,
-      "contexts": [
-        {
-          "date": "2026-11-12",
-          "time": "11:48",
-          "who": "수강생",
-          "text": "쇼츠투벤츠 시즌 5 노션자료 [외부공유 절대 금지] https://verdant-roadway-53f.notion.site/5-3e238801f0c880db8575c3e86d5cdb26?pvs=73 여기 있어용"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "11:27",
-          "who": "수강생",
-          "text": "https://verdant-roadway-53f.notion.site/5-3e238801f0c880db8575c3e86d5cdb26?pvs=73 여기 효과음 모음집 보시며 ㄴ될거 같네요"
-        }
-      ]
-    },
-    {
-      "id": "64950bc60cec",
-      "url": "https://www.youtube.com/watch?v=rQi7nkcbsqc",
-      "kind": "youtube",
-      "title": "Small To Big Earths Drop on Steve",
-      "site": "YouTube",
-      "author": "TDC",
-      "thumb": "media/r-f7121a4e/link_thumbs/64950bc60cec.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-12",
-      "last_date": "2026-11-12",
-      "dates": [
-        "2026-11-12"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-12",
-          "time": "00:41",
-          "who": "수강생",
-          "text": "https://www.youtube.com/shorts/rQi7nkcbsqc"
-        }
-      ],
-      "fetched_at": "2026-11-11T19:26:10.661Z"
-    },
-    {
-      "id": "a6c38ba79278",
-      "url": "https://www.youtube.com/watch?v=nqmAwWG6ou0",
-      "kind": "youtube",
-      "title": "jumper trend #roblox #plsgoviral #dothingsyoudontwanttodo #butifyoucloseyoureyes #helpmemakethismake",
-      "site": "YouTube",
-      "author": "amyra noob",
-      "thumb": "media/r-f7121a4e/link_thumbs/a6c38ba79278.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-12",
-      "last_date": "2026-11-12",
-      "dates": [
-        "2026-11-12"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-12",
-          "time": "00:26",
-          "who": "수강생",
-          "text": "https://www.youtube.com/shorts/nqmAwWG6ou0"
-        }
-      ],
-      "fetched_at": "2026-11-11T18:55:57.399Z"
+      "contexts": []
     },
     {
       "id": "6cb12b9cda0c",
@@ -2072,20 +528,7 @@
         "2026-11-10"
       ],
       "mention_count": 2,
-      "contexts": [
-        {
-          "date": "2026-11-10",
-          "time": "11:12",
-          "who": "수강생",
-          "text": "https://www.youtube.com/watch?v=cIsAZlJQY1E"
-        },
-        {
-          "date": "2026-11-10",
-          "time": "11:12",
-          "who": "수강생",
-          "text": "https://www.youtube.com/watch?v=cIsAZlJQY1E 헐 이제 공중파도 랭킹형 쇼츠 올리네요 ㄷㄷ"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-10T02:21:42.219Z"
     },
     {
@@ -2104,41 +547,8 @@
         "2026-11-09"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-09",
-          "time": "23:06",
-          "who": "수강생",
-          "text": "고생 많으셨습니다 여러분!! 여러분들 덕분에 초보반 4주 강의 잘 끝났습니다 ㅎㅎ 항상 잘되시길 응원하겠습니다!! 아래는 제 1~3주차 초보반 내용을 정리한 간단한 전자책입니다!!! 감사합니다!! https://litt.ly/richshorts"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-09T14:16:49.105Z"
-    },
-    {
-      "id": "0ddb4d240bb9",
-      "url": "https://www.instagram.com/reel/Dbf2QiwiIR0?srtk=MTA3b3Y4aHV6cDhncQ==",
-      "kind": "video",
-      "title": "Instagram의 Sarah Roy님 : \"These new looplocks keep snacks, cereal, frozen foods, and more sealed tight without the bulky clips taking over your drawer. Once you try them, you’ll wonder where they’ve b…",
-      "site": "Instagram",
-      "description": "1,554 likes, 656 comments - findsworththebuy - August 1, 2026: \"These new looplocks keep snacks, cereal, frozen foods, and more sealed tight without the bulky clips taking over your drawer. Once you try them, you’ll wonder where they’ve been all your life! 🙌 Comment “LINK” and I’ll send it straight to your DMs! 💛 #kitchenfinds #homehacks #kitchengadgets #organizationideas #amazonfinds @livebound\".",
-      "thumb": "media/r-f7121a4e/link_thumbs/0ddb4d240bb9.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-07",
-      "dates": [
-        "2026-11-07"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "20:02",
-          "who": "수강생",
-          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
-        }
-      ],
-      "fetched_at": "2026-11-07T11:29:46.845Z"
     },
     {
       "id": "426b907b451d",
@@ -2156,14 +566,7 @@
         "2026-11-07"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "20:02",
-          "who": "수강생",
-          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-07T11:29:46.845Z"
     },
     {
@@ -2182,92 +585,7 @@
         "2026-11-07"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "20:02",
-          "who": "수강생",
-          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
-        }
-      ],
-      "fetched_at": "2026-11-07T11:29:46.845Z"
-    },
-    {
-      "id": "982299006c97",
-      "url": "https://www.instagram.com/reel/DcOTBWwR1mW?obrf=MXgwbzQ2ZHV2bXFlMA==",
-      "kind": "video",
-      "title": "Instagram의 Nancy Karim님 : \"#ad Escribe COMIDA para el🔗 👉 Tambien la encuentras en @temu 🔍Codigo: kkc9893 (escríbelo en la barra de búsqueda todo en minúscula) 🌐O ingresa a https://app.temu.com/k/pwi6…",
-      "site": "Instagram",
-      "description": "52K likes, 13K comments - delicomida - August 19, 2026: \"#ad Escribe COMIDA para el🔗 👉 Tambien la encuentras en @temu 🔍Codigo: kkc9893 (escríbelo en la barra de búsqueda todo en minúscula) 🌐O ingresa a https://app.temu.com/k/pwi63pb79jm 📦 Se aplican términos y condiciones #shoptemu #temuhomefinds #hosting #foodwarmer\".",
-      "thumb": "media/r-f7121a4e/link_thumbs/982299006c97.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-07",
-      "dates": [
-        "2026-11-07"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "20:02",
-          "who": "수강생",
-          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
-        }
-      ],
-      "fetched_at": "2026-11-07T11:29:46.845Z"
-    },
-    {
-      "id": "a270b0ee5f67",
-      "url": "https://www.instagram.com/reel/DcB1_07Kx55?psln=amUxcDlibGR1YjBy",
-      "kind": "video",
-      "title": "Instagram의 Samantha Numan님 : \"WRITE: KITCHEN for top 5 no regret kitchen finds 🏡 I use these weekly if not daily in my household #kitchenfinds #amazonhomefinds #amazonbestsellers #kitchenideas #viral…",
-      "site": "Instagram",
-      "description": "4M likes, 30K comments - sam.shan.shops - August 14, 2026: \"WRITE: KITCHEN for top 5 no regret kitchen finds 🏡 I use these weekly if not daily in my household #kitchenfinds #amazonhomefinds #amazonbestsellers #kitchenideas #viralkitchengadgets\".",
-      "thumb": "media/r-f7121a4e/link_thumbs/a270b0ee5f67.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-07",
-      "dates": [
-        "2026-11-07"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "20:02",
-          "who": "수강생",
-          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
-        }
-      ],
-      "fetched_at": "2026-11-07T11:29:46.845Z"
-    },
-    {
-      "id": "b8d69fca51bc",
-      "url": "https://www.instagram.com/reel/DePIzpUmJvt?srtk=MWxxaGxwZ2xoYmJ5MA==",
-      "kind": "video",
-      "title": "Instagram의 Jessica Reynolds님 : \"The Concept vs the final product 🥵✅ #nails #nailgirl\"",
-      "site": "Instagram",
-      "description": "326K likes, 6,979 comments - jessica_reynolds.us - October 8, 2026: \"The Concept vs the final product 🥵✅ #nails #nailgirl\".",
-      "thumb": "media/r-f7121a4e/link_thumbs/b8d69fca51bc.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-07",
-      "dates": [
-        "2026-11-07"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "20:02",
-          "who": "수강생",
-          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-07T11:29:46.845Z"
     },
     {
@@ -2286,14 +604,7 @@
         "2026-11-07"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "20:02",
-          "who": "수강생",
-          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-07T11:29:46.845Z"
     },
     {
@@ -2312,14 +623,7 @@
         "2026-11-07"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "20:02",
-          "who": "수강생",
-          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-07T11:29:46.845Z"
     },
     {
@@ -2338,92 +642,8 @@
         "2026-11-07"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "20:02",
-          "who": "수강생",
-          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-07T11:29:46.845Z"
-    },
-    {
-      "id": "7e7bba40ebdb",
-      "url": "https://www.youtube.com/watch?v=POAV3C6mAcw",
-      "kind": "youtube",
-      "title": "직원에게 갑질하다 임자 만난 재벌의 최후",
-      "site": "YouTube",
-      "author": "레전드씬",
-      "thumb": "media/r-f7121a4e/link_thumbs/7e7bba40ebdb.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-07",
-      "dates": [
-        "2026-11-07"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "17:07",
-          "who": "수강생",
-          "text": "https://www.youtube.com/shorts/POAV3C6mAcw"
-        }
-      ],
-      "fetched_at": "2026-11-07T08:37:29.225Z"
-    },
-    {
-      "id": "b5349c03d076",
-      "url": "https://qualitube.site/",
-      "kind": "web",
-      "title": "퀄리튜브 — 직접 만든 유튜브 수익화 채널",
-      "site": "qualitube.site",
-      "description": "1계정 · 1채널 · 1IP, 전용 서버에서 직접 키운 유튜브 수익화 채널. 28일 무상 A/S.",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-07",
-      "dates": [
-        "2026-11-07"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "08:20",
-          "who": "수강생",
-          "text": "qualitube.site/"
-        }
-      ],
-      "fetched_at": "2026-11-06T23:42:54.126Z"
-    },
-    {
-      "id": "14e90e72d340",
-      "url": "https://openai.com/index/introducing-gpt-6-cyber",
-      "kind": "web",
-      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "site": "OpenAI",
-      "description": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-      "thumb": "media/r-f7121a4e/link_thumbs/14e90e72d340.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-07",
-      "dates": [
-        "2026-11-07"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "07:18",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
-        }
-      ],
-      "fetched_at": "2026-11-21T09:02:43.274Z"
     },
     {
       "id": "187bb7cb1c54",
@@ -2441,14 +661,7 @@
         "2026-11-07"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "07:18",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-06T22:39:56.627Z"
     },
     {
@@ -2467,14 +680,7 @@
         "2026-11-07"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "07:18",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-06T22:39:56.627Z"
     },
     {
@@ -2493,14 +699,7 @@
         "2026-11-07"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "07:18",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-06T22:39:56.627Z"
     },
     {
@@ -2519,14 +718,7 @@
         "2026-11-07"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "07:18",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-06T22:39:56.627Z"
     },
     {
@@ -2545,14 +737,7 @@
         "2026-11-07"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "07:18",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-06T22:39:56.627Z"
     },
     {
@@ -2571,14 +756,7 @@
         "2026-11-07"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "07:18",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-06T22:39:56.627Z"
     },
     {
@@ -2597,14 +775,7 @@
         "2026-11-07"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "07:18",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-06T22:39:56.627Z"
     },
     {
@@ -2623,113 +794,8 @@
         "2026-11-07"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "07:18",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-06T22:39:56.627Z"
-    },
-    {
-      "id": "fbaa86a829ad",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "kind": "web",
-      "title": "A thousand fewer paths to root",
-      "site": "OpenAI",
-      "description": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-      "thumb": "media/r-f7121a4e/link_thumbs/fbaa86a829ad.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-07",
-      "dates": [
-        "2026-11-07"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "07:18",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
-        }
-      ],
-      "fetched_at": "2026-11-21T09:02:43.274Z"
-    },
-    {
-      "id": "6f8ea2b1a7f3",
-      "url": "https://open.kakao.com/o/sYN4pUuh](open.kakao.com/o/sYN4pUuh",
-      "kind": "web",
-      "site": "open.kakao.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-06",
-      "dates": [
-        "2026-11-06"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-06",
-          "time": "16:13",
-          "who": "수강생",
-          "text": "<u>[https://open.kakao.com/o/sYN4pUuh](open.kakao.com/o/sYN4pUuh)</u>"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "49f4cc87446e",
-      "url": "https://www.youtube.com/watch?v=l_AlG4V4mD8",
-      "kind": "youtube",
-      "title": "This Cat Can't Believe What's Happening Right in Front of It 🐱 #shorts",
-      "site": "YouTube",
-      "author": "FurkiToon",
-      "thumb": "media/r-f7121a4e/link_thumbs/49f4cc87446e.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-06",
-      "dates": [
-        "2026-11-06"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-06",
-          "time": "00:47",
-          "who": "수강생",
-          "text": "<u>[https://youtube.com/shorts/l_AlG4V4mD8)</u>"
-        }
-      ],
-      "fetched_at": "2026-11-05T16:06:26.026Z"
-    },
-    {
-      "id": "b32a05e6e4c0",
-      "url": "https://www.youtube.com/channel/UCh9N0LA-PyqJXc6RI22BzrA](youtube.com/channel/UCh9N0LA-PyqJXc6RI22BzrA",
-      "kind": "youtube",
-      "site": "youtube.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-11-05",
-      "last_date": "2026-11-05",
-      "dates": [
-        "2026-11-05"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-05",
-          "time": "14:49",
-          "who": "수강생",
-          "text": "제꺼 함 봐주십쇼 룰쌤..... <u>[https://www.youtube.com/channel/UCh9N0LA-PyqJXc6RI22BzrA](youtube.com/channel/UCh9N0LA-PyqJXc6RI22BzrA)</u> 망한 채널인데 그저께 주신걸로 올려는 봤습니다"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
     },
     {
       "id": "f3035b6dc3ea",
@@ -2744,14 +810,7 @@
         "2026-11-05"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-05",
-          "time": "14:49",
-          "who": "수강생",
-          "text": "제꺼 함 봐주십쇼 룰쌤..... https://www.youtube.com/channel/UCh9N0LA-PyqJXc6RI22BzrA 망한 채널인데 그저께 주신걸로 올려는 봤습니다"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-05T05:50:41.039Z"
     },
     {
@@ -2770,113 +829,8 @@
         "2026-11-05"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-05",
-          "time": "13:58",
-          "who": "수강생",
-          "text": "https://www.youtube.com/watch?v=48eEbP0MkXA 뭔가 잘못됐어 단단히 => 이부분만 클립처럼 따서 효과음으로 사용하려고 하는데요. 효과음 같은것도 1분 쇼츠에는 ㄱㅊ은데 1분 이상 쇼츠에 짧게라도 사용하면 유튜브에서 걸리나요?"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-05T05:20:42.137Z"
-    },
-    {
-      "id": "72b7caa73bb4",
-      "url": "https://www.youtube.com/watch?v=48eEbP0MkXA](youtube.com/watch?v=48eEbP0MkXA",
-      "kind": "youtube",
-      "site": "youtube.com",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-05",
-      "last_date": "2026-11-05",
-      "dates": [
-        "2026-11-05"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-05",
-          "time": "13:58",
-          "who": "수강생",
-          "text": "<u>[https://www.youtube.com/watch?v=48eEbP0MkXA](youtube.com/watch?v=48eEbP0MkXA)</u> 뭔가 잘못됐어 단단히 => 이부분만 클립처럼 따서 효과음으로 사용하려고 하는데요. 효과음 같은것도 1분 쇼츠에는 ㄱㅊ은데 1분 이상 쇼츠에 짧게라도 사용하면 유튜브에서 걸리나요?"
-        }
-      ],
-      "fetched_at": "2026-11-05T05:20:42.137Z"
-    },
-    {
-      "id": "42eeac46c69e",
-      "url": "https://app.notion.com/p/5-7-40e708749ada8053aca7d0753ca63cf2?source=copy_link](app.notion.com/p/5-7-40e708749ada8053aca7d0753ca63cf2?source=copy_link",
-      "kind": "web",
-      "title": "Notion | Where teams and agents work together",
-      "site": "Notion",
-      "description": "A collaborative AI workspace, built on your company context. Build and orchestrate agents right alongside your team's projects, meetings, and connected apps.",
-      "thumb": "media/r-f7121a4e/link_thumbs/42eeac46c69e.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-05",
-      "last_date": "2026-11-05",
-      "dates": [
-        "2026-11-05"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-05",
-          "time": "00:20",
-          "who": "수강생",
-          "text": "룰쌤 강의 감사합니다 수고하셨습니다~ <u>[https://app.notion.com/p/5-7-40e708749ada8053aca7d0753ca63cf2?source=copy_link](app.notion.com/p/5-7-40e708749ada8053aca7d0753ca63cf2?source=copy_link)</u> 오타 수정해둘게용 나중에 확인 하시면 될 것 같습니다~ 동기분들도 수고 많으셨습니다. 화이팅!"
-        }
-      ],
-      "fetched_at": "2026-11-04T15:32:36.382Z"
-    },
-    {
-      "id": "580f347e665b",
-      "url": "https://open.kakao.com/o/sT4TodVi](open.kakao.com/o/sT4TodVi",
-      "kind": "web",
-      "site": "open.kakao.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-04",
-      "dates": [
-        "2026-11-04"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-04",
-          "time": "18:02",
-          "who": "수강생",
-          "text": "<u>[https://open.kakao.com/o/sT4TodVi](open.kakao.com/o/sT4TodVi)</u> 요기로 연락주세요!"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "0d297090385a",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "kind": "web",
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "site": "OpenAI",
-      "description": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "thumb": "media/r-f7121a4e/link_thumbs/0d297090385a.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-04",
-      "dates": [
-        "2026-11-04"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-04",
-          "time": "10:30",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
-        }
-      ],
-      "fetched_at": "2026-11-21T09:02:43.274Z"
     },
     {
       "id": "1f90f934b887",
@@ -2894,14 +848,7 @@
         "2026-11-04"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-04",
-          "time": "10:30",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-04T02:04:32.265Z"
     },
     {
@@ -2920,41 +867,8 @@
         "2026-11-04"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-04",
-          "time": "10:30",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-04T02:04:32.265Z"
-    },
-    {
-      "id": "25493a43cba5",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "kind": "web",
-      "title": "Accelerating engineering for the physical world",
-      "site": "OpenAI",
-      "description": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-      "thumb": "media/r-f7121a4e/link_thumbs/25493a43cba5.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-04",
-      "dates": [
-        "2026-11-04"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-04",
-          "time": "10:30",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
-        }
-      ],
-      "fetched_at": "2026-11-21T09:02:43.274Z"
     },
     {
       "id": "69a7c301367d",
@@ -2972,14 +886,7 @@
         "2026-11-04"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-04",
-          "time": "10:30",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-04T02:04:32.265Z"
     },
     {
@@ -2998,14 +905,7 @@
         "2026-11-04"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-04",
-          "time": "10:30",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-04T02:04:32.265Z"
     },
     {
@@ -3024,14 +924,7 @@
         "2026-11-04"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-04",
-          "time": "10:30",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-04T02:04:32.265Z"
     },
     {
@@ -3050,41 +943,8 @@
         "2026-11-04"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-04",
-          "time": "10:30",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-04T02:04:32.265Z"
-    },
-    {
-      "id": "bca108e4c77b",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "kind": "web",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "site": "OpenAI",
-      "description": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "thumb": "media/r-f7121a4e/link_thumbs/bca108e4c77b.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-04",
-      "dates": [
-        "2026-11-04"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-04",
-          "time": "10:30",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
-        }
-      ],
-      "fetched_at": "2026-11-21T09:02:43.274Z"
     },
     {
       "id": "f2497d2da324",
@@ -3102,92 +962,8 @@
         "2026-11-04"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-04",
-          "time": "10:30",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-04T02:04:32.265Z"
-    },
-    {
-      "id": "886ec4092f12",
-      "url": "https://www.youtube.com/watch?v=FuAgLHJnc-Y",
-      "kind": "youtube",
-      "title": "Ehrling - Dance With Me",
-      "site": "YouTube",
-      "author": "Free To Use — royalty free music, no copyright",
-      "thumb": "media/r-f7121a4e/link_thumbs/886ec4092f12.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-02",
-      "last_date": "2026-11-02",
-      "dates": [
-        "2026-11-02"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-02",
-          "time": "23:33",
-          "who": "수강생",
-          "text": "https://youtu.be/FuAgLHJnc-Y"
-        }
-      ],
-      "fetched_at": "2026-11-02T14:58:41.925Z"
-    },
-    {
-      "id": "3b352e62981e",
-      "url": "https://www.youtube.com/watch?v=MqO-6i5kGjo",
-      "kind": "youtube",
-      "title": "얼굴 보고 왔다가 사투리에 붙잡힘",
-      "site": "YouTube",
-      "author": "더집중",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-02",
-      "last_date": "2026-11-02",
-      "dates": [
-        "2026-11-02"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-02",
-          "time": "21:13",
-          "who": "수강생",
-          "text": "https://youtube.com/shorts/MqO-6i5kGjo 혹시 이거 BGM 이름 아시는 분 계실까요"
-        }
-      ],
-      "fetched_at": "2026-11-02T12:39:07.544Z"
-    },
-    {
-      "id": "3ce99330bfc4",
-      "url": "https://www.youtube.com/watch?v=0QpWJfLgr-o",
-      "kind": "youtube",
-      "title": "포랑 커피 한 잔 만들려다… ☕🐶",
-      "site": "YouTube",
-      "author": "별일 없는영상",
-      "thumb": "media/r-f7121a4e/link_thumbs/3ce99330bfc4.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-30",
-      "last_date": "2026-10-30",
-      "dates": [
-        "2026-10-30"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-30",
-          "time": "12:39",
-          "who": "수강생",
-          "text": "https://youtube.com/shorts/0QpWJfLgr-o"
-        }
-      ],
-      "fetched_at": "2026-10-30T05:58:54.763Z"
     },
     {
       "id": "abebb210282b",
@@ -3205,14 +981,7 @@
         "2026-10-28"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-28",
-          "time": "14:41",
-          "who": "수강생",
-          "text": "인스타에도 롱폼 나온다고 하네욤💙 https://www.instagram.com/p/De_dJKdmwPS/"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-28T06:16:32.408Z"
     },
     {
@@ -3232,20 +1001,7 @@
         "2026-10-28"
       ],
       "mention_count": 2,
-      "contexts": [
-        {
-          "date": "2026-10-28",
-          "time": "13:52",
-          "who": "수강생",
-          "text": "https://codex-resets.com/ko 요기서 보시는게 제일 정확해용"
-        },
-        {
-          "date": "2026-10-23",
-          "time": "18:39",
-          "who": "수강생",
-          "text": "https://codex-resets.com/ko chatgpt 리셋 알려주는 사이트입니다! 즐겨찾기 해놓으면 리셋 결과 미리미리 아실수있어요!"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-23T09:47:49.564Z"
     },
     {
@@ -3264,14 +1020,7 @@
         "2026-10-28"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-28",
-          "time": "09:07",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-28 AI를 잘 쓰는 방법은 더 강한 모델을 고르는 데서 끝나지 않고, 안전하게 일을 맡기고 만들고 검증하는 방식까지 이어집니다. 오늘은 아스트라 안전성 수치, 브랜드 전용 영상 앱 제작, 신약 연구 성과, 기업 업무 연결, 실전 AI 비용 전략을 서로 다른 관점에서 살펴봅니다. 1) 아스트라와 테라, 안전성 시험에선 심각한 경고가 26건 대 22건이었어요 오픈AI가 10월 26일 공개한 GPT-6 아스트라 시스템 카드 보완 자료에는 GPT-6.1 테라의 코딩 에이전트 안전성 비교가 담겼…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-28T00:26:26.736Z"
     },
     {
@@ -3290,14 +1039,7 @@
         "2026-10-28"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-28",
-          "time": "09:07",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-28 AI를 잘 쓰는 방법은 더 강한 모델을 고르는 데서 끝나지 않고, 안전하게 일을 맡기고 만들고 검증하는 방식까지 이어집니다. 오늘은 아스트라 안전성 수치, 브랜드 전용 영상 앱 제작, 신약 연구 성과, 기업 업무 연결, 실전 AI 비용 전략을 서로 다른 관점에서 살펴봅니다. 1) 아스트라와 테라, 안전성 시험에선 심각한 경고가 26건 대 22건이었어요 오픈AI가 10월 26일 공개한 GPT-6 아스트라 시스템 카드 보완 자료에는 GPT-6.1 테라의 코딩 에이전트 안전성 비교가 담겼…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-28T00:26:26.736Z"
     },
     {
@@ -3316,14 +1058,7 @@
         "2026-10-28"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-28",
-          "time": "09:07",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-28 AI를 잘 쓰는 방법은 더 강한 모델을 고르는 데서 끝나지 않고, 안전하게 일을 맡기고 만들고 검증하는 방식까지 이어집니다. 오늘은 아스트라 안전성 수치, 브랜드 전용 영상 앱 제작, 신약 연구 성과, 기업 업무 연결, 실전 AI 비용 전략을 서로 다른 관점에서 살펴봅니다. 1) 아스트라와 테라, 안전성 시험에선 심각한 경고가 26건 대 22건이었어요 오픈AI가 10월 26일 공개한 GPT-6 아스트라 시스템 카드 보완 자료에는 GPT-6.1 테라의 코딩 에이전트 안전성 비교가 담겼…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-28T00:26:26.736Z"
     },
     {
@@ -3341,87 +1076,8 @@
         "2026-10-28"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-28",
-          "time": "09:07",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-28 AI를 잘 쓰는 방법은 더 강한 모델을 고르는 데서 끝나지 않고, 안전하게 일을 맡기고 만들고 검증하는 방식까지 이어집니다. 오늘은 아스트라 안전성 수치, 브랜드 전용 영상 앱 제작, 신약 연구 성과, 기업 업무 연결, 실전 AI 비용 전략을 서로 다른 관점에서 살펴봅니다. 1) 아스트라와 테라, 안전성 시험에선 심각한 경고가 26건 대 22건이었어요 오픈AI가 10월 26일 공개한 GPT-6 아스트라 시스템 카드 보완 자료에는 GPT-6.1 테라의 코딩 에이전트 안전성 비교가 담겼…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-28T00:26:26.736Z"
-    },
-    {
-      "id": "b3764d9ad742",
-      "url": "https://x.com/runwayml/status/2114778016907718936",
-      "kind": "web",
-      "site": "x.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-28",
-      "last_date": "2026-10-28",
-      "dates": [
-        "2026-10-28"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-28",
-          "time": "09:07",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-28 AI를 잘 쓰는 방법은 더 강한 모델을 고르는 데서 끝나지 않고, 안전하게 일을 맡기고 만들고 검증하는 방식까지 이어집니다. 오늘은 아스트라 안전성 수치, 브랜드 전용 영상 앱 제작, 신약 연구 성과, 기업 업무 연결, 실전 AI 비용 전략을 서로 다른 관점에서 살펴봅니다. 1) 아스트라와 테라, 안전성 시험에선 심각한 경고가 26건 대 22건이었어요 오픈AI가 10월 26일 공개한 GPT-6 아스트라 시스템 카드 보완 자료에는 GPT-6.1 테라의 코딩 에이전트 안전성 비교가 담겼…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "bf35a979050e",
-      "url": "https://help.runwayml.com/hc/en-us/articles/56447349336467-Building-apps-with-App-Studio",
-      "kind": "web",
-      "site": "help.runwayml.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-28",
-      "last_date": "2026-10-28",
-      "dates": [
-        "2026-10-28"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-28",
-          "time": "09:07",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-28 AI를 잘 쓰는 방법은 더 강한 모델을 고르는 데서 끝나지 않고, 안전하게 일을 맡기고 만들고 검증하는 방식까지 이어집니다. 오늘은 아스트라 안전성 수치, 브랜드 전용 영상 앱 제작, 신약 연구 성과, 기업 업무 연결, 실전 AI 비용 전략을 서로 다른 관점에서 살펴봅니다. 1) 아스트라와 테라, 안전성 시험에선 심각한 경고가 26건 대 22건이었어요 오픈AI가 10월 26일 공개한 GPT-6 아스트라 시스템 카드 보완 자료에는 GPT-6.1 테라의 코딩 에이전트 안전성 비교가 담겼…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "c417f8e3d39d",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "kind": "web",
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "site": "OpenAI",
-      "description": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-      "thumb": "media/r-f7121a4e/link_thumbs/c417f8e3d39d.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-28",
-      "last_date": "2026-10-28",
-      "dates": [
-        "2026-10-28"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-28",
-          "time": "09:07",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-28 AI를 잘 쓰는 방법은 더 강한 모델을 고르는 데서 끝나지 않고, 안전하게 일을 맡기고 만들고 검증하는 방식까지 이어집니다. 오늘은 아스트라 안전성 수치, 브랜드 전용 영상 앱 제작, 신약 연구 성과, 기업 업무 연결, 실전 AI 비용 전략을 서로 다른 관점에서 살펴봅니다. 1) 아스트라와 테라, 안전성 시험에선 심각한 경고가 26건 대 22건이었어요 오픈AI가 10월 26일 공개한 GPT-6 아스트라 시스템 카드 보완 자료에는 GPT-6.1 테라의 코딩 에이전트 안전성 비교가 담겼…"
-        }
-      ],
-      "fetched_at": "2026-11-21T09:02:43.274Z"
     },
     {
       "id": "dcad83d82733",
@@ -3439,388 +1095,8 @@
         "2026-10-28"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-28",
-          "time": "09:07",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-28 AI를 잘 쓰는 방법은 더 강한 모델을 고르는 데서 끝나지 않고, 안전하게 일을 맡기고 만들고 검증하는 방식까지 이어집니다. 오늘은 아스트라 안전성 수치, 브랜드 전용 영상 앱 제작, 신약 연구 성과, 기업 업무 연결, 실전 AI 비용 전략을 서로 다른 관점에서 살펴봅니다. 1) 아스트라와 테라, 안전성 시험에선 심각한 경고가 26건 대 22건이었어요 오픈AI가 10월 26일 공개한 GPT-6 아스트라 시스템 카드 보완 자료에는 GPT-6.1 테라의 코딩 에이전트 안전성 비교가 담겼…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-28T00:26:26.736Z"
-    },
-    {
-      "id": "35e334c19874",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "kind": "web",
-      "title": "Introducing GPT-6.1 Terra",
-      "site": "OpenAI",
-      "description": "Delivering fast and capable computer use at scale",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-27",
-      "last_date": "2026-10-27",
-      "dates": [
-        "2026-10-27"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-27",
-          "time": "10:48",
-          "who": "수강생",
-          "text": "GPT 새로운 모델 6.1 Terra 나왔대요~!! Sol도 6.1 모델 있는데, 그렇다면 Astra도 6.1이 출시될지도!? https://openai.com/index/introducing-gpt-6-1-terra/"
-        }
-      ],
-      "fetched_at": "2026-11-21T09:02:43.274Z"
-    },
-    {
-      "id": "0841d5358e11",
-      "url": "https://artificialanalysis.ai/agents/coding-agents](artificialanalysis.ai/agents/coding-agents",
-      "kind": "web",
-      "site": "artificialanalysis.ai",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "1cd0e0030b5e",
-      "url": "https://block.xyz/dessa](block.xyz/dessa",
-      "kind": "web",
-      "site": "block.xyz",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "1ffb4e07f284",
-      "url": "https://www.anthropic.com/news](anthropic.com/news",
-      "kind": "web",
-      "site": "anthropic.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "2e2bce2a5eb6",
-      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation](anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-      "kind": "article",
-      "site": "anthropic.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "3e88980ac4c0",
-      "url": "https://x.com/ArtificialAnlys/status/2113424556069372203](x.com/ArtificialAnlys/status/2113424556069372203",
-      "kind": "web",
-      "site": "x.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "41c29ebb7d6f",
-      "url": "https://blog.google/](blog.google",
-      "kind": "web",
-      "site": "blog.google",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "54a2d659b103",
-      "url": "https://artificialanalysis.ai/methodology/coding-agents-benchmarking](artificialanalysis.ai/methodology/coding-agents-benchmarking",
-      "kind": "web",
-      "site": "artificialanalysis.ai",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "78283b25edba",
-      "url": "https://www.youtube.com/watch?v=8tjhiruPpBg](youtube.com/watch?v=8tjhiruPpBg",
-      "kind": "youtube",
-      "site": "youtube.com",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-10-26T00:28:56.432Z"
-    },
-    {
-      "id": "82c241d00461",
-      "url": "https://x.com/jack/status/2113697820222042296](x.com/jack/status/2113697820222042296",
-      "kind": "web",
-      "site": "x.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "91262a805298",
-      "url": "https://medium.com/google-cloud/ai-agent-vs-ai-harness-where-memory-actually-lives-7067e64d20a3](medium.com/google-cloud/ai-agent-vs-ai-harness-where-memory-actually-lives-7067e64d20a3",
-      "kind": "blog",
-      "site": "medium.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "adf7bef1d764",
-      "url": "https://x.com/RagavanThurair/status/2113691903866872251](x.com/RagavanThurair/status/2113691903866872251",
-      "kind": "web",
-      "site": "x.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "e1e08b648d4e",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/](blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders",
-      "kind": "web",
-      "site": "blog.google",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "f0443450177d",
-      "url": "https://www.youtube.com/watch?v=aZMKzHhlTh8",
-      "kind": "youtube",
-      "title": "HUGE GPT-7 BEL UPDATE! Claude REA BANNED, Gemini 4 Carbon Is INSANE, Qwen 4 LEAKS, & More! AI NEWS",
-      "site": "YouTube",
-      "author": "WorldofAI",
-      "thumb": "media/r-f7121a4e/link_thumbs/f0443450177d.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-10-26T00:28:56.432Z"
-    },
-    {
-      "id": "fe360ca6308e",
-      "url": "https://x.com/ArtificialAnlys/status/2113424551396934134](x.com/ArtificialAnlys/status/2113424551396934134",
-      "kind": "web",
-      "site": "x.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "ff821e302bc6",
-      "url": "https://www.youtube.com/watch?v=2C_CefSQEAQ](youtube.com/watch?v=2C_CefSQEAQ",
-      "kind": "youtube",
-      "site": "youtube.com",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-10-26T00:28:56.432Z"
     },
     {
       "id": "1f79452dc604",
@@ -3838,14 +1114,7 @@
         "2026-10-24"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-24",
-          "time": "16:12",
-          "who": "수강생",
-          "text": "https://www.youtube.com/watch?v=r6zIGXun57U&list=RDr6zIGXun57U&start_radio=1"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-24T08:56:00.364Z"
     },
     {
@@ -3864,38 +1133,8 @@
         "2026-10-24"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-24",
-          "time": "09:31",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-24 AI 코딩의 경쟁은 모델 성능뿐 아니라 화면을 실제로 조작하는 능력, 속도, 이용 비용으로 넓어지고 있습니다. 오늘 소식은 내 프로젝트에서 무엇을 바로 시험할지 정하는 데 참고하시면 좋겠어요. 1) 아스트라로 코딩하면, 모델만큼 에이전트 설계도 중요해요 리플릿(Replit)은 9월 29일 공개한 기술 글에서 GPT-6 아스트라(Astra)를 사용하는 에이전트가 하위 에이전트의 모델과 추론 강도를 직접 선택하도록 설계했다고 설명했습니다. 회사 자체 평가에서는 DeepSWE와 Termi…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-24T06:05:33.473Z"
-    },
-    {
-      "id": "544b5f5a1e86",
-      "url": "https://replit.com/blog/free-the-models-harness-design-at-the-frontier",
-      "kind": "web",
-      "site": "replit.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-24",
-      "last_date": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-24",
-          "time": "09:31",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-24 AI 코딩의 경쟁은 모델 성능뿐 아니라 화면을 실제로 조작하는 능력, 속도, 이용 비용으로 넓어지고 있습니다. 오늘 소식은 내 프로젝트에서 무엇을 바로 시험할지 정하는 데 참고하시면 좋겠어요. 1) 아스트라로 코딩하면, 모델만큼 에이전트 설계도 중요해요 리플릿(Replit)은 9월 29일 공개한 기술 글에서 GPT-6 아스트라(Astra)를 사용하는 에이전트가 하위 에이전트의 모델과 추론 강도를 직접 선택하도록 설계했다고 설명했습니다. 회사 자체 평가에서는 DeepSWE와 Termi…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
     },
     {
       "id": "614a0336a773",
@@ -3913,14 +1152,7 @@
         "2026-10-24"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-24",
-          "time": "09:31",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-24 AI 코딩의 경쟁은 모델 성능뿐 아니라 화면을 실제로 조작하는 능력, 속도, 이용 비용으로 넓어지고 있습니다. 오늘 소식은 내 프로젝트에서 무엇을 바로 시험할지 정하는 데 참고하시면 좋겠어요. 1) 아스트라로 코딩하면, 모델만큼 에이전트 설계도 중요해요 리플릿(Replit)은 9월 29일 공개한 기술 글에서 GPT-6 아스트라(Astra)를 사용하는 에이전트가 하위 에이전트의 모델과 추론 강도를 직접 선택하도록 설계했다고 설명했습니다. 회사 자체 평가에서는 DeepSWE와 Termi…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-24T06:05:33.473Z"
     },
     {
@@ -3938,14 +1170,7 @@
         "2026-10-24"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-24",
-          "time": "09:31",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-24 AI 코딩의 경쟁은 모델 성능뿐 아니라 화면을 실제로 조작하는 능력, 속도, 이용 비용으로 넓어지고 있습니다. 오늘 소식은 내 프로젝트에서 무엇을 바로 시험할지 정하는 데 참고하시면 좋겠어요. 1) 아스트라로 코딩하면, 모델만큼 에이전트 설계도 중요해요 리플릿(Replit)은 9월 29일 공개한 기술 글에서 GPT-6 아스트라(Astra)를 사용하는 에이전트가 하위 에이전트의 모델과 추론 강도를 직접 선택하도록 설계했다고 설명했습니다. 회사 자체 평가에서는 DeepSWE와 Termi…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-24T06:05:33.473Z"
     },
     {
@@ -3964,14 +1189,7 @@
         "2026-10-24"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-24",
-          "time": "09:31",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-24 AI 코딩의 경쟁은 모델 성능뿐 아니라 화면을 실제로 조작하는 능력, 속도, 이용 비용으로 넓어지고 있습니다. 오늘 소식은 내 프로젝트에서 무엇을 바로 시험할지 정하는 데 참고하시면 좋겠어요. 1) 아스트라로 코딩하면, 모델만큼 에이전트 설계도 중요해요 리플릿(Replit)은 9월 29일 공개한 기술 글에서 GPT-6 아스트라(Astra)를 사용하는 에이전트가 하위 에이전트의 모델과 추론 강도를 직접 선택하도록 설계했다고 설명했습니다. 회사 자체 평가에서는 DeepSWE와 Termi…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-24T06:05:33.473Z"
     },
     {
@@ -3990,14 +1208,7 @@
         "2026-10-24"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-24",
-          "time": "09:31",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-24 AI 코딩의 경쟁은 모델 성능뿐 아니라 화면을 실제로 조작하는 능력, 속도, 이용 비용으로 넓어지고 있습니다. 오늘 소식은 내 프로젝트에서 무엇을 바로 시험할지 정하는 데 참고하시면 좋겠어요. 1) 아스트라로 코딩하면, 모델만큼 에이전트 설계도 중요해요 리플릿(Replit)은 9월 29일 공개한 기술 글에서 GPT-6 아스트라(Astra)를 사용하는 에이전트가 하위 에이전트의 모델과 추론 강도를 직접 선택하도록 설계했다고 설명했습니다. 회사 자체 평가에서는 DeepSWE와 Termi…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-24T06:05:33.473Z"
     },
     {
@@ -4016,41 +1227,8 @@
         "2026-10-24"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-24",
-          "time": "09:31",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-24 AI 코딩의 경쟁은 모델 성능뿐 아니라 화면을 실제로 조작하는 능력, 속도, 이용 비용으로 넓어지고 있습니다. 오늘 소식은 내 프로젝트에서 무엇을 바로 시험할지 정하는 데 참고하시면 좋겠어요. 1) 아스트라로 코딩하면, 모델만큼 에이전트 설계도 중요해요 리플릿(Replit)은 9월 29일 공개한 기술 글에서 GPT-6 아스트라(Astra)를 사용하는 에이전트가 하위 에이전트의 모델과 추론 강도를 직접 선택하도록 설계했다고 설명했습니다. 회사 자체 평가에서는 DeepSWE와 Termi…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-24T06:05:33.473Z"
-    },
-    {
-      "id": "723652dd29b1",
-      "url": "https://cloud.pixeling.io/s/65f2a4ba-f756-43c0-aff8-88c732a70b69.4hgIUdpFWhoh_qDDEf4SBiFM2Lw-YLP3blZqhzhfJl4",
-      "kind": "web",
-      "title": "요즘 뜨는 짜임으로 '김미화' 주제 숏폼 만들어줘",
-      "site": "Pixeling",
-      "description": "약 41초·세로 1080p입니다. 짧은 후킹과 실제 가족 발언으로 구성하고, BGM·자막 표시 프레임·음량을 확인해 결과물에 저장했습니다.",
-      "thumb": "media/r-f7121a4e/link_thumbs/723652dd29b1.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-23",
-      "last_date": "2026-10-23",
-      "dates": [
-        "2026-10-23"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-23",
-          "time": "19:10",
-          "who": "수강생",
-          "text": "https://cloud.pixeling.io/s/65f2a4ba-f756-43c0-aff8-88c732a70b69.4hgIUdpFWhoh_qDDEf4SBiFM2Lw-YLP3blZqhzhfJl4 룰쌤 말씀 듣고 잡도리 해보고 있습니다! 힘을 주세요 여러분!"
-        }
-      ],
-      "fetched_at": "2026-10-23T10:26:20.864Z"
     },
     {
       "id": "18574fe9f275",
@@ -4068,14 +1246,7 @@
         "2026-10-23"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-23",
-          "time": "10:50",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-23T03:08:47.706Z"
     },
     {
@@ -4091,14 +1262,7 @@
         "2026-10-23"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-23",
-          "time": "10:50",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-23T03:08:47.706Z"
     },
     {
@@ -4117,14 +1281,7 @@
         "2026-10-23"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-23",
-          "time": "10:50",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-23T03:08:47.706Z"
     },
     {
@@ -4143,14 +1300,7 @@
         "2026-10-23"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-23",
-          "time": "10:50",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-23T03:08:47.706Z"
     },
     {
@@ -4169,14 +1319,7 @@
         "2026-10-23"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-23",
-          "time": "10:50",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-23T03:08:47.706Z"
     },
     {
@@ -4194,14 +1337,7 @@
         "2026-10-23"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-23",
-          "time": "10:50",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-23T03:08:47.706Z"
     },
     {
@@ -4220,14 +1356,7 @@
         "2026-10-23"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-23",
-          "time": "10:50",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-23T03:08:47.706Z"
     },
     {
@@ -4246,14 +1375,7 @@
         "2026-10-23"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-23",
-          "time": "10:50",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-23T03:08:47.706Z"
     },
     {
@@ -4272,14 +1394,7 @@
         "2026-10-23"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-23",
-          "time": "10:50",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-23T03:08:47.706Z"
     },
     {
@@ -4298,40 +1413,8 @@
         "2026-10-23"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-23",
-          "time": "10:50",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-23T03:08:47.706Z"
-    },
-    {
-      "id": "beb292c3292a",
-      "url": "https://open.kakao.com/o/sg4Df2Oi",
-      "kind": "web",
-      "title": "의정뷰",
-      "site": "open.kakao.com",
-      "thumb": "media/r-f7121a4e/link_thumbs/beb292c3292a.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-23",
-      "last_date": "2026-10-23",
-      "dates": [
-        "2026-10-23"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-23",
-          "time": "10:11",
-          "who": "수강생",
-          "text": "https://open.kakao.com/o/sg4Df2Oi 연락주세요!"
-        }
-      ],
-      "fetched_at": "2026-10-23T01:28:59.365Z"
     },
     {
       "id": "ed00bd076c34",
@@ -4349,153 +1432,8 @@
         "2026-10-21"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-21",
-          "time": "17:59",
-          "who": "수강생",
-          "text": "🚨동기분들께 오늘 얼리버드 할인 마감 (1시간뒤) 안내드립니다🔥 🍀왕초보 수익화 & 수창채널 직구가이드 시작을 도와주는 남자, 시도남입니다 🌱 오랫동안 정리해온 전자책을 드디어 보여드릴수 있게되었습니다! 감사하게도 디하클 대표 강사 룰루랄라릴리 님께 “제가 봤던 바이블 중에 바이블 전자책”이라는 말씀도 들었습니다. 그만큼 내용은 정말 많이 고민해서 담았습니다. ✔ 단순히 정보만 모아둔 자료가 아니라, ✔ 제가 직접 부딪히며 정리한 수익화 흐름, 수창채널 직구 방법까지! 특히 처음 시작하시는 분들도 차근차근 보고 따라갈 수 있도록,…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-21T11:15:26.241Z"
-    },
-    {
-      "id": "4ef7e320ce90",
-      "url": "https://x.com/opencode/status/2111516673953935833](x.com/opencode/status/2111516673953935833",
-      "kind": "web",
-      "site": "x.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-21",
-      "last_date": "2026-10-21",
-      "dates": [
-        "2026-10-21"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-21",
-          "time": "12:17",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-21 오늘 전할 것들은 하나같이 ‘비싼 쪽이 늘 이기는 건 아니다’로 모입니다. 오픈AI가 자기 코드베이스를 직접 정리해 보니 더 싼 모델이 비용 대비 여섯 배를 해냈고, 508기가짜리 최상위 오픈 모델은 250기가로 줄여도 쓸 만한 정확도가 남았습니다. 반대 방향도 있습니다. 편하자고 코딩 에이전트에 맡겨 둔 API 키 하나가 이번 주에 가장 비싼 값을 치르게 만들었습니다. 오늘 소식은 쓰시는 도구에 ‘여기에 이만큼까지 써도 되나’를 한 번 다시 정하시는 데 참고하시면 좋겠어요. 1)…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "67b6633d067f",
-      "url": "https://www.stepsecurity.io/blog/opencode-security-breach](stepsecurity.io/blog/opencode-security-breach",
-      "kind": "web",
-      "site": "stepsecurity.io",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-21",
-      "last_date": "2026-10-21",
-      "dates": [
-        "2026-10-21"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-21",
-          "time": "12:17",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-21 오늘 전할 것들은 하나같이 ‘비싼 쪽이 늘 이기는 건 아니다’로 모입니다. 오픈AI가 자기 코드베이스를 직접 정리해 보니 더 싼 모델이 비용 대비 여섯 배를 해냈고, 508기가짜리 최상위 오픈 모델은 250기가로 줄여도 쓸 만한 정확도가 남았습니다. 반대 방향도 있습니다. 편하자고 코딩 에이전트에 맡겨 둔 API 키 하나가 이번 주에 가장 비싼 값을 치르게 만들었습니다. 오늘 소식은 쓰시는 도구에 ‘여기에 이만큼까지 써도 되나’를 한 번 다시 정하시는 데 참고하시면 좋겠어요. 1)…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "70602fa16a6b",
-      "url": "https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family](developers.openai.com/blog/maintaining-software-with-the-gpt-6-family",
-      "kind": "web",
-      "site": "developers.openai.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-21",
-      "last_date": "2026-10-21",
-      "dates": [
-        "2026-10-21"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-21",
-          "time": "12:17",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-21 오늘 전할 것들은 하나같이 ‘비싼 쪽이 늘 이기는 건 아니다’로 모입니다. 오픈AI가 자기 코드베이스를 직접 정리해 보니 더 싼 모델이 비용 대비 여섯 배를 해냈고, 508기가짜리 최상위 오픈 모델은 250기가로 줄여도 쓸 만한 정확도가 남았습니다. 반대 방향도 있습니다. 편하자고 코딩 에이전트에 맡겨 둔 API 키 하나가 이번 주에 가장 비싼 값을 치르게 만들었습니다. 오늘 소식은 쓰시는 도구에 ‘여기에 이만큼까지 써도 되나’를 한 번 다시 정하시는 데 참고하시면 좋겠어요. 1)…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "b83416219a23",
-      "url": "https://github.blog/changelog/2026-10-20-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4/](github.blog/changelog/2026-10-20-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4",
-      "kind": "web",
-      "site": "github.blog",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-21",
-      "last_date": "2026-10-21",
-      "dates": [
-        "2026-10-21"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-21",
-          "time": "12:17",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-21 오늘 전할 것들은 하나같이 ‘비싼 쪽이 늘 이기는 건 아니다’로 모입니다. 오픈AI가 자기 코드베이스를 직접 정리해 보니 더 싼 모델이 비용 대비 여섯 배를 해냈고, 508기가짜리 최상위 오픈 모델은 250기가로 줄여도 쓸 만한 정확도가 남았습니다. 반대 방향도 있습니다. 편하자고 코딩 에이전트에 맡겨 둔 API 키 하나가 이번 주에 가장 비싼 값을 치르게 만들었습니다. 오늘 소식은 쓰시는 도구에 ‘여기에 이만큼까지 써도 되나’를 한 번 다시 정하시는 데 참고하시면 좋겠어요. 1)…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "cee82a74afc3",
-      "url": "https://github.com/CodebuffAI/freebuff](github.com/CodebuffAI/freebuff",
-      "kind": "web",
-      "site": "github.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-21",
-      "last_date": "2026-10-21",
-      "dates": [
-        "2026-10-21"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-21",
-          "time": "12:17",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-21 오늘 전할 것들은 하나같이 ‘비싼 쪽이 늘 이기는 건 아니다’로 모입니다. 오픈AI가 자기 코드베이스를 직접 정리해 보니 더 싼 모델이 비용 대비 여섯 배를 해냈고, 508기가짜리 최상위 오픈 모델은 250기가로 줄여도 쓸 만한 정확도가 남았습니다. 반대 방향도 있습니다. 편하자고 코딩 에이전트에 맡겨 둔 API 키 하나가 이번 주에 가장 비싼 값을 치르게 만들었습니다. 오늘 소식은 쓰시는 도구에 ‘여기에 이만큼까지 써도 되나’를 한 번 다시 정하시는 데 참고하시면 좋겠어요. 1)…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "f0921107fdbf",
-      "url": "https://unsloth.ai/docs/models/deepseek-v4.1-flash](unsloth.ai/docs/models/deepseek-v4.1-flash",
-      "kind": "web",
-      "site": "unsloth.ai",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-21",
-      "last_date": "2026-10-21",
-      "dates": [
-        "2026-10-21"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-21",
-          "time": "12:17",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-21 오늘 전할 것들은 하나같이 ‘비싼 쪽이 늘 이기는 건 아니다’로 모입니다. 오픈AI가 자기 코드베이스를 직접 정리해 보니 더 싼 모델이 비용 대비 여섯 배를 해냈고, 508기가짜리 최상위 오픈 모델은 250기가로 줄여도 쓸 만한 정확도가 남았습니다. 반대 방향도 있습니다. 편하자고 코딩 에이전트에 맡겨 둔 API 키 하나가 이번 주에 가장 비싼 값을 치르게 만들었습니다. 오늘 소식은 쓰시는 도구에 ‘여기에 이만큼까지 써도 되나’를 한 번 다시 정하시는 데 참고하시면 좋겠어요. 1)…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
     },
     {
       "id": "c72f13e398e0",
@@ -4512,41 +1450,8 @@
         "2026-10-20"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-20",
-          "time": "15:47",
-          "who": "수강생",
-          "text": "https://open.kakao.com/o/se7Wa6Ki 여기용"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-20T07:00:08.377Z"
-    },
-    {
-      "id": "3930e8dede76",
-      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-      "kind": "web",
-      "title": "ChatGPT release notes | OpenAI Help Center",
-      "site": "OpenAI Help Center",
-      "description": "Review the latest updates and release notes for ChatGPT.",
-      "thumb": "media/r-f7121a4e/link_thumbs/3930e8dede76.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-20",
-      "last_date": "2026-10-20",
-      "dates": [
-        "2026-10-20"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-20",
-          "time": "09:56",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-20 오늘 전할 것들은 하나같이 '에이전트를 얼마나 깊이 파게 둘 것인가'를 사람이 손잡이로 쥐는 이야기입니다. 리뷰 깊이를 세 단계 중에서 고르고, 예전 모델한테 통하던 지시문을 덜어내고, 보안 알림 스물다섯 개를 한 묶음으로 넘깁니다. 더 똑똑해졌다는 자랑이 아니라, 어디까지 맡기고 어디서 멈출지를 설정 화면으로 끌어내린 변화입니다. 오늘 소식은 쓰고 계신 도구에서 '깊이'와 '경계'를 어디에 둘지 정하시는 데 참고하시면 좋겠어요. 소식 1 코드 리뷰를 얼마나 깊게 할지, 이제 골라서…"
-        }
-      ],
-      "fetched_at": "2026-11-21T09:37:29.872Z"
     },
     {
       "id": "3d68ad8e1324",
@@ -4566,26 +1471,7 @@
         "2026-10-20"
       ],
       "mention_count": 3,
-      "contexts": [
-        {
-          "date": "2026-10-20",
-          "time": "09:56",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-20 오늘 전할 것들은 하나같이 '에이전트를 얼마나 깊이 파게 둘 것인가'를 사람이 손잡이로 쥐는 이야기입니다. 리뷰 깊이를 세 단계 중에서 고르고, 예전 모델한테 통하던 지시문을 덜어내고, 보안 알림 스물다섯 개를 한 묶음으로 넘깁니다. 더 똑똑해졌다는 자랑이 아니라, 어디까지 맡기고 어디서 멈출지를 설정 화면으로 끌어내린 변화입니다. 오늘 소식은 쓰고 계신 도구에서 '깊이'와 '경계'를 어디에 둘지 정하시는 데 참고하시면 좋겠어요. 소식 1 코드 리뷰를 얼마나 깊게 할지, 이제 골라서…"
-        },
-        {
-          "date": "2026-10-16",
-          "time": "09:42",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-16 오늘 전할 것들은 하나같이 '여러 개를 묶는 쪽'과 '묶인 것을 하나씩 고정해 두는 쪽'으로 갈립니다. 하이드라퓨전은 모델 네 개를 묶어 답 하나를 내고, 뮤즈 코드는 모델과 에이전트를 한 구독에 묶고, 리플릿은 프로젝트 여러 개를 채팅 하나에 묶습니다. 반대로 액션 락파일은 의존성을 커밋 하나에 못 박고, 클로드 코드는 무인 모드가 하염없이 기다리지 않도록 상한을 박습니다. 오늘 소식은 새로 묶인 것 하나를 쓰실 때 '그 안에서 무엇이 고정돼 있고 무엇이 그날그날 달라지는지'를 한…"
-        },
-        {
-          "date": "2026-10-15",
-          "time": "10:39",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-15 오늘 전할 것들은 하나같이 날짜가 적혀 있는 것들입니다. 할인 가격은 11월 30일까지고, 쓰던 모델은 어제 정오에 끊겼고, 제 대화는 54분을 넘기면 알아서 압축되고, 개인 앱은 아직 일부 나라에서만 열립니다. 오늘 소식은 새로 열린 것 하나를 쓰실 때 '이게 언제까지인지'를 한 번 더 확인하시는 데 참고하시면 좋겠어요. 1) 제미나이 4 아르곤이 드디어 아무나 쓸 수 있게 열렸어요 9월 30일에 '구글 최강 모델'로 발표됐지만, 그동안은 구글 자체 설명대로 페어윈드 프로그램의 검…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-15T02:00:56.433Z"
     },
     {
@@ -4604,14 +1490,7 @@
         "2026-10-20"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-20",
-          "time": "09:56",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-20 오늘 전할 것들은 하나같이 '에이전트를 얼마나 깊이 파게 둘 것인가'를 사람이 손잡이로 쥐는 이야기입니다. 리뷰 깊이를 세 단계 중에서 고르고, 예전 모델한테 통하던 지시문을 덜어내고, 보안 알림 스물다섯 개를 한 묶음으로 넘깁니다. 더 똑똑해졌다는 자랑이 아니라, 어디까지 맡기고 어디서 멈출지를 설정 화면으로 끌어내린 변화입니다. 오늘 소식은 쓰고 계신 도구에서 '깊이'와 '경계'를 어디에 둘지 정하시는 데 참고하시면 좋겠어요. 소식 1 코드 리뷰를 얼마나 깊게 할지, 이제 골라서…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-20T01:01:23.732Z"
     },
     {
@@ -4630,14 +1509,7 @@
         "2026-10-20"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-20",
-          "time": "09:56",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-20 오늘 전할 것들은 하나같이 '에이전트를 얼마나 깊이 파게 둘 것인가'를 사람이 손잡이로 쥐는 이야기입니다. 리뷰 깊이를 세 단계 중에서 고르고, 예전 모델한테 통하던 지시문을 덜어내고, 보안 알림 스물다섯 개를 한 묶음으로 넘깁니다. 더 똑똑해졌다는 자랑이 아니라, 어디까지 맡기고 어디서 멈출지를 설정 화면으로 끌어내린 변화입니다. 오늘 소식은 쓰고 계신 도구에서 '깊이'와 '경계'를 어디에 둘지 정하시는 데 참고하시면 좋겠어요. 소식 1 코드 리뷰를 얼마나 깊게 할지, 이제 골라서…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-20T01:01:23.732Z"
     },
     {
@@ -4656,14 +1528,7 @@
         "2026-10-20"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-20",
-          "time": "09:56",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-20 오늘 전할 것들은 하나같이 '에이전트를 얼마나 깊이 파게 둘 것인가'를 사람이 손잡이로 쥐는 이야기입니다. 리뷰 깊이를 세 단계 중에서 고르고, 예전 모델한테 통하던 지시문을 덜어내고, 보안 알림 스물다섯 개를 한 묶음으로 넘깁니다. 더 똑똑해졌다는 자랑이 아니라, 어디까지 맡기고 어디서 멈출지를 설정 화면으로 끌어내린 변화입니다. 오늘 소식은 쓰고 계신 도구에서 '깊이'와 '경계'를 어디에 둘지 정하시는 데 참고하시면 좋겠어요. 소식 1 코드 리뷰를 얼마나 깊게 할지, 이제 골라서…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-20T01:01:23.732Z"
     },
     {
@@ -4682,14 +1547,7 @@
         "2026-10-19"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-19",
-          "time": "13:48",
-          "who": "수강생",
-          "text": "https://app.pixeling.io/ 여기 사이트에서 받으시면될거예용"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-19T05:05:25.478Z"
     },
     {
@@ -4705,14 +1563,7 @@
         "2026-10-19"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-19",
-          "time": "13:42",
-          "who": "수강생",
-          "text": "https://www.youtube.com/@gilyjourney/videos 롤러코스터 형식은 처음보는데, 이런것도 수창 계속 유지가 되나요?"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-19T05:05:25.478Z"
     },
     {
@@ -4731,14 +1582,7 @@
         "2026-10-19"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-19",
-          "time": "10:16",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-19 오늘 전할 것들은 하나같이 ‘어느 모델을 얼마나 쓸 것인가’를 손으로 정하게 만드는 변화입니다. 디프시크는 최상급 가중치를 통째로 풀어 값을 0으로 내렸고, 오픈AI는 아스트라를 몇 번 쓸 수 있는지 숫자로 못 박았습니다. 안티그래비티는 자동화마다 모델을 고르게 했고, 리플릿은 가장 싼 클로드를 선택지에 넣었습니다. 성능 순위보다 ‘쓸 수 있는 횟수와 값’이 앞에 오는 날들입니다. 오늘 소식은 늘 쓰던 모델을 한 칸 올리거나 내려보는 데 참고하시면 좋겠어요. 1) 디프시크가 새 플래…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-19T02:37:20.763Z"
     },
     {
@@ -4757,48 +1601,8 @@
         "2026-10-19"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-19",
-          "time": "10:16",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-19 오늘 전할 것들은 하나같이 ‘어느 모델을 얼마나 쓸 것인가’를 손으로 정하게 만드는 변화입니다. 디프시크는 최상급 가중치를 통째로 풀어 값을 0으로 내렸고, 오픈AI는 아스트라를 몇 번 쓸 수 있는지 숫자로 못 박았습니다. 안티그래비티는 자동화마다 모델을 고르게 했고, 리플릿은 가장 싼 클로드를 선택지에 넣었습니다. 성능 순위보다 ‘쓸 수 있는 횟수와 값’이 앞에 오는 날들입니다. 오늘 소식은 늘 쓰던 모델을 한 칸 올리거나 내려보는 데 참고하시면 좋겠어요. 1) 디프시크가 새 플래…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-19T02:37:20.763Z"
-    },
-    {
-      "id": "4d937d0d23b5",
-      "url": "https://help.openai.com/en/articles/20001516-managing-usage-with-gpt-6-astra-in-work-and-codex",
-      "kind": "web",
-      "title": "Managing usage with GPT-6 Astra in Work and Codex | OpenAI Help Center",
-      "site": "OpenAI Help Center",
-      "description": "Understand model choices, usage allowances, and Ultrafast in Work and Codex.",
-      "thumb": "media/r-f7121a4e/link_thumbs/4d937d0d23b5.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-14",
-      "last_date": "2026-10-19",
-      "dates": [
-        "2026-10-14",
-        "2026-10-19"
-      ],
-      "mention_count": 2,
-      "contexts": [
-        {
-          "date": "2026-10-19",
-          "time": "10:16",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-19 오늘 전할 것들은 하나같이 ‘어느 모델을 얼마나 쓸 것인가’를 손으로 정하게 만드는 변화입니다. 디프시크는 최상급 가중치를 통째로 풀어 값을 0으로 내렸고, 오픈AI는 아스트라를 몇 번 쓸 수 있는지 숫자로 못 박았습니다. 안티그래비티는 자동화마다 모델을 고르게 했고, 리플릿은 가장 싼 클로드를 선택지에 넣었습니다. 성능 순위보다 ‘쓸 수 있는 횟수와 값’이 앞에 오는 날들입니다. 오늘 소식은 늘 쓰던 모델을 한 칸 올리거나 내려보는 데 참고하시면 좋겠어요. 1) 디프시크가 새 플래…"
-        },
-        {
-          "date": "2026-10-14",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-14 오늘 전할 것들은 하나같이 에이전트가 늘어난 다음 그 아래에서 조용히 바뀌는 것들입니다. 소스 컨트롤이 갈려 나가고, 키가 새는 걸 막는 기본값이 켜지고, 요금은 토큰 구간으로 갈리고, 이름도 밝히지 않은 모델이 공짜로 풀립니다. 오늘 소식은 에이전트를 하나 더 늘리기 전에 '그래서 내 쪽에서 먼저 막히는 게 무엇인지'를 한 번 짚어 보시는 데 참고하시면 좋겠어요. 1) 아스트라는 세게 돌릴수록 좋아지는 게 아니에요 오픈AI 공식 모델 문서에 적힌 GPT-6 아스트라(Astra) 제…"
-        }
-      ],
-      "fetched_at": "2026-11-21T09:37:29.872Z"
     },
     {
       "id": "97665fd5758a",
@@ -4816,14 +1620,7 @@
         "2026-10-19"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-19",
-          "time": "10:16",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-19 오늘 전할 것들은 하나같이 ‘어느 모델을 얼마나 쓸 것인가’를 손으로 정하게 만드는 변화입니다. 디프시크는 최상급 가중치를 통째로 풀어 값을 0으로 내렸고, 오픈AI는 아스트라를 몇 번 쓸 수 있는지 숫자로 못 박았습니다. 안티그래비티는 자동화마다 모델을 고르게 했고, 리플릿은 가장 싼 클로드를 선택지에 넣었습니다. 성능 순위보다 ‘쓸 수 있는 횟수와 값’이 앞에 오는 날들입니다. 오늘 소식은 늘 쓰던 모델을 한 칸 올리거나 내려보는 데 참고하시면 좋겠어요. 1) 디프시크가 새 플래…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-19T02:37:20.763Z"
     },
     {
@@ -4842,14 +1639,7 @@
         "2026-10-19"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-19",
-          "time": "10:16",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-19 오늘 전할 것들은 하나같이 ‘어느 모델을 얼마나 쓸 것인가’를 손으로 정하게 만드는 변화입니다. 디프시크는 최상급 가중치를 통째로 풀어 값을 0으로 내렸고, 오픈AI는 아스트라를 몇 번 쓸 수 있는지 숫자로 못 박았습니다. 안티그래비티는 자동화마다 모델을 고르게 했고, 리플릿은 가장 싼 클로드를 선택지에 넣었습니다. 성능 순위보다 ‘쓸 수 있는 횟수와 값’이 앞에 오는 날들입니다. 오늘 소식은 늘 쓰던 모델을 한 칸 올리거나 내려보는 데 참고하시면 좋겠어요. 1) 디프시크가 새 플래…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-19T02:37:20.763Z"
     },
     {
@@ -4869,20 +1659,7 @@
         "2026-10-19"
       ],
       "mention_count": 2,
-      "contexts": [
-        {
-          "date": "2026-10-19",
-          "time": "10:16",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-19 오늘 전할 것들은 하나같이 ‘어느 모델을 얼마나 쓸 것인가’를 손으로 정하게 만드는 변화입니다. 디프시크는 최상급 가중치를 통째로 풀어 값을 0으로 내렸고, 오픈AI는 아스트라를 몇 번 쓸 수 있는지 숫자로 못 박았습니다. 안티그래비티는 자동화마다 모델을 고르게 했고, 리플릿은 가장 싼 클로드를 선택지에 넣었습니다. 성능 순위보다 ‘쓸 수 있는 횟수와 값’이 앞에 오는 날들입니다. 오늘 소식은 늘 쓰던 모델을 한 칸 올리거나 내려보는 데 참고하시면 좋겠어요. 1) 디프시크가 새 플래…"
-        },
-        {
-          "date": "2026-10-16",
-          "time": "09:42",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-16 오늘 전할 것들은 하나같이 '여러 개를 묶는 쪽'과 '묶인 것을 하나씩 고정해 두는 쪽'으로 갈립니다. 하이드라퓨전은 모델 네 개를 묶어 답 하나를 내고, 뮤즈 코드는 모델과 에이전트를 한 구독에 묶고, 리플릿은 프로젝트 여러 개를 채팅 하나에 묶습니다. 반대로 액션 락파일은 의존성을 커밋 하나에 못 박고, 클로드 코드는 무인 모드가 하염없이 기다리지 않도록 상한을 박습니다. 오늘 소식은 새로 묶인 것 하나를 쓰실 때 '그 안에서 무엇이 고정돼 있고 무엇이 그날그날 달라지는지'를 한…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-16T01:06:28.788Z"
     },
     {
@@ -4899,41 +1676,8 @@
         "2026-10-18"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-18",
-          "time": "22:14",
-          "who": "수강생",
-          "text": "https://clipcreators.naver.com/web/dashboard"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-18T13:26:33.347Z"
-    },
-    {
-      "id": "51f27216c15b",
-      "url": "https://www.youtube.com/watch?v=v9Xu-VDi1DU",
-      "kind": "youtube",
-      "title": "미스터비스트가 반한 제품?!",
-      "site": "YouTube",
-      "author": "해외쇼쇼",
-      "thumb": "media/r-f7121a4e/link_thumbs/51f27216c15b.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-18",
-      "last_date": "2026-10-18",
-      "dates": [
-        "2026-10-18"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-18",
-          "time": "11:25",
-          "who": "수강생",
-          "text": "https://www.youtube.com/shorts/v9Xu-VDi1DU 이거 tts 아시는부 ㄴ있을까요?"
-        }
-      ],
-      "fetched_at": "2026-10-18T03:27:24.515Z"
     },
     {
       "id": "39fb283d4b80",
@@ -4950,14 +1694,7 @@
         "2026-10-16"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-16",
-          "time": "10:45",
-          "who": "수강생",
-          "text": "실제로 유튜브 뮤직과 스포티파이에 제가 얼마전 발매를 했습니다. 노래 듣고 싶으신분들은 유튜브뮤직이나 스포티파이에서 들어보실 수 있습니다. https://music.youtube.com/playlist?list=OLAK5uy_no5tmD4plvx94CD-PvSFdzzfnRY8vwPH4"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-16T02:12:53.960Z"
     },
     {
@@ -4975,38 +1712,8 @@
         "2026-10-16"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-16",
-          "time": "10:37",
-          "who": "수강생",
-          "text": "[롱폼 자동화 프로그램 설치 안내] 반포자이가즈아 아래 링크에서 설치 파일을 받으실 수 있고, 설치 방법도 단계별로 자세히 정리해 두었습니다. 👉 https://gazua.banpo.workers.dev/download ■ 설치가 안 되시나요? 아래 3가지를 메일로 보내 주시면 확인 후 도와드리겠습니다. 1. 막힌 화면 사진 - 휴대폰으로 모니터를 찍어 주셔도 괜찮습니다. 2. 어느 단계에서 막혔는지 ① 다운로드가 안 됨 ② 받은 파일을 눌러도 아무 반응이 없음 ③ 파란색 경고창이 뜸 ④ 설치 도중 멈춤 ⑤ 설치는 됐는데 앱이 실…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-16T02:12:53.960Z"
-    },
-    {
-      "id": "1ee2a5fdfc54",
-      "url": "https://dev.meta.ai/install.sh",
-      "kind": "web",
-      "site": "dev.meta.ai",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-16",
-      "last_date": "2026-10-16",
-      "dates": [
-        "2026-10-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-16",
-          "time": "09:42",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-16 오늘 전할 것들은 하나같이 '여러 개를 묶는 쪽'과 '묶인 것을 하나씩 고정해 두는 쪽'으로 갈립니다. 하이드라퓨전은 모델 네 개를 묶어 답 하나를 내고, 뮤즈 코드는 모델과 에이전트를 한 구독에 묶고, 리플릿은 프로젝트 여러 개를 채팅 하나에 묶습니다. 반대로 액션 락파일은 의존성을 커밋 하나에 못 박고, 클로드 코드는 무인 모드가 하염없이 기다리지 않도록 상한을 박습니다. 오늘 소식은 새로 묶인 것 하나를 쓰실 때 '그 안에서 무엇이 고정돼 있고 무엇이 그날그날 달라지는지'를 한…"
-        }
-      ],
-      "fetched_at": "2026-10-16T01:06:28.788Z"
     },
     {
       "id": "b20a569689e7",
@@ -5024,14 +1731,7 @@
         "2026-10-16"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-16",
-          "time": "09:42",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-16 오늘 전할 것들은 하나같이 '여러 개를 묶는 쪽'과 '묶인 것을 하나씩 고정해 두는 쪽'으로 갈립니다. 하이드라퓨전은 모델 네 개를 묶어 답 하나를 내고, 뮤즈 코드는 모델과 에이전트를 한 구독에 묶고, 리플릿은 프로젝트 여러 개를 채팅 하나에 묶습니다. 반대로 액션 락파일은 의존성을 커밋 하나에 못 박고, 클로드 코드는 무인 모드가 하염없이 기다리지 않도록 상한을 박습니다. 오늘 소식은 새로 묶인 것 하나를 쓰실 때 '그 안에서 무엇이 고정돼 있고 무엇이 그날그날 달라지는지'를 한…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-16T01:06:28.788Z"
     },
     {
@@ -5050,14 +1750,7 @@
         "2026-10-16"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-16",
-          "time": "09:42",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-16 오늘 전할 것들은 하나같이 '여러 개를 묶는 쪽'과 '묶인 것을 하나씩 고정해 두는 쪽'으로 갈립니다. 하이드라퓨전은 모델 네 개를 묶어 답 하나를 내고, 뮤즈 코드는 모델과 에이전트를 한 구독에 묶고, 리플릿은 프로젝트 여러 개를 채팅 하나에 묶습니다. 반대로 액션 락파일은 의존성을 커밋 하나에 못 박고, 클로드 코드는 무인 모드가 하염없이 기다리지 않도록 상한을 박습니다. 오늘 소식은 새로 묶인 것 하나를 쓰실 때 '그 안에서 무엇이 고정돼 있고 무엇이 그날그날 달라지는지'를 한…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-16T01:06:28.788Z"
     },
     {
@@ -5076,14 +1769,7 @@
         "2026-10-16"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-16",
-          "time": "09:42",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-16 오늘 전할 것들은 하나같이 '여러 개를 묶는 쪽'과 '묶인 것을 하나씩 고정해 두는 쪽'으로 갈립니다. 하이드라퓨전은 모델 네 개를 묶어 답 하나를 내고, 뮤즈 코드는 모델과 에이전트를 한 구독에 묶고, 리플릿은 프로젝트 여러 개를 채팅 하나에 묶습니다. 반대로 액션 락파일은 의존성을 커밋 하나에 못 박고, 클로드 코드는 무인 모드가 하염없이 기다리지 않도록 상한을 박습니다. 오늘 소식은 새로 묶인 것 하나를 쓰실 때 '그 안에서 무엇이 고정돼 있고 무엇이 그날그날 달라지는지'를 한…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-16T01:06:28.788Z"
     },
     {
@@ -5102,14 +1788,7 @@
         "2026-10-16"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-16",
-          "time": "09:42",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-16 오늘 전할 것들은 하나같이 '여러 개를 묶는 쪽'과 '묶인 것을 하나씩 고정해 두는 쪽'으로 갈립니다. 하이드라퓨전은 모델 네 개를 묶어 답 하나를 내고, 뮤즈 코드는 모델과 에이전트를 한 구독에 묶고, 리플릿은 프로젝트 여러 개를 채팅 하나에 묶습니다. 반대로 액션 락파일은 의존성을 커밋 하나에 못 박고, 클로드 코드는 무인 모드가 하염없이 기다리지 않도록 상한을 박습니다. 오늘 소식은 새로 묶인 것 하나를 쓰실 때 '그 안에서 무엇이 고정돼 있고 무엇이 그날그날 달라지는지'를 한…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-16T01:06:28.788Z"
     },
     {
@@ -5125,14 +1804,7 @@
         "2026-10-15"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-15",
-          "time": "14:14",
-          "who": "강사",
-          "text": "https://www.youtube.com/@shortmingout/shorts 숏밍아웃 채널도 이전 형식으로 돌아갔으면 좋겠음 ㅠㅠ"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-15T05:37:55.199Z"
     },
     {
@@ -5149,20 +1821,7 @@
         "2026-10-15"
       ],
       "mention_count": 2,
-      "contexts": [
-        {
-          "date": "2026-10-15",
-          "time": "11:53",
-          "who": "수강생",
-          "text": "https://notebook.google.com/notebook/0b5e4f5e-8108-412c-923d-79914434cec2 이걸로 하세요"
-        },
-        {
-          "date": "2026-10-11",
-          "time": "23:13",
-          "who": "수강생",
-          "text": "https://notebook.google.com/notebook/0b5e4f5e-8108-412c-923d-79914434cec2 => 공지방에 룰쎔이 올려주신건데요 권한을 요청하라고 나오는데 저만 그런걸까요???"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-12T00:17:04.707Z"
     },
     {
@@ -5181,14 +1840,7 @@
         "2026-10-15"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-15",
-          "time": "10:39",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-15 오늘 전할 것들은 하나같이 날짜가 적혀 있는 것들입니다. 할인 가격은 11월 30일까지고, 쓰던 모델은 어제 정오에 끊겼고, 제 대화는 54분을 넘기면 알아서 압축되고, 개인 앱은 아직 일부 나라에서만 열립니다. 오늘 소식은 새로 열린 것 하나를 쓰실 때 '이게 언제까지인지'를 한 번 더 확인하시는 데 참고하시면 좋겠어요. 1) 제미나이 4 아르곤이 드디어 아무나 쓸 수 있게 열렸어요 9월 30일에 '구글 최강 모델'로 발표됐지만, 그동안은 구글 자체 설명대로 페어윈드 프로그램의 검…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-15T02:00:56.433Z"
     },
     {
@@ -5207,14 +1859,7 @@
         "2026-10-15"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-15",
-          "time": "10:39",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-15 오늘 전할 것들은 하나같이 날짜가 적혀 있는 것들입니다. 할인 가격은 11월 30일까지고, 쓰던 모델은 어제 정오에 끊겼고, 제 대화는 54분을 넘기면 알아서 압축되고, 개인 앱은 아직 일부 나라에서만 열립니다. 오늘 소식은 새로 열린 것 하나를 쓰실 때 '이게 언제까지인지'를 한 번 더 확인하시는 데 참고하시면 좋겠어요. 1) 제미나이 4 아르곤이 드디어 아무나 쓸 수 있게 열렸어요 9월 30일에 '구글 최강 모델'로 발표됐지만, 그동안은 구글 자체 설명대로 페어윈드 프로그램의 검…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-15T02:00:56.433Z"
     },
     {
@@ -5233,14 +1878,7 @@
         "2026-10-15"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-15",
-          "time": "10:39",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-15 오늘 전할 것들은 하나같이 날짜가 적혀 있는 것들입니다. 할인 가격은 11월 30일까지고, 쓰던 모델은 어제 정오에 끊겼고, 제 대화는 54분을 넘기면 알아서 압축되고, 개인 앱은 아직 일부 나라에서만 열립니다. 오늘 소식은 새로 열린 것 하나를 쓰실 때 '이게 언제까지인지'를 한 번 더 확인하시는 데 참고하시면 좋겠어요. 1) 제미나이 4 아르곤이 드디어 아무나 쓸 수 있게 열렸어요 9월 30일에 '구글 최강 모델'로 발표됐지만, 그동안은 구글 자체 설명대로 페어윈드 프로그램의 검…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-15T02:00:56.433Z"
     },
     {
@@ -5259,14 +1897,7 @@
         "2026-10-15"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-15",
-          "time": "10:39",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-15 오늘 전할 것들은 하나같이 날짜가 적혀 있는 것들입니다. 할인 가격은 11월 30일까지고, 쓰던 모델은 어제 정오에 끊겼고, 제 대화는 54분을 넘기면 알아서 압축되고, 개인 앱은 아직 일부 나라에서만 열립니다. 오늘 소식은 새로 열린 것 하나를 쓰실 때 '이게 언제까지인지'를 한 번 더 확인하시는 데 참고하시면 좋겠어요. 1) 제미나이 4 아르곤이 드디어 아무나 쓸 수 있게 열렸어요 9월 30일에 '구글 최강 모델'로 발표됐지만, 그동안은 구글 자체 설명대로 페어윈드 프로그램의 검…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-15T02:00:56.433Z"
     },
     {
@@ -5285,14 +1916,7 @@
         "2026-10-15"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-15",
-          "time": "10:39",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-15 오늘 전할 것들은 하나같이 날짜가 적혀 있는 것들입니다. 할인 가격은 11월 30일까지고, 쓰던 모델은 어제 정오에 끊겼고, 제 대화는 54분을 넘기면 알아서 압축되고, 개인 앱은 아직 일부 나라에서만 열립니다. 오늘 소식은 새로 열린 것 하나를 쓰실 때 '이게 언제까지인지'를 한 번 더 확인하시는 데 참고하시면 좋겠어요. 1) 제미나이 4 아르곤이 드디어 아무나 쓸 수 있게 열렸어요 9월 30일에 '구글 최강 모델'로 발표됐지만, 그동안은 구글 자체 설명대로 페어윈드 프로그램의 검…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-15T02:00:56.433Z"
     },
     {
@@ -5311,14 +1935,7 @@
         "2026-10-14"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-14",
-          "time": "23:33",
-          "who": "수강생",
-          "text": "룰쌤 오늘 강의 수고하셨습니다 감사합니다~ https://app.notion.com/p/5-4-3f9708749ada805b8bd1d77d6c049c01?source=copy_link 오늘 강의 정리본입니다 그리고 꼴에 아무것도 아니지만 감히 한마디만 같이 드리겠습니다 다들 강의가 많아서 따라가기 바쁘고 적응하기 힘들고 누구는 빠르게 잘하는 것 같고 그에 비하면 나는 아무것도 못하는 것 같고 이해도 안되고 쟤는 되는데 나는 안되네? 게다가 온라인이라서 그런지 다들 쉽게 불만이나 짜증을 한마디씩 툭툭 뱉으시는 것 같은데 .. 저도…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-14T14:50:19.649Z"
     },
     {
@@ -5337,40 +1954,7 @@
         "2026-10-14"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-14",
-          "time": "13:13",
-          "who": "수강생",
-          "text": "동기분들께 오늘 얼리버드 할인 마감 안내드립니다 😊 『아직도 손으로 편집하세요?』 🔥 전자책 얼리버드 할인, 오늘 오후 7시에 끝납니다! 누적수익 6억 4천만 원을 만들며 제가 매일 쓰는 «딸깍» 방법을 담았습니다. 링크만 넣으면 클로드 코드가 쇼츠를 캡컷 프로젝트나 영상 파일로 뽑아 줍니다. ✔ 지금도 제가 매일 쓰는 쇼츠 스킬 3가지 그대로 제공 ✔ 설치 화면 전부 캡처 + 설치 영상 ✔ 코딩 몰라도 말로 고치는 법, 내 채널용 스킬 새로 만드는 법 🎁 후기 선물까지 틱톡 스킬 + 「틱톡으로 월천 벌기」 PDF (틱톡만 1천만…"
-        }
-      ],
-      "fetched_at": "2026-10-14T05:37:44.806Z"
-    },
-    {
-      "id": "f8d568f895b7",
-      "url": "https://www.youtube.com/watch?v=kbGvmrWh7fU",
-      "kind": "youtube",
-      "title": "\"책 읽어도 까먹는다면?\" 책 내용 뇌에 쏙쏙 박히는 '이 독서법' ㅣ Ep. 사람산책 17 (고명환 작가 1부)",
-      "site": "YouTube",
-      "author": "책과삶",
-      "thumb": "media/r-f7121a4e/link_thumbs/f8d568f895b7.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-14",
-      "last_date": "2026-10-14",
-      "dates": [
-        "2026-10-14"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-14",
-          "time": "12:29",
-          "who": "수강생",
-          "text": "저도 성과가 나오지않아 너무 힘듭니다 그런데 저처럼 힘드신 분들이 많으실거같아요 이 영상을 보고 인생을 유튜브에 대입해서 생각해보았습니다 지금은 컴퓨터앞에 앉아있으면 배경음악으로 틀어놓고있어요 ^^ 진짜 한번만 들어보세요 아니, 두번만 들어보세요 진짜 인생, 유튜브 운영에 도움을 받으실 수 있을거같아요 큰 줄기는 룰쌤의 킵고잉과 같습니다 https://youtu.be/kbGvmrWh7fU"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-14T05:37:44.806Z"
     },
     {
@@ -5389,14 +1973,7 @@
         "2026-10-14"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-14",
-          "time": "11:33",
-          "who": "수강생",
-          "text": "https://app.pixeling.io/kakao"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-14T05:37:44.806Z"
     },
     {
@@ -5415,14 +1992,7 @@
         "2026-10-14"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-14",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-14 오늘 전할 것들은 하나같이 에이전트가 늘어난 다음 그 아래에서 조용히 바뀌는 것들입니다. 소스 컨트롤이 갈려 나가고, 키가 새는 걸 막는 기본값이 켜지고, 요금은 토큰 구간으로 갈리고, 이름도 밝히지 않은 모델이 공짜로 풀립니다. 오늘 소식은 에이전트를 하나 더 늘리기 전에 '그래서 내 쪽에서 먼저 막히는 게 무엇인지'를 한 번 짚어 보시는 데 참고하시면 좋겠어요. 1) 아스트라는 세게 돌릴수록 좋아지는 게 아니에요 오픈AI 공식 모델 문서에 적힌 GPT-6 아스트라(Astra) 제…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-14T00:30:45.593Z"
     },
     {
@@ -5440,14 +2010,7 @@
         "2026-10-14"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-14",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-14 오늘 전할 것들은 하나같이 에이전트가 늘어난 다음 그 아래에서 조용히 바뀌는 것들입니다. 소스 컨트롤이 갈려 나가고, 키가 새는 걸 막는 기본값이 켜지고, 요금은 토큰 구간으로 갈리고, 이름도 밝히지 않은 모델이 공짜로 풀립니다. 오늘 소식은 에이전트를 하나 더 늘리기 전에 '그래서 내 쪽에서 먼저 막히는 게 무엇인지'를 한 번 짚어 보시는 데 참고하시면 좋겠어요. 1) 아스트라는 세게 돌릴수록 좋아지는 게 아니에요 오픈AI 공식 모델 문서에 적힌 GPT-6 아스트라(Astra) 제…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-14T00:30:45.593Z"
     },
     {
@@ -5465,14 +2028,7 @@
         "2026-10-14"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-14",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-14 오늘 전할 것들은 하나같이 에이전트가 늘어난 다음 그 아래에서 조용히 바뀌는 것들입니다. 소스 컨트롤이 갈려 나가고, 키가 새는 걸 막는 기본값이 켜지고, 요금은 토큰 구간으로 갈리고, 이름도 밝히지 않은 모델이 공짜로 풀립니다. 오늘 소식은 에이전트를 하나 더 늘리기 전에 '그래서 내 쪽에서 먼저 막히는 게 무엇인지'를 한 번 짚어 보시는 데 참고하시면 좋겠어요. 1) 아스트라는 세게 돌릴수록 좋아지는 게 아니에요 오픈AI 공식 모델 문서에 적힌 GPT-6 아스트라(Astra) 제…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-14T00:30:45.593Z"
     },
     {
@@ -5491,14 +2047,7 @@
         "2026-10-14"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-14",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-14 오늘 전할 것들은 하나같이 에이전트가 늘어난 다음 그 아래에서 조용히 바뀌는 것들입니다. 소스 컨트롤이 갈려 나가고, 키가 새는 걸 막는 기본값이 켜지고, 요금은 토큰 구간으로 갈리고, 이름도 밝히지 않은 모델이 공짜로 풀립니다. 오늘 소식은 에이전트를 하나 더 늘리기 전에 '그래서 내 쪽에서 먼저 막히는 게 무엇인지'를 한 번 짚어 보시는 데 참고하시면 좋겠어요. 1) 아스트라는 세게 돌릴수록 좋아지는 게 아니에요 오픈AI 공식 모델 문서에 적힌 GPT-6 아스트라(Astra) 제…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-14T00:30:45.593Z"
     },
     {
@@ -5517,14 +2066,7 @@
         "2026-10-14"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-14",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-14 오늘 전할 것들은 하나같이 에이전트가 늘어난 다음 그 아래에서 조용히 바뀌는 것들입니다. 소스 컨트롤이 갈려 나가고, 키가 새는 걸 막는 기본값이 켜지고, 요금은 토큰 구간으로 갈리고, 이름도 밝히지 않은 모델이 공짜로 풀립니다. 오늘 소식은 에이전트를 하나 더 늘리기 전에 '그래서 내 쪽에서 먼저 막히는 게 무엇인지'를 한 번 짚어 보시는 데 참고하시면 좋겠어요. 1) 아스트라는 세게 돌릴수록 좋아지는 게 아니에요 오픈AI 공식 모델 문서에 적힌 GPT-6 아스트라(Astra) 제…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-14T00:30:45.593Z"
     },
     {
@@ -5543,41 +2085,8 @@
         "2026-10-14"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-14",
-          "time": "08:34",
-          "who": "수강생",
-          "text": "https://www.youtube.com/watch?v=tByhXkxDKDo 픽셀링이 얼마나 더 좋아질지 감도 안오네요"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-13T23:43:56.425Z"
-    },
-    {
-      "id": "ebfced8be648",
-      "url": "https://www.eyagi.co.kr/shop/event/detail.php?no=61100845&edate=1793458799",
-      "kind": "web",
-      "title": "10원으로 시작하는 휴대폰 보험 < 이벤트 | 이야기모바일",
-      "site": "eyagi.co.kr",
-      "description": "10원으로 시작하는 휴대폰 보험",
-      "thumb": "media/r-f7121a4e/link_thumbs/ebfced8be648.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-13",
-      "last_date": "2026-10-13",
-      "dates": [
-        "2026-10-13"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-13",
-          "time": "21:10",
-          "who": "수강생",
-          "text": "알뜰폰 생각 있으신분 1년동안 10원 짜리 요금제 나왔네용 https://www.eyagi.co.kr/shop/event/detail.php?no=61100845&edate=1793458799"
-        }
-      ],
-      "fetched_at": "2026-10-13T12:17:40.167Z"
     },
     {
       "id": "47dc683a68ef",
@@ -5595,14 +2104,7 @@
         "2026-10-13"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-13",
-          "time": "18:47",
-          "who": "강사",
-          "text": "픽셀링 가입하기: https://app.pixeling.io/login 가입 후 아래 ㅎ6 매니저님에게 오픈채팅으로 쇼츠투벤츠 수강생 룰루랄라릴리입니다.(채팅방 닉네임) 등급업 부탁드립니다 라고 메세지 보내주세요 쇼츠투벤츠 픽셀링 등업문의 http://pf.kakao.com/_PCdBX 매니저님이 확인하고 등급업 해드립니다. 최대 1일정도가 소요 될 수 있으니 기다려주세요 !"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-13T10:11:18.183Z"
     },
     {
@@ -5621,116 +2123,8 @@
         "2026-10-13"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-13",
-          "time": "18:47",
-          "who": "강사",
-          "text": "픽셀링 가입하기: https://app.pixeling.io/login 가입 후 아래 ㅎ6 매니저님에게 오픈채팅으로 쇼츠투벤츠 수강생 룰루랄라릴리입니다.(채팅방 닉네임) 등급업 부탁드립니다 라고 메세지 보내주세요 쇼츠투벤츠 픽셀링 등업문의 http://pf.kakao.com/_PCdBX 매니저님이 확인하고 등급업 해드립니다. 최대 1일정도가 소요 될 수 있으니 기다려주세요 !"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-13T10:11:18.183Z"
-    },
-    {
-      "id": "398ab4be98e7",
-      "url": "https://www.youtube.com/@seono_official/videos",
-      "kind": "youtube",
-      "site": "youtube.com",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-13",
-      "last_date": "2026-10-13",
-      "dates": [
-        "2026-10-13"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-13",
-          "time": "10:48",
-          "who": "수강생",
-          "text": "https://www.youtube.com/@seono_official/videos"
-        }
-      ],
-      "fetched_at": "2026-10-13T02:10:23.389Z"
-    },
-    {
-      "id": "070db043d621",
-      "url": "https://www.youtube.com/watch?v=wRnynmZ7fbs",
-      "kind": "youtube",
-      "title": "의사가 만들어 떼돈 번 제품 정체",
-      "site": "YouTube",
-      "author": "숏핑",
-      "thumb": "media/r-f7121a4e/link_thumbs/070db043d621.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-12",
-      "last_date": "2026-10-12",
-      "dates": [
-        "2026-10-12"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-12",
-          "time": "16:00",
-          "who": "수강생",
-          "text": "여러분 혼담구란 무엇일까요? 1. https://youtube.com/shorts/bMhPDeHPIws ->(인물) 파인다이밍 쉐프 + 메추리알 요리 (상황) 2. https://www.youtube.com/shorts/wRnynmZ7fbs -> (인물) 의사 + 파고드는 발톱 (상황) 이제 쇼츠볼때 혼담구를 찾아보세요!"
-        }
-      ],
-      "fetched_at": "2026-10-12T07:45:16.960Z"
-    },
-    {
-      "id": "7d88938ae9ff",
-      "url": "https://www.youtube.com/watch?v=bMhPDeHPIws",
-      "kind": "youtube",
-      "title": "파인 다이닝 셰프가 해주는 메추리알 요리",
-      "site": "YouTube",
-      "author": "웃참 금지구역",
-      "thumb": "media/r-f7121a4e/link_thumbs/7d88938ae9ff.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-12",
-      "last_date": "2026-10-12",
-      "dates": [
-        "2026-10-12"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-12",
-          "time": "16:00",
-          "who": "수강생",
-          "text": "여러분 혼담구란 무엇일까요? 1. https://youtube.com/shorts/bMhPDeHPIws ->(인물) 파인다이밍 쉐프 + 메추리알 요리 (상황) 2. https://www.youtube.com/shorts/wRnynmZ7fbs -> (인물) 의사 + 파고드는 발톱 (상황) 이제 쇼츠볼때 혼담구를 찾아보세요!"
-        }
-      ],
-      "fetched_at": "2026-10-12T07:45:16.960Z"
-    },
-    {
-      "id": "3feee73fd184",
-      "url": "https://app.notion.com/p/5-2-3f6708749ada8047b550cc1e0e7a0c9a?source=copy_link",
-      "kind": "web",
-      "title": "Notion | Where teams and agents work together",
-      "site": "Notion",
-      "description": "A collaborative AI workspace, built on your company context. Build and orchestrate agents right alongside your team's projects, meetings, and connected apps.",
-      "thumb": "media/r-f7121a4e/link_thumbs/3feee73fd184.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-11",
-      "last_date": "2026-10-11",
-      "dates": [
-        "2026-10-11"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-11",
-          "time": "18:58",
-          "who": "수강생",
-          "text": "https://app.notion.com/p/5-2-3f6708749ada8047b550cc1e0e7a0c9a?source=copy_link 수고하셨습니다~"
-        }
-      ],
-      "fetched_at": "2026-10-11T12:04:01.269Z"
     },
     {
       "id": "e4b958abbc08",
@@ -5748,14 +2142,7 @@
         "2026-10-11"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-11",
-          "time": "12:40",
-          "who": "수강생",
-          "text": "https://codex-resets.com/"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-11T10:24:59.124Z"
     },
     {
@@ -5774,14 +2161,7 @@
         "2026-10-11"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-11",
-          "time": "12:30",
-          "who": "수강생",
-          "text": "gpt 사용량이 오늘 리셋됩니다.https://x.com/thsottiaux/status/2109045220411351517"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-11T10:24:59.124Z"
     },
     {
@@ -5800,14 +2180,7 @@
         "2026-10-10"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-10",
-          "time": "21:15",
-          "who": "수강생",
-          "text": "공지방에 있는 영상사고훈련 숙제 관련해서 어떻게 해야할지 감이 안잡히는데 어떤식으로 해야할지 감을 못 잡겠네요.ㅠㅠ - 영상링크를 찾는다(문서 참조영상 : https://www.instagram.com/reels/DeMGaUqMe3-/) 01. 소구점 : 영상을 계속 보게 하는 이유를 찾는다. 02. 감정 : 참고 영상을 봤을때와 보고난 후에 감정변화가 있었는지, 있었다면 어떤것들이 있었느지 자세하게 분석한다. 03. 인기 댓글 : 해당 영상의 댓글을 분석해서 사람들이 이 영상들을 어떻게 해석하고, 어떻게 받아들였는지를 해석한다.…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-10T13:11:48.528Z"
     },
     {
@@ -5826,14 +2199,7 @@
         "2026-10-10"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-10",
-          "time": "18:25",
-          "who": "수강생",
-          "text": "https://app.notion.com/p/5-1-3f5708749ada80f99a7ae16d299ee036?source=copy_link"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-10T09:48:04.227Z"
     },
     {
@@ -5852,14 +2218,7 @@
         "2026-10-10"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-10",
-          "time": "02:11",
-          "who": "수강생",
-          "text": "룰쌤 강의 감사합니다 ~ https://app.notion.com/p/5-3-3f4708749ada80889762fc1fc672eddf?source=copy_link 다들 수고하셧어용 많이 빼먹은 부분도 있고 오타도 좀 있을텐데 양해부탁드려용"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-09T17:19:55.463Z"
     },
     {
@@ -5878,20 +2237,7 @@
         "2026-10-09"
       ],
       "mention_count": 2,
-      "contexts": [
-        {
-          "date": "2026-10-09",
-          "time": "21:49",
-          "who": "수강생",
-          "text": "큰고양이가 댕청해지는 순간 #동물 #호랑이 원본: https://www.youtube.com/watch?v=_BT-1XVmYU4 영상 정보: 채널 숏여우 · 업로드 2025-04-08 · 길이 0:37 · 조회수 20,557,590회 · 좋아요 228,381 · 댓글 2,600 (받은 때 2026-10-09) 방식: 장면 대본 · 분석(장면 사진 + 대사) ■ 장면 대본 소재: 호랑이가 평상에 올라 발을 만지거나 몸을 풀고 편안히 쉬는 모습을 귀엽게 보여주는 영상 느낌: 장난스럽고 귀여운 분위기이며 장면이 빠르게 이어진다. 말투는…"
-        },
-        {
-          "date": "2026-10-09",
-          "time": "21:48",
-          "who": "수강생",
-          "text": "통합 대본 · 링크 6개 중 6개 ===== 01 ===== 사육사의 실수에 폭주하는 해달 #동물 #해달 원본: https://www.youtube.com/watch?v=mRtaXoPd2ls 영상 정보: 채널 숏여우 · 업로드 2025-08-21 · 길이 0:27 · 조회수 51,901,904회 · 좋아요 397,727 · 댓글 1,100 (받은 때 2026-10-09) 방식: 장면 대본 · 분석(장면 사진 + 대사) ■ 장면 대본 소재: 먹이가 높은 곳에 붙자 해달이 점프해 닿으려는 상황을 담은 동물 영상 느낌: 밝고 코믹한 분…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-09T13:23:29.944Z"
     },
     {
@@ -5910,14 +2256,7 @@
         "2026-10-09"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-09",
-          "time": "21:48",
-          "who": "수강생",
-          "text": "통합 대본 · 링크 6개 중 6개 ===== 01 ===== 사육사의 실수에 폭주하는 해달 #동물 #해달 원본: https://www.youtube.com/watch?v=mRtaXoPd2ls 영상 정보: 채널 숏여우 · 업로드 2025-08-21 · 길이 0:27 · 조회수 51,901,904회 · 좋아요 397,727 · 댓글 1,100 (받은 때 2026-10-09) 방식: 장면 대본 · 분석(장면 사진 + 대사) ■ 장면 대본 소재: 먹이가 높은 곳에 붙자 해달이 점프해 닿으려는 상황을 담은 동물 영상 느낌: 밝고 코믹한 분…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-09T13:23:29.944Z"
     },
     {
@@ -5936,14 +2275,7 @@
         "2026-10-09"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-09",
-          "time": "21:48",
-          "who": "수강생",
-          "text": "통합 대본 · 링크 6개 중 6개 ===== 01 ===== 사육사의 실수에 폭주하는 해달 #동물 #해달 원본: https://www.youtube.com/watch?v=mRtaXoPd2ls 영상 정보: 채널 숏여우 · 업로드 2025-08-21 · 길이 0:27 · 조회수 51,901,904회 · 좋아요 397,727 · 댓글 1,100 (받은 때 2026-10-09) 방식: 장면 대본 · 분석(장면 사진 + 대사) ■ 장면 대본 소재: 먹이가 높은 곳에 붙자 해달이 점프해 닿으려는 상황을 담은 동물 영상 느낌: 밝고 코믹한 분…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-09T13:23:29.944Z"
     },
     {
@@ -5962,14 +2294,7 @@
         "2026-10-09"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-09",
-          "time": "21:48",
-          "who": "수강생",
-          "text": "통합 대본 · 링크 6개 중 6개 ===== 01 ===== 사육사의 실수에 폭주하는 해달 #동물 #해달 원본: https://www.youtube.com/watch?v=mRtaXoPd2ls 영상 정보: 채널 숏여우 · 업로드 2025-08-21 · 길이 0:27 · 조회수 51,901,904회 · 좋아요 397,727 · 댓글 1,100 (받은 때 2026-10-09) 방식: 장면 대본 · 분석(장면 사진 + 대사) ■ 장면 대본 소재: 먹이가 높은 곳에 붙자 해달이 점프해 닿으려는 상황을 담은 동물 영상 느낌: 밝고 코믹한 분…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-09T13:23:29.944Z"
     },
     {
@@ -5988,14 +2313,7 @@
         "2026-10-09"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-09",
-          "time": "21:48",
-          "who": "수강생",
-          "text": "통합 대본 · 링크 6개 중 6개 ===== 01 ===== 사육사의 실수에 폭주하는 해달 #동물 #해달 원본: https://www.youtube.com/watch?v=mRtaXoPd2ls 영상 정보: 채널 숏여우 · 업로드 2025-08-21 · 길이 0:27 · 조회수 51,901,904회 · 좋아요 397,727 · 댓글 1,100 (받은 때 2026-10-09) 방식: 장면 대본 · 분석(장면 사진 + 대사) ■ 장면 대본 소재: 먹이가 높은 곳에 붙자 해달이 점프해 닿으려는 상황을 담은 동물 영상 느낌: 밝고 코믹한 분…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-09T13:23:29.944Z"
     },
     {
@@ -6014,200 +2332,8 @@
         "2026-10-09"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-09",
-          "time": "21:48",
-          "who": "수강생",
-          "text": "통합 대본 · 링크 6개 중 6개 ===== 01 ===== 사육사의 실수에 폭주하는 해달 #동물 #해달 원본: https://www.youtube.com/watch?v=mRtaXoPd2ls 영상 정보: 채널 숏여우 · 업로드 2025-08-21 · 길이 0:27 · 조회수 51,901,904회 · 좋아요 397,727 · 댓글 1,100 (받은 때 2026-10-09) 방식: 장면 대본 · 분석(장면 사진 + 대사) ■ 장면 대본 소재: 먹이가 높은 곳에 붙자 해달이 점프해 닿으려는 상황을 담은 동물 영상 느낌: 밝고 코믹한 분…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-09T13:23:29.944Z"
-    },
-    {
-      "id": "c093211774d2",
-      "url": "https://www.youtube.com/@%EC%88%98%EC%95%84%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4",
-      "kind": "youtube",
-      "site": "youtube.com",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-09",
-      "last_date": "2026-10-09",
-      "dates": [
-        "2026-10-09"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-09",
-          "time": "17:19",
-          "who": "수강생",
-          "text": "https://www.youtube.com/@%EC%88%98%EC%95%84%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4"
-        }
-      ],
-      "fetched_at": "2026-10-09T09:10:05.651Z"
-    },
-    {
-      "id": "aeffd0e4fa7d",
-      "url": "https://www.youtube.com/watch?v=lwtW5Gq5VEw",
-      "kind": "youtube",
-      "title": "사람의 본심은 이럴 때 드러난다 (칼 융의 내면수업)",
-      "site": "YouTube",
-      "author": "1분 수업",
-      "thumb": "media/r-f7121a4e/link_thumbs/aeffd0e4fa7d.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-09",
-      "last_date": "2026-10-09",
-      "dates": [
-        "2026-10-09"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-09",
-          "time": "15:23",
-          "who": "수강생",
-          "text": "선배님들 5기 질문 있습니다. https://www.youtube.com/shorts/lwtW5Gq5VEw 에서 나오는 성우 목소리를 쓰고 싶은데 아스트라가 신원미상이라네요~ 아시는분 선배님 계세요?"
-        }
-      ],
-      "fetched_at": "2026-10-09T06:33:16.590Z"
-    },
-    {
-      "id": "647a9e590f5d",
-      "url": "https://www.youtube.com/watch?v=HwmAxElR3vI",
-      "kind": "youtube",
-      "title": "김세의와 렉카들의 공격으로 쫄딱망한 회사를 0원에서 850억매출로 만들수 있었던 이유.\"은현장의 삶\"",
-      "site": "YouTube",
-      "author": "장사의 신",
-      "thumb": "media/r-f7121a4e/link_thumbs/647a9e590f5d.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-09",
-      "last_date": "2026-10-09",
-      "dates": [
-        "2026-10-09"
-      ],
-      "mention_count": 2,
-      "contexts": [
-        {
-          "date": "2026-10-09",
-          "time": "14:20",
-          "who": "강사",
-          "text": "https://www.youtube.com/watch?v=HwmAxElR3vI"
-        },
-        {
-          "date": "2026-10-09",
-          "time": "13:34",
-          "who": "강사",
-          "text": "https://www.youtube.com/watch?v=HwmAxElR3vI"
-        }
-      ],
-      "fetched_at": "2026-10-09T05:02:43.852Z"
-    },
-    {
-      "id": "2bc1d01b63c3",
-      "url": "https://www.youtube.com/watch?v=ciz5KoDTvC0",
-      "kind": "youtube",
-      "title": "When your girl ask you to take a photo😭😂 | this is crazyy!!😂 #shorts #comedycouple",
-      "site": "YouTube",
-      "author": "Ell & Darren",
-      "thumb": "media/r-f7121a4e/link_thumbs/2bc1d01b63c3.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-09",
-      "last_date": "2026-10-09",
-      "dates": [
-        "2026-10-09"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-09",
-          "time": "14:07",
-          "who": "수강생",
-          "text": "https://www.youtube.com/shorts/ciz5KoDTvC0"
-        }
-      ],
-      "fetched_at": "2026-10-09T05:32:54.671Z"
-    },
-    {
-      "id": "6e3adc3cd863",
-      "url": "https://www.youtube.com/watch?v=3c3C1OMCH8s",
-      "kind": "youtube",
-      "title": "함부로 따라하면 안 되는 국경 점프 챌린지",
-      "site": "YouTube",
-      "author": "일분일초",
-      "thumb": "media/r-f7121a4e/link_thumbs/6e3adc3cd863.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-09",
-      "last_date": "2026-10-09",
-      "dates": [
-        "2026-10-09"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-09",
-          "time": "13:23",
-          "who": "수강생",
-          "text": "제 잡도리도 한번만 봐주실 수 있을까요? https://www.youtube.com/shorts/3c3C1OMCH8s 이 원본 영상을 보고 잡도리해서 만든 영상입니다."
-        }
-      ],
-      "fetched_at": "2026-10-09T04:31:28.855Z"
-    },
-    {
-      "id": "accc1050fee2",
-      "url": "https://www.youtube.com/watch?v=3QjxbZW-fBw",
-      "kind": "youtube",
-      "title": "철갑옷은 실제로 무기를 막았을까?",
-      "site": "YouTube",
-      "author": "궁금하단말이야",
-      "thumb": "media/r-f7121a4e/link_thumbs/accc1050fee2.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-08",
-      "last_date": "2026-10-08",
-      "dates": [
-        "2026-10-08"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-08",
-          "time": "19:31",
-          "who": "수강생",
-          "text": "https://youtu.be/3QjxbZW-fBw 혹시 TTS 누구 인지 아시는분 계실까요~??"
-        }
-      ],
-      "fetched_at": "2026-10-08T10:32:49.841Z"
-    },
-    {
-      "id": "8b9c4a1f3a0d",
-      "url": "https://www.youtube.com/watch?v=zPUz2KPjXgk",
-      "kind": "youtube",
-      "title": "Claude Team 1년 무료 받는 법: Claude Startups 신청부터 결제 화면까지",
-      "site": "YouTube",
-      "author": "푸르공 - 안 되는 걸 되게 만드는 프로젝트",
-      "thumb": "media/r-f7121a4e/link_thumbs/8b9c4a1f3a0d.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-08",
-      "last_date": "2026-10-08",
-      "dates": [
-        "2026-10-08"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-08",
-          "time": "18:21",
-          "who": "수강생",
-          "text": "https://youtu.be/zPUz2KPjXgk @강사 룰샘 혜택 받을수 있을것 같은데요? @수강생 주원님도? 다른분들도 신청할수 있을것 같다면 신청 하면 개이득일듯 합니다"
-        }
-      ],
-      "fetched_at": "2026-10-08T09:29:49.978Z"
     }
   ]
 }

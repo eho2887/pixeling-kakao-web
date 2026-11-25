@@ -4,18 +4,6 @@
   "date": "2026-10-28",
   "items": [
     {
-      "id": "2f74dbfbcc57",
-      "kind": "image",
-      "t": "2026-10-28T11:38:00+09:00",
-      "time": "11:38",
-      "who": "수강생",
-      "text": "픽셀링 앱 화면 캡처: 왼쪽 탐색·목록 패널과 오른쪽 편집 영역, 영상 미리보기가 보임.",
-      "file": "media/r-c00b1739/2f74dbfbcc57.png",
-      "thumb": "media/r-c00b1739/thumbs/2f74dbfbcc57.jpg",
-      "mime": "image/png",
-      "bytes": 326671
-    },
-    {
       "id": "386506d038f2",
       "kind": "image",
       "t": "2026-10-28T11:39:00+09:00",
@@ -26,18 +14,6 @@
       "thumb": "media/r-c00b1739/thumbs/386506d038f2.jpg",
       "mime": "image/png",
       "bytes": 245136
-    },
-    {
-      "id": "32d275a7ad8b",
-      "kind": "image",
-      "t": "2026-10-28T11:47:00+09:00",
-      "time": "11:47",
-      "who": "수강생",
-      "text": "X 앱 추천 피드의 게시물에 “Day 23/ Much requested iCloud Mail & Calendar plugins. Just kidding, today is a reset. Still much requested though!” 문구와 ChatGPT 게시물 카드가 보임.",
-      "file": "media/r-c00b1739/32d275a7ad8b.jpg",
-      "thumb": "media/r-c00b1739/thumbs/32d275a7ad8b.jpg",
-      "mime": "image/jpeg",
-      "bytes": 443872
     },
     {
       "id": "ae2b72deb641",
@@ -62,18 +38,6 @@
       "thumb": "media/r-c00b1739/thumbs/91df8e0ae7d5.jpg",
       "mime": "image/jpeg",
       "bytes": 166602
-    },
-    {
-      "id": "4e6ed9ebb39f",
-      "kind": "image",
-      "t": "2026-10-28T15:30:00+09:00",
-      "time": "15:30",
-      "who": "수강생",
-      "text": "YouTube 파트너 프로그램 환영 화면. “YouTube 파트너 프로그램에 오신 것을 환영합니다.” “YouTube 파트너는 다음 기능을 이용할 수 있습니다.” • “동영상, Shorts 동영상, 실시간 스트림으로 수익을 창출” • “채팅 또는 이메일을 통해 지원 받기” 버튼 “시작하기”.",
-      "file": "media/r-c00b1739/4e6ed9ebb39f.png",
-      "thumb": "media/r-c00b1739/thumbs/4e6ed9ebb39f.jpg",
-      "mime": "image/png",
-      "bytes": 13019
     }
   ]
 }

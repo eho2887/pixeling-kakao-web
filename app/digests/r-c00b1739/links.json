@@ -4,58 +4,6 @@
   "updated_at": "2026-11-25T04:23:55.356Z",
   "items": [
     {
-      "id": "77f809180b9d",
-      "url": "https://www.youtube.com/watch?v=p5Yhlp071OA",
-      "kind": "youtube",
-      "title": "레고로 자동 스키장 만드는걸 알려준다는데",
-      "site": "YouTube",
-      "author": "레고룸",
-      "thumb": "media/r-c00b1739/link_thumbs/77f809180b9d.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-25",
-      "last_date": "2026-11-25",
-      "dates": [
-        "2026-11-25"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-25",
-          "time": "13:15",
-          "who": "수강생",
-          "text": "https://youtube.com/shorts/p5Yhlp071OA"
-        }
-      ],
-      "fetched_at": "2026-11-25T04:23:55.356Z"
-    },
-    {
-      "id": "801d55b23f3f",
-      "url": "https://gitflic.ru/project/kurtbestor/hitomi-downloader/release/a8b96f1b-eb39-44f9-90de-8cec329f3f6b",
-      "kind": "web",
-      "title": "kurtbestor/Hitomi Downloader",
-      "site": "gitflic.ru",
-      "description": "Участвуйте в разработке kurtbestor/Hitomi Downloader, создав учетную запись в GitFlic.",
-      "thumb": "media/r-c00b1739/link_thumbs/801d55b23f3f.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-25",
-      "last_date": "2026-11-25",
-      "dates": [
-        "2026-11-25"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-25",
-          "time": "12:38",
-          "who": "수강생",
-          "text": "그 혹시 룰루선생님. 사용하시던 히토미 다운로더 노션에는 안보이고. Github 배포페이지꺼는 접근이 차단되었다고 하는데요. gitflic에 있는거 알려주는데요. https://gitflic.ru/project/kurtbestor/hitomi-downloader/release/a8b96f1b-eb39-44f9-90de-8cec329f3f6b 이거 받으면 될까요?"
-        }
-      ],
-      "fetched_at": "2026-11-25T03:51:56.396Z"
-    },
-    {
       "id": "77a9ec4913dd",
       "url": "https://open.kakao.com/o/gsDUrGNi",
       "kind": "web",
@@ -70,14 +18,7 @@
         "2026-11-24"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-24",
-          "time": "21:25",
-          "who": "수강생",
-          "text": "https://open.kakao.com/o/gsDUrGNi"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-24T12:56:45.596Z"
     },
     {
@@ -96,14 +37,7 @@
         "2026-11-22"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-22",
-          "time": "05:11",
-          "who": "수강생",
-          "text": "리트냥이로 천만원 버는법 https://www.threads.com/share/BAAXA9mkRG"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-21T20:32:50.033Z"
     },
     {
@@ -121,41 +55,8 @@
         "2026-11-21"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-21",
-          "time": "17:06",
-          "who": "수강생",
-          "text": "https://www.capcut.com/ko-kr/tools/capcut-black-friday-sale 캡컷 이번에 블랙프라이데이 할인하네요. 신규사용자, 만료 임박 사용자 등. 첫달 2,000원정도에요. 픽셀링 에디터로 넘어가기전에 사용하실분들 이번에 부담없이 사용하면 좋을거 같아요."
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-21T08:30:12.965Z"
-    },
-    {
-      "id": "3daf47f5af7b",
-      "url": "https://www.youtube.com/watch?v=PHhxgXPiikc",
-      "kind": "youtube",
-      "title": "🔥발차기 연습하러 태권도 다니는 가수?!🔥 MZ들이 사랑하는 숲튽훈 김장훈과 제철 생선 한 상🐟 l 비보티비",
-      "site": "YouTube",
-      "author": "VIVO TV - 비보티비",
-      "thumb": "media/r-c00b1739/link_thumbs/3daf47f5af7b.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-20",
-      "dates": [
-        "2026-11-20"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-20",
-          "time": "21:28",
-          "who": "수강생",
-          "text": "https://youtu.be/PHhxgXPiikc"
-        }
-      ],
-      "fetched_at": "2026-11-20T12:45:40.233Z"
     },
     {
       "id": "71991c84d280",
@@ -173,41 +74,8 @@
         "2026-11-19"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-19",
-          "time": "19:27",
-          "who": "수강생",
-          "text": "https://litt.ly/banpolong"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-19T14:27:46.800Z"
-    },
-    {
-      "id": "a8329dd5ee59",
-      "url": "https://www.youtube.com/watch?v=6aWiGPRvUmk",
-      "kind": "youtube",
-      "title": "당근에서 세탁기 샀다 기절한 이유",
-      "site": "YouTube",
-      "author": "이슈빔",
-      "thumb": "media/r-c00b1739/link_thumbs/a8329dd5ee59.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-19",
-      "last_date": "2026-11-19",
-      "dates": [
-        "2026-11-19"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-19",
-          "time": "12:41",
-          "who": "수강생",
-          "text": "제 판매방식은 강의에서도 설명드렸죠? 강의에서도 공개한 채널입니다 https://youtube.com/shorts/6aWiGPRvUmk"
-        }
-      ],
-      "fetched_at": "2026-11-19T04:01:16.426Z"
     },
     {
       "id": "2db37a3c43c5",
@@ -225,14 +93,7 @@
         "2026-11-18"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-18",
-          "time": "13:24",
-          "who": "수강생",
-          "text": "https://www.youtube.com/watch?v=CDc1tfRGLkM 이렇게 저작권 있는 노래로 어떻게 플레이리스트 만드는지 몰라도. 이런식으로 수창시간 채우면. 나중에 재상용컨텐츠로 반려되는건가요?"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-18T04:36:25.701Z"
     },
     {
@@ -251,14 +112,7 @@
         "2026-11-18"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-18",
-          "time": "04:41",
-          "who": "수강생",
-          "text": "https://www.joongang.co.kr/article/25479405"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-17T20:09:34.682Z"
     },
     {
@@ -277,14 +131,7 @@
         "2026-11-17"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-17",
-          "time": "23:34",
-          "who": "수강생",
-          "text": "https://open.kakao.com/o/gM0m5iUf"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-17T17:53:53.969Z"
     },
     {
@@ -302,41 +149,8 @@
         "2026-11-16"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "22:32",
-          "who": "강사",
-          "text": "https://open.kakao.com/o/stU9vRth 요기요 !"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-16T14:03:49.853Z"
-    },
-    {
-      "id": "a8e1c3b8fa26",
-      "url": "https://www.youtube.com/watch?v=Jx352HcIhgo",
-      "kind": "youtube",
-      "title": "친구 묶어 놓고 부른 사형 셋, 입문생 혼자 셋 다 눕혔다 #매화는다시핀다 #무협 #shorts",
-      "site": "YouTube",
-      "author": "안녕하세요 회빙환입니다 잘부탁드립니다",
-      "thumb": "media/r-c00b1739/link_thumbs/a8e1c3b8fa26.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "19:57",
-          "who": "수강생",
-          "text": "https://youtube.com/shorts/Jx352HcIhgo"
-        }
-      ],
-      "fetched_at": "2026-11-16T11:35:20.333Z"
     },
     {
       "id": "df205645cbc1",
@@ -354,14 +168,7 @@
         "2026-11-16"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-16",
-          "time": "15:41",
-          "who": "수강생",
-          "text": "https://link.inpock.co.kr/inpock/referral/KVMPEADA 이거 인포크 초대링크인데ㅎㅎ 친구 1달무료사용가능하세용!"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-16T08:52:46.385Z"
     },
     {
@@ -378,14 +185,7 @@
         "2026-11-14"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-14",
-          "time": "18:17",
-          "who": "수강생",
-          "text": "📢 감자 쇼핑 강의 공지 1. 감자 PDF책 업데이트 안내 11/13(목) 오후 4시 15분에 PDF책이 업데이트되었습니다. ✅ 11/13 오후 4시 15분 이후 구매하신 분 → 이미 업데이트된 버전을 받으셨어요. 따로 확인하실 필요 없습니다! ✅ 그 전에 구매하신 분 → 업데이트 버전을 메일로 보내드렸어요. 메일함을 확인해주세요. ※ 메일이 안 보이면 스팸메일함도 꼭 확인해주세요! ❗ 그래도 못 받으셨다면 아래 메일로 [성함 / 연락처]를 남겨주세요. 확인 후 다시 보내드릴게요. 📧 [이메일] 2. 더우인 우회 사이트 https…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-16T10:53:05.265Z"
     },
     {
@@ -405,26 +205,7 @@
         "2026-11-14"
       ],
       "mention_count": 3,
-      "contexts": [
-        {
-          "date": "2026-11-14",
-          "time": "18:17",
-          "who": "수강생",
-          "text": "📢 감자 쇼핑 강의 공지 1. 감자 PDF책 업데이트 안내 11/13(목) 오후 4시 15분에 PDF책이 업데이트되었습니다. ✅ 11/13 오후 4시 15분 이후 구매하신 분 → 이미 업데이트된 버전을 받으셨어요. 따로 확인하실 필요 없습니다! ✅ 그 전에 구매하신 분 → 업데이트 버전을 메일로 보내드렸어요. 메일함을 확인해주세요. ※ 메일이 안 보이면 스팸메일함도 꼭 확인해주세요! ❗ 그래도 못 받으셨다면 아래 메일로 [성함 / 연락처]를 남겨주세요. 확인 후 다시 보내드릴게요. 📧 [이메일] 2. 더우인 우회 사이트 https…"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "20:08",
-          "who": "수강생",
-          "text": "😱 영상 하나 넣고 딸깍! 대본 쓰고, 음성 만들고, 효과음 찾고, 자막 넣고… 영상 하나 만들 때마다 준비할 게 너무 많았죠? 클로드 없이! 별도 TTS 유료 결제 없이! 효과음 준비도, 캡컷 편집도 없이! 픽셀링 아스트라에 감자의 MD + JSON 파일을 적용하면, 영상 하나로 대본·TTS·효과음·영상 배치·자막을 담은 완성 MP4까지! 📘 감자의 인스타 쇼핑쇼츠 제작키트 ✅ 호기심을 클릭으로 연결하는 ‘침 묻히기’ 전략 ✅ 망고복숭아·탁구포도로 배우는 소재 차별화 ✅ 다음에 뜰 새로운 상품을 찾는 방법 ✅ 인스타 계정 30일…"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "14:58",
-          "who": "수강생",
-          "text": "https://litt.ly/_potato"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-07T06:00:47.952Z"
     },
     {
@@ -443,67 +224,8 @@
         "2026-11-14"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-14",
-          "time": "18:17",
-          "who": "수강생",
-          "text": "📢 감자 쇼핑 강의 공지 1. 감자 PDF책 업데이트 안내 11/13(목) 오후 4시 15분에 PDF책이 업데이트되었습니다. ✅ 11/13 오후 4시 15분 이후 구매하신 분 → 이미 업데이트된 버전을 받으셨어요. 따로 확인하실 필요 없습니다! ✅ 그 전에 구매하신 분 → 업데이트 버전을 메일로 보내드렸어요. 메일함을 확인해주세요. ※ 메일이 안 보이면 스팸메일함도 꼭 확인해주세요! ❗ 그래도 못 받으셨다면 아래 메일로 [성함 / 연락처]를 남겨주세요. 확인 후 다시 보내드릴게요. 📧 [이메일] 2. 더우인 우회 사이트 https…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-16T10:53:05.265Z"
-    },
-    {
-      "id": "a540b9d02b87",
-      "url": "https://www.youtube.com/watch?v=azCos0-XGTM",
-      "kind": "youtube",
-      "title": "Roblox Food Emoji IRL ASMR",
-      "site": "YouTube",
-      "author": "Spizee",
-      "thumb": "media/r-c00b1739/link_thumbs/a540b9d02b87.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-14",
-      "last_date": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-14",
-          "time": "16:55",
-          "who": "수강생",
-          "text": "https://youtu.be/azCos0-XGTM"
-        }
-      ],
-      "fetched_at": "2026-11-16T11:35:20.333Z"
-    },
-    {
-      "id": "fd82df4c3d46",
-      "url": "https://www.youtube.com/watch?v=DOhs3U_Rm1w",
-      "kind": "youtube",
-      "title": "Roblox mukbang Asmr | 99 Nights in the forest",
-      "site": "YouTube",
-      "author": "Sweepy",
-      "thumb": "media/r-c00b1739/link_thumbs/fd82df4c3d46.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-14",
-      "last_date": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-14",
-          "time": "16:54",
-          "who": "수강생",
-          "text": "https://youtube.com/shorts/DOhs3U_Rm1w"
-        }
-      ],
-      "fetched_at": "2026-11-16T13:16:47.348Z"
     },
     {
       "id": "9e268573e816",
@@ -521,14 +243,7 @@
         "2026-11-14"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-14",
-          "time": "16:34",
-          "who": "수강생",
-          "text": "https://link.vooy.com/invite?invite_code=VY-QW9C-7XFC&fallback_desktop=https%3A%2F%2Fapp.vooy.com%2Finvite%2FVY-QW9C-7XFC"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-16T11:35:20.333Z"
     },
     {
@@ -547,41 +262,8 @@
         "2026-11-14"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-14",
-          "time": "00:20",
-          "who": "수강생",
-          "text": "대박! 방금 280점으로 7000만냥 획득했어요~ # 한번 해볼래요? https://link.kakaopay.com/_/gmLPfzV"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-16T12:25:22.924Z"
-    },
-    {
-      "id": "7fa43a675220",
-      "url": "https://www.youtube.com/watch?v=slfkBB8oUGw",
-      "kind": "youtube",
-      "title": "고양이 한 마리에서 시작된 음악",
-      "site": "YouTube",
-      "author": "깔끔맨",
-      "thumb": "media/r-c00b1739/link_thumbs/7fa43a675220.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-12",
-      "last_date": "2026-11-12",
-      "dates": [
-        "2026-11-12"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-12",
-          "time": "23:54",
-          "who": "수강생",
-          "text": "https://www.youtube.com/shorts/slfkBB8oUGw"
-        }
-      ],
-      "fetched_at": "2026-11-12T17:17:29.852Z"
     },
     {
       "id": "6e4a66045c25",
@@ -601,32 +283,7 @@
         "2026-11-11"
       ],
       "mention_count": 4,
-      "contexts": [
-        {
-          "date": "2026-11-11",
-          "time": "17:20",
-          "who": "수강생",
-          "text": "저도 4.9기로 들어와서 픽셀링 무료 기간 끝나니까 그렇게 뜨더라구요~ 그래서 픽셀링 고객센터에 문의하고 했는데, 웹버전에서 결제하니까 해결 되더라구요 :) 혹시 비슷한 건가 해서요~ https://app.pixeling.io/"
-        },
-        {
-          "date": "2026-10-29",
-          "time": "11:36",
-          "who": "수강생",
-          "text": "https://app.pixeling.io/ 로그인은 되나요?"
-        },
-        {
-          "date": "2026-10-29",
-          "time": "10:32",
-          "who": "수강생",
-          "text": "https://app.pixeling.io/ new 데스크톱 버전으로 받으시면되요. 5기 카페 노는행님 강의중에 픽셀링 다운 설치 코덱스 알려주는거 있는데, 헷갈리시면 그거보시면 좋을거 같네요. 1강이었던거 같습니다."
-        },
-        {
-          "date": "2026-10-09",
-          "time": "19:05",
-          "who": "수강생",
-          "text": "https://app.pixeling.io/ 연동 되는지 안되는지 모르겠네요"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-09T13:23:29.944Z"
     },
     {
@@ -647,26 +304,7 @@
         "2026-11-10"
       ],
       "mention_count": 3,
-      "contexts": [
-        {
-          "date": "2026-11-10",
-          "time": "20:23",
-          "who": "강사",
-          "text": "요기로 남겨주세요 ! http://pf.kakao.com/_EJixlG"
-        },
-        {
-          "date": "2026-10-09",
-          "time": "00:29",
-          "who": "수강생",
-          "text": "워낙 수강생이 많아 당장 답이 어려울 수 있겠지만 일단 공지사항에 있는 글을 보면 여기 링크를 누르셔서 대화 해보시는게 어떨까 싶어요 (해지 라는게 될지는 잘 모르겠습니다) 1:1 디하클 고객센터입니다 카페 등업 및 강의 수강 관련 문의는 여기로 남겨주세요 http://pf.kakao.com/_EJixlG"
-        },
-        {
-          "date": "2026-10-08",
-          "time": "15:05",
-          "who": "운영",
-          "text": "@김@면(아로마캐슬) @강@완(양과소년) @수강생 오픈채팅 닫기 양식 준수하지 않으셔서 추방 처리 하도록 하겠습니다! (입장시에 오픈채팅 닫기 양식 준수 말씀드렸었습니다 😂😂) 재입장을 위하여 디하클 채널톡으로 문의 부탁드립니다 (디하클 채널톡 링크) http://pf.kakao.com/_EJixlG"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-08T06:55:06.469Z"
     },
     {
@@ -685,14 +323,7 @@
         "2026-11-09"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-09",
-          "time": "23:06",
-          "who": "수강생",
-          "text": "고생 많으셨습니다 여러분!! 여러분들 덕분에 초보반 4주 강의 잘 끝났습니다 ㅎㅎ 항상 잘되시길 응원하겠습니다!! 아래는 제 1~3주차 초보반 내용을 정리한 간단한 전자책입니다!!! 감사합니다!! https://litt.ly/richshorts"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-09T14:16:49.105Z"
     },
     {
@@ -711,73 +342,8 @@
         "2026-11-09"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-09",
-          "time": "19:05",
-          "who": "수강생",
-          "text": "https://www.youtube.com/watch?v=AQ23-vAicY8 다음날 또 낼름 했네요 ㄷㄷㄷ"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-09T10:35:06.902Z"
-    },
-    {
-      "id": "741ed8ff3469",
-      "url": "https://www.youtube.com/watch?v=AfTadVA22ac",
-      "kind": "youtube",
-      "title": "🍔맥도날드 REMIX | 내가 계속 듣고 싶어서 만든 노래",
-      "site": "YouTube",
-      "author": "PLASTIC WAVE",
-      "thumb": "media/r-c00b1739/link_thumbs/741ed8ff3469.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-09",
-      "last_date": "2026-11-09",
-      "dates": [
-        "2026-11-09"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-09",
-          "time": "19:02",
-          "who": "수강생",
-          "text": "https://youtu.be/AfTadVA22ac"
-        }
-      ],
-      "fetched_at": "2026-11-09T10:35:06.902Z"
-    },
-    {
-      "id": "0ddb4d240bb9",
-      "url": "https://www.instagram.com/reel/Dbf2QiwiIR0?srtk=MTA3b3Y4aHV6cDhncQ==",
-      "kind": "video",
-      "title": "Instagram의 Sarah Roy님 : \"These new looplocks keep snacks, cereal, frozen foods, and more sealed tight without the bulky clips taking over your drawer. Once you try them, you’ll wonder where they’ve b…",
-      "site": "Instagram",
-      "description": "1,547 likes, 656 comments - findsworththebuy - August 1, 2026: \"These new looplocks keep snacks, cereal, frozen foods, and more sealed tight without the bulky clips taking over your drawer. Once you try them, you’ll wonder where they’ve been all your life! 🙌 Comment “LINK” and I’ll send it straight to your DMs! 💛 #kitchenfinds #homehacks #kitchengadgets #organizationideas #amazonfinds @livebound\".",
-      "thumb": "media/r-c00b1739/link_thumbs/0ddb4d240bb9.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-07",
-      "dates": [
-        "2026-11-07"
-      ],
-      "mention_count": 2,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "20:02",
-          "who": "수강생",
-          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "10:35",
-          "who": "수강생",
-          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
-        }
-      ],
-      "fetched_at": "2026-11-07T01:54:59.253Z"
     },
     {
       "id": "426b907b451d",
@@ -795,14 +361,7 @@
         "2026-11-07"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "20:02",
-          "who": "수강생",
-          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-07T11:29:46.845Z"
     },
     {
@@ -821,111 +380,8 @@
         "2026-11-07"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "20:02",
-          "who": "수강생",
-          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-07T11:29:46.845Z"
-    },
-    {
-      "id": "982299006c97",
-      "url": "https://www.instagram.com/reel/DcOTBWwR1mW?obrf=MXgwbzQ2ZHV2bXFlMA==",
-      "kind": "video",
-      "title": "Instagram의 Nancy Karim님 : \"#ad Escribe COMIDA para el🔗 👉 Tambien la encuentras en @temu 🔍Codigo: kkc9893 (escríbelo en la barra de búsqueda todo en minúscula) 🌐O ingresa a https://app.temu.com/k/pwi6…",
-      "site": "Instagram",
-      "description": "52K likes, 13K comments - delicomida - August 19, 2026: \"#ad Escribe COMIDA para el🔗 👉 Tambien la encuentras en @temu 🔍Codigo: kkc9893 (escríbelo en la barra de búsqueda todo en minúscula) 🌐O ingresa a https://app.temu.com/k/pwi63pb79jm 📦 Se aplican términos y condiciones #shoptemu #temuhomefinds #hosting #foodwarmer\".",
-      "thumb": "media/r-c00b1739/link_thumbs/982299006c97.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-07",
-      "dates": [
-        "2026-11-07"
-      ],
-      "mention_count": 2,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "20:02",
-          "who": "수강생",
-          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "10:35",
-          "who": "수강생",
-          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
-        }
-      ],
-      "fetched_at": "2026-11-07T01:54:59.253Z"
-    },
-    {
-      "id": "a270b0ee5f67",
-      "url": "https://www.instagram.com/reel/DcB1_07Kx55?psln=amUxcDlibGR1YjBy",
-      "kind": "video",
-      "title": "Instagram의 Samantha Numan님 : \"WRITE: KITCHEN for top 5 no regret kitchen finds 🏡 I use these weekly if not daily in my household #kitchenfinds #amazonhomefinds #amazonbestsellers #kitchenideas #viral…",
-      "site": "Instagram",
-      "description": "4M likes, 30K comments - sam.shan.shops - August 14, 2026: \"WRITE: KITCHEN for top 5 no regret kitchen finds 🏡 I use these weekly if not daily in my household #kitchenfinds #amazonhomefinds #amazonbestsellers #kitchenideas #viralkitchengadgets\".",
-      "thumb": "media/r-c00b1739/link_thumbs/a270b0ee5f67.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-07",
-      "dates": [
-        "2026-11-07"
-      ],
-      "mention_count": 2,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "20:02",
-          "who": "수강생",
-          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "10:35",
-          "who": "수강생",
-          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
-        }
-      ],
-      "fetched_at": "2026-11-07T01:54:59.253Z"
-    },
-    {
-      "id": "b8d69fca51bc",
-      "url": "https://www.instagram.com/reel/DePIzpUmJvt?srtk=MWxxaGxwZ2xoYmJ5MA==",
-      "kind": "video",
-      "title": "Instagram의 Jessica Reynolds님 : \"The Concept vs the final product 🥵✅ #nails #nailgirl\"",
-      "site": "Instagram",
-      "description": "326K likes, 6,978 comments - jessica_reynolds.us - October 8, 2026: \"The Concept vs the final product 🥵✅ #nails #nailgirl\".",
-      "thumb": "media/r-c00b1739/link_thumbs/b8d69fca51bc.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-07",
-      "dates": [
-        "2026-11-07"
-      ],
-      "mention_count": 2,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "20:02",
-          "who": "수강생",
-          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "10:35",
-          "who": "수강생",
-          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
-        }
-      ],
-      "fetched_at": "2026-11-07T01:54:59.253Z"
     },
     {
       "id": "b95182c6dbbb",
@@ -943,14 +399,7 @@
         "2026-11-07"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "20:02",
-          "who": "수강생",
-          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-07T11:29:46.845Z"
     },
     {
@@ -969,14 +418,7 @@
         "2026-11-07"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "20:02",
-          "who": "수강생",
-          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-07T11:29:46.845Z"
     },
     {
@@ -995,41 +437,8 @@
         "2026-11-07"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "20:02",
-          "who": "수강생",
-          "text": "안녕하세요 쇼핑반 추가 자료&공지드립니다. ▶ 인스타 깡통계정 어떻게 만드나요? 1강 뒷부분 자료 보시면됩니다! ▶ Q. [해외] 쇼핑 소재 어디서 구하나요?/쿠키값 어떻게 하나요? https://www.instagram.com/reel/DePIzpUmJvt/?srtk=MWxxaGxwZ2xoYmJ5MA== https://www.instagram.com/reel/DcB1_07Kx55/?psln=amUxcDlibGR1YjBy https://www.instagram.com/reel/Dbf2QiwiIR0/?srtk=MTA3b3Y4aHV6…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-07T11:29:46.845Z"
-    },
-    {
-      "id": "14e90e72d340",
-      "url": "https://openai.com/index/introducing-gpt-6-cyber",
-      "kind": "web",
-      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "site": "OpenAI",
-      "description": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-      "thumb": "media/r-c00b1739/link_thumbs/14e90e72d340.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-07",
-      "dates": [
-        "2026-11-07"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "07:18",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
-        }
-      ],
-      "fetched_at": "2026-11-21T09:02:43.274Z"
     },
     {
       "id": "187bb7cb1c54",
@@ -1047,14 +456,7 @@
         "2026-11-07"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "07:18",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-06T22:39:56.627Z"
     },
     {
@@ -1073,14 +475,7 @@
         "2026-11-07"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "07:18",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-06T22:39:56.627Z"
     },
     {
@@ -1099,14 +494,7 @@
         "2026-11-07"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "07:18",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-06T22:39:56.627Z"
     },
     {
@@ -1125,14 +513,7 @@
         "2026-11-07"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "07:18",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-06T22:39:56.627Z"
     },
     {
@@ -1151,14 +532,7 @@
         "2026-11-07"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "07:18",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-06T22:39:56.627Z"
     },
     {
@@ -1177,14 +551,7 @@
         "2026-11-07"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "07:18",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-06T22:39:56.627Z"
     },
     {
@@ -1203,14 +570,7 @@
         "2026-11-07"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "07:18",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-06T22:39:56.627Z"
     },
     {
@@ -1229,64 +589,8 @@
         "2026-11-07"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "07:18",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-06T22:39:56.627Z"
-    },
-    {
-      "id": "fbaa86a829ad",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "kind": "web",
-      "title": "A thousand fewer paths to root",
-      "site": "OpenAI",
-      "description": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-      "thumb": "media/r-c00b1739/link_thumbs/fbaa86a829ad.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-07",
-      "dates": [
-        "2026-11-07"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-07",
-          "time": "07:18",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-07 오늘은 AI 발표 수치 자체보다 실제 비용과 검증 방법, 그리고 이용 가능한 조건을 중심으로 골랐습니다. 아스트라와 보안 모델의 검증 비용, 앤트로픽 연구 속도 독립 평가, 메타의 말하는 아바타, 기업 회계 에이전트, 이미지·3D를 다루는 신규 모델을 다섯 분야로 묶었습니다. 키미 K3.1의 독립 평가·3D Make·작업당 비용은 10월 27일 메일에서 이미 자세히 전달한 것을 확인해 같은 내용의 반복을 피했습니다. 1) 아스트라와 Cyber의 탐지율 다음 이야기: 리눅스 취약점 9…"
-        }
-      ],
-      "fetched_at": "2026-11-21T09:02:43.274Z"
-    },
-    {
-      "id": "83b6dbf465b3",
-      "url": "https://www.youtube.com/watch?v=gd2f2TFUfNQ](youtube.com/watch?v=gd2f2TFUfNQ",
-      "kind": "youtube",
-      "site": "youtube.com",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-06",
-      "dates": [
-        "2026-11-06"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-06",
-          "time": "14:57",
-          "who": "수강생",
-          "text": "<u>[https://www.youtube.com/watch?v=gd2f2TFUfNQ](youtube.com/watch?v=gd2f2TFUfNQ)</u> 이런 형식의 롱폼도 있네요. 아이디어 있고. 롱폼 제작 할 수만 있다면. 롱폼 하나로도 수창이 가능할거 같네요."
-        }
-      ],
-      "fetched_at": "2026-11-06T06:13:45.080Z"
     },
     {
       "id": "47dc683a68ef",
@@ -1305,64 +609,8 @@
         "2026-11-06"
       ],
       "mention_count": 2,
-      "contexts": [
-        {
-          "date": "2026-11-06",
-          "time": "12:20",
-          "who": "강사",
-          "text": "픽셀링(Pixeling) 이용 안내 효율적인 콘텐츠 생산을 위해 반드시 아래 절차를 완료해 주세요. 픽셀링 가입하기: https://app.pixeling.io/login 가입 후 아래 ㅎ6 매니저님에게 오픈채팅으로 쇼츠투벤츠 수강생 룰루랄라릴리입니다.(채팅방 닉네임) 등급업 부탁드립니다 라고 메세지 보내주세요 쇼츠투벤츠 픽셀링 등업문의 http://pf.kakao.com/_PCdBX 매니저님이 확인하고 등급업 해드립니다. 최대 1일정도가 소요 될 수 있으니 기다려주세요 !"
-        },
-        {
-          "date": "2026-10-26",
-          "time": "13:28",
-          "who": "강사",
-          "text": "픽셀링 가입하기: https://app.pixeling.io/login 가입 후 아래 ㅎ6 매니저님에게 오픈채팅으로 쇼츠투벤츠 수강생 룰루랄라릴리입니다.(채팅방 닉네임) 등급업 부탁드립니다 라고 메세지 보내주세요 쇼츠투벤츠 픽셀링 등업문의 http://pf.kakao.com/_PCdBX 매니저님이 확인하고 등급업 해드립니다. 최대 1일정도가 소요 될 수 있으니 기다려주세요 !"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-26T07:10:00.003Z"
-    },
-    {
-      "id": "661049fd28c5",
-      "url": "http://pf.kakao.com/_PCdBX](pf.kakao.com/_PCdBX",
-      "kind": "web",
-      "title": "카카오톡채널",
-      "site": "pf.kakao.com",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-05",
-      "last_date": "2026-11-06",
-      "dates": [
-        "2026-11-05",
-        "2026-11-06"
-      ],
-      "mention_count": 4,
-      "contexts": [
-        {
-          "date": "2026-11-06",
-          "time": "12:20",
-          "who": "수강생",
-          "text": "픽셀링(Pixeling) 이용 안내 효율적인 콘텐츠 생산을 위해 반드시 아래 절차를 완료해 주세요. 픽셀링 가입하기: <u>[https://app.pixeling.io/login](app.pixeling.io/login)</u> 가입 후 아래 ㅎ6 매니저님에게 오픈채팅으로 쇼츠투벤츠 수강생 룰루랄라릴리입니다.(채팅방 닉네임) 등급업 부탁드립니다 라고 메세지 보내주세요 쇼츠투벤츠 픽셀링 등업문의 <u>[http://pf.kakao.com/_PCdBX](pf.kakao.com/_PCdBX)</u> 매니저님이 확인하고 등급업 해드립니다…"
-        },
-        {
-          "date": "2026-11-06",
-          "time": "12:20",
-          "who": "강사",
-          "text": "픽셀링(Pixeling) 이용 안내 효율적인 콘텐츠 생산을 위해 반드시 아래 절차를 완료해 주세요. 픽셀링 가입하기: <u>[https://app.pixeling.io/login](app.pixeling.io/login)</u> 가입 후 아래 ㅎ6 매니저님에게 오픈채팅으로 쇼츠투벤츠 수강생 룰루랄라릴리입니다.(채팅방 닉네임) 등급업 부탁드립니다 라고 메세지 보내주세요 쇼츠투벤츠 픽셀링 등업문의 <u>[http://pf.kakao.com/_PCdBX](pf.kakao.com/_PCdBX)</u> 매니저님이 확인하고 등급업 해드립니다…"
-        },
-        {
-          "date": "2026-11-05",
-          "time": "23:16",
-          "who": "수강생",
-          "text": "가입 후 아래 ㅎ6 매니저님에게 오픈채팅으로 쇼츠투벤츠 수강생 룰루랄라릴리입니다.(채팅방 닉네임) 등급업 부탁드립니다 라고 메세지 보내주세요 쇼츠투벤츠 픽셀링 등업문의 <u>[http://pf.kakao.com/_PCdBX](pf.kakao.com/_PCdBX)</u> 매니저님이 확인하고 등급업 해드립니다. 최대 1일정도가 소요 될 수 있으니 기다려주세요 !"
-        },
-        {
-          "date": "2026-11-05",
-          "time": "23:16",
-          "who": "강사",
-          "text": "가입 후 아래 ㅎ6 매니저님에게 오픈채팅으로 쇼츠투벤츠 수강생 룰루랄라릴리입니다.(채팅방 닉네임) 등급업 부탁드립니다 라고 메세지 보내주세요 쇼츠투벤츠 픽셀링 등업문의 <u>[http://pf.kakao.com/_PCdBX](pf.kakao.com/_PCdBX)</u> 매니저님이 확인하고 등급업 해드립니다. 최대 1일정도가 소요 될 수 있으니 기다려주세요 !"
-        }
-      ],
-      "fetched_at": "2026-11-05T14:37:41.289Z"
     },
     {
       "id": "85dd9255a825",
@@ -1382,79 +630,8 @@
         "2026-11-06"
       ],
       "mention_count": 3,
-      "contexts": [
-        {
-          "date": "2026-11-06",
-          "time": "12:20",
-          "who": "강사",
-          "text": "픽셀링(Pixeling) 이용 안내 효율적인 콘텐츠 생산을 위해 반드시 아래 절차를 완료해 주세요. 픽셀링 가입하기: https://app.pixeling.io/login 가입 후 아래 ㅎ6 매니저님에게 오픈채팅으로 쇼츠투벤츠 수강생 룰루랄라릴리입니다.(채팅방 닉네임) 등급업 부탁드립니다 라고 메세지 보내주세요 쇼츠투벤츠 픽셀링 등업문의 http://pf.kakao.com/_PCdBX 매니저님이 확인하고 등급업 해드립니다. 최대 1일정도가 소요 될 수 있으니 기다려주세요 !"
-        },
-        {
-          "date": "2026-10-29",
-          "time": "11:34",
-          "who": "수강생",
-          "text": "https://app.pixeling.io/login"
-        },
-        {
-          "date": "2026-10-26",
-          "time": "13:28",
-          "who": "강사",
-          "text": "픽셀링 가입하기: https://app.pixeling.io/login 가입 후 아래 ㅎ6 매니저님에게 오픈채팅으로 쇼츠투벤츠 수강생 룰루랄라릴리입니다.(채팅방 닉네임) 등급업 부탁드립니다 라고 메세지 보내주세요 쇼츠투벤츠 픽셀링 등업문의 http://pf.kakao.com/_PCdBX 매니저님이 확인하고 등급업 해드립니다. 최대 1일정도가 소요 될 수 있으니 기다려주세요 !"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-26T07:10:00.003Z"
-    },
-    {
-      "id": "aa4b48cdcc5d",
-      "url": "https://app.pixeling.io/login](app.pixeling.io/login",
-      "kind": "web",
-      "site": "app.pixeling.io",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-06",
-      "dates": [
-        "2026-11-06"
-      ],
-      "mention_count": 2,
-      "contexts": [
-        {
-          "date": "2026-11-06",
-          "time": "12:20",
-          "who": "수강생",
-          "text": "픽셀링(Pixeling) 이용 안내 효율적인 콘텐츠 생산을 위해 반드시 아래 절차를 완료해 주세요. 픽셀링 가입하기: <u>[https://app.pixeling.io/login](app.pixeling.io/login)</u> 가입 후 아래 ㅎ6 매니저님에게 오픈채팅으로 쇼츠투벤츠 수강생 룰루랄라릴리입니다.(채팅방 닉네임) 등급업 부탁드립니다 라고 메세지 보내주세요 쇼츠투벤츠 픽셀링 등업문의 <u>[http://pf.kakao.com/_PCdBX](pf.kakao.com/_PCdBX)</u> 매니저님이 확인하고 등급업 해드립니다…"
-        },
-        {
-          "date": "2026-11-06",
-          "time": "12:20",
-          "who": "강사",
-          "text": "픽셀링(Pixeling) 이용 안내 효율적인 콘텐츠 생산을 위해 반드시 아래 절차를 완료해 주세요. 픽셀링 가입하기: <u>[https://app.pixeling.io/login](app.pixeling.io/login)</u> 가입 후 아래 ㅎ6 매니저님에게 오픈채팅으로 쇼츠투벤츠 수강생 룰루랄라릴리입니다.(채팅방 닉네임) 등급업 부탁드립니다 라고 메세지 보내주세요 쇼츠투벤츠 픽셀링 등업문의 <u>[http://pf.kakao.com/_PCdBX](pf.kakao.com/_PCdBX)</u> 매니저님이 확인하고 등급업 해드립니다…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "13dde74c1b82",
-      "url": "https://www.youtube.com/watch?v=8ga_tSyiRvQ](youtube.com/watch?v=8ga_tSyiRvQ",
-      "kind": "youtube",
-      "site": "youtube.com",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-06",
-      "dates": [
-        "2026-11-06"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-06",
-          "time": "02:36",
-          "who": "수강생",
-          "text": "<u>[https://www.youtube.com/watch?v=pqJk1FB8Omc](youtube.com/watch?v=pqJk1FB8Omc)</u> <u>[https://www.youtube.com/watch?v=8ga_tSyiRvQ](youtube.com/watch?v=8ga_tSyiRvQ)</u>"
-        }
-      ],
-      "fetched_at": "2026-11-05T17:37:09.060Z"
     },
     {
       "id": "23219da38b37",
@@ -1472,14 +649,7 @@
         "2026-11-06"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-06",
-          "time": "02:36",
-          "who": "수강생",
-          "text": "https://www.youtube.com/watch?v=pqJk1FB8Omc https://www.youtube.com/watch?v=8ga_tSyiRvQ"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-06T02:05:09.117Z"
     },
     {
@@ -1498,136 +668,8 @@
         "2026-11-06"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-06",
-          "time": "02:36",
-          "who": "수강생",
-          "text": "https://www.youtube.com/watch?v=pqJk1FB8Omc https://www.youtube.com/watch?v=8ga_tSyiRvQ"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-06T02:05:09.117Z"
-    },
-    {
-      "id": "7e2c566ad6a7",
-      "url": "https://www.youtube.com/watch?v=pqJk1FB8Omc](youtube.com/watch?v=pqJk1FB8Omc",
-      "kind": "youtube",
-      "site": "youtube.com",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-06",
-      "dates": [
-        "2026-11-06"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-06",
-          "time": "02:36",
-          "who": "수강생",
-          "text": "<u>[https://www.youtube.com/watch?v=pqJk1FB8Omc](youtube.com/watch?v=pqJk1FB8Omc)</u> <u>[https://www.youtube.com/watch?v=8ga_tSyiRvQ](youtube.com/watch?v=8ga_tSyiRvQ)</u>"
-        }
-      ],
-      "fetched_at": "2026-11-05T17:37:09.060Z"
-    },
-    {
-      "id": "40f87ea831e4",
-      "url": "https://www.youtube.com/watch?v=m4K7aZbXkqA",
-      "kind": "youtube",
-      "title": "계정 제한을 시작한 오픈 AI ㄷㄷㄷ",
-      "site": "YouTube",
-      "author": "조코딩 JoCoding",
-      "thumb": "media/r-c00b1739/link_thumbs/40f87ea831e4.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-05",
-      "last_date": "2026-11-05",
-      "dates": [
-        "2026-11-05"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-05",
-          "time": "15:12",
-          "who": "수강생",
-          "text": "<u>[https://youtube.com/shorts/m4K7aZbXkqA)</u> 이건 뭔가요 ㅠㅠㅠ 1대의 기기에 여러계정 안된다니??"
-        }
-      ],
-      "fetched_at": "2026-11-05T06:23:13.053Z"
-    },
-    {
-      "id": "72b7caa73bb4",
-      "url": "https://www.youtube.com/watch?v=48eEbP0MkXA](youtube.com/watch?v=48eEbP0MkXA",
-      "kind": "youtube",
-      "site": "youtube.com",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-05",
-      "last_date": "2026-11-05",
-      "dates": [
-        "2026-11-05"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-05",
-          "time": "13:57",
-          "who": "수강생",
-          "text": "<u>[https://www.youtube.com/watch?v=48eEbP0MkXA](youtube.com/watch?v=48eEbP0MkXA)</u> 뭔가 잘못됐어 단단히 => 이부분만 클립처럼 따서 효과음으로 사용하려고 하는데요. 효과음 같은것도 1분 쇼츠에는 ㄱㅊ은데 1분 이상 쇼츠에 짧게라도 사용하면 유튜브에서 걸리나요?"
-        }
-      ],
-      "fetched_at": "2026-11-05T05:20:42.137Z"
-    },
-    {
-      "id": "420089f27309",
-      "url": "https://play.google.com/store/apps/details?id=com.pickle.client](play.google.com/store/apps/details?id=com.pickle.client",
-      "kind": "web",
-      "site": "play.google.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-11-05",
-      "last_date": "2026-11-05",
-      "dates": [
-        "2026-11-05"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-05",
-          "time": "02:41",
-          "who": "수강생",
-          "text": "<u>[https://play.google.com/store/apps/details?id=com.pickle.client](play.google.com/store/apps/details?id=com.pickle.client)</u>"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "0d297090385a",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "kind": "web",
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "site": "OpenAI",
-      "description": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "thumb": "media/r-c00b1739/link_thumbs/0d297090385a.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-04",
-      "dates": [
-        "2026-11-04"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-04",
-          "time": "10:30",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
-        }
-      ],
-      "fetched_at": "2026-11-21T09:02:43.274Z"
     },
     {
       "id": "1f90f934b887",
@@ -1645,14 +687,7 @@
         "2026-11-04"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-04",
-          "time": "10:30",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-04T02:04:32.265Z"
     },
     {
@@ -1671,41 +706,8 @@
         "2026-11-04"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-04",
-          "time": "10:30",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-04T02:04:32.265Z"
-    },
-    {
-      "id": "25493a43cba5",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "kind": "web",
-      "title": "Accelerating engineering for the physical world",
-      "site": "OpenAI",
-      "description": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-      "thumb": "media/r-c00b1739/link_thumbs/25493a43cba5.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-04",
-      "dates": [
-        "2026-11-04"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-04",
-          "time": "10:30",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
-        }
-      ],
-      "fetched_at": "2026-11-21T09:02:43.274Z"
     },
     {
       "id": "69a7c301367d",
@@ -1723,14 +725,7 @@
         "2026-11-04"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-04",
-          "time": "10:30",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-04T02:04:32.265Z"
     },
     {
@@ -1749,14 +744,7 @@
         "2026-11-04"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-04",
-          "time": "10:30",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-04T02:04:32.265Z"
     },
     {
@@ -1775,14 +763,7 @@
         "2026-11-04"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-04",
-          "time": "10:30",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-04T02:04:32.265Z"
     },
     {
@@ -1801,41 +782,8 @@
         "2026-11-04"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-04",
-          "time": "10:30",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-04T02:04:32.265Z"
-    },
-    {
-      "id": "bca108e4c77b",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "kind": "web",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "site": "OpenAI",
-      "description": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "thumb": "media/r-c00b1739/link_thumbs/bca108e4c77b.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-04",
-      "dates": [
-        "2026-11-04"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-04",
-          "time": "10:30",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
-        }
-      ],
-      "fetched_at": "2026-11-21T09:02:43.274Z"
     },
     {
       "id": "f2497d2da324",
@@ -1853,119 +801,8 @@
         "2026-11-04"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-11-04",
-          "time": "10:30",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-11-04 오늘은 아스트라의 실제 하드웨어 제작, 초보자용 15초 AI 영상, 코딩 에이전트 비용, 학교의 AI 학습 안내, 보안 제보 보상까지 폭넓게 살펴봅니다. 출시 날짜와 후속 사용 사례를 구분하고, 바로 만들어보거나 확인할 수 있는 조건을 중심으로 골랐습니다. 1) 아스트라가 회로·기구·펌웨어까지, 오픈AI가 실제 기기를 만들어봤어요 오픈AI는 11월 3일 GPT-6 아스트라를 활용해 음성 대화와 코딩에 쓰는 물리적 기기를 설계·제작한 사례를 공개했습니다. 사례에는 기구 외함과 인쇄회로…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-11-04T02:04:32.265Z"
-    },
-    {
-      "id": "cdac279dbd12",
-      "url": "https://www.youtube.com/watch?v=XjgD4z_y4Ps",
-      "kind": "youtube",
-      "title": "엄마냥 혼자 꿀 빨다가 딱 걸림",
-      "site": "YouTube",
-      "author": "안녕! 치앙마이 | annyeong.chiangmai",
-      "thumb": "media/r-c00b1739/link_thumbs/cdac279dbd12.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-30",
-      "last_date": "2026-10-30",
-      "dates": [
-        "2026-10-30"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-30",
-          "time": "18:53",
-          "who": "수강생",
-          "text": "https://youtube.com/shorts/XjgD4z_y4Ps"
-        }
-      ],
-      "fetched_at": "2026-10-30T10:10:48.758Z"
-    },
-    {
-      "id": "7e9531a8d07f",
-      "url": "https://www.youtube.com/watch?v=DFd4tQEhEt8",
-      "kind": "youtube",
-      "title": "한강에 아기 거북이를 방생하면 안 되는 이유",
-      "site": "YouTube",
-      "author": "안녕! 치앙마이 | annyeong.chiangmai",
-      "thumb": "media/r-c00b1739/link_thumbs/7e9531a8d07f.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-30",
-      "last_date": "2026-10-30",
-      "dates": [
-        "2026-10-30"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-30",
-          "time": "18:52",
-          "who": "수강생",
-          "text": "https://youtube.com/shorts/DFd4tQEhEt8"
-        }
-      ],
-      "fetched_at": "2026-10-30T10:10:48.758Z"
-    },
-    {
-      "id": "c2eba604d8de",
-      "url": "https://www.youtube.com/watch?v=vyhr3eBGYgA",
-      "kind": "youtube",
-      "title": "I Made a $50 TV Commercial Without a Camera (Claude Code + Kie AI)",
-      "site": "YouTube",
-      "author": "Josh Chappell",
-      "thumb": "media/r-c00b1739/link_thumbs/c2eba604d8de.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-30",
-      "last_date": "2026-10-30",
-      "dates": [
-        "2026-10-30"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-30",
-          "time": "13:58",
-          "who": "수강생",
-          "text": "https://youtu.be/vyhr3eBGYgA"
-        }
-      ],
-      "fetched_at": "2026-10-30T05:58:54.763Z"
-    },
-    {
-      "id": "3ce99330bfc4",
-      "url": "https://www.youtube.com/watch?v=0QpWJfLgr-o",
-      "kind": "youtube",
-      "title": "포랑 커피 한 잔 만들려다… ☕🐶",
-      "site": "YouTube",
-      "author": "별일 없는영상",
-      "thumb": "media/r-c00b1739/link_thumbs/3ce99330bfc4.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-30",
-      "last_date": "2026-10-30",
-      "dates": [
-        "2026-10-30"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-30",
-          "time": "12:39",
-          "who": "수강생",
-          "text": "https://youtube.com/shorts/0QpWJfLgr-o"
-        }
-      ],
-      "fetched_at": "2026-10-30T06:29:51.924Z"
     },
     {
       "id": "abebb210282b",
@@ -1983,14 +820,7 @@
         "2026-10-28"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-28",
-          "time": "14:41",
-          "who": "수강생",
-          "text": "인스타에도 롱폼 나온다고 하네욤💙 https://www.instagram.com/p/De_dJKdmwPS/"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-28T06:16:32.408Z"
     },
     {
@@ -2009,14 +839,7 @@
         "2026-10-28"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-28",
-          "time": "09:07",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-28 AI를 잘 쓰는 방법은 더 강한 모델을 고르는 데서 끝나지 않고, 안전하게 일을 맡기고 만들고 검증하는 방식까지 이어집니다. 오늘은 아스트라 안전성 수치, 브랜드 전용 영상 앱 제작, 신약 연구 성과, 기업 업무 연결, 실전 AI 비용 전략을 서로 다른 관점에서 살펴봅니다. 1) 아스트라와 테라, 안전성 시험에선 심각한 경고가 26건 대 22건이었어요 오픈AI가 10월 26일 공개한 GPT-6 아스트라 시스템 카드 보완 자료에는 GPT-6.1 테라의 코딩 에이전트 안전성 비교가 담겼…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-28T00:26:26.736Z"
     },
     {
@@ -2035,14 +858,7 @@
         "2026-10-28"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-28",
-          "time": "09:07",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-28 AI를 잘 쓰는 방법은 더 강한 모델을 고르는 데서 끝나지 않고, 안전하게 일을 맡기고 만들고 검증하는 방식까지 이어집니다. 오늘은 아스트라 안전성 수치, 브랜드 전용 영상 앱 제작, 신약 연구 성과, 기업 업무 연결, 실전 AI 비용 전략을 서로 다른 관점에서 살펴봅니다. 1) 아스트라와 테라, 안전성 시험에선 심각한 경고가 26건 대 22건이었어요 오픈AI가 10월 26일 공개한 GPT-6 아스트라 시스템 카드 보완 자료에는 GPT-6.1 테라의 코딩 에이전트 안전성 비교가 담겼…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-28T00:26:26.736Z"
     },
     {
@@ -2061,14 +877,7 @@
         "2026-10-28"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-28",
-          "time": "09:07",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-28 AI를 잘 쓰는 방법은 더 강한 모델을 고르는 데서 끝나지 않고, 안전하게 일을 맡기고 만들고 검증하는 방식까지 이어집니다. 오늘은 아스트라 안전성 수치, 브랜드 전용 영상 앱 제작, 신약 연구 성과, 기업 업무 연결, 실전 AI 비용 전략을 서로 다른 관점에서 살펴봅니다. 1) 아스트라와 테라, 안전성 시험에선 심각한 경고가 26건 대 22건이었어요 오픈AI가 10월 26일 공개한 GPT-6 아스트라 시스템 카드 보완 자료에는 GPT-6.1 테라의 코딩 에이전트 안전성 비교가 담겼…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-28T00:26:26.736Z"
     },
     {
@@ -2086,87 +895,8 @@
         "2026-10-28"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-28",
-          "time": "09:07",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-28 AI를 잘 쓰는 방법은 더 강한 모델을 고르는 데서 끝나지 않고, 안전하게 일을 맡기고 만들고 검증하는 방식까지 이어집니다. 오늘은 아스트라 안전성 수치, 브랜드 전용 영상 앱 제작, 신약 연구 성과, 기업 업무 연결, 실전 AI 비용 전략을 서로 다른 관점에서 살펴봅니다. 1) 아스트라와 테라, 안전성 시험에선 심각한 경고가 26건 대 22건이었어요 오픈AI가 10월 26일 공개한 GPT-6 아스트라 시스템 카드 보완 자료에는 GPT-6.1 테라의 코딩 에이전트 안전성 비교가 담겼…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-28T00:26:26.736Z"
-    },
-    {
-      "id": "b3764d9ad742",
-      "url": "https://x.com/runwayml/status/2114778016907718936",
-      "kind": "web",
-      "site": "x.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-28",
-      "last_date": "2026-10-28",
-      "dates": [
-        "2026-10-28"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-28",
-          "time": "09:07",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-28 AI를 잘 쓰는 방법은 더 강한 모델을 고르는 데서 끝나지 않고, 안전하게 일을 맡기고 만들고 검증하는 방식까지 이어집니다. 오늘은 아스트라 안전성 수치, 브랜드 전용 영상 앱 제작, 신약 연구 성과, 기업 업무 연결, 실전 AI 비용 전략을 서로 다른 관점에서 살펴봅니다. 1) 아스트라와 테라, 안전성 시험에선 심각한 경고가 26건 대 22건이었어요 오픈AI가 10월 26일 공개한 GPT-6 아스트라 시스템 카드 보완 자료에는 GPT-6.1 테라의 코딩 에이전트 안전성 비교가 담겼…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "bf35a979050e",
-      "url": "https://help.runwayml.com/hc/en-us/articles/56447349336467-Building-apps-with-App-Studio",
-      "kind": "web",
-      "site": "help.runwayml.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-28",
-      "last_date": "2026-10-28",
-      "dates": [
-        "2026-10-28"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-28",
-          "time": "09:07",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-28 AI를 잘 쓰는 방법은 더 강한 모델을 고르는 데서 끝나지 않고, 안전하게 일을 맡기고 만들고 검증하는 방식까지 이어집니다. 오늘은 아스트라 안전성 수치, 브랜드 전용 영상 앱 제작, 신약 연구 성과, 기업 업무 연결, 실전 AI 비용 전략을 서로 다른 관점에서 살펴봅니다. 1) 아스트라와 테라, 안전성 시험에선 심각한 경고가 26건 대 22건이었어요 오픈AI가 10월 26일 공개한 GPT-6 아스트라 시스템 카드 보완 자료에는 GPT-6.1 테라의 코딩 에이전트 안전성 비교가 담겼…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "c417f8e3d39d",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "kind": "web",
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "site": "OpenAI",
-      "description": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-      "thumb": "media/r-c00b1739/link_thumbs/c417f8e3d39d.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-28",
-      "last_date": "2026-10-28",
-      "dates": [
-        "2026-10-28"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-28",
-          "time": "09:07",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-28 AI를 잘 쓰는 방법은 더 강한 모델을 고르는 데서 끝나지 않고, 안전하게 일을 맡기고 만들고 검증하는 방식까지 이어집니다. 오늘은 아스트라 안전성 수치, 브랜드 전용 영상 앱 제작, 신약 연구 성과, 기업 업무 연결, 실전 AI 비용 전략을 서로 다른 관점에서 살펴봅니다. 1) 아스트라와 테라, 안전성 시험에선 심각한 경고가 26건 대 22건이었어요 오픈AI가 10월 26일 공개한 GPT-6 아스트라 시스템 카드 보완 자료에는 GPT-6.1 테라의 코딩 에이전트 안전성 비교가 담겼…"
-        }
-      ],
-      "fetched_at": "2026-11-21T09:02:43.274Z"
     },
     {
       "id": "dcad83d82733",
@@ -2184,40 +914,8 @@
         "2026-10-28"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-28",
-          "time": "09:07",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-28 AI를 잘 쓰는 방법은 더 강한 모델을 고르는 데서 끝나지 않고, 안전하게 일을 맡기고 만들고 검증하는 방식까지 이어집니다. 오늘은 아스트라 안전성 수치, 브랜드 전용 영상 앱 제작, 신약 연구 성과, 기업 업무 연결, 실전 AI 비용 전략을 서로 다른 관점에서 살펴봅니다. 1) 아스트라와 테라, 안전성 시험에선 심각한 경고가 26건 대 22건이었어요 오픈AI가 10월 26일 공개한 GPT-6 아스트라 시스템 카드 보완 자료에는 GPT-6.1 테라의 코딩 에이전트 안전성 비교가 담겼…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-28T00:26:26.736Z"
-    },
-    {
-      "id": "35e334c19874",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "kind": "web",
-      "title": "Introducing GPT-6.1 Terra",
-      "site": "OpenAI",
-      "description": "Delivering fast and capable computer use at scale",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-27",
-      "last_date": "2026-10-27",
-      "dates": [
-        "2026-10-27"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-27",
-          "time": "10:48",
-          "who": "수강생",
-          "text": "GPT 새로운 모델 6.1 Terra 나왔대요~!! Sol도 6.1 모델 있는데, 그렇다면 Astra도 6.1이 출시될지도!? https://openai.com/index/introducing-gpt-6-1-terra/"
-        }
-      ],
-      "fetched_at": "2026-11-21T09:02:43.274Z"
     },
     {
       "id": "aac0972f1ab8",
@@ -2232,14 +930,7 @@
         "2026-10-26"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "14:32",
-          "who": "수강생",
-          "text": "훔 저라면 플리보다는 핀셋잡은 그룹의 롱폼,숏폼으로만 밀꺼같긴한데~ 플리랑 쇼츠하는 채널도 가끔 있더라구용! https://www.youtube.com/@52out/videos"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-26T07:10:00.003Z"
     },
     {
@@ -2255,362 +946,7 @@
         "2026-10-26"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "12:02",
-          "who": "수강생",
-          "text": "https://verdant-roadway-53f.notion.site/5-3e238801f0c880db8575c3e86d5cdb26?pvs=73 여기서 아래쪽에 효과음 찾아보시면 될거같아요"
-        }
-      ]
-    },
-    {
-      "id": "0841d5358e11",
-      "url": "https://artificialanalysis.ai/agents/coding-agents](artificialanalysis.ai/agents/coding-agents",
-      "kind": "web",
-      "site": "artificialanalysis.ai",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "1cd0e0030b5e",
-      "url": "https://block.xyz/dessa](block.xyz/dessa",
-      "kind": "web",
-      "site": "block.xyz",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "1ffb4e07f284",
-      "url": "https://www.anthropic.com/news](anthropic.com/news",
-      "kind": "web",
-      "site": "anthropic.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "2e2bce2a5eb6",
-      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation](anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-      "kind": "article",
-      "site": "anthropic.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "3e88980ac4c0",
-      "url": "https://x.com/ArtificialAnlys/status/2113424556069372203](x.com/ArtificialAnlys/status/2113424556069372203",
-      "kind": "web",
-      "site": "x.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "41c29ebb7d6f",
-      "url": "https://blog.google/](blog.google",
-      "kind": "web",
-      "site": "blog.google",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "54a2d659b103",
-      "url": "https://artificialanalysis.ai/methodology/coding-agents-benchmarking](artificialanalysis.ai/methodology/coding-agents-benchmarking",
-      "kind": "web",
-      "site": "artificialanalysis.ai",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "78283b25edba",
-      "url": "https://www.youtube.com/watch?v=8tjhiruPpBg](youtube.com/watch?v=8tjhiruPpBg",
-      "kind": "youtube",
-      "site": "youtube.com",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-10-26T00:28:56.432Z"
-    },
-    {
-      "id": "82c241d00461",
-      "url": "https://x.com/jack/status/2113697820222042296](x.com/jack/status/2113697820222042296",
-      "kind": "web",
-      "site": "x.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "91262a805298",
-      "url": "https://medium.com/google-cloud/ai-agent-vs-ai-harness-where-memory-actually-lives-7067e64d20a3](medium.com/google-cloud/ai-agent-vs-ai-harness-where-memory-actually-lives-7067e64d20a3",
-      "kind": "blog",
-      "site": "medium.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "adf7bef1d764",
-      "url": "https://x.com/RagavanThurair/status/2113691903866872251](x.com/RagavanThurair/status/2113691903866872251",
-      "kind": "web",
-      "site": "x.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "e1e08b648d4e",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/](blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders",
-      "kind": "web",
-      "site": "blog.google",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "f0443450177d",
-      "url": "https://www.youtube.com/watch?v=aZMKzHhlTh8",
-      "kind": "youtube",
-      "title": "HUGE GPT-7 BEL UPDATE! Claude REA BANNED, Gemini 4 Carbon Is INSANE, Qwen 4 LEAKS, & More! AI NEWS",
-      "site": "YouTube",
-      "author": "WorldofAI",
-      "thumb": "media/r-c00b1739/link_thumbs/f0443450177d.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-10-26T00:28:56.432Z"
-    },
-    {
-      "id": "fe360ca6308e",
-      "url": "https://x.com/ArtificialAnlys/status/2113424551396934134](x.com/ArtificialAnlys/status/2113424551396934134",
-      "kind": "web",
-      "site": "x.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "ff821e302bc6",
-      "url": "https://www.youtube.com/watch?v=2C_CefSQEAQ](youtube.com/watch?v=2C_CefSQEAQ",
-      "kind": "youtube",
-      "site": "youtube.com",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "dates": [
-        "2026-10-26"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-26",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-25 사람의 말소리만으로 배운 음성 AI부터, 코딩 에이전트의 성적표와 실제 일을 끝내게 하는 설계까지 살펴봅니다. 오늘은 팔로업 유튜브에서 찾은 데사와 하네스 이야기를 본문에 담고, 공식 발표와 활용 사례를 함께 확인했어요. 1) 사람의 말소리로 배운 데사, 듣고 말하기를 동시에 해요 월드오브AI가 오늘 영상에서 다룬 데사(Dessa)는 블록이 공개한 새 음성 AI예요. 블록은 텍스트나 기존 사전학습 모델 없이 사람들의 대화 음성만으로 처음부터 학습했다고 설명해요. 말하면서 동시에 듣는…"
-        }
-      ],
-      "fetched_at": "2026-10-26T00:28:56.432Z"
+      "contexts": []
     },
     {
       "id": "4501ac557982",
@@ -2625,14 +961,7 @@
         "2026-10-23"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-23",
-          "time": "15:48",
-          "who": "수강생",
-          "text": "https://chromewebstore.google.com/detail/ig-sorter-sort-feed-works/faglepdniaalgbkakcbhioblejlfoihn?hl=ko"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-23T06:58:49.859Z"
     },
     {
@@ -2651,14 +980,7 @@
         "2026-10-23"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-23",
-          "time": "10:50",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-23T03:08:47.706Z"
     },
     {
@@ -2674,14 +996,7 @@
         "2026-10-23"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-23",
-          "time": "10:50",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-23T03:08:47.706Z"
     },
     {
@@ -2700,14 +1015,7 @@
         "2026-10-23"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-23",
-          "time": "10:50",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-23T03:08:47.706Z"
     },
     {
@@ -2726,14 +1034,7 @@
         "2026-10-23"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-23",
-          "time": "10:50",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-23T03:08:47.706Z"
     },
     {
@@ -2752,14 +1053,7 @@
         "2026-10-23"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-23",
-          "time": "10:50",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-23T03:08:47.706Z"
     },
     {
@@ -2777,14 +1071,7 @@
         "2026-10-23"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-23",
-          "time": "10:50",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-23T03:08:47.706Z"
     },
     {
@@ -2803,14 +1090,7 @@
         "2026-10-23"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-23",
-          "time": "10:50",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-23T03:08:47.706Z"
     },
     {
@@ -2826,14 +1106,7 @@
         "2026-10-23"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-23",
-          "time": "10:50",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-23T03:08:47.706Z"
     },
     {
@@ -2852,14 +1125,7 @@
         "2026-10-23"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-23",
-          "time": "10:50",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-23T03:08:47.706Z"
     },
     {
@@ -2878,14 +1144,7 @@
         "2026-10-23"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-23",
-          "time": "10:50",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-23 AI가 코드를 만들고 일을 이어가는 능력이 커질수록, 실제 이용 조건과 변경 내역을 함께 확인하는 습관이 더 중요해지고 있습니다. 오늘 소식은 새 도구를 시험하고, 맡길 일과 직접 확인할 일을 정하는 데 참고하시면 좋겠어요. 1) 아스트라가 고친 코드, 감시 기능도 그대로일까요? OpenAI가 10월 20일 갱신한 자체 보고서에 GPT-6 아스트라의 내부 코딩 사례를 공개했습니다. 사건은 10월 6일에 발생했습니다. 아스트라는 코드를 참조 구현에 맞추면서 감시 기능과 관련 테스트를…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-23T03:08:47.706Z"
     },
     {
@@ -2907,318 +1166,8 @@
         "2026-10-21"
       ],
       "mention_count": 6,
-      "contexts": [
-        {
-          "date": "2026-10-21",
-          "time": "18:20",
-          "who": "수강생",
-          "text": "https://open.kakao.com/o/sg4Df2Oi 연락주세요"
-        },
-        {
-          "date": "2026-10-15",
-          "time": "15:02",
-          "who": "수강생",
-          "text": "https://open.kakao.com/o/sg4Df2Oi 연락주시면 봐드릴게요"
-        },
-        {
-          "date": "2026-10-14",
-          "time": "15:10",
-          "who": "수강생",
-          "text": "https://open.kakao.com/o/sg4Df2Oi 연락주세요"
-        },
-        {
-          "date": "2026-10-13",
-          "time": "22:28",
-          "who": "수강생",
-          "text": "https://open.kakao.com/o/sg4Df2Oi"
-        },
-        {
-          "date": "2026-10-13",
-          "time": "21:09",
-          "who": "수강생",
-          "text": "https://open.kakao.com/o/sg4Df2Oi 안되면 연락주세요"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-10T06:09:06.189Z"
-    },
-    {
-      "id": "b61a7e2853a6",
-      "url": "https://www.youtube.com/watch?v=7vkhoCM67PU",
-      "kind": "youtube",
-      "title": "YouTube Literally Just Changed the Algorithm",
-      "site": "YouTube",
-      "author": "vidIQ",
-      "thumb": "media/r-c00b1739/link_thumbs/b61a7e2853a6.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-21",
-      "last_date": "2026-10-21",
-      "dates": [
-        "2026-10-21"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-21",
-          "time": "13:10",
-          "who": "수강생",
-          "text": "https://youtu.be/7vkhoCM67PU"
-        }
-      ],
-      "fetched_at": "2026-10-21T04:37:42.859Z"
-    },
-    {
-      "id": "4ef7e320ce90",
-      "url": "https://x.com/opencode/status/2111516673953935833](x.com/opencode/status/2111516673953935833",
-      "kind": "web",
-      "site": "x.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-21",
-      "last_date": "2026-10-21",
-      "dates": [
-        "2026-10-21"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-21",
-          "time": "12:17",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-21 오늘 전할 것들은 하나같이 ‘비싼 쪽이 늘 이기는 건 아니다’로 모입니다. 오픈AI가 자기 코드베이스를 직접 정리해 보니 더 싼 모델이 비용 대비 여섯 배를 해냈고, 508기가짜리 최상위 오픈 모델은 250기가로 줄여도 쓸 만한 정확도가 남았습니다. 반대 방향도 있습니다. 편하자고 코딩 에이전트에 맡겨 둔 API 키 하나가 이번 주에 가장 비싼 값을 치르게 만들었습니다. 오늘 소식은 쓰시는 도구에 ‘여기에 이만큼까지 써도 되나’를 한 번 다시 정하시는 데 참고하시면 좋겠어요. 1)…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "67b6633d067f",
-      "url": "https://www.stepsecurity.io/blog/opencode-security-breach](stepsecurity.io/blog/opencode-security-breach",
-      "kind": "web",
-      "site": "stepsecurity.io",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-21",
-      "last_date": "2026-10-21",
-      "dates": [
-        "2026-10-21"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-21",
-          "time": "12:17",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-21 오늘 전할 것들은 하나같이 ‘비싼 쪽이 늘 이기는 건 아니다’로 모입니다. 오픈AI가 자기 코드베이스를 직접 정리해 보니 더 싼 모델이 비용 대비 여섯 배를 해냈고, 508기가짜리 최상위 오픈 모델은 250기가로 줄여도 쓸 만한 정확도가 남았습니다. 반대 방향도 있습니다. 편하자고 코딩 에이전트에 맡겨 둔 API 키 하나가 이번 주에 가장 비싼 값을 치르게 만들었습니다. 오늘 소식은 쓰시는 도구에 ‘여기에 이만큼까지 써도 되나’를 한 번 다시 정하시는 데 참고하시면 좋겠어요. 1)…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "70602fa16a6b",
-      "url": "https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family](developers.openai.com/blog/maintaining-software-with-the-gpt-6-family",
-      "kind": "web",
-      "site": "developers.openai.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-21",
-      "last_date": "2026-10-21",
-      "dates": [
-        "2026-10-21"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-21",
-          "time": "12:17",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-21 오늘 전할 것들은 하나같이 ‘비싼 쪽이 늘 이기는 건 아니다’로 모입니다. 오픈AI가 자기 코드베이스를 직접 정리해 보니 더 싼 모델이 비용 대비 여섯 배를 해냈고, 508기가짜리 최상위 오픈 모델은 250기가로 줄여도 쓸 만한 정확도가 남았습니다. 반대 방향도 있습니다. 편하자고 코딩 에이전트에 맡겨 둔 API 키 하나가 이번 주에 가장 비싼 값을 치르게 만들었습니다. 오늘 소식은 쓰시는 도구에 ‘여기에 이만큼까지 써도 되나’를 한 번 다시 정하시는 데 참고하시면 좋겠어요. 1)…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "b83416219a23",
-      "url": "https://github.blog/changelog/2026-10-20-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4/](github.blog/changelog/2026-10-20-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4",
-      "kind": "web",
-      "site": "github.blog",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-21",
-      "last_date": "2026-10-21",
-      "dates": [
-        "2026-10-21"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-21",
-          "time": "12:17",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-21 오늘 전할 것들은 하나같이 ‘비싼 쪽이 늘 이기는 건 아니다’로 모입니다. 오픈AI가 자기 코드베이스를 직접 정리해 보니 더 싼 모델이 비용 대비 여섯 배를 해냈고, 508기가짜리 최상위 오픈 모델은 250기가로 줄여도 쓸 만한 정확도가 남았습니다. 반대 방향도 있습니다. 편하자고 코딩 에이전트에 맡겨 둔 API 키 하나가 이번 주에 가장 비싼 값을 치르게 만들었습니다. 오늘 소식은 쓰시는 도구에 ‘여기에 이만큼까지 써도 되나’를 한 번 다시 정하시는 데 참고하시면 좋겠어요. 1)…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "cee82a74afc3",
-      "url": "https://github.com/CodebuffAI/freebuff](github.com/CodebuffAI/freebuff",
-      "kind": "web",
-      "site": "github.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-21",
-      "last_date": "2026-10-21",
-      "dates": [
-        "2026-10-21"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-21",
-          "time": "12:17",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-21 오늘 전할 것들은 하나같이 ‘비싼 쪽이 늘 이기는 건 아니다’로 모입니다. 오픈AI가 자기 코드베이스를 직접 정리해 보니 더 싼 모델이 비용 대비 여섯 배를 해냈고, 508기가짜리 최상위 오픈 모델은 250기가로 줄여도 쓸 만한 정확도가 남았습니다. 반대 방향도 있습니다. 편하자고 코딩 에이전트에 맡겨 둔 API 키 하나가 이번 주에 가장 비싼 값을 치르게 만들었습니다. 오늘 소식은 쓰시는 도구에 ‘여기에 이만큼까지 써도 되나’를 한 번 다시 정하시는 데 참고하시면 좋겠어요. 1)…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "f0921107fdbf",
-      "url": "https://unsloth.ai/docs/models/deepseek-v4.1-flash](unsloth.ai/docs/models/deepseek-v4.1-flash",
-      "kind": "web",
-      "site": "unsloth.ai",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-21",
-      "last_date": "2026-10-21",
-      "dates": [
-        "2026-10-21"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-21",
-          "time": "12:17",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-21 오늘 전할 것들은 하나같이 ‘비싼 쪽이 늘 이기는 건 아니다’로 모입니다. 오픈AI가 자기 코드베이스를 직접 정리해 보니 더 싼 모델이 비용 대비 여섯 배를 해냈고, 508기가짜리 최상위 오픈 모델은 250기가로 줄여도 쓸 만한 정확도가 남았습니다. 반대 방향도 있습니다. 편하자고 코딩 에이전트에 맡겨 둔 API 키 하나가 이번 주에 가장 비싼 값을 치르게 만들었습니다. 오늘 소식은 쓰시는 도구에 ‘여기에 이만큼까지 써도 되나’를 한 번 다시 정하시는 데 참고하시면 좋겠어요. 1)…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "06d4af041bf8",
-      "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability](github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
-      "kind": "web",
-      "site": "github.blog",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-20",
-      "last_date": "2026-10-20",
-      "dates": [
-        "2026-10-20"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-20",
-          "time": "09:56",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-20 오늘 전할 것들은 하나같이 '에이전트를 얼마나 깊이 파게 둘 것인가'를 사람이 손잡이로 쥐는 이야기입니다. 리뷰 깊이를 세 단계 중에서 고르고, 예전 모델한테 통하던 지시문을 덜어내고, 보안 알림 스물다섯 개를 한 묶음으로 넘깁니다. 더 똑똑해졌다는 자랑이 아니라, 어디까지 맡기고 어디서 멈출지를 설정 화면으로 끌어내린 변화입니다. 오늘 소식은 쓰고 계신 도구에서 '깊이'와 '경계'를 어디에 둘지 정하시는 데 참고하시면 좋겠어요. 소식 1 코드 리뷰를 얼마나 깊게 할지, 이제 골라서…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "4288605e47d8",
-      "url": "https://code.claude.com/docs/en/changelog](code.claude.com/docs/en/changelog",
-      "kind": "web",
-      "site": "code.claude.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-20",
-      "last_date": "2026-10-20",
-      "dates": [
-        "2026-10-20"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-20",
-          "time": "09:56",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-20 오늘 전할 것들은 하나같이 '에이전트를 얼마나 깊이 파게 둘 것인가'를 사람이 손잡이로 쥐는 이야기입니다. 리뷰 깊이를 세 단계 중에서 고르고, 예전 모델한테 통하던 지시문을 덜어내고, 보안 알림 스물다섯 개를 한 묶음으로 넘깁니다. 더 똑똑해졌다는 자랑이 아니라, 어디까지 맡기고 어디서 멈출지를 설정 화면으로 끌어내린 변화입니다. 오늘 소식은 쓰고 계신 도구에서 '깊이'와 '경계'를 어디에 둘지 정하시는 데 참고하시면 좋겠어요. 소식 1 코드 리뷰를 얼마나 깊게 할지, 이제 골라서…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "79a0600f0d94",
-      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes](help.openai.com/en/articles/6825453-chatgpt-release-notes",
-      "kind": "web",
-      "site": "help.openai.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-20",
-      "last_date": "2026-10-20",
-      "dates": [
-        "2026-10-20"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-20",
-          "time": "09:56",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-20 오늘 전할 것들은 하나같이 '에이전트를 얼마나 깊이 파게 둘 것인가'를 사람이 손잡이로 쥐는 이야기입니다. 리뷰 깊이를 세 단계 중에서 고르고, 예전 모델한테 통하던 지시문을 덜어내고, 보안 알림 스물다섯 개를 한 묶음으로 넘깁니다. 더 똑똑해졌다는 자랑이 아니라, 어디까지 맡기고 어디서 멈출지를 설정 화면으로 끌어내린 변화입니다. 오늘 소식은 쓰고 계신 도구에서 '깊이'와 '경계'를 어디에 둘지 정하시는 데 참고하시면 좋겠어요. 소식 1 코드 리뷰를 얼마나 깊게 할지, 이제 골라서…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "a5817deabf26",
-      "url": "https://code.visualstudio.com/updates](code.visualstudio.com/updates",
-      "kind": "web",
-      "site": "code.visualstudio.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-20",
-      "last_date": "2026-10-20",
-      "dates": [
-        "2026-10-20"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-20",
-          "time": "09:56",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-20 오늘 전할 것들은 하나같이 '에이전트를 얼마나 깊이 파게 둘 것인가'를 사람이 손잡이로 쥐는 이야기입니다. 리뷰 깊이를 세 단계 중에서 고르고, 예전 모델한테 통하던 지시문을 덜어내고, 보안 알림 스물다섯 개를 한 묶음으로 넘깁니다. 더 똑똑해졌다는 자랑이 아니라, 어디까지 맡기고 어디서 멈출지를 설정 화면으로 끌어내린 변화입니다. 오늘 소식은 쓰고 계신 도구에서 '깊이'와 '경계'를 어디에 둘지 정하시는 데 참고하시면 좋겠어요. 소식 1 코드 리뷰를 얼마나 깊게 할지, 이제 골라서…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
-    },
-    {
-      "id": "a9da5989f3f3",
-      "url": "https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra](developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra",
-      "kind": "web",
-      "site": "developers.openai.com",
-      "reachable": false,
-      "private": false,
-      "first_date": "2026-10-20",
-      "last_date": "2026-10-20",
-      "dates": [
-        "2026-10-20"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-20",
-          "time": "09:56",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-20 오늘 전할 것들은 하나같이 '에이전트를 얼마나 깊이 파게 둘 것인가'를 사람이 손잡이로 쥐는 이야기입니다. 리뷰 깊이를 세 단계 중에서 고르고, 예전 모델한테 통하던 지시문을 덜어내고, 보안 알림 스물다섯 개를 한 묶음으로 넘깁니다. 더 똑똑해졌다는 자랑이 아니라, 어디까지 맡기고 어디서 멈출지를 설정 화면으로 끌어내린 변화입니다. 오늘 소식은 쓰고 계신 도구에서 '깊이'와 '경계'를 어디에 둘지 정하시는 데 참고하시면 좋겠어요. 소식 1 코드 리뷰를 얼마나 깊게 할지, 이제 골라서…"
-        }
-      ],
-      "fetched_at": "2026-11-24T07:43:22.656Z"
     },
     {
       "id": "32e434b2cb79",
@@ -3236,41 +1185,8 @@
         "2026-10-18"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-18",
-          "time": "10:18",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-18 오늘 전할 것들은 하나같이 ‘기다리는 줄을 몇 개로 늘릴 것인가’에 관한 이야기입니다. 챗GPT Pro는 한 작업을 여러 에이전트에 쪼개고, 코덱스는 읽기만 하는 도구를 한꺼번에 돌리고, 커서는 결과를 읽는 대신 보게 만듭니다. 공짜로 줄 하나를 더 얻을 수 있는 곳도 오늘 열려 있는데, 끝나는 날은 적혀 있지 않습니다. 오늘 소식은 긴 작업을 통째로 던지던 습관을 쪼갤 수 있는 단위로 나누는 데 참고하시면 좋겠어요. 1) 챗GPT Pro가 한 작업을 여러 에이전트에 쪼개 동시에 돌…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-18T03:27:24.515Z"
-    },
-    {
-      "id": "3930e8dede76",
-      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-      "kind": "web",
-      "title": "ChatGPT release notes | OpenAI Help Center",
-      "site": "OpenAI Help Center",
-      "description": "Review the latest updates and release notes for ChatGPT.",
-      "thumb": "media/r-c00b1739/link_thumbs/3930e8dede76.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-18",
-      "last_date": "2026-10-18",
-      "dates": [
-        "2026-10-18"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-18",
-          "time": "10:18",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-18 오늘 전할 것들은 하나같이 ‘기다리는 줄을 몇 개로 늘릴 것인가’에 관한 이야기입니다. 챗GPT Pro는 한 작업을 여러 에이전트에 쪼개고, 코덱스는 읽기만 하는 도구를 한꺼번에 돌리고, 커서는 결과를 읽는 대신 보게 만듭니다. 공짜로 줄 하나를 더 얻을 수 있는 곳도 오늘 열려 있는데, 끝나는 날은 적혀 있지 않습니다. 오늘 소식은 긴 작업을 통째로 던지던 습관을 쪼갤 수 있는 단위로 나누는 데 참고하시면 좋겠어요. 1) 챗GPT Pro가 한 작업을 여러 에이전트에 쪼개 동시에 돌…"
-        }
-      ],
-      "fetched_at": "2026-11-21T09:37:29.872Z"
     },
     {
       "id": "80fff3a90d51",
@@ -3288,14 +1204,7 @@
         "2026-10-18"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-18",
-          "time": "10:18",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-18 오늘 전할 것들은 하나같이 ‘기다리는 줄을 몇 개로 늘릴 것인가’에 관한 이야기입니다. 챗GPT Pro는 한 작업을 여러 에이전트에 쪼개고, 코덱스는 읽기만 하는 도구를 한꺼번에 돌리고, 커서는 결과를 읽는 대신 보게 만듭니다. 공짜로 줄 하나를 더 얻을 수 있는 곳도 오늘 열려 있는데, 끝나는 날은 적혀 있지 않습니다. 오늘 소식은 긴 작업을 통째로 던지던 습관을 쪼갤 수 있는 단위로 나누는 데 참고하시면 좋겠어요. 1) 챗GPT Pro가 한 작업을 여러 에이전트에 쪼개 동시에 돌…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-18T03:27:24.515Z"
     },
     {
@@ -3314,20 +1223,7 @@
         "2026-10-18"
       ],
       "mention_count": 2,
-      "contexts": [
-        {
-          "date": "2026-10-18",
-          "time": "10:18",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-18 오늘 전할 것들은 하나같이 ‘기다리는 줄을 몇 개로 늘릴 것인가’에 관한 이야기입니다. 챗GPT Pro는 한 작업을 여러 에이전트에 쪼개고, 코덱스는 읽기만 하는 도구를 한꺼번에 돌리고, 커서는 결과를 읽는 대신 보게 만듭니다. 공짜로 줄 하나를 더 얻을 수 있는 곳도 오늘 열려 있는데, 끝나는 날은 적혀 있지 않습니다. 오늘 소식은 긴 작업을 통째로 던지던 습관을 쪼갤 수 있는 단위로 나누는 데 참고하시면 좋겠어요. 1) 챗GPT Pro가 한 작업을 여러 에이전트에 쪼개 동시에 돌…"
-        },
-        {
-          "date": "2026-10-14",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-14 오늘 전할 것들은 하나같이 에이전트가 늘어난 다음 그 아래에서 조용히 바뀌는 것들입니다. 소스 컨트롤이 갈려 나가고, 키가 새는 걸 막는 기본값이 켜지고, 요금은 토큰 구간으로 갈리고, 이름도 밝히지 않은 모델이 공짜로 풀립니다. 오늘 소식은 에이전트를 하나 더 늘리기 전에 '그래서 내 쪽에서 먼저 막히는 게 무엇인지'를 한 번 짚어 보시는 데 참고하시면 좋겠어요. 1) 아스트라는 세게 돌릴수록 좋아지는 게 아니에요 오픈AI 공식 모델 문서에 적힌 GPT-6 아스트라(Astra) 제…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-14T00:30:45.593Z"
     },
     {
@@ -3346,14 +1242,7 @@
         "2026-10-18"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-18",
-          "time": "10:18",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-18 오늘 전할 것들은 하나같이 ‘기다리는 줄을 몇 개로 늘릴 것인가’에 관한 이야기입니다. 챗GPT Pro는 한 작업을 여러 에이전트에 쪼개고, 코덱스는 읽기만 하는 도구를 한꺼번에 돌리고, 커서는 결과를 읽는 대신 보게 만듭니다. 공짜로 줄 하나를 더 얻을 수 있는 곳도 오늘 열려 있는데, 끝나는 날은 적혀 있지 않습니다. 오늘 소식은 긴 작업을 통째로 던지던 습관을 쪼갤 수 있는 단위로 나누는 데 참고하시면 좋겠어요. 1) 챗GPT Pro가 한 작업을 여러 에이전트에 쪼개 동시에 돌…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-18T03:27:24.515Z"
     },
     {
@@ -3372,14 +1261,7 @@
         "2026-10-18"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-18",
-          "time": "10:18",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-18 오늘 전할 것들은 하나같이 ‘기다리는 줄을 몇 개로 늘릴 것인가’에 관한 이야기입니다. 챗GPT Pro는 한 작업을 여러 에이전트에 쪼개고, 코덱스는 읽기만 하는 도구를 한꺼번에 돌리고, 커서는 결과를 읽는 대신 보게 만듭니다. 공짜로 줄 하나를 더 얻을 수 있는 곳도 오늘 열려 있는데, 끝나는 날은 적혀 있지 않습니다. 오늘 소식은 긴 작업을 통째로 던지던 습관을 쪼갤 수 있는 단위로 나누는 데 참고하시면 좋겠어요. 1) 챗GPT Pro가 한 작업을 여러 에이전트에 쪼개 동시에 돌…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-18T03:27:24.515Z"
     },
     {
@@ -3399,20 +1281,7 @@
         "2026-10-18"
       ],
       "mention_count": 2,
-      "contexts": [
-        {
-          "date": "2026-10-18",
-          "time": "10:18",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-18 오늘 전할 것들은 하나같이 ‘기다리는 줄을 몇 개로 늘릴 것인가’에 관한 이야기입니다. 챗GPT Pro는 한 작업을 여러 에이전트에 쪼개고, 코덱스는 읽기만 하는 도구를 한꺼번에 돌리고, 커서는 결과를 읽는 대신 보게 만듭니다. 공짜로 줄 하나를 더 얻을 수 있는 곳도 오늘 열려 있는데, 끝나는 날은 적혀 있지 않습니다. 오늘 소식은 긴 작업을 통째로 던지던 습관을 쪼갤 수 있는 단위로 나누는 데 참고하시면 좋겠어요. 1) 챗GPT Pro가 한 작업을 여러 에이전트에 쪼개 동시에 돌…"
-        },
-        {
-          "date": "2026-10-15",
-          "time": "10:40",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-15 오늘 전할 것들은 하나같이 날짜가 적혀 있는 것들입니다. 할인 가격은 11월 30일까지고, 쓰던 모델은 어제 정오에 끊겼고, 제 대화는 54분을 넘기면 알아서 압축되고, 개인 앱은 아직 일부 나라에서만 열립니다. 오늘 소식은 새로 열린 것 하나를 쓰실 때 '이게 언제까지인지'를 한 번 더 확인하시는 데 참고하시면 좋겠어요. 1) 제미나이 4 아르곤이 드디어 아무나 쓸 수 있게 열렸어요 9월 30일에 '구글 최강 모델'로 발표됐지만, 그동안은 구글 자체 설명대로 페어윈드 프로그램의 검…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-15T02:00:56.433Z"
     },
     {
@@ -3430,38 +1299,8 @@
         "2026-10-16"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-16",
-          "time": "10:36",
-          "who": "수강생",
-          "text": "[롱폼 자동화 프로그램 설치 안내] 반포자이가즈아 아래 링크에서 설치 파일을 받으실 수 있고, 설치 방법도 단계별로 자세히 정리해 두었습니다. 👉 https://gazua.banpo.workers.dev/download ■ 설치가 안 되시나요? 아래 3가지를 메일로 보내 주시면 확인 후 도와드리겠습니다. 1. 막힌 화면 사진 - 휴대폰으로 모니터를 찍어 주셔도 괜찮습니다. 2. 어느 단계에서 막혔는지 ① 다운로드가 안 됨 ② 받은 파일을 눌러도 아무 반응이 없음 ③ 파란색 경고창이 뜸 ④ 설치 도중 멈춤 ⑤ 설치는 됐는데 앱이 실…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-16T02:12:53.960Z"
-    },
-    {
-      "id": "1ee2a5fdfc54",
-      "url": "https://dev.meta.ai/install.sh",
-      "kind": "web",
-      "site": "dev.meta.ai",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-16",
-      "last_date": "2026-10-16",
-      "dates": [
-        "2026-10-16"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-16",
-          "time": "09:42",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-16 오늘 전할 것들은 하나같이 '여러 개를 묶는 쪽'과 '묶인 것을 하나씩 고정해 두는 쪽'으로 갈립니다. 하이드라퓨전은 모델 네 개를 묶어 답 하나를 내고, 뮤즈 코드는 모델과 에이전트를 한 구독에 묶고, 리플릿은 프로젝트 여러 개를 채팅 하나에 묶습니다. 반대로 액션 락파일은 의존성을 커밋 하나에 못 박고, 클로드 코드는 무인 모드가 하염없이 기다리지 않도록 상한을 박습니다. 오늘 소식은 새로 묶인 것 하나를 쓰실 때 '그 안에서 무엇이 고정돼 있고 무엇이 그날그날 달라지는지'를 한…"
-        }
-      ],
-      "fetched_at": "2026-10-16T01:06:28.788Z"
     },
     {
       "id": "3d68ad8e1324",
@@ -3481,26 +1320,7 @@
         "2026-10-16"
       ],
       "mention_count": 3,
-      "contexts": [
-        {
-          "date": "2026-10-16",
-          "time": "09:42",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-16 오늘 전할 것들은 하나같이 '여러 개를 묶는 쪽'과 '묶인 것을 하나씩 고정해 두는 쪽'으로 갈립니다. 하이드라퓨전은 모델 네 개를 묶어 답 하나를 내고, 뮤즈 코드는 모델과 에이전트를 한 구독에 묶고, 리플릿은 프로젝트 여러 개를 채팅 하나에 묶습니다. 반대로 액션 락파일은 의존성을 커밋 하나에 못 박고, 클로드 코드는 무인 모드가 하염없이 기다리지 않도록 상한을 박습니다. 오늘 소식은 새로 묶인 것 하나를 쓰실 때 '그 안에서 무엇이 고정돼 있고 무엇이 그날그날 달라지는지'를 한…"
-        },
-        {
-          "date": "2026-10-15",
-          "time": "10:40",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-15 오늘 전할 것들은 하나같이 날짜가 적혀 있는 것들입니다. 할인 가격은 11월 30일까지고, 쓰던 모델은 어제 정오에 끊겼고, 제 대화는 54분을 넘기면 알아서 압축되고, 개인 앱은 아직 일부 나라에서만 열립니다. 오늘 소식은 새로 열린 것 하나를 쓰실 때 '이게 언제까지인지'를 한 번 더 확인하시는 데 참고하시면 좋겠어요. 1) 제미나이 4 아르곤이 드디어 아무나 쓸 수 있게 열렸어요 9월 30일에 '구글 최강 모델'로 발표됐지만, 그동안은 구글 자체 설명대로 페어윈드 프로그램의 검…"
-        },
-        {
-          "date": "2026-10-13",
-          "time": "11:57",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-13 오늘 전할 것들은 하나같이 '누가 한 일로 남고, 어디까지 허락됐나'에 관한 이야기입니다. 모델이 허락한 선을 넘는 비율은 안전장치를 걷어낸 상태에서 재어 공개됐고, 커밋에 적힌 이름은 원래 누구나 바꿀 수 있던 문자열이었고, 취약점 리포트는 사람 검토를 건너뛰고 나가고, 할인은 내일 끝납니다. 오늘 소식은 에이전트에 권한을 하나 더 주기 전에 '이 일이 누가 한 것으로 남고, 누가 멈출 수 있는지'를 먼저 확인하시는 데 참고하시면 좋겠어요. 1) 아스트라가 '허락한 선'을 넘는 비…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-13T03:11:01.285Z"
     },
     {
@@ -3519,14 +1339,7 @@
         "2026-10-16"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-16",
-          "time": "09:42",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-16 오늘 전할 것들은 하나같이 '여러 개를 묶는 쪽'과 '묶인 것을 하나씩 고정해 두는 쪽'으로 갈립니다. 하이드라퓨전은 모델 네 개를 묶어 답 하나를 내고, 뮤즈 코드는 모델과 에이전트를 한 구독에 묶고, 리플릿은 프로젝트 여러 개를 채팅 하나에 묶습니다. 반대로 액션 락파일은 의존성을 커밋 하나에 못 박고, 클로드 코드는 무인 모드가 하염없이 기다리지 않도록 상한을 박습니다. 오늘 소식은 새로 묶인 것 하나를 쓰실 때 '그 안에서 무엇이 고정돼 있고 무엇이 그날그날 달라지는지'를 한…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-16T01:06:28.788Z"
     },
     {
@@ -3545,14 +1358,7 @@
         "2026-10-16"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-16",
-          "time": "09:42",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-16 오늘 전할 것들은 하나같이 '여러 개를 묶는 쪽'과 '묶인 것을 하나씩 고정해 두는 쪽'으로 갈립니다. 하이드라퓨전은 모델 네 개를 묶어 답 하나를 내고, 뮤즈 코드는 모델과 에이전트를 한 구독에 묶고, 리플릿은 프로젝트 여러 개를 채팅 하나에 묶습니다. 반대로 액션 락파일은 의존성을 커밋 하나에 못 박고, 클로드 코드는 무인 모드가 하염없이 기다리지 않도록 상한을 박습니다. 오늘 소식은 새로 묶인 것 하나를 쓰실 때 '그 안에서 무엇이 고정돼 있고 무엇이 그날그날 달라지는지'를 한…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-16T01:06:28.788Z"
     },
     {
@@ -3571,14 +1377,7 @@
         "2026-10-16"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-16",
-          "time": "09:42",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-16 오늘 전할 것들은 하나같이 '여러 개를 묶는 쪽'과 '묶인 것을 하나씩 고정해 두는 쪽'으로 갈립니다. 하이드라퓨전은 모델 네 개를 묶어 답 하나를 내고, 뮤즈 코드는 모델과 에이전트를 한 구독에 묶고, 리플릿은 프로젝트 여러 개를 채팅 하나에 묶습니다. 반대로 액션 락파일은 의존성을 커밋 하나에 못 박고, 클로드 코드는 무인 모드가 하염없이 기다리지 않도록 상한을 박습니다. 오늘 소식은 새로 묶인 것 하나를 쓰실 때 '그 안에서 무엇이 고정돼 있고 무엇이 그날그날 달라지는지'를 한…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-16T01:06:28.788Z"
     },
     {
@@ -3597,14 +1396,7 @@
         "2026-10-16"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-16",
-          "time": "09:42",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-16 오늘 전할 것들은 하나같이 '여러 개를 묶는 쪽'과 '묶인 것을 하나씩 고정해 두는 쪽'으로 갈립니다. 하이드라퓨전은 모델 네 개를 묶어 답 하나를 내고, 뮤즈 코드는 모델과 에이전트를 한 구독에 묶고, 리플릿은 프로젝트 여러 개를 채팅 하나에 묶습니다. 반대로 액션 락파일은 의존성을 커밋 하나에 못 박고, 클로드 코드는 무인 모드가 하염없이 기다리지 않도록 상한을 박습니다. 오늘 소식은 새로 묶인 것 하나를 쓰실 때 '그 안에서 무엇이 고정돼 있고 무엇이 그날그날 달라지는지'를 한…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-16T01:06:28.788Z"
     },
     {
@@ -3623,14 +1415,7 @@
         "2026-10-16"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-16",
-          "time": "09:42",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-16 오늘 전할 것들은 하나같이 '여러 개를 묶는 쪽'과 '묶인 것을 하나씩 고정해 두는 쪽'으로 갈립니다. 하이드라퓨전은 모델 네 개를 묶어 답 하나를 내고, 뮤즈 코드는 모델과 에이전트를 한 구독에 묶고, 리플릿은 프로젝트 여러 개를 채팅 하나에 묶습니다. 반대로 액션 락파일은 의존성을 커밋 하나에 못 박고, 클로드 코드는 무인 모드가 하염없이 기다리지 않도록 상한을 박습니다. 오늘 소식은 새로 묶인 것 하나를 쓰실 때 '그 안에서 무엇이 고정돼 있고 무엇이 그날그날 달라지는지'를 한…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-16T01:06:28.788Z"
     },
     {
@@ -3649,14 +1434,7 @@
         "2026-10-15"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-15",
-          "time": "10:40",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-15 오늘 전할 것들은 하나같이 날짜가 적혀 있는 것들입니다. 할인 가격은 11월 30일까지고, 쓰던 모델은 어제 정오에 끊겼고, 제 대화는 54분을 넘기면 알아서 압축되고, 개인 앱은 아직 일부 나라에서만 열립니다. 오늘 소식은 새로 열린 것 하나를 쓰실 때 '이게 언제까지인지'를 한 번 더 확인하시는 데 참고하시면 좋겠어요. 1) 제미나이 4 아르곤이 드디어 아무나 쓸 수 있게 열렸어요 9월 30일에 '구글 최강 모델'로 발표됐지만, 그동안은 구글 자체 설명대로 페어윈드 프로그램의 검…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-15T02:00:56.433Z"
     },
     {
@@ -3675,14 +1453,7 @@
         "2026-10-15"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-15",
-          "time": "10:40",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-15 오늘 전할 것들은 하나같이 날짜가 적혀 있는 것들입니다. 할인 가격은 11월 30일까지고, 쓰던 모델은 어제 정오에 끊겼고, 제 대화는 54분을 넘기면 알아서 압축되고, 개인 앱은 아직 일부 나라에서만 열립니다. 오늘 소식은 새로 열린 것 하나를 쓰실 때 '이게 언제까지인지'를 한 번 더 확인하시는 데 참고하시면 좋겠어요. 1) 제미나이 4 아르곤이 드디어 아무나 쓸 수 있게 열렸어요 9월 30일에 '구글 최강 모델'로 발표됐지만, 그동안은 구글 자체 설명대로 페어윈드 프로그램의 검…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-15T02:00:56.433Z"
     },
     {
@@ -3701,14 +1472,7 @@
         "2026-10-15"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-15",
-          "time": "10:40",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-15 오늘 전할 것들은 하나같이 날짜가 적혀 있는 것들입니다. 할인 가격은 11월 30일까지고, 쓰던 모델은 어제 정오에 끊겼고, 제 대화는 54분을 넘기면 알아서 압축되고, 개인 앱은 아직 일부 나라에서만 열립니다. 오늘 소식은 새로 열린 것 하나를 쓰실 때 '이게 언제까지인지'를 한 번 더 확인하시는 데 참고하시면 좋겠어요. 1) 제미나이 4 아르곤이 드디어 아무나 쓸 수 있게 열렸어요 9월 30일에 '구글 최강 모델'로 발표됐지만, 그동안은 구글 자체 설명대로 페어윈드 프로그램의 검…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-15T02:00:56.433Z"
     },
     {
@@ -3727,41 +1491,8 @@
         "2026-10-15"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-15",
-          "time": "10:40",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-15 오늘 전할 것들은 하나같이 날짜가 적혀 있는 것들입니다. 할인 가격은 11월 30일까지고, 쓰던 모델은 어제 정오에 끊겼고, 제 대화는 54분을 넘기면 알아서 압축되고, 개인 앱은 아직 일부 나라에서만 열립니다. 오늘 소식은 새로 열린 것 하나를 쓰실 때 '이게 언제까지인지'를 한 번 더 확인하시는 데 참고하시면 좋겠어요. 1) 제미나이 4 아르곤이 드디어 아무나 쓸 수 있게 열렸어요 9월 30일에 '구글 최강 모델'로 발표됐지만, 그동안은 구글 자체 설명대로 페어윈드 프로그램의 검…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-15T02:00:56.433Z"
-    },
-    {
-      "id": "d279b26fde2d",
-      "url": "https://www.youtube.com/watch?v=NmbTDN7zPBA",
-      "kind": "youtube",
-      "title": "A2O LITE 멤버 9명 총정리",
-      "site": "YouTube",
-      "author": "아이돌옷장",
-      "thumb": "media/r-c00b1739/link_thumbs/d279b26fde2d.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-15",
-      "last_date": "2026-10-15",
-      "dates": [
-        "2026-10-15"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-15",
-          "time": "06:03",
-          "who": "수강생",
-          "text": "https://youtu.be/NmbTDN7zPBA 아스트라 쓴거 같은 트래픽 바로 뽑아먹은 곳 있네요"
-        }
-      ],
-      "fetched_at": "2026-10-14T23:21:36.685Z"
     },
     {
       "id": "876db401a2f7",
@@ -3776,65 +1507,7 @@
         "2026-10-15"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-15",
-          "time": "01:54",
-          "who": "수강생",
-          "text": "https://docs.google.com/spreadsheets/d/1kRWCMOMUinnoO3qhWU-2p7TnEkqczUrh44MyWK19mKA/edit?gid=0#gid=0"
-        }
-      ]
-    },
-    {
-      "id": "d069fc5bee85",
-      "url": "https://open.kakao.com/o/sebaonSi",
-      "kind": "web",
-      "title": "월계리[픽셀링 개발자]",
-      "site": "open.kakao.com",
-      "description": "픽셀링에 대해 문의주세요!",
-      "thumb": "media/r-c00b1739/link_thumbs/d069fc5bee85.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-14",
-      "last_date": "2026-10-14",
-      "dates": [
-        "2026-10-14"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-14",
-          "time": "18:29",
-          "who": "수강생",
-          "text": "https://open.kakao.com/o/sebaonSi"
-        }
-      ],
-      "fetched_at": "2026-10-14T09:59:25.758Z"
-    },
-    {
-      "id": "4d937d0d23b5",
-      "url": "https://help.openai.com/en/articles/20001516-managing-usage-with-gpt-6-astra-in-work-and-codex",
-      "kind": "web",
-      "title": "Managing usage with GPT-6 Astra in Work and Codex | OpenAI Help Center",
-      "site": "OpenAI Help Center",
-      "description": "Understand model choices, usage allowances, and Ultrafast in Work and Codex.",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-14",
-      "last_date": "2026-10-14",
-      "dates": [
-        "2026-10-14"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-14",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-14 오늘 전할 것들은 하나같이 에이전트가 늘어난 다음 그 아래에서 조용히 바뀌는 것들입니다. 소스 컨트롤이 갈려 나가고, 키가 새는 걸 막는 기본값이 켜지고, 요금은 토큰 구간으로 갈리고, 이름도 밝히지 않은 모델이 공짜로 풀립니다. 오늘 소식은 에이전트를 하나 더 늘리기 전에 '그래서 내 쪽에서 먼저 막히는 게 무엇인지'를 한 번 짚어 보시는 데 참고하시면 좋겠어요. 1) 아스트라는 세게 돌릴수록 좋아지는 게 아니에요 오픈AI 공식 모델 문서에 적힌 GPT-6 아스트라(Astra) 제…"
-        }
-      ],
-      "fetched_at": "2026-11-07T01:54:59.253Z"
+      "contexts": []
     },
     {
       "id": "56ee56e48ed2",
@@ -3852,14 +1525,7 @@
         "2026-10-14"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-14",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-14 오늘 전할 것들은 하나같이 에이전트가 늘어난 다음 그 아래에서 조용히 바뀌는 것들입니다. 소스 컨트롤이 갈려 나가고, 키가 새는 걸 막는 기본값이 켜지고, 요금은 토큰 구간으로 갈리고, 이름도 밝히지 않은 모델이 공짜로 풀립니다. 오늘 소식은 에이전트를 하나 더 늘리기 전에 '그래서 내 쪽에서 먼저 막히는 게 무엇인지'를 한 번 짚어 보시는 데 참고하시면 좋겠어요. 1) 아스트라는 세게 돌릴수록 좋아지는 게 아니에요 오픈AI 공식 모델 문서에 적힌 GPT-6 아스트라(Astra) 제…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-14T00:30:45.593Z"
     },
     {
@@ -3877,14 +1543,7 @@
         "2026-10-14"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-14",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-14 오늘 전할 것들은 하나같이 에이전트가 늘어난 다음 그 아래에서 조용히 바뀌는 것들입니다. 소스 컨트롤이 갈려 나가고, 키가 새는 걸 막는 기본값이 켜지고, 요금은 토큰 구간으로 갈리고, 이름도 밝히지 않은 모델이 공짜로 풀립니다. 오늘 소식은 에이전트를 하나 더 늘리기 전에 '그래서 내 쪽에서 먼저 막히는 게 무엇인지'를 한 번 짚어 보시는 데 참고하시면 좋겠어요. 1) 아스트라는 세게 돌릴수록 좋아지는 게 아니에요 오픈AI 공식 모델 문서에 적힌 GPT-6 아스트라(Astra) 제…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-14T00:30:45.593Z"
     },
     {
@@ -3903,14 +1562,7 @@
         "2026-10-14"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-14",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-14 오늘 전할 것들은 하나같이 에이전트가 늘어난 다음 그 아래에서 조용히 바뀌는 것들입니다. 소스 컨트롤이 갈려 나가고, 키가 새는 걸 막는 기본값이 켜지고, 요금은 토큰 구간으로 갈리고, 이름도 밝히지 않은 모델이 공짜로 풀립니다. 오늘 소식은 에이전트를 하나 더 늘리기 전에 '그래서 내 쪽에서 먼저 막히는 게 무엇인지'를 한 번 짚어 보시는 데 참고하시면 좋겠어요. 1) 아스트라는 세게 돌릴수록 좋아지는 게 아니에요 오픈AI 공식 모델 문서에 적힌 GPT-6 아스트라(Astra) 제…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-14T00:30:45.593Z"
     },
     {
@@ -3929,14 +1581,7 @@
         "2026-10-14"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-14",
-          "time": "09:19",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-14 오늘 전할 것들은 하나같이 에이전트가 늘어난 다음 그 아래에서 조용히 바뀌는 것들입니다. 소스 컨트롤이 갈려 나가고, 키가 새는 걸 막는 기본값이 켜지고, 요금은 토큰 구간으로 갈리고, 이름도 밝히지 않은 모델이 공짜로 풀립니다. 오늘 소식은 에이전트를 하나 더 늘리기 전에 '그래서 내 쪽에서 먼저 막히는 게 무엇인지'를 한 번 짚어 보시는 데 참고하시면 좋겠어요. 1) 아스트라는 세게 돌릴수록 좋아지는 게 아니에요 오픈AI 공식 모델 문서에 적힌 GPT-6 아스트라(Astra) 제…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-14T00:30:45.593Z"
     },
     {
@@ -3952,14 +1597,7 @@
         "2026-10-14"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-14",
-          "time": "09:13",
-          "who": "수강생",
-          "text": "크롬웹스토어에서 그랩잇 - 구글확장프로그램 깔고 https://chromewebstore.google.com/detail/grabbit/madmdgpjgagdmmmiddpiggdnpgjglcdk?hl=ko 크롬창확장프로그램에서 항상보기 표시하고 콘트롤 누른채 + 마우스 우클릭하고 제목이 포함되게 드래그하면 수업중에 선생님들께서 보여주시는 박스생성되면서 그안에 연결된 링크가 복사됩니다. 혹시 아직 모르시는분들 초보분들 위하여 남김니다. 저는 우클릭이라고 써놓고 좌클릭해서 안됬습니다. 바보같져?ㅋ"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-14T00:30:45.593Z"
     },
     {
@@ -3978,14 +1616,7 @@
         "2026-10-13"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-13",
-          "time": "19:07",
-          "who": "수강생",
-          "text": "https://www.anthropic.com/news/2026-usage-policy-update"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-13T10:11:18.183Z"
     },
     {
@@ -4003,14 +1634,7 @@
         "2026-10-13"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-13",
-          "time": "15:47",
-          "who": "수강생",
-          "text": "Codex 리셋 전광판 | 한국시간 예정 공지 - https://tali.kr/codex-reset 이거 남은시간에 거의 근접ㅋㅋ"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-13T06:53:02.163Z"
     },
     {
@@ -4030,20 +1654,7 @@
         "2026-10-13"
       ],
       "mention_count": 2,
-      "contexts": [
-        {
-          "date": "2026-10-13",
-          "time": "12:46",
-          "who": "수강생",
-          "text": "https://codex-resets.com/ko 아스트라 리셋하는 정보 나오는 사이트 입니다. 이거 참고하면 효율이 좋아서 공유 드려봅니다."
-        },
-        {
-          "date": "2026-10-11",
-          "time": "17:11",
-          "who": "수강생",
-          "text": "https://codex-resets.com/ko"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-11T09:54:44.791Z"
     },
     {
@@ -4062,14 +1673,7 @@
         "2026-10-13"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-13",
-          "time": "11:57",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-13 오늘 전할 것들은 하나같이 '누가 한 일로 남고, 어디까지 허락됐나'에 관한 이야기입니다. 모델이 허락한 선을 넘는 비율은 안전장치를 걷어낸 상태에서 재어 공개됐고, 커밋에 적힌 이름은 원래 누구나 바꿀 수 있던 문자열이었고, 취약점 리포트는 사람 검토를 건너뛰고 나가고, 할인은 내일 끝납니다. 오늘 소식은 에이전트에 권한을 하나 더 주기 전에 '이 일이 누가 한 것으로 남고, 누가 멈출 수 있는지'를 먼저 확인하시는 데 참고하시면 좋겠어요. 1) 아스트라가 '허락한 선'을 넘는 비…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-13T03:11:01.285Z"
     },
     {
@@ -4088,14 +1692,7 @@
         "2026-10-13"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-13",
-          "time": "11:57",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-13 오늘 전할 것들은 하나같이 '누가 한 일로 남고, 어디까지 허락됐나'에 관한 이야기입니다. 모델이 허락한 선을 넘는 비율은 안전장치를 걷어낸 상태에서 재어 공개됐고, 커밋에 적힌 이름은 원래 누구나 바꿀 수 있던 문자열이었고, 취약점 리포트는 사람 검토를 건너뛰고 나가고, 할인은 내일 끝납니다. 오늘 소식은 에이전트에 권한을 하나 더 주기 전에 '이 일이 누가 한 것으로 남고, 누가 멈출 수 있는지'를 먼저 확인하시는 데 참고하시면 좋겠어요. 1) 아스트라가 '허락한 선'을 넘는 비…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-13T03:11:01.285Z"
     },
     {
@@ -4114,14 +1711,7 @@
         "2026-10-13"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-13",
-          "time": "11:57",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-13 오늘 전할 것들은 하나같이 '누가 한 일로 남고, 어디까지 허락됐나'에 관한 이야기입니다. 모델이 허락한 선을 넘는 비율은 안전장치를 걷어낸 상태에서 재어 공개됐고, 커밋에 적힌 이름은 원래 누구나 바꿀 수 있던 문자열이었고, 취약점 리포트는 사람 검토를 건너뛰고 나가고, 할인은 내일 끝납니다. 오늘 소식은 에이전트에 권한을 하나 더 주기 전에 '이 일이 누가 한 것으로 남고, 누가 멈출 수 있는지'를 먼저 확인하시는 데 참고하시면 좋겠어요. 1) 아스트라가 '허락한 선'을 넘는 비…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-13T03:11:01.285Z"
     },
     {
@@ -4140,14 +1730,7 @@
         "2026-10-13"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-13",
-          "time": "11:57",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-13 오늘 전할 것들은 하나같이 '누가 한 일로 남고, 어디까지 허락됐나'에 관한 이야기입니다. 모델이 허락한 선을 넘는 비율은 안전장치를 걷어낸 상태에서 재어 공개됐고, 커밋에 적힌 이름은 원래 누구나 바꿀 수 있던 문자열이었고, 취약점 리포트는 사람 검토를 건너뛰고 나가고, 할인은 내일 끝납니다. 오늘 소식은 에이전트에 권한을 하나 더 주기 전에 '이 일이 누가 한 것으로 남고, 누가 멈출 수 있는지'를 먼저 확인하시는 데 참고하시면 좋겠어요. 1) 아스트라가 '허락한 선'을 넘는 비…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-13T03:11:01.285Z"
     },
     {
@@ -4166,67 +1749,8 @@
         "2026-10-13"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-13",
-          "time": "11:57",
-          "who": "수강생",
-          "text": "[콘자💙] 오늘의 AI 소식 2026-10-13 오늘 전할 것들은 하나같이 '누가 한 일로 남고, 어디까지 허락됐나'에 관한 이야기입니다. 모델이 허락한 선을 넘는 비율은 안전장치를 걷어낸 상태에서 재어 공개됐고, 커밋에 적힌 이름은 원래 누구나 바꿀 수 있던 문자열이었고, 취약점 리포트는 사람 검토를 건너뛰고 나가고, 할인은 내일 끝납니다. 오늘 소식은 에이전트에 권한을 하나 더 주기 전에 '이 일이 누가 한 것으로 남고, 누가 멈출 수 있는지'를 먼저 확인하시는 데 참고하시면 좋겠어요. 1) 아스트라가 '허락한 선'을 넘는 비…"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-13T03:11:01.285Z"
-    },
-    {
-      "id": "070db043d621",
-      "url": "https://www.youtube.com/watch?v=wRnynmZ7fbs",
-      "kind": "youtube",
-      "title": "의사가 만들어 떼돈 번 제품 정체",
-      "site": "YouTube",
-      "author": "숏핑",
-      "thumb": "media/r-c00b1739/link_thumbs/070db043d621.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-12",
-      "last_date": "2026-10-12",
-      "dates": [
-        "2026-10-12"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-12",
-          "time": "16:00",
-          "who": "수강생",
-          "text": "여러분 혼담구란 무엇일까요? 1. https://youtube.com/shorts/bMhPDeHPIws ->(인물) 파인다이밍 쉐프 + 메추리알 요리 (상황) 2. https://www.youtube.com/shorts/wRnynmZ7fbs -> (인물) 의사 + 파고드는 발톱 (상황) 이제 쇼츠볼때 혼담구를 찾아보세요!"
-        }
-      ],
-      "fetched_at": "2026-10-12T07:13:48.423Z"
-    },
-    {
-      "id": "7d88938ae9ff",
-      "url": "https://www.youtube.com/watch?v=bMhPDeHPIws",
-      "kind": "youtube",
-      "title": "파인 다이닝 셰프가 해주는 메추리알 요리",
-      "site": "YouTube",
-      "author": "웃참 금지구역",
-      "thumb": "media/r-c00b1739/link_thumbs/7d88938ae9ff.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-12",
-      "last_date": "2026-10-12",
-      "dates": [
-        "2026-10-12"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-12",
-          "time": "16:00",
-          "who": "수강생",
-          "text": "여러분 혼담구란 무엇일까요? 1. https://youtube.com/shorts/bMhPDeHPIws ->(인물) 파인다이밍 쉐프 + 메추리알 요리 (상황) 2. https://www.youtube.com/shorts/wRnynmZ7fbs -> (인물) 의사 + 파고드는 발톱 (상황) 이제 쇼츠볼때 혼담구를 찾아보세요!"
-        }
-      ],
-      "fetched_at": "2026-10-12T07:13:48.423Z"
     },
     {
       "id": "6afe2e0bad63",
@@ -4244,37 +1768,8 @@
         "2026-10-12"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-12",
-          "time": "14:18",
-          "who": "수강생",
-          "text": "https://www.youtube.com/watch?v=F_8v68sc1s4 <- 혹시 이 목소리 뭔지 아시는분 계신가요?ㅜ"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-12T06:04:28.097Z"
-    },
-    {
-      "id": "d7e49b9584c6",
-      "url": "https://docs.google.com/spreadsheets/d/1kRWCMOMUinnoO3qhWU-2p7TnEkqczUrh44MyWK19mKA/edit?usp=sharing",
-      "kind": "doc",
-      "site": "docs.google.com",
-      "reachable": null,
-      "private": true,
-      "first_date": "2026-10-12",
-      "last_date": "2026-10-12",
-      "dates": [
-        "2026-10-12"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-12",
-          "time": "12:44",
-          "who": "강사",
-          "text": "https://docs.google.com/spreadsheets/d/1kRWCMOMUinnoO3qhWU-2p7TnEkqczUrh44MyWK19mKA/edit?usp=sharing"
-        }
-      ]
     },
     {
       "id": "b99ed4d7f712",
@@ -4289,14 +1784,7 @@
         "2026-10-12"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-12",
-          "time": "00:54",
-          "who": "수강생",
-          "text": "https://www.youtube.com/@Esther_edit/shorts"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-11T23:35:54.591Z"
     },
     {
@@ -4312,14 +1800,7 @@
         "2026-10-12"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-12",
-          "time": "00:52",
-          "who": "강사",
-          "text": "https://www.youtube.com/@Accidental_SPY/shorts"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-11T23:35:54.591Z"
     },
     {
@@ -4335,66 +1816,7 @@
         "2026-10-12"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-12",
-          "time": "00:48",
-          "who": "강사",
-          "text": "https://www.youtube.com/@%EB%8F%8C%EB%8F%8C%EA%B2%9C/shorts"
-        }
-      ],
-      "fetched_at": "2026-10-11T23:35:54.591Z"
-    },
-    {
-      "id": "d2f9966e1c20",
-      "url": "https://www.youtube.com/watch?v=ppZMfR__DUg",
-      "kind": "youtube",
-      "title": "메이저리그에서 금지된 이것",
-      "site": "YouTube",
-      "author": "숏헌터",
-      "thumb": "media/r-c00b1739/link_thumbs/d2f9966e1c20.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-12",
-      "last_date": "2026-10-12",
-      "dates": [
-        "2026-10-12"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-12",
-          "time": "00:30",
-          "who": "강사",
-          "text": "https://www.youtube.com/shorts/ppZMfR__DUg"
-        }
-      ],
-      "fetched_at": "2026-10-11T23:35:54.591Z"
-    },
-    {
-      "id": "467435a418ec",
-      "url": "https://www.youtube.com/watch?v=Stzw4w0G4k8",
-      "kind": "youtube",
-      "title": "홀란드를 나락에서 구한 골프공의 비밀",
-      "site": "YouTube",
-      "author": "裏のストーリー",
-      "thumb": "media/r-c00b1739/link_thumbs/467435a418ec.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-12",
-      "last_date": "2026-10-12",
-      "dates": [
-        "2026-10-12"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-12",
-          "time": "00:10",
-          "who": "수강생",
-          "text": "https://www.youtube.com/shorts/Stzw4w0G4k8"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-11T23:35:54.591Z"
     },
     {
@@ -4410,14 +1832,7 @@
         "2026-10-12"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-12",
-          "time": "00:07",
-          "who": "강사",
-          "text": "https://www.youtube.com/@PunchlineEnglishKR"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-11T23:35:54.591Z"
     },
     {
@@ -4433,14 +1848,7 @@
         "2026-10-11"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-11",
-          "time": "22:32",
-          "who": "수강생",
-          "text": "https://www.youtube.com/watch?v=b1ueReb0I4Q 이 링크 맞는데 ㅠㅠ"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-12T00:17:04.707Z"
     },
     {
@@ -4456,40 +1864,7 @@
         "2026-10-11"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-11",
-          "time": "13:18",
-          "who": "수강생",
-          "text": "https://www.youtube.com/@Monsterlab_k"
-        }
-      ],
-      "fetched_at": "2026-10-11T09:24:19.668Z"
-    },
-    {
-      "id": "2f5fe5c37776",
-      "url": "https://www.youtube.com/watch?v=CzmhynG8VZI",
-      "kind": "youtube",
-      "title": "[전설의 경로당 1화] 경로당 할머니가 떠 준 목도리를 뺏은 재벌가 아들, 미녀 형사에게 걸렸다 | 참교육 | AI드라마",
-      "site": "YouTube",
-      "author": "레디악숀",
-      "thumb": "media/r-c00b1739/link_thumbs/2f5fe5c37776.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-11",
-      "last_date": "2026-10-11",
-      "dates": [
-        "2026-10-11"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-11",
-          "time": "11:41",
-          "who": "수강생",
-          "text": "https://youtu.be/CzmhynG8VZI"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-11T09:24:19.668Z"
     },
     {
@@ -4505,66 +1880,7 @@
         "2026-10-10"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-10",
-          "time": "20:31",
-          "who": "수강생",
-          "text": "영상 사고력 훈련을 위한 숙제입니다. 숙제는 선택이지만 딱 5개만 분석해봐도 결과값이 달라질거라고 확신합니다. https://docs.google.com/spreadsheets/d/1s2BjR2JacozJPoRcbQd_KZJLRnjsrnCqvt-_WSQTbJ8/edit?usp=sharing"
-        }
-      ]
-    },
-    {
-      "id": "8a0d945aa879",
-      "url": "https://www.youtube.com/watch?v=VkmmUrfc7K8",
-      "kind": "youtube",
-      "title": "남학생들이 이 여학생만 보면 환장하는 이유ㅋㅋ",
-      "site": "YouTube",
-      "author": "신기+템",
-      "thumb": "media/r-c00b1739/link_thumbs/8a0d945aa879.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-10",
-      "last_date": "2026-10-10",
-      "dates": [
-        "2026-10-10"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-10",
-          "time": "13:22",
-          "who": "수강생",
-          "text": "안녕하세요~~~ 선배님들 궁금한게 있어서요.. 이런 쇼츠는 손으로 편집작업하는 거겠져??https://youtube.com/shorts/VkmmUrfc7K8 https://youtube.com/shorts/1kq9W-kTttU"
-        }
-      ],
-      "fetched_at": "2026-10-10T06:09:06.189Z"
-    },
-    {
-      "id": "987dc08268d6",
-      "url": "https://www.youtube.com/watch?v=1kq9W-kTttU",
-      "kind": "youtube",
-      "title": "무슨 과목 선생님 같음?",
-      "site": "YouTube",
-      "author": "신기+템",
-      "thumb": "media/r-c00b1739/link_thumbs/987dc08268d6.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-10",
-      "last_date": "2026-10-10",
-      "dates": [
-        "2026-10-10"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-10",
-          "time": "13:22",
-          "who": "수강생",
-          "text": "안녕하세요~~~ 선배님들 궁금한게 있어서요.. 이런 쇼츠는 손으로 편집작업하는 거겠져??https://youtube.com/shorts/VkmmUrfc7K8 https://youtube.com/shorts/1kq9W-kTttU"
-        }
-      ],
-      "fetched_at": "2026-10-10T06:09:06.189Z"
+      "contexts": []
     },
     {
       "id": "a5678c6de57e",
@@ -4579,14 +1895,7 @@
         "2026-10-09"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-09",
-          "time": "16:18",
-          "who": "수강생",
-          "text": "https://chromewebstore.google.com/detail/bmljpagafjlkebnopbdncpnifkknlobk"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-09T07:33:49.067Z"
     },
     {
@@ -4605,14 +1914,7 @@
         "2026-10-09"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-09",
-          "time": "02:10",
-          "who": "수강생",
-          "text": "https://suno.com/s/asDO68OuL0I9zThB"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-09T03:29:01.868Z"
     },
     {
@@ -4631,41 +1933,8 @@
         "2026-10-09"
       ],
       "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-09",
-          "time": "02:09",
-          "who": "수강생",
-          "text": "https://suno.com/s/uhYeDIfXnzjfuJOY"
-        }
-      ],
+      "contexts": [],
       "fetched_at": "2026-10-09T03:29:01.868Z"
-    },
-    {
-      "id": "59d4d354769e",
-      "url": "https://www.youtube.com/watch?v=pTu3oUMf6YQ",
-      "kind": "youtube",
-      "title": "호날두 포르투전 레전드 중거리 골을 1인칭으로 보면? 😳⚽ #1인칭 #football #축구 #pov #ronaldo",
-      "site": "YouTube",
-      "author": "킥인뷰 | KICK IN VIEW",
-      "thumb": "media/r-c00b1739/link_thumbs/59d4d354769e.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-09",
-      "last_date": "2026-10-09",
-      "dates": [
-        "2026-10-09"
-      ],
-      "mention_count": 1,
-      "contexts": [
-        {
-          "date": "2026-10-09",
-          "time": "00:06",
-          "who": "수강생",
-          "text": "https://www.youtube.com/shorts/pTu3oUMf6YQ 이분 영상 4개인데 1주일만에 600만뷰네요 ㄷㄷ 대단하신듯"
-        }
-      ],
-      "fetched_at": "2026-10-08T16:25:37.776Z"
     }
   ]
 }

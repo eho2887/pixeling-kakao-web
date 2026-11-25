@@ -16,15 +16,6 @@
       "bytes": 8585
     },
     {
-      "id": "177fab260875",
-      "kind": "image",
-      "t": "2026-10-18T21:08:00+09:00",
-      "time": "21:08",
-      "who": "수강생",
-      "text": "Pixeling Desktop 결제 페이지 화면 캡처. 화면에 “결제 기능 준비 중입니다”가 보임. 주소 표시줄에 app.pixeling.io/billing?tab=pricing가 보임",
-      "sensitive": true
-    },
-    {
       "id": "1f934201e06a",
       "kind": "image",
       "t": "2026-10-18T21:23:00+09:00",
