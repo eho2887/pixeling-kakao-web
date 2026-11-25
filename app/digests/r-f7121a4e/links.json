@@ -1,8 +1,34 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-11-24T16:54:32.768Z",
+  "updated_at": "2026-11-25T03:51:56.396Z",
   "items": [
+    {
+      "id": "801d55b23f3f",
+      "url": "https://gitflic.ru/project/kurtbestor/hitomi-downloader/release/a8b96f1b-eb39-44f9-90de-8cec329f3f6b",
+      "kind": "web",
+      "title": "kurtbestor/Hitomi Downloader",
+      "site": "gitflic.ru",
+      "description": "Участвуйте в разработке kurtbestor/Hitomi Downloader, создав учетную запись в GitFlic.",
+      "thumb": "media/r-f7121a4e/link_thumbs/801d55b23f3f.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-25",
+      "last_date": "2026-11-25",
+      "dates": [
+        "2026-11-25"
+      ],
+      "mention_count": 1,
+      "contexts": [
+        {
+          "date": "2026-11-25",
+          "time": "12:39",
+          "who": "수강생",
+          "text": "그 혹시 룰루선생님. 사용하시던 히토미 다운로더 노션에는 안보이고. Github 배포페이지꺼는 접근이 차단되었다고 하는데요. gitflic에 있는거 알려주는데요. https://gitflic.ru/project/kurtbestor/hitomi-downloader/release/a8b96f1b-eb39-44f9-90de-8cec329f3f6b 이거 받으면 될까요?"
+        }
+      ],
+      "fetched_at": "2026-11-25T03:51:56.396Z"
+    },
     {
       "id": "fd5d5362dcc8",
       "url": "https://www.youtube.com/watch?v=e5xe6xHFLA8",
