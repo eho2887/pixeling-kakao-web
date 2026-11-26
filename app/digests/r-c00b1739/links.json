@@ -19,6 +19,25 @@
       "contexts": []
     },
     {
+      "id": "5e73d05308d4",
+      "url": "https://litt.ly/yangbongpd",
+      "kind": "web",
+      "title": "쇼벤사랑합니다 드라마감독 가즈아!!!",
+      "site": "쇼벤사랑합니다 드라마감독 가즈아!!!",
+      "description": "리틀리에서 만들어진 페이지 입니다.",
+      "thumb": "media/r-c00b1739/link_thumbs/5e73d05308d4.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-25",
+      "last_date": "2026-11-25",
+      "dates": [
+        "2026-11-25"
+      ],
+      "mention_count": 1,
+      "contexts": [],
+      "fetched_at": "2026-11-25T10:42:58.306Z"
+    },
+    {
       "id": "77a9ec4913dd",
       "url": "https://open.kakao.com/o/gsDUrGNi",
       "kind": "web",
