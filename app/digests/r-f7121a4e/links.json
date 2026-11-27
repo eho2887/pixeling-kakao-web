@@ -1,8 +1,30 @@
 {
   "schema_version": 1,
   "room_id": "r-f7121a4e",
-  "updated_at": "2026-11-27T07:18:30.915Z",
+  "updated_at": "2026-11-27T07:50:35.359Z",
   "items": [
+    {
+      "id": "c276c9cfb42f",
+      "url": "https://litt.ly/_potato",
+      "kind": "web",
+      "title": "리틀리 | 감자의 '뚝딱' 쇼핑쇼츠",
+      "site": "리틀리 | 감자의 '뚝딱' 쇼핑쇼츠",
+      "description": "리틀리에서 만들어진 페이지 입니다.",
+      "thumb": "media/r-f7121a4e/link_thumbs/c276c9cfb42f.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-27",
+      "dates": [
+        "2026-11-07",
+        "2026-11-14",
+        "2026-11-16",
+        "2026-11-27"
+      ],
+      "mention_count": 5,
+      "contexts": [],
+      "fetched_at": "2026-11-07T06:00:47.952Z"
+    },
     {
       "id": "66e9e819281d",
       "url": "https://hypnotic-concrete-dcf.notion.site/424c8b66674080cf89cfddc9b9fb918a",
@@ -338,27 +360,6 @@
       "mention_count": 1,
       "contexts": [],
       "fetched_at": "2026-11-16T08:52:46.385Z"
-    },
-    {
-      "id": "c276c9cfb42f",
-      "url": "https://litt.ly/_potato",
-      "kind": "web",
-      "title": "리틀리 | 감자의 '뚝딱' 쇼핑쇼츠",
-      "site": "리틀리 | 감자의 '뚝딱' 쇼핑쇼츠",
-      "description": "리틀리에서 만들어진 페이지 입니다.",
-      "thumb": "media/r-f7121a4e/link_thumbs/c276c9cfb42f.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-16",
-      "dates": [
-        "2026-11-07",
-        "2026-11-14",
-        "2026-11-16"
-      ],
-      "mention_count": 4,
-      "contexts": [],
-      "fetched_at": "2026-11-07T06:00:47.952Z"
     },
     {
       "id": "319d2219205c",
