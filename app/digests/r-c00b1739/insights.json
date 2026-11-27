@@ -2,14 +2,14 @@
   "schema_version": 1,
   "room_name": "(신규반) [쇼츠투벤츠] 5기 룰루랄라릴리",
   "label": "쇼츠투벤츠 5기 신규반",
-  "today": "2026-11-26",
+  "today": "2026-11-27",
   "missed_after_days": 2,
   "stale_after_days": 21,
   "counts": {
     "know_how": 52,
-    "need": 12,
-    "missed": 161,
-    "question": 121
+    "need": 11,
+    "missed": 151,
+    "question": 126
   },
   "sections": {
     "know_how": [
@@ -1955,6 +1955,51 @@
     ],
     "need": [
       {
+        "key": "재사용-이의신청-참고영상",
+        "kind": "need",
+        "title": "수익창출 거절 항소에 직촬 참고영상이 공유됨",
+        "detail": "야담 채널의 수익창출 정책 위반 거절 후 항소 방법과 관련 강의를 묻는 대화가 이어졌다. 수강생 답: 직촬영상과 함께 항소하라고 설명하고 참고영상 링크를 실제로 공유했다. 전용 제작 강의의 위치나 항소 성공 결과는 확인되지 않았다.",
+        "answer": "수강생 답: 항소에 함께 올릴 직촬영상의 예시로 참고영상 링크를 실제 공유했다. 전용 제작 강의의 위치는 확인되지 않았다.",
+        "answered_date": "2026-11-27",
+        "status": "answered",
+        "archived": false,
+        "importance": 5,
+        "tags": [
+          "수익화",
+          "항소",
+          "참고영상",
+          "재사용",
+          "이의신청"
+        ],
+        "first_date": "2026-11-25",
+        "last_date": "2026-11-27",
+        "dates": [
+          "2026-11-25",
+          "2026-11-27"
+        ],
+        "mention_count": 3,
+        "evidence": [
+          {
+            "date": "2026-11-25",
+            "time": "20:30",
+            "who": "수강생",
+            "quote": "오늘 재사용 이의신청 왔는데 혹시 참고영상 어떻게 만들어야 되는지 강의가 있을까요?ㅠ"
+          },
+          {
+            "date": "2026-11-27",
+            "time": "10:43",
+            "who": "수강생",
+            "quote": "야담 채널 수창 신청했더니 유튜브 수익 창출 정책 위반 이라고 거절이 왔는데 어떻게 항소해야하는지 알수있으실까요 ㅠㅠ"
+          },
+          {
+            "date": "2026-11-27",
+            "time": "14:59",
+            "who": "수강생",
+            "quote": "https://www.youtube.com/watch?v=uZbn2OzwbSw"
+          }
+        ]
+      },
+      {
         "key": "전자책-업데이트버전-메일",
         "kind": "need",
         "title": "전자책 늦은 구매자에게 업데이트 버전 메일 안내 필요",
@@ -1981,66 +2026,6 @@
             "time": "07:43",
             "who": "수강생",
             "quote": "제가 전자책 구매가 좀 늦어져서 저도 업데이트 버전 메일 부탁합니다."
-          }
-        ]
-      },
-      {
-        "key": "재사용-이의신청-참고영상",
-        "kind": "need",
-        "title": "재사용 이의신청용 참고영상 제작 강의 안내 필요",
-        "detail": "당일 재사용 이의신청 상황에서 참고영상을 어떻게 만들어야 하는지 설명한 강의를 요청했다. 강의 위치나 제작 방법에 대한 답은 없다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 5,
-        "tags": [
-          "재사용",
-          "이의신청",
-          "참고영상"
-        ],
-        "first_date": "2026-11-25",
-        "last_date": "2026-11-25",
-        "dates": [
-          "2026-11-25"
-        ],
-        "mention_count": 1,
-        "evidence": [
-          {
-            "date": "2026-11-25",
-            "time": "20:30",
-            "who": "수강생",
-            "quote": "오늘 재사용 이의신청 왔는데 혹시 참고영상 어떻게 만들어야 되는지 강의가 있을까요?ㅠ"
-          }
-        ]
-      },
-      {
-        "key": "픽셀링-없이-모바일제작",
-        "kind": "need",
-        "title": "픽셀링 없이 폰 GPT로 영상 만드는 자료 안내 필요",
-        "detail": "픽셀링을 쓰지 않고 폰에서 GPT로 영상을 만들 수 있는 자료 위치를 요청했다. 첫 강의에서 본 것으로 기억하고 있으나, 해당 자료나 제작 방법을 안내한 답은 없다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 3,
-        "tags": [
-          "모바일",
-          "영상제작",
-          "GPT"
-        ],
-        "first_date": "2026-11-25",
-        "last_date": "2026-11-25",
-        "dates": [
-          "2026-11-25"
-        ],
-        "mention_count": 1,
-        "evidence": [
-          {
-            "date": "2026-11-25",
-            "time": "14:31",
-            "who": "수강생",
-            "quote": "혹시 픽셀링 없이 영상 만드는 잡도리 어디서 확인할까요? 첫강에서 룰쌤이 보여주신거 같은데..."
           }
         ]
       },
@@ -2464,6 +2449,65 @@
     ],
     "missed": [
       {
+        "key": "픽셀링-저장드라이브-이동실패",
+        "kind": "need",
+        "title": "외장하드→USB 이동, ExFAT·APFS 모두 실패",
+        "detail": "수강생 경험: Pixeling Desktop 1.2.10, macOS 25.5.0 · arm64 환경에서 외장하드의 저장공간을 USB로 옮기다 오류가 반복됐다. ExFAT으로 두 번 실패한 뒤 APFS로 바꿔도 동일하게 실패했다. 원본 목록·내용 검사 단계에서 파일 쓰기 중 storage_guard_unavailable이 발생했고, 파일·폴더는 inventory/original_00006.ndjson으로 표시됐다. 해결 방법이나 이동 완료 결과는 없다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 4,
+        "tags": [
+          "픽셀링",
+          "저장공간",
+          "USB",
+          "이동오류",
+          "드라이브이동"
+        ],
+        "first_date": "2026-11-19",
+        "last_date": "2026-11-27",
+        "dates": [
+          "2026-11-19",
+          "2026-11-27"
+        ],
+        "mention_count": 5,
+        "evidence": [
+          {
+            "date": "2026-11-19",
+            "time": "15:30",
+            "who": "수강생",
+            "quote": "픽셀링 저장 드라이브 딴 드라이브로 옮기는거 잘 되시나요? 전 계속 안되네유"
+          },
+          {
+            "date": "2026-11-19",
+            "time": "15:32",
+            "who": "수강생",
+            "quote": "파일 검증 끝나고. 그 무슨 말(이동중? 검증중?) 나오는데 거기서 한 1시간 동안 반응 없어서 문제 있는줄 알았는데. 또 몇십분 지나니까. 완료되더라고요."
+          },
+          {
+            "date": "2026-11-27",
+            "time": "17:25",
+            "who": "수강생",
+            "quote": "제가 저장공간을 외장하드로 지정했다가, 부피가 너무 부담스러워서 다시 USB로 옮기려고 하는데 연속 두번째 오류가 나고 있습니다."
+          },
+          {
+            "date": "2026-11-27",
+            "time": "19:01",
+            "who": "수강생",
+            "quote": "실패 단계: 원본 목록·내용 검사 오류 코드: storage_guard_unavailable 도우미 작업: 파일 쓰기"
+          },
+          {
+            "date": "2026-11-27",
+            "time": "19:02",
+            "who": "수강생",
+            "quote": "APFS 도 동일하게 안되네요 개발자님 ㅠㅠ @수강생"
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 8
+      },
+      {
         "key": "게릴라강의-녹화-업로드",
         "kind": "need",
         "title": "24일 오전 ‘유튜브 본질’ 강의 녹화본 안내 필요",
@@ -2523,7 +2567,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 7
+        "days_open": 8
       },
       {
         "key": "픽셀링-저장공간-관리안내",
@@ -2589,7 +2633,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 19
+        "days_open": 20
       },
       {
         "key": "픽셀링-무료종료-결제안내",
@@ -2651,7 +2695,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "픽셀링-권한확인-갑작스런표시",
@@ -2714,7 +2758,71 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 19
+        "days_open": 20
+      },
+      {
+        "key": "더우인-우회사이트-검색불가",
+        "kind": "question",
+        "title": "더우인 우회사이트에서 여러 검색어의 결과가 없음",
+        "detail": "더우인 우회사이트에서 사과·이불·딸기를 검색해도 '검색결과가 없습니다'가 계속 표시된다고 질문했다. 컴퓨터 문제인지 물었으나 원인이나 해결 방법에 대한 답은 없다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 3,
+        "tags": [
+          "더우인",
+          "소재검색",
+          "검색오류"
+        ],
+        "first_date": "2026-11-25",
+        "last_date": "2026-11-25",
+        "dates": [
+          "2026-11-25"
+        ],
+        "mention_count": 1,
+        "evidence": [
+          {
+            "date": "2026-11-25",
+            "time": "21:38",
+            "who": "수강생",
+            "quote": "오늘 더우인 우회사이트에서 조회가 안되네요 검색결과가 없습니다 로 계속뜨는데 제컴이 이상한건가요? 검색어는 사과 .이불. 딸기..."
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 2
+      },
+      {
+        "key": "픽셀링-없이-모바일제작",
+        "kind": "need",
+        "title": "픽셀링 없이 폰 GPT로 영상 만드는 자료 안내 필요",
+        "detail": "픽셀링을 쓰지 않고 폰에서 GPT로 영상을 만들 수 있는 자료 위치를 요청했다. 첫 강의에서 본 것으로 기억하고 있으나, 해당 자료나 제작 방법을 안내한 답은 없다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 3,
+        "tags": [
+          "모바일",
+          "영상제작",
+          "GPT"
+        ],
+        "first_date": "2026-11-25",
+        "last_date": "2026-11-25",
+        "dates": [
+          "2026-11-25"
+        ],
+        "mention_count": 1,
+        "evidence": [
+          {
+            "date": "2026-11-25",
+            "time": "14:31",
+            "who": "수강생",
+            "quote": "혹시 픽셀링 없이 영상 만드는 잡도리 어디서 확인할까요? 첫강에서 룰쌤이 보여주신거 같은데..."
+          }
+        ],
+        "origin": "overdue",
+        "days_open": 2
       },
       {
         "key": "애드센스-동일통장-일부미입금",
@@ -2753,7 +2861,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 2
+        "days_open": 3
       },
       {
         "key": "쇼핑쇼츠-소재-탐색",
@@ -2814,7 +2922,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "유튜브-언어설정-스크롤오류",
@@ -2854,7 +2962,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "다채널-동시-조회수급락",
@@ -2886,7 +2994,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 2
+        "days_open": 3
       },
       {
         "key": "영상-합성오류-확인요청",
@@ -2918,7 +3026,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 2
+        "days_open": 3
       },
       {
         "key": "특강-공개피드백-제출위치",
@@ -2950,7 +3058,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 2
+        "days_open": 3
       },
       {
         "key": "고급인증-듀얼폰-애드센스",
@@ -2988,7 +3096,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 3
+        "days_open": 4
       },
       {
         "key": "애드센스-잔고-pin반영",
@@ -3020,7 +3128,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 3
+        "days_open": 4
       },
       {
         "key": "프리미엄-차액환불-혜택접근",
@@ -3065,7 +3173,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 3
+        "days_open": 4
       },
       {
         "key": "픽셀링-코덱스-승인반복",
@@ -3110,7 +3218,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 3
+        "days_open": 4
       },
       {
         "key": "픽셀링-프리셋-불러오기오류",
@@ -3148,7 +3256,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 3
+        "days_open": 4
       },
       {
         "key": "픽셀링-프리셋-엔진연결오류",
@@ -3193,7 +3301,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 3
+        "days_open": 4
       },
       {
         "key": "노래형-가사추출-강의",
@@ -3225,7 +3333,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 3
+        "days_open": 4
       },
       {
         "key": "예능쇼츠-피드노출-저조",
@@ -3264,7 +3372,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 3
+        "days_open": 4
       },
       {
         "key": "픽셀링-대화목록-읽기오류",
@@ -3302,7 +3410,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 3
+        "days_open": 4
       },
       {
         "key": "픽셀링-강의-업로드누락",
@@ -3343,7 +3451,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 8
+        "days_open": 9
       },
       {
         "key": "프로그램-승인-지연",
@@ -3410,7 +3518,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 18
+        "days_open": 19
       },
       {
         "key": "리틀리-주문메일-미수령",
@@ -3442,7 +3550,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "반포자이가자-4강-업로드",
@@ -3480,7 +3588,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "반포자이가자-사용승인-재요청",
@@ -3518,7 +3626,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "양봉감독실-인물설정-결과누락",
@@ -3556,7 +3664,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "챌린지-중단후-피드백조건",
@@ -3594,7 +3702,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "강의구매-리틀리-링크재문의",
@@ -3632,7 +3740,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "구매채널-저조회수-회복",
@@ -3664,7 +3772,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "반포자이가자-3강-음악자료",
@@ -3696,7 +3804,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "일본채널-쇼핑태그-라쿠텐",
@@ -3734,7 +3842,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "프로그램-세로형-업데이트",
@@ -3766,7 +3874,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "프로그램-이동로그인-기기인증",
@@ -3798,7 +3906,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "픽셀링-비공개-업로드",
@@ -3830,7 +3938,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 5
+        "days_open": 6
       },
       {
         "key": "관련채널-수익정지-대응",
@@ -3862,7 +3970,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "성과인증-치킨-마감",
@@ -3920,7 +4028,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 8
+        "days_open": 9
       },
       {
         "key": "양봉스튜디오-대본정리-멈춤",
@@ -3952,7 +4060,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "강의-치킨쿠폰-미수령",
@@ -3993,7 +4101,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "노래형-음원추출-강의",
@@ -4025,7 +4133,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "랭킹형-전환-효과음",
@@ -4056,7 +4164,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "쇼츠프롬프트-파일-열기",
@@ -4088,7 +4196,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 6
+        "days_open": 7
       },
       {
         "key": "인스타-쇼핑게시물-삭제대응",
@@ -4120,7 +4228,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 7
+        "days_open": 8
       },
       {
         "key": "국뽕-야담전환-채널교체",
@@ -4159,7 +4267,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 7
+        "days_open": 8
       },
       {
         "key": "편집기-원본미디어-연결",
@@ -4191,7 +4299,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 7
+        "days_open": 8
       },
       {
         "key": "프로그램-시간오류-업데이트중단",
@@ -4224,45 +4332,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 7
-      },
-      {
-        "key": "픽셀링-저장드라이브-이동실패",
-        "kind": "need",
-        "title": "픽셀링 드라이브 이동 거부와 장시간 대기 구분 안내 필요",
-        "detail": "픽셀링 저장 드라이브를 옮기려는 수강생은 계속 실패하고, 이동할 수 없다는 거부 안내가 나온다고 설명했다. 수강생 경험: 다른 수강생은 SSD에서 HDD로 옮길 때 파일 검증 후 약 1시간 동안 반응이 없다가 몇십 분 더 지나 완료됐다. 거부 안내가 나온 사례는 해결되지 않아 오류 내용 확인과 별도 안내가 필요하다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 3,
-        "tags": [
-          "픽셀링",
-          "저장공간",
-          "드라이브이동"
-        ],
-        "first_date": "2026-11-19",
-        "last_date": "2026-11-19",
-        "dates": [
-          "2026-11-19"
-        ],
-        "mention_count": 2,
-        "evidence": [
-          {
-            "date": "2026-11-19",
-            "time": "15:30",
-            "who": "수강생",
-            "quote": "픽셀링 저장 드라이브 딴 드라이브로 옮기는거 잘 되시나요? 전 계속 안되네유"
-          },
-          {
-            "date": "2026-11-19",
-            "time": "15:32",
-            "who": "수강생",
-            "quote": "파일 검증 끝나고. 그 무슨 말(이동중? 검증중?) 나오는데 거기서 한 1시간 동안 반응 없어서 문제 있는줄 알았는데. 또 몇십분 지나니까. 완료되더라고요."
-          }
-        ],
-        "origin": "overdue",
-        "days_open": 7
+        "days_open": 8
       },
       {
         "key": "플레이리스트-저작권-수익심사",
@@ -4300,7 +4370,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 8
+        "days_open": 9
       },
       {
         "key": "고객지원-반복문의-처리",
@@ -4338,7 +4408,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 8
+        "days_open": 9
       },
       {
         "key": "업로드-동일아이피-기준",
@@ -4370,7 +4440,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 8
+        "days_open": 9
       },
       {
         "key": "가족-구글계정-채널개설",
@@ -4402,7 +4472,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 8
+        "days_open": 9
       },
       {
         "key": "리틀리-전자책-소재툴",
@@ -4440,7 +4510,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 8
+        "days_open": 9
       },
       {
         "key": "브랜드계정-중급인증-차이",
@@ -4472,7 +4542,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 8
+        "days_open": 9
       },
       {
         "key": "소재-리스트업-재수집",
@@ -4504,7 +4574,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 8
+        "days_open": 9
       },
       {
         "key": "쇼츠-썸네일-파일인증",
@@ -4536,7 +4606,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 8
+        "days_open": 9
       },
       {
         "key": "쇼츠-예약-두시간",
@@ -4567,7 +4637,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 8
+        "days_open": 9
       },
       {
         "key": "코덱스-픽셀링-작업이전",
@@ -4605,7 +4675,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 8
+        "days_open": 9
       },
       {
         "key": "픽셀링-무료이용-신청대기",
@@ -4649,7 +4719,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 8
+        "days_open": 9
       },
       {
         "key": "해외-멀티유즈-게시간격",
@@ -4681,7 +4751,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 8
+        "days_open": 9
       },
       {
         "key": "애드센스-qr-휴대폰인증",
@@ -4725,7 +4795,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 9
+        "days_open": 10
       },
       {
         "key": "전자책-결제후-발송누락",
@@ -4763,7 +4833,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 9
+        "days_open": 10
       },
       {
         "key": "항소실패-브랜드채널-재사용",
@@ -4801,7 +4871,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 9
+        "days_open": 10
       },
       {
         "key": "성과인증-공유방-안내",
@@ -4839,7 +4909,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 9
+        "days_open": 10
       },
       {
         "key": "gemini-자동화-유튜브불이익",
@@ -4871,7 +4941,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 9
+        "days_open": 10
       },
       {
         "key": "인스타-조회수-날짜-확장프로그램",
@@ -4909,7 +4979,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 9
+        "days_open": 10
       },
       {
         "key": "픽셀링-프리셋-버전기준",
@@ -4940,7 +5010,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 9
+        "days_open": 10
       },
       {
         "key": "리틀리-pdf-다운로드",
@@ -4978,7 +5048,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "인스타-저조회수-계정교체",
@@ -5010,7 +5080,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "팝소재-첫검색-확장",
@@ -5043,7 +5113,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "픽셀링-등업-대기",
@@ -5075,7 +5145,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "픽셀링-병렬작업-검은화면",
@@ -5107,7 +5177,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "픽셀링-업로드오류-개발문의",
@@ -5145,7 +5215,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 10
+        "days_open": 11
       },
       {
         "key": "정지계정-번호-고급인증",
@@ -5177,7 +5247,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 11
+        "days_open": 12
       },
       {
         "key": "쇼츠-사운드추가-길이제한",
@@ -5215,7 +5285,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 11
+        "days_open": 12
       },
       {
         "key": "영상-항소안내-비공개",
@@ -5247,7 +5317,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 11
+        "days_open": 12
       },
       {
         "key": "정규강의-자료-수강순서",
@@ -5279,7 +5349,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 11
+        "days_open": 12
       },
       {
         "key": "디하북스-전자책-출력",
@@ -5317,7 +5387,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 11
+        "days_open": 12
       },
       {
         "key": "미수익화-쇼츠채널-야담전환",
@@ -5362,7 +5432,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 11
+        "days_open": 12
       },
       {
         "key": "인스타-쇼핑릴스-계정",
@@ -5394,7 +5464,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 11
+        "days_open": 12
       },
       {
         "key": "중급인증-보유번호-사용",
@@ -5454,7 +5524,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 13
+        "days_open": 14
       },
       {
         "key": "수익창출-불허-대응",
@@ -5486,7 +5556,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "수익창출채널-구매가능",
@@ -5517,7 +5587,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "로블록스-단순영상-수익정지",
@@ -5549,7 +5619,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "쇼핑강의-pdf-미수령",
@@ -5593,7 +5663,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "양봉감독실-영상서버-연결실패",
@@ -5631,7 +5701,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "채널연결-전용크롬-로그인오류",
@@ -5663,7 +5733,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "링링-수익창출-기존영상비공개",
@@ -5708,7 +5778,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "아이돌채널-영상형식-혼용",
@@ -5740,7 +5810,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "예약업로드-게시기능-차단",
@@ -5772,7 +5842,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "캡컷-크롭-인물추적",
@@ -5810,7 +5880,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "픽셀링-데이터누적-속도저하",
@@ -5842,7 +5912,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 12
+        "days_open": 13
       },
       {
         "key": "플리-강의-일정",
@@ -5883,7 +5953,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 17
+        "days_open": 18
       },
       {
         "key": "야담-지침서-폴더누락",
@@ -5924,7 +5994,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 16
+        "days_open": 17
       },
       {
         "key": "전자책-얼리버드-구매",
@@ -5964,7 +6034,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 16
+        "days_open": 17
       },
       {
         "key": "조회수-천벽-만벽-기준",
@@ -6009,7 +6079,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 13
+        "days_open": 14
       },
       {
         "key": "롱폼-하루-업로드주기",
@@ -6040,7 +6110,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 13
+        "days_open": 14
       },
       {
         "key": "모바일-쿠팡-상품태그검색",
@@ -6072,7 +6142,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 13
+        "days_open": 14
       },
       {
         "key": "애드센스-등록방법-자료위치",
@@ -6104,7 +6174,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 13
+        "days_open": 14
       },
       {
         "key": "영상-노출-갑자기0",
@@ -6135,7 +6205,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 13
+        "days_open": 14
       },
       {
         "key": "전자책-후기-혜택",
@@ -6167,7 +6237,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 13
+        "days_open": 14
       },
       {
         "key": "수익창출-보안코드-인증차단",
@@ -6211,7 +6281,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 14
+        "days_open": 15
       },
       {
         "key": "챌린지-인증-게시채팅방",
@@ -6243,7 +6313,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 14
+        "days_open": 15
       },
       {
         "key": "깡계-브랜드계정-채널운영",
@@ -6275,7 +6345,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 14
+        "days_open": 15
       },
       {
         "key": "히토미-타임라인-구간다운로드",
@@ -6313,7 +6383,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 14
+        "days_open": 15
       },
       {
         "key": "전자책-사용방법-pdf",
@@ -6357,7 +6427,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 15
+        "days_open": 16
       },
       {
         "key": "픽셀링-외장저장소-검증오류",
@@ -6401,7 +6471,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 15
+        "days_open": 16
       },
       {
         "key": "픽셀링-채팅재생-지원미응답",
@@ -6433,7 +6503,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 15
+        "days_open": 16
       },
       {
         "key": "해외크리에이터-원본-구조변경",
@@ -6465,7 +6535,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 15
+        "days_open": 16
       },
       {
         "key": "그록-kie-기존-api키",
@@ -6497,7 +6567,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 15
+        "days_open": 16
       },
       {
         "key": "롱폼프로그램-신청-동선",
@@ -6535,7 +6605,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 15
+        "days_open": 16
       },
       {
         "key": "수익창출-심사전-설정",
@@ -6567,7 +6637,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 15
+        "days_open": 16
       },
       {
         "key": "자체영상-동시업로드-중복도",
@@ -6606,7 +6676,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 15
+        "days_open": 16
       },
       {
         "key": "애드센스-본인인증-명의불일치",
@@ -6644,7 +6714,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 16
+        "days_open": 17
       },
       {
         "key": "픽셀링-프로젝트-동기화",
@@ -6709,7 +6779,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 44
+        "days_open": 45
       },
       {
         "key": "조회수-인증-순서",
@@ -6753,7 +6823,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 16
+        "days_open": 17
       },
       {
         "key": "픽셀링-엔진2-프리셋전환",
@@ -6797,7 +6867,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 16
+        "days_open": 17
       },
       {
         "key": "픽셀링-접속불가-문의미응답",
@@ -6835,7 +6905,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 16
+        "days_open": 17
       },
       {
         "key": "픽셀링-캡컷-내보내기오류",
@@ -6873,7 +6943,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 16
+        "days_open": 17
       },
       {
         "key": "감독실-mcp-설치파일",
@@ -6917,7 +6987,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 16
+        "days_open": 17
       },
       {
         "key": "쇼핑쇼츠-플랫폼별-워크플로우",
@@ -6956,7 +7026,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 16
+        "days_open": 17
       },
       {
         "key": "원본영상-랭킹편집-재해석",
@@ -6994,7 +7064,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 16
+        "days_open": 17
       },
       {
         "key": "자동업로드-ai설정-클릭불가",
@@ -7033,7 +7103,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 16
+        "days_open": 17
       },
       {
         "key": "구독취소-수익화-영향",
@@ -7077,7 +7147,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 17
+        "days_open": 18
       },
       {
         "key": "쇼핑쇼츠-저작권-무시조언",
@@ -7108,7 +7178,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 17
+        "days_open": 18
       },
       {
         "key": "수익화-채널이전-순서",
@@ -7140,7 +7210,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 17
+        "days_open": 18
       },
       {
         "key": "야담-재사용-이의신청",
@@ -7178,7 +7248,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 17
+        "days_open": 18
       },
       {
         "key": "픽셀링-봇차단-계정전환",
@@ -7216,7 +7286,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 17
+        "days_open": 18
       },
       {
         "key": "지옥주-낮강의-녹화본",
@@ -7268,7 +7338,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 20
+        "days_open": 21
       },
       {
         "key": "야담파일-다른소재-전환",
@@ -7312,7 +7382,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 17
+        "days_open": 18
       },
       {
         "key": "롱폼틀-제작-비용",
@@ -7344,7 +7414,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 17
+        "days_open": 18
       },
       {
         "key": "신규채널-저조회수-재시작",
@@ -7382,7 +7452,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 17
+        "days_open": 18
       },
       {
         "key": "야담-롱폼-숏폼병행",
@@ -7414,7 +7484,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 17
+        "days_open": 18
       },
       {
         "key": "야담-장편업로드-인증충돌",
@@ -7446,7 +7516,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 17
+        "days_open": 18
       },
       {
         "key": "이분영상-숏폼-롱폼선택",
@@ -7478,7 +7548,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 17
+        "days_open": 18
       },
       {
         "key": "인포크링크-플랜-자동dm",
@@ -7510,7 +7580,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 17
+        "days_open": 18
       },
       {
         "key": "픽셀링-레퍼런스-소재교체",
@@ -7555,7 +7625,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 18
+        "days_open": 19
       },
       {
         "key": "롱폼수익화-쇼츠-카테고리변경",
@@ -7587,7 +7657,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 18
+        "days_open": 19
       },
       {
         "key": "프로젝트-내용-유실",
@@ -7619,7 +7689,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 18
+        "days_open": 19
       },
       {
         "key": "픽셀링-등록프리셋-먹통",
@@ -7651,7 +7721,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 18
+        "days_open": 19
       },
       {
         "key": "픽셀링-업데이트-프로젝트유실",
@@ -7711,7 +7781,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 21
+        "days_open": 22
       },
       {
         "key": "수익화심사-진행중-업로드",
@@ -7743,7 +7813,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 19
+        "days_open": 20
       },
       {
         "key": "양봉프로그램-결제-위치",
@@ -7775,7 +7845,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 19
+        "days_open": 20
       },
       {
         "key": "롱폼프로그램-승인대기-일정",
@@ -7841,7 +7911,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 41
+        "days_open": 42
       },
       {
         "key": "게릴라-녹화본-업로드",
@@ -7902,7 +7972,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 33
+        "days_open": 34
       },
       {
         "key": "강의-접근권한-제한",
@@ -7933,7 +8003,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 19
+        "days_open": 20
       },
       {
         "key": "번호인증-일회용번호-사용",
@@ -7970,7 +8040,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 19
+        "days_open": 20
       },
       {
         "key": "프로그램-승인문의-창구",
@@ -8008,7 +8078,7 @@
           }
         ],
         "origin": "missed",
-        "days_open": 19
+        "days_open": 20
       },
       {
         "key": "더우인-검색영상-큐알인증",
@@ -8040,7 +8110,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 19
+        "days_open": 20
       },
       {
         "key": "쇼핑쇼츠-타입캐스트-음성오류",
@@ -8080,7 +8150,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 19
+        "days_open": 20
       },
       {
         "key": "쳇지피티-프로젝트-전체유실",
@@ -8112,7 +8182,7 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 19
+        "days_open": 20
       },
       {
         "key": "해외롱폼-수요공급-판별",
@@ -8144,570 +8214,208 @@
           }
         ],
         "origin": "overdue",
-        "days_open": 19
-      },
-      {
-        "key": "구매채널-계정기기-분리안내",
-        "kind": "need",
-        "title": "구매 계정을 초기화폰 한 대에 모두 등록해도 되는지 문의",
-        "detail": "구매한 깡통계정을 초기화한 휴대폰에 전부 등록하는지와 등록할 때 와이파이를 어떻게 쓰는지 함께 물었다. 조교 답: 와이파이에 연결해도 된다고 했다. 초기화한 한 기기에 전부 등록해도 되는지에 대한 안내는 나오지 않았다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 5,
-        "tags": [
-          "구매계정",
-          "공기계",
-          "와이파이",
-          "구매채널",
-          "계정",
-          "수익화"
-        ],
-        "first_date": "2026-11-03",
-        "last_date": "2026-11-06",
-        "dates": [
-          "2026-11-03",
-          "2026-11-05",
-          "2026-11-06"
-        ],
-        "mention_count": 8,
-        "evidence": [
-          {
-            "date": "2026-11-05",
-            "time": "11:23",
-            "who": "수강생",
-            "quote": "구매한 수창 채널의 경우 깡통계정으로 받아야 할까요? 채널 판매자는 제가 원하면 계정까지 같이 줄 수 있다 이렇게 이야기하는데 어떤 것이 맞는지 모르겠네요."
-          },
-          {
-            "date": "2026-11-05",
-            "time": "11:31",
-            "who": "수강생",
-            "quote": "계정을 받는건 어떤 계정으로 받아도 상관없고 통으로 받아도 괜찮고 그래용"
-          },
-          {
-            "date": "2026-11-06",
-            "time": "16:10",
-            "who": "수강생",
-            "quote": "깡통계정을 구매하는 경우 기존에 강의하신대로 초기화된 휴대폰에 전부 등록하면 되는건가요? 등록할때 와이파이는 어떻게 하면 되는지 궁금합니다."
-          },
-          {
-            "date": "2026-11-06",
-            "time": "16:11",
-            "who": "조교",
-            "quote": "와이파이 초코파이 애플파이 연결다하셔도됩니다"
-          },
-          {
-            "date": "2026-11-06",
-            "time": "16:11",
-            "who": "수강생",
-            "quote": "그럼 집에있는 와이파이 접속한 상태에서 등록해도 상관없다는 말씀이시죠?"
-          }
-        ],
-        "origin": "overdue",
-        "days_open": 23
-      },
-      {
-        "key": "드라마쇼츠-길이제한-저작권",
-        "kind": "question",
-        "title": "드라마 쇼츠의 저작권 길이 제한과 적용 조건 문의",
-        "detail": "좌우반전과 채도·명도·대비·배속 변경을 했는데도 일부 영상에 ‘저작권 소유자가 설정한 길이 제한을 초과하는 콘텐츠’가 표시됐다. 수강생은 1분 미만을 제안했고, 조교 답은 컷을 잘게 나누고 크게 확대한 본인 작업에서는 한 번도 걸리지 않았다는 경험이었다. 해당 경고가 뜬 조건과 문의자의 해결 여부는 확인되지 않았다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 5,
-        "tags": [
-          "드라마쇼츠",
-          "저작권",
-          "길이제한"
-        ],
-        "first_date": "2026-11-06",
-        "last_date": "2026-11-06",
-        "dates": [
-          "2026-11-06"
-        ],
-        "mention_count": 3,
-        "evidence": [
-          {
-            "date": "2026-11-06",
-            "time": "00:58",
-            "who": "수강생",
-            "quote": "원래 드라마 짜집기 해서 좌우반전 채도명도대비 영상배속도 바꾸고 했는데요.ㅠ 저작권 소유자가 설정한 길이 제한을 초과하는 콘텐츠라고 나와요.ㅠㅠ"
-          },
-          {
-            "date": "2026-11-06",
-            "time": "01:03",
-            "who": "수강생",
-            "quote": "해도해도 안되면 1분 미만으로 하면 해결 되실 거에요"
-          },
-          {
-            "date": "2026-11-06",
-            "time": "01:07",
-            "who": "조교",
-            "quote": "일단 저는 한번도 안걸렸어요 컷을 최대한 잘게 나누어쓰고 확대 그냥 빡세게 넣고 이렇게 하긴합니다"
-          }
-        ],
-        "origin": "overdue",
-        "days_open": 20
-      },
-      {
-        "key": "창작일러스트-썰쇼츠-수익화",
-        "kind": "question",
-        "title": "창작 대본 기반 일러스트 썰 쇼츠의 수익화 거절 문의",
-        "detail": "수강생은 강의에서 만든 창작형 대본과 프리셋을 바탕으로 일러스트 사연과 썰 쇼츠를 여러 개 제작해 뒀다. 업로드 전에 이 형식의 최근 수익창출 거절 사례나 위험을 확인하고 싶어 했다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 5,
-        "tags": [
-          "수익화",
-          "일러스트",
-          "썰쇼츠"
-        ],
-        "first_date": "2026-11-06",
-        "last_date": "2026-11-06",
-        "dates": [
-          "2026-11-06"
-        ],
-        "mention_count": 1,
-        "evidence": [
-          {
-            "date": "2026-11-06",
-            "time": "13:45",
-            "who": "수강생",
-            "quote": "일러스트 사연과 썰 쇼츠를 해보려고 많이 만들어 뒀는데요! 막상 올리려니 수익창출 거절 리스크가 있을 지 걸려서요^^;; 최근 동향이 어떤지 궁금합니다~~"
-          }
-        ],
-        "origin": "overdue",
-        "days_open": 20
-      },
-      {
-        "key": "픽셀링-저장위치-재변경",
-        "kind": "need",
-        "title": "구글 동기화 오류 재문의, PC 저장공간도 가득 참",
-        "detail": "수강생은 2일에 픽셀링 구글 동기화 오류를 문의했지만 답을 받지 못했고, PC 저장공간까지 가득 찼다고 했다. 강사 안내: 12:15에 점심 식사 후 답변을 요청했으며, 동기화 오류에 대한 실제 조치는 확인되지 않았다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 4,
-        "tags": [
-          "픽셀링",
-          "구글동기화",
-          "저장공간",
-          "저장위치",
-          "구글드라이브",
-          "루틴"
-        ],
-        "first_date": "2026-10-20",
-        "last_date": "2026-11-06",
-        "dates": [
-          "2026-10-20",
-          "2026-10-26",
-          "2026-10-28",
-          "2026-11-06"
-        ],
-        "mention_count": 10,
-        "evidence": [
-          {
-            "date": "2026-10-28",
-            "time": "12:06",
-            "who": "수강생",
-            "quote": "지난번에 룰쌤이 구글 드라이브 5TB에 저장공간 옮기는거 된다고 하셨는데 하신분 있어요? 픽셀링에 저장위치, 구글 대화 동기화 이렇게 두개가 있는데 뭘 해야되는거에요?"
-          },
-          {
-            "date": "2026-10-28",
-            "time": "12:51",
-            "who": "수강생",
-            "quote": "픽셀링에 설정-저장위치는 APFS 형식의 드라이브로 선택할 수 있다고 나와서요"
-          },
-          {
-            "date": "2026-10-28",
-            "time": "16:06",
-            "who": "수강생",
-            "quote": "다른 드라이브로 옮기기 하시면 백업용이 아니라 전부 옮겨 지는것으로 확인되는데~ 현재 폴더를 구글 드라이브로 옮기는게 오류가 있어서~ 수정중이라고 합니다~"
-          },
-          {
-            "date": "2026-11-06",
-            "time": "12:15",
-            "who": "수강생",
-            "quote": "픽셀링 구글동기화오류 문의 2일에 남겼는데 답은 바쁘신지 아직 답은없고 컴 저장공간은 다차서 어떻게 해야될지 모르겠어요ㅠ"
-          },
-          {
-            "date": "2026-11-06",
-            "time": "12:15",
-            "who": "강사",
-            "quote": "@수강생 해당부분 점심 식사 후 답변 부탁드려요 !!"
-          }
-        ],
-        "origin": "overdue",
-        "days_open": 37
-      },
-      {
-        "key": "픽셀링-용량정리-삭제범위",
-        "kind": "need",
-        "title": "프리셋 소재 렌더·프리셋정보 삭제 기준 필요",
-        "detail": "수강생은 프리셋 소재 렌더와 프리셋정보의 용량이 크고, 픽셀링에 물어도 저장위치를 찾지 못했다고 했다. 다른 수강생도 프리셋 작업이 C드라이브 용량을 차지하는지 물었다. 두 항목의 저장 경로와 삭제해도 되는 범위는 안내되지 않았다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 4,
-        "tags": [
-          "픽셀링",
-          "프리셋",
-          "저장공간",
-          "용량정리",
-          "파일삭제",
-          "데이터유실"
-        ],
-        "first_date": "2026-10-24",
-        "last_date": "2026-11-06",
-        "dates": [
-          "2026-10-24",
-          "2026-10-30",
-          "2026-11-05",
-          "2026-11-06"
-        ],
-        "mention_count": 5,
-        "evidence": [
-          {
-            "date": "2026-10-24",
-            "time": "16:19",
-            "who": "수강생",
-            "quote": "필셀링 용량이 너무 크다고 알려줘서 보니 5G정도 차지하고 있는데 이거를 다 지웠다가 내용이 지워질까봐 걱정이라"
-          },
-          {
-            "date": "2026-10-30",
-            "time": "16:34",
-            "who": "수강생",
-            "quote": "개발자님~ 픽셀링 폴더를 외장으로 옮겼는데요, 기존에 저장되던 폴더 삭제 그냥 해도 되는거죠?"
-          },
-          {
-            "date": "2026-11-05",
-            "time": "18:12",
-            "who": "수강생",
-            "quote": "요거2기ㅢ가 용량이 어마한데 픽셀링서는 정리가안되서 직접 폴더가서 날리고있는데 그러다보니 만들어진것도 날라가는 경우가있어서요ㅜ"
-          },
-          {
-            "date": "2026-11-06",
-            "time": "08:03",
-            "who": "수강생",
-            "quote": "프리셋 소재 렌더, 프리셋정보 이거 두가지 항목이 용량이 엄청큰데 정리하는 방법 없을까요?"
-          },
-          {
-            "date": "2026-11-06",
-            "time": "13:24",
-            "who": "수강생",
-            "quote": "픽셀링에서 프리셋작업 했던것이 C드라이브 용량차지하는데 영향을 끼치나요?"
-          }
-        ],
-        "origin": "overdue",
-        "days_open": 33
-      },
-      {
-        "key": "픽셀링-아스트라-모델변경",
-        "kind": "need",
-        "title": "Luna 전환 뒤 한도를 채워도 아스트라 복귀 경로가 필요",
-        "detail": "한도가 얼마 남지 않았다는 메시지에서 Luna 전환에 동의한 뒤 아스트라가 보이지 않았다. 강사 확인: 화면에는 루나와 테라만 보였다. 수강생은 한도를 다시 채운 뒤에도 모델 변경이 필요하고 작업하던 것을 찾을 수 없다고 했으며, 복귀 메뉴나 복구 여부는 확인되지 않았다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 4,
-        "tags": [
-          "픽셀링",
-          "아스트라",
-          "모델변경",
-          "모델 변경"
-        ],
-        "first_date": "2026-11-03",
-        "last_date": "2026-11-06",
-        "dates": [
-          "2026-11-03",
-          "2026-11-06"
-        ],
-        "mention_count": 4,
-        "evidence": [
-          {
-            "date": "2026-11-03",
-            "time": "01:57",
-            "who": "수강생",
-            "quote": "지금 처음으로 픽셀링 사용하려는데...왜 아스트라 모델로 변경이 안될까요? 연결은 되어있는데... 못찾겠어요"
-          },
-          {
-            "date": "2026-11-06",
-            "time": "13:19",
-            "who": "강사",
-            "quote": "루나 테라 만 보이시네용 !"
-          },
-          {
-            "date": "2026-11-06",
-            "time": "13:31",
-            "who": "수강생",
-            "quote": "한도가 얼마 안남았다고 Luna 로 바꿀까요 그래서 그래 했더니 이렇게 됬습니다"
-          },
-          {
-            "date": "2026-11-06",
-            "time": "14:09",
-            "who": "수강생",
-            "quote": "아스트라 변경이되야 작업이 될것같습니다 작업하던걸 찾을수 없다고 합니다"
-          }
-        ],
-        "origin": "overdue",
-        "days_open": 23
-      },
-      {
-        "key": "신규수강생-강의시청-동선",
-        "kind": "need",
-        "title": "신규반 첫 시청 순서와 강의별 위치를 한곳에 안내할 필요",
-        "detail": "새로 합류한 수강생들이 카페 정규강의부터 볼지, 픽셀링 강의와 조교 라이브를 어디에서 찾을지 따로 물었다. 강사 안내: 픽셀링 강의는 픽셀링에서 볼 수 있고 라이브 링크는 공지방·신규반·전체반 3곳에 시간에 맞춰 전달한다. 신규 OT와 정규강의, 라이브를 어떤 순서로 볼지에 대해서는 수강생 제안만 나왔다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 4,
-        "tags": [
-          "신규반",
-          "강의시청",
-          "라이브"
-        ],
-        "first_date": "2026-11-06",
-        "last_date": "2026-11-06",
-        "dates": [
-          "2026-11-06"
-        ],
-        "mention_count": 3,
-        "evidence": [
-          {
-            "date": "2026-11-06",
-            "time": "12:30",
-            "who": "강사",
-            "quote": "네네 픽셀링 강의는 별로 강의라 픽셀링에서 보실 수 있습니다 !"
-          },
-          {
-            "date": "2026-11-06",
-            "time": "17:32",
-            "who": "강사",
-            "quote": "라이브 링크는 공지방 신규반 전체반 3곳에 시간에 맞춰 전달드립니당 :)"
-          },
-          {
-            "date": "2026-11-06",
-            "time": "19:04",
-            "who": "수강생",
-            "quote": "안녕하세요. 5기 뉴비입니다. 뭐부터 시작해야할지 막막한데... 카페 정규강의부터 보면 될까요"
-          }
-        ],
-        "origin": "overdue",
-        "days_open": 20
-      },
-      {
-        "key": "양봉감독실-업데이트-제거오류",
-        "kind": "need",
-        "title": "양봉감독실 0.3.8 업데이트 오류와 별도 설치 파일 문의",
-        "detail": "양봉감독실 0.3.8 업데이트가 계속 실패해 별도 업데이트 파일을 받는 방법을 물었다. 공유된 캡처에 따르면 설치 창은 기존 앱 파일을 제거하지 못했다며 ‘Please try running the installer again: 2’를 표시했다. 조교 안내: 프로그램 관련 문의는 메일로 받으며, 별도 파일 제공이나 설치 성공은 확인되지 않았다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 4,
-        "tags": [
-          "양봉감독실",
-          "업데이트",
-          "설치오류"
-        ],
-        "first_date": "2026-11-06",
-        "last_date": "2026-11-06",
-        "dates": [
-          "2026-11-06"
-        ],
-        "mention_count": 3,
-        "evidence": [
-          {
-            "date": "2026-11-06",
-            "time": "20:49",
-            "who": "조교",
-            "quote": "양봉감독실 관련 모든 문의사항은 메일로 보내주세요"
-          },
-          {
-            "date": "2026-11-06",
-            "time": "21:55",
-            "who": "수강생",
-            "quote": "양봉 감독실 새 버전 0.3.8 준비 완료 업뎃이 계속 오류가 나는데요, 아형한테 물어보니 업뎃 파일을 따로 받으라는데, 어떻게 할수 있나요?"
-          },
-          {
-            "date": "2026-11-06",
-            "time": "21:56",
-            "who": "수강생",
-            "quote": "설치 오류 창: “Failed to uninstall old application files. Please try running the installer again: 2”",
-            "from": "image"
-          }
-        ],
-        "origin": "overdue",
-        "days_open": 20
-      },
-      {
-        "key": "카페-수업자료-다운로드",
-        "kind": "need",
-        "title": "카페 수업자료 다운로드 실패와 멤버 권한 문의 경로 필요",
-        "detail": "당일 수업의 프리셀 자료를 다운로드하지 못해 어디로 문의하는지 물었다. 일부 수강생은 게시물에 접속됐다고 했고, 다른 수강생은 가입했는데도 멤버가 아니라는 안내로 접근하지 못했다. 권한 확인이나 공식 문의 경로는 제시되지 않았다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 4,
-        "tags": [
-          "카페",
-          "수업자료",
-          "권한"
-        ],
-        "first_date": "2026-11-06",
-        "last_date": "2026-11-06",
-        "dates": [
-          "2026-11-06"
-        ],
-        "mention_count": 3,
-        "evidence": [
-          {
-            "date": "2026-11-06",
-            "time": "19:50",
-            "who": "수강생",
-            "quote": "디하클 카페 링크에서 자료를 볼수 없는 경우 어디에 문의해야하는지요?"
-          },
-          {
-            "date": "2026-11-06",
-            "time": "20:05",
-            "who": "수강생",
-            "quote": "오늘 수업 프리셀 자료 넣어 놓으셨다했는데요. 다운 로드 못했어요."
-          },
-          {
-            "date": "2026-11-06",
-            "time": "20:16",
-            "who": "수강생",
-            "quote": "오히려 제가 문제네요....가입 했는데 멤버 아니라고 못 들어가네요....ㅎ"
-          }
-        ],
-        "origin": "overdue",
-        "days_open": 20
-      },
-      {
-        "key": "듀얼넘버-알뜰폰-번호이동",
-        "kind": "question",
-        "title": "알뜰폰 번호이동 시 듀얼넘버 유지 조건 문의",
-        "detail": "수강생은 100원 같은 프로모션 요금제로 시작해 몇 달마다 옮길 때 듀얼넘버가 유지되는지, 처음부터 지원 통신사를 골라야 하는지 물었다. 수강생 경험: 시월모바일 월 440원 회선 1개와 와이즈모바일 월 550원 회선 2개를 구매했고 후자의 NFC 없는 유심은 5500원이었다. 두 요금제의 듀얼넘버 지원이나 번호이동 후 유지 여부는 확인되지 않았다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 3,
-        "tags": [
-          "알뜰폰",
-          "듀얼넘버",
-          "번호이동"
-        ],
-        "first_date": "2026-11-06",
-        "last_date": "2026-11-06",
-        "dates": [
-          "2026-11-06"
-        ],
-        "mention_count": 3,
-        "evidence": [
-          {
-            "date": "2026-11-06",
-            "time": "16:29",
-            "who": "수강생",
-            "quote": "알뜰폰을 그러면 평생 요금제로 가입해야 하는걸까요? 지피티에 물어보니 100원 같은 싼 요금제로 처음에 해서 몇달마다 옮기면 듀얼 넘버는 없어진다고 해서요!"
-          },
-          {
-            "date": "2026-11-06",
-            "time": "16:41",
-            "who": "수강생",
-            "quote": "시월모바일에서 월 440원 1개랑(10월말까지 행사로 유심도 무료), 와이즈모바일에서 월 550원(유심 5500원, NFC 없는 것으로)으로 2개 구매했습니당"
-          },
-          {
-            "date": "2026-11-06",
-            "time": "16:46",
-            "who": "수강생",
-            "quote": "모요에서 보고 있는데 애초에 듀얼넘버가 되는 통신사로 살지.. 그냥 처음에는 안되는거 사고 나중에 듀얼넘버되는곳으로 옮길지 그런 기준을 모르겠어서요~"
-          }
-        ],
-        "origin": "overdue",
-        "days_open": 20
-      },
-      {
-        "key": "픽셀링-롱폼-도입시점",
-        "kind": "question",
-        "title": "수요일에 예고한 픽셀링 롱폼 기능의 도입 일정 문의",
-        "detail": "수강생은 수요일 강의에서 언급한 픽셀링 롱폼 기능이 언제 들어오는지 물었다. 강사 답: 가격을 투명하게 보고 만들어야 한다고 했으며, 도입 날짜는 밝히지 않았다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 3,
-        "tags": [
-          "픽셀링",
-          "롱폼",
-          "일정"
-        ],
-        "first_date": "2026-11-06",
-        "last_date": "2026-11-06",
-        "dates": [
-          "2026-11-06"
-        ],
-        "mention_count": 2,
-        "evidence": [
-          {
-            "date": "2026-11-06",
-            "time": "12:13",
-            "who": "수강생",
-            "quote": "룰쌤 롱폼 언제들어오나요 픽셀링?? 손꼽아 기다리고 있습니다~"
-          },
-          {
-            "date": "2026-11-06",
-            "time": "12:14",
-            "who": "수강생",
-            "quote": "가격을 투명하게 보고 만들어야"
-          }
-        ],
-        "origin": "overdue",
-        "days_open": 20
-      },
-      {
-        "key": "픽셀링-오피스-프리텐다드",
-        "kind": "need",
-        "title": "전자책 마무리를 위해 픽셀링 오피스에 프리텐다드 요청",
-        "detail": "수강생은 전자책 최종 편집에 적용할 프리텐다드 폰트를 픽셀링 오피스에 추가해 달라고 했다. 폰트 추가나 사용 방법에 대한 답은 나오지 않았다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 3,
-        "tags": [
-          "픽셀링오피스",
-          "프리텐다드",
-          "전자책"
-        ],
-        "first_date": "2026-11-06",
-        "last_date": "2026-11-06",
-        "dates": [
-          "2026-11-06"
-        ],
-        "mention_count": 1,
-        "evidence": [
-          {
-            "date": "2026-11-06",
-            "time": "16:03",
-            "who": "수강생",
-            "quote": "픽셀링 오피스에 [프리텐다드] 폰트 사용할 수 있도록 넣어 주실수 있으실까요~~?? 전자책 만드는데 최종으로 폰트 적용하려고 합니다^^"
-          }
-        ],
-        "origin": "overdue",
         "days_open": 20
       }
     ],
     "question": [
+      {
+        "key": "재사용항소-실패후-채널운영",
+        "kind": "question",
+        "title": "재사용 항소 실패 채널은 테스트용 유지 사례만 공유",
+        "detail": "재사용 항소 실패 후 내년 2월에 재신청할 수 있지만 수익창출 조건이 달라지는 상황에서 채널을 어떻게 운영할지 물었다. 수강생 경험: 다른 채널을 키우면서 해당 채널은 테스트용으로 남겨두고 있다고 답했다. 재신청 시 조건 적용이나 채널 회복 가능성에 대한 확정 답은 없다.",
+        "answer": "수강생 답: 다른 채널을 키우면서 항소 실패 채널은 테스트용으로 유지하고 있다고 공유했다. 재신청 조건에 관한 답은 나오지 않았다.",
+        "answered_date": "2026-11-27",
+        "status": "answered",
+        "archived": false,
+        "importance": 5,
+        "tags": [
+          "재사용",
+          "항소",
+          "수익화"
+        ],
+        "first_date": "2026-11-27",
+        "last_date": "2026-11-27",
+        "dates": [
+          "2026-11-27"
+        ],
+        "mention_count": 2,
+        "evidence": [
+          {
+            "date": "2026-11-27",
+            "time": "15:16",
+            "who": "수강생",
+            "quote": "혹시 재사용 항소 실패한 채널은 어떻게 하세요?ㅠㅠ 내년2월에 다시할 수 있는데 그럼 수창 조건이 달라지는데 채널 날리는걸까요?"
+          },
+          {
+            "date": "2026-11-27",
+            "time": "15:45",
+            "who": "수강생",
+            "quote": "그 때까지 테스트 채널로 남겨놓으려구요 다른 채널 키우면서 테스트 채널로 남겨놨는데 재활용 되면 좋고 안되도 그만이라 생각하고 있어요..."
+          }
+        ]
+      },
+      {
+        "key": "도우인-샤오홍수-다운로드가입",
+        "kind": "question",
+        "title": "도우인·샤오홍수 다운로드 가입 필요 여부와 우회 차단",
+        "detail": "도우인과 샤오홍수의 영상을 다운로드하려면 회원가입이 필요한지 물었다. 수강생 답: 요즘은 가입해야 한다고 답했고, 이전에 안내한 apk파일 방식과 우회사이트가 막혀 다른 방법을 찾고 있다고 설명했다. 새 대체 방법은 제시되지 않았다.",
+        "answer": "수강생 답: 요즘은 가입해야 하며, 이전 apk파일 방식과 우회사이트는 막혀 다른 방법을 찾고 있다고 답했다.",
+        "answered_date": "2026-11-27",
+        "status": "answered",
+        "archived": false,
+        "importance": 4,
+        "tags": [
+          "도우인",
+          "샤오홍수",
+          "다운로드"
+        ],
+        "first_date": "2026-11-27",
+        "last_date": "2026-11-27",
+        "dates": [
+          "2026-11-27"
+        ],
+        "mention_count": 2,
+        "evidence": [
+          {
+            "date": "2026-11-27",
+            "time": "17:14",
+            "who": "수강생",
+            "quote": "중국 도우인. 샤오홍수(레드노트) 사이트 회원가입을 해야만 다운로드 가능한가요?~~"
+          },
+          {
+            "date": "2026-11-27",
+            "time": "17:16",
+            "who": "수강생",
+            "quote": "전에 apk파일로 돌파하는 방법, 이후 우회사이트 알려드렸는데 막혀서 다른방법 찾고있습니다!"
+          }
+        ]
+      },
+      {
+        "key": "인스타-오리지널콘텐츠-노출제한",
+        "kind": "question",
+        "title": "인스타 원테이크 노출제한에 영상 혼합·컷편집 답변",
+        "detail": "원테이크 영상에 오리지널 콘텐츠가 아니라는 표시와 노출제한이 생겨 원인을 물었다. 수강생 답: 중복도 개념이 없는 것은 아니라며 영상 두 개 혼합, 좌우반전, 컷편집을 제안했다. 해당 조치 후 제한이 해제됐다는 결과나 공식 답은 없다.",
+        "answer": "수강생 답: 중복도 개념이 낮을 뿐 없지는 않으며, 영상 두 개를 섞고 좌우반전과 컷편집을 넣으라고 답했다.",
+        "answered_date": "2026-11-27",
+        "status": "answered",
+        "archived": false,
+        "importance": 4,
+        "tags": [
+          "인스타",
+          "중복도",
+          "노출제한"
+        ],
+        "first_date": "2026-11-27",
+        "last_date": "2026-11-27",
+        "dates": [
+          "2026-11-27"
+        ],
+        "mention_count": 2,
+        "evidence": [
+          {
+            "date": "2026-11-27",
+            "time": "08:35",
+            "who": "수강생",
+            "quote": "인스타는 중복도개념이 없다셔서 클립영상을 섞지는 않았는데 노출제한이 되어있네요ㅠㅎ"
+          },
+          {
+            "date": "2026-11-27",
+            "time": "10:51",
+            "who": "수강생",
+            "quote": "중복도 개념이 낮은거지 없는건 아니에요! 영상 두개 섞고 좌우반전넣고 컷편집 넣으면 됩니다"
+          }
+        ]
+      },
+      {
+        "key": "챌린지-카페인증-누락",
+        "kind": "question",
+        "title": "매일 업로드해도 카페 인증이 4일 비면 재시작인가",
+        "detail": "쇼츠는 매일 올렸지만 카페 인증 글을 빠뜨려 4일 만에 게시한 경우의 챌린지 인정 기준을 물었다. 처음부터 다시 시작해야 하는지에 대한 답은 나오지 않았다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 4,
+        "tags": [
+          "챌린지",
+          "인증",
+          "제출기준"
+        ],
+        "first_date": "2026-11-27",
+        "last_date": "2026-11-27",
+        "dates": [
+          "2026-11-27"
+        ],
+        "mention_count": 1,
+        "evidence": [
+          {
+            "date": "2026-11-27",
+            "time": "10:16",
+            "who": "수강생",
+            "quote": "쇼츠는 매일 올리고 있었는데 디하클 카페에 글 올리는걸 깜박해서 4일만에 글을 올렸다면 다시 처음부터 시작해야 하는걸까요???"
+          }
+        ]
+      },
+      {
+        "key": "롱폼-야담-노출저조",
+        "kind": "question",
+        "title": "야담 롱폼 노출 천대 이하가 소재 중복 때문인지 질문",
+        "detail": "야담 롱폼의 노출수가 천대 이하인 상황에서 소재 중복도가 원인인지 물었다. 해당 롱폼의 노출 원인을 구체적으로 설명한 답은 나오지 않았다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 3,
+        "tags": [
+          "야담",
+          "롱폼",
+          "노출"
+        ],
+        "first_date": "2026-11-27",
+        "last_date": "2026-11-27",
+        "dates": [
+          "2026-11-27"
+        ],
+        "mention_count": 1,
+        "evidence": [
+          {
+            "date": "2026-11-27",
+            "time": "13:44",
+            "who": "수강생",
+            "quote": "롱폼 노출이 잘 안되는 이유는 소재 중복도 때문인가요? 야담하는데 노출수가 천대 이하이면 뭐가 문제인가요?"
+          }
+        ]
+      },
+      {
+        "key": "픽셀링-api키-재입력실패",
+        "kind": "question",
+        "title": "API키 재입력으로 복구 안 될 때 새 대화창이 필요한가",
+        "detail": "API키가 풀린 뒤 다시 입력해도 소용없다며 새 대화창을 만들어야 하는지 물었다. 복구 방법이나 새 대화창에서 해결됐다는 결과는 없다.",
+        "answer": "",
+        "answered_date": "",
+        "status": "unanswered",
+        "archived": false,
+        "importance": 3,
+        "tags": [
+          "API키",
+          "대화창",
+          "연결오류"
+        ],
+        "first_date": "2026-11-27",
+        "last_date": "2026-11-27",
+        "dates": [
+          "2026-11-27"
+        ],
+        "mention_count": 1,
+        "evidence": [
+          {
+            "date": "2026-11-27",
+            "time": "14:37",
+            "who": "수강생",
+            "quote": "키 저렇게 풀려버리면 새로운 대화창하는 수밖에없나요? API키 다시 아무리 넣어도 소용없네요"
+          }
+        ]
+      },
       {
         "key": "시장조사-트렌드-판단",
         "kind": "question",
@@ -8813,36 +8521,6 @@
             "time": "13:33",
             "who": "수강생",
             "quote": "관련은 쌓인 수익은 줍니당"
-          }
-        ]
-      },
-      {
-        "key": "더우인-우회사이트-검색불가",
-        "kind": "question",
-        "title": "더우인 우회사이트에서 여러 검색어의 결과가 없음",
-        "detail": "더우인 우회사이트에서 사과·이불·딸기를 검색해도 '검색결과가 없습니다'가 계속 표시된다고 질문했다. 컴퓨터 문제인지 물었으나 원인이나 해결 방법에 대한 답은 없다.",
-        "answer": "",
-        "answered_date": "",
-        "status": "unanswered",
-        "archived": false,
-        "importance": 3,
-        "tags": [
-          "더우인",
-          "소재검색",
-          "검색오류"
-        ],
-        "first_date": "2026-11-25",
-        "last_date": "2026-11-25",
-        "dates": [
-          "2026-11-25"
-        ],
-        "mention_count": 1,
-        "evidence": [
-          {
-            "date": "2026-11-25",
-            "time": "21:38",
-            "who": "수강생",
-            "quote": "오늘 더우인 우회사이트에서 조회가 안되네요 검색결과가 없습니다 로 계속뜨는데 제컴이 이상한건가요? 검색어는 사과 .이불. 딸기..."
           }
         ]
       },
@@ -13581,6 +13259,554 @@
   },
   "archived": [
     {
+      "key": "구매채널-계정기기-분리안내",
+      "kind": "need",
+      "title": "구매 계정을 초기화폰 한 대에 모두 등록해도 되는지 문의",
+      "detail": "구매한 깡통계정을 초기화한 휴대폰에 전부 등록하는지와 등록할 때 와이파이를 어떻게 쓰는지 함께 물었다. 조교 답: 와이파이에 연결해도 된다고 했다. 초기화한 한 기기에 전부 등록해도 되는지에 대한 안내는 나오지 않았다.",
+      "answer": "",
+      "answered_date": "",
+      "status": "unanswered",
+      "archived": true,
+      "importance": 5,
+      "tags": [
+        "구매계정",
+        "공기계",
+        "와이파이",
+        "구매채널",
+        "계정",
+        "수익화"
+      ],
+      "first_date": "2026-11-03",
+      "last_date": "2026-11-06",
+      "dates": [
+        "2026-11-03",
+        "2026-11-05",
+        "2026-11-06"
+      ],
+      "mention_count": 8,
+      "evidence": [
+        {
+          "date": "2026-11-05",
+          "time": "11:23",
+          "who": "수강생",
+          "quote": "구매한 수창 채널의 경우 깡통계정으로 받아야 할까요? 채널 판매자는 제가 원하면 계정까지 같이 줄 수 있다 이렇게 이야기하는데 어떤 것이 맞는지 모르겠네요."
+        },
+        {
+          "date": "2026-11-05",
+          "time": "11:31",
+          "who": "수강생",
+          "quote": "계정을 받는건 어떤 계정으로 받아도 상관없고 통으로 받아도 괜찮고 그래용"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "16:10",
+          "who": "수강생",
+          "quote": "깡통계정을 구매하는 경우 기존에 강의하신대로 초기화된 휴대폰에 전부 등록하면 되는건가요? 등록할때 와이파이는 어떻게 하면 되는지 궁금합니다."
+        },
+        {
+          "date": "2026-11-06",
+          "time": "16:11",
+          "who": "조교",
+          "quote": "와이파이 초코파이 애플파이 연결다하셔도됩니다"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "16:11",
+          "who": "수강생",
+          "quote": "그럼 집에있는 와이파이 접속한 상태에서 등록해도 상관없다는 말씀이시죠?"
+        }
+      ],
+      "days_open": 24
+    },
+    {
+      "key": "듀얼넘버-알뜰폰-번호이동",
+      "kind": "question",
+      "title": "알뜰폰 번호이동 시 듀얼넘버 유지 조건 문의",
+      "detail": "수강생은 100원 같은 프로모션 요금제로 시작해 몇 달마다 옮길 때 듀얼넘버가 유지되는지, 처음부터 지원 통신사를 골라야 하는지 물었다. 수강생 경험: 시월모바일 월 440원 회선 1개와 와이즈모바일 월 550원 회선 2개를 구매했고 후자의 NFC 없는 유심은 5500원이었다. 두 요금제의 듀얼넘버 지원이나 번호이동 후 유지 여부는 확인되지 않았다.",
+      "answer": "",
+      "answered_date": "",
+      "status": "unanswered",
+      "archived": true,
+      "importance": 3,
+      "tags": [
+        "알뜰폰",
+        "듀얼넘버",
+        "번호이동"
+      ],
+      "first_date": "2026-11-06",
+      "last_date": "2026-11-06",
+      "dates": [
+        "2026-11-06"
+      ],
+      "mention_count": 3,
+      "evidence": [
+        {
+          "date": "2026-11-06",
+          "time": "16:29",
+          "who": "수강생",
+          "quote": "알뜰폰을 그러면 평생 요금제로 가입해야 하는걸까요? 지피티에 물어보니 100원 같은 싼 요금제로 처음에 해서 몇달마다 옮기면 듀얼 넘버는 없어진다고 해서요!"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "16:41",
+          "who": "수강생",
+          "quote": "시월모바일에서 월 440원 1개랑(10월말까지 행사로 유심도 무료), 와이즈모바일에서 월 550원(유심 5500원, NFC 없는 것으로)으로 2개 구매했습니당"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "16:46",
+          "who": "수강생",
+          "quote": "모요에서 보고 있는데 애초에 듀얼넘버가 되는 통신사로 살지.. 그냥 처음에는 안되는거 사고 나중에 듀얼넘버되는곳으로 옮길지 그런 기준을 모르겠어서요~"
+        }
+      ],
+      "days_open": 21
+    },
+    {
+      "key": "드라마쇼츠-길이제한-저작권",
+      "kind": "question",
+      "title": "드라마 쇼츠의 저작권 길이 제한과 적용 조건 문의",
+      "detail": "좌우반전과 채도·명도·대비·배속 변경을 했는데도 일부 영상에 ‘저작권 소유자가 설정한 길이 제한을 초과하는 콘텐츠’가 표시됐다. 수강생은 1분 미만을 제안했고, 조교 답은 컷을 잘게 나누고 크게 확대한 본인 작업에서는 한 번도 걸리지 않았다는 경험이었다. 해당 경고가 뜬 조건과 문의자의 해결 여부는 확인되지 않았다.",
+      "answer": "",
+      "answered_date": "",
+      "status": "unanswered",
+      "archived": true,
+      "importance": 5,
+      "tags": [
+        "드라마쇼츠",
+        "저작권",
+        "길이제한"
+      ],
+      "first_date": "2026-11-06",
+      "last_date": "2026-11-06",
+      "dates": [
+        "2026-11-06"
+      ],
+      "mention_count": 3,
+      "evidence": [
+        {
+          "date": "2026-11-06",
+          "time": "00:58",
+          "who": "수강생",
+          "quote": "원래 드라마 짜집기 해서 좌우반전 채도명도대비 영상배속도 바꾸고 했는데요.ㅠ 저작권 소유자가 설정한 길이 제한을 초과하는 콘텐츠라고 나와요.ㅠㅠ"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "01:03",
+          "who": "수강생",
+          "quote": "해도해도 안되면 1분 미만으로 하면 해결 되실 거에요"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "01:07",
+          "who": "조교",
+          "quote": "일단 저는 한번도 안걸렸어요 컷을 최대한 잘게 나누어쓰고 확대 그냥 빡세게 넣고 이렇게 하긴합니다"
+        }
+      ],
+      "days_open": 21
+    },
+    {
+      "key": "신규수강생-강의시청-동선",
+      "kind": "need",
+      "title": "신규반 첫 시청 순서와 강의별 위치를 한곳에 안내할 필요",
+      "detail": "새로 합류한 수강생들이 카페 정규강의부터 볼지, 픽셀링 강의와 조교 라이브를 어디에서 찾을지 따로 물었다. 강사 안내: 픽셀링 강의는 픽셀링에서 볼 수 있고 라이브 링크는 공지방·신규반·전체반 3곳에 시간에 맞춰 전달한다. 신규 OT와 정규강의, 라이브를 어떤 순서로 볼지에 대해서는 수강생 제안만 나왔다.",
+      "answer": "",
+      "answered_date": "",
+      "status": "unanswered",
+      "archived": true,
+      "importance": 4,
+      "tags": [
+        "신규반",
+        "강의시청",
+        "라이브"
+      ],
+      "first_date": "2026-11-06",
+      "last_date": "2026-11-06",
+      "dates": [
+        "2026-11-06"
+      ],
+      "mention_count": 3,
+      "evidence": [
+        {
+          "date": "2026-11-06",
+          "time": "12:30",
+          "who": "강사",
+          "quote": "네네 픽셀링 강의는 별로 강의라 픽셀링에서 보실 수 있습니다 !"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "17:32",
+          "who": "강사",
+          "quote": "라이브 링크는 공지방 신규반 전체반 3곳에 시간에 맞춰 전달드립니당 :)"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "19:04",
+          "who": "수강생",
+          "quote": "안녕하세요. 5기 뉴비입니다. 뭐부터 시작해야할지 막막한데... 카페 정규강의부터 보면 될까요"
+        }
+      ],
+      "days_open": 21
+    },
+    {
+      "key": "양봉감독실-업데이트-제거오류",
+      "kind": "need",
+      "title": "양봉감독실 0.3.8 업데이트 오류와 별도 설치 파일 문의",
+      "detail": "양봉감독실 0.3.8 업데이트가 계속 실패해 별도 업데이트 파일을 받는 방법을 물었다. 공유된 캡처에 따르면 설치 창은 기존 앱 파일을 제거하지 못했다며 ‘Please try running the installer again: 2’를 표시했다. 조교 안내: 프로그램 관련 문의는 메일로 받으며, 별도 파일 제공이나 설치 성공은 확인되지 않았다.",
+      "answer": "",
+      "answered_date": "",
+      "status": "unanswered",
+      "archived": true,
+      "importance": 4,
+      "tags": [
+        "양봉감독실",
+        "업데이트",
+        "설치오류"
+      ],
+      "first_date": "2026-11-06",
+      "last_date": "2026-11-06",
+      "dates": [
+        "2026-11-06"
+      ],
+      "mention_count": 3,
+      "evidence": [
+        {
+          "date": "2026-11-06",
+          "time": "20:49",
+          "who": "조교",
+          "quote": "양봉감독실 관련 모든 문의사항은 메일로 보내주세요"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "21:55",
+          "who": "수강생",
+          "quote": "양봉 감독실 새 버전 0.3.8 준비 완료 업뎃이 계속 오류가 나는데요, 아형한테 물어보니 업뎃 파일을 따로 받으라는데, 어떻게 할수 있나요?"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "21:56",
+          "who": "수강생",
+          "quote": "설치 오류 창: “Failed to uninstall old application files. Please try running the installer again: 2”",
+          "from": "image"
+        }
+      ],
+      "days_open": 21
+    },
+    {
+      "key": "창작일러스트-썰쇼츠-수익화",
+      "kind": "question",
+      "title": "창작 대본 기반 일러스트 썰 쇼츠의 수익화 거절 문의",
+      "detail": "수강생은 강의에서 만든 창작형 대본과 프리셋을 바탕으로 일러스트 사연과 썰 쇼츠를 여러 개 제작해 뒀다. 업로드 전에 이 형식의 최근 수익창출 거절 사례나 위험을 확인하고 싶어 했다.",
+      "answer": "",
+      "answered_date": "",
+      "status": "unanswered",
+      "archived": true,
+      "importance": 5,
+      "tags": [
+        "수익화",
+        "일러스트",
+        "썰쇼츠"
+      ],
+      "first_date": "2026-11-06",
+      "last_date": "2026-11-06",
+      "dates": [
+        "2026-11-06"
+      ],
+      "mention_count": 1,
+      "evidence": [
+        {
+          "date": "2026-11-06",
+          "time": "13:45",
+          "who": "수강생",
+          "quote": "일러스트 사연과 썰 쇼츠를 해보려고 많이 만들어 뒀는데요! 막상 올리려니 수익창출 거절 리스크가 있을 지 걸려서요^^;; 최근 동향이 어떤지 궁금합니다~~"
+        }
+      ],
+      "days_open": 21
+    },
+    {
+      "key": "카페-수업자료-다운로드",
+      "kind": "need",
+      "title": "카페 수업자료 다운로드 실패와 멤버 권한 문의 경로 필요",
+      "detail": "당일 수업의 프리셀 자료를 다운로드하지 못해 어디로 문의하는지 물었다. 일부 수강생은 게시물에 접속됐다고 했고, 다른 수강생은 가입했는데도 멤버가 아니라는 안내로 접근하지 못했다. 권한 확인이나 공식 문의 경로는 제시되지 않았다.",
+      "answer": "",
+      "answered_date": "",
+      "status": "unanswered",
+      "archived": true,
+      "importance": 4,
+      "tags": [
+        "카페",
+        "수업자료",
+        "권한"
+      ],
+      "first_date": "2026-11-06",
+      "last_date": "2026-11-06",
+      "dates": [
+        "2026-11-06"
+      ],
+      "mention_count": 3,
+      "evidence": [
+        {
+          "date": "2026-11-06",
+          "time": "19:50",
+          "who": "수강생",
+          "quote": "디하클 카페 링크에서 자료를 볼수 없는 경우 어디에 문의해야하는지요?"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "20:05",
+          "who": "수강생",
+          "quote": "오늘 수업 프리셀 자료 넣어 놓으셨다했는데요. 다운 로드 못했어요."
+        },
+        {
+          "date": "2026-11-06",
+          "time": "20:16",
+          "who": "수강생",
+          "quote": "오히려 제가 문제네요....가입 했는데 멤버 아니라고 못 들어가네요....ㅎ"
+        }
+      ],
+      "days_open": 21
+    },
+    {
+      "key": "픽셀링-롱폼-도입시점",
+      "kind": "question",
+      "title": "수요일에 예고한 픽셀링 롱폼 기능의 도입 일정 문의",
+      "detail": "수강생은 수요일 강의에서 언급한 픽셀링 롱폼 기능이 언제 들어오는지 물었다. 강사 답: 가격을 투명하게 보고 만들어야 한다고 했으며, 도입 날짜는 밝히지 않았다.",
+      "answer": "",
+      "answered_date": "",
+      "status": "unanswered",
+      "archived": true,
+      "importance": 3,
+      "tags": [
+        "픽셀링",
+        "롱폼",
+        "일정"
+      ],
+      "first_date": "2026-11-06",
+      "last_date": "2026-11-06",
+      "dates": [
+        "2026-11-06"
+      ],
+      "mention_count": 2,
+      "evidence": [
+        {
+          "date": "2026-11-06",
+          "time": "12:13",
+          "who": "수강생",
+          "quote": "룰쌤 롱폼 언제들어오나요 픽셀링?? 손꼽아 기다리고 있습니다~"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "12:14",
+          "who": "수강생",
+          "quote": "가격을 투명하게 보고 만들어야"
+        }
+      ],
+      "days_open": 21
+    },
+    {
+      "key": "픽셀링-아스트라-모델변경",
+      "kind": "need",
+      "title": "Luna 전환 뒤 한도를 채워도 아스트라 복귀 경로가 필요",
+      "detail": "한도가 얼마 남지 않았다는 메시지에서 Luna 전환에 동의한 뒤 아스트라가 보이지 않았다. 강사 확인: 화면에는 루나와 테라만 보였다. 수강생은 한도를 다시 채운 뒤에도 모델 변경이 필요하고 작업하던 것을 찾을 수 없다고 했으며, 복귀 메뉴나 복구 여부는 확인되지 않았다.",
+      "answer": "",
+      "answered_date": "",
+      "status": "unanswered",
+      "archived": true,
+      "importance": 4,
+      "tags": [
+        "픽셀링",
+        "아스트라",
+        "모델변경",
+        "모델 변경"
+      ],
+      "first_date": "2026-11-03",
+      "last_date": "2026-11-06",
+      "dates": [
+        "2026-11-03",
+        "2026-11-06"
+      ],
+      "mention_count": 4,
+      "evidence": [
+        {
+          "date": "2026-11-03",
+          "time": "01:57",
+          "who": "수강생",
+          "quote": "지금 처음으로 픽셀링 사용하려는데...왜 아스트라 모델로 변경이 안될까요? 연결은 되어있는데... 못찾겠어요"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "13:19",
+          "who": "강사",
+          "quote": "루나 테라 만 보이시네용 !"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "13:31",
+          "who": "수강생",
+          "quote": "한도가 얼마 안남았다고 Luna 로 바꿀까요 그래서 그래 했더니 이렇게 됬습니다"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "14:09",
+          "who": "수강생",
+          "quote": "아스트라 변경이되야 작업이 될것같습니다 작업하던걸 찾을수 없다고 합니다"
+        }
+      ],
+      "days_open": 24
+    },
+    {
+      "key": "픽셀링-오피스-프리텐다드",
+      "kind": "need",
+      "title": "전자책 마무리를 위해 픽셀링 오피스에 프리텐다드 요청",
+      "detail": "수강생은 전자책 최종 편집에 적용할 프리텐다드 폰트를 픽셀링 오피스에 추가해 달라고 했다. 폰트 추가나 사용 방법에 대한 답은 나오지 않았다.",
+      "answer": "",
+      "answered_date": "",
+      "status": "unanswered",
+      "archived": true,
+      "importance": 3,
+      "tags": [
+        "픽셀링오피스",
+        "프리텐다드",
+        "전자책"
+      ],
+      "first_date": "2026-11-06",
+      "last_date": "2026-11-06",
+      "dates": [
+        "2026-11-06"
+      ],
+      "mention_count": 1,
+      "evidence": [
+        {
+          "date": "2026-11-06",
+          "time": "16:03",
+          "who": "수강생",
+          "quote": "픽셀링 오피스에 [프리텐다드] 폰트 사용할 수 있도록 넣어 주실수 있으실까요~~?? 전자책 만드는데 최종으로 폰트 적용하려고 합니다^^"
+        }
+      ],
+      "days_open": 21
+    },
+    {
+      "key": "픽셀링-용량정리-삭제범위",
+      "kind": "need",
+      "title": "프리셋 소재 렌더·프리셋정보 삭제 기준 필요",
+      "detail": "수강생은 프리셋 소재 렌더와 프리셋정보의 용량이 크고, 픽셀링에 물어도 저장위치를 찾지 못했다고 했다. 다른 수강생도 프리셋 작업이 C드라이브 용량을 차지하는지 물었다. 두 항목의 저장 경로와 삭제해도 되는 범위는 안내되지 않았다.",
+      "answer": "",
+      "answered_date": "",
+      "status": "unanswered",
+      "archived": true,
+      "importance": 4,
+      "tags": [
+        "픽셀링",
+        "프리셋",
+        "저장공간",
+        "용량정리",
+        "파일삭제",
+        "데이터유실"
+      ],
+      "first_date": "2026-10-24",
+      "last_date": "2026-11-06",
+      "dates": [
+        "2026-10-24",
+        "2026-10-30",
+        "2026-11-05",
+        "2026-11-06"
+      ],
+      "mention_count": 5,
+      "evidence": [
+        {
+          "date": "2026-10-24",
+          "time": "16:19",
+          "who": "수강생",
+          "quote": "필셀링 용량이 너무 크다고 알려줘서 보니 5G정도 차지하고 있는데 이거를 다 지웠다가 내용이 지워질까봐 걱정이라"
+        },
+        {
+          "date": "2026-10-30",
+          "time": "16:34",
+          "who": "수강생",
+          "quote": "개발자님~ 픽셀링 폴더를 외장으로 옮겼는데요, 기존에 저장되던 폴더 삭제 그냥 해도 되는거죠?"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "18:12",
+          "who": "수강생",
+          "quote": "요거2기ㅢ가 용량이 어마한데 픽셀링서는 정리가안되서 직접 폴더가서 날리고있는데 그러다보니 만들어진것도 날라가는 경우가있어서요ㅜ"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "08:03",
+          "who": "수강생",
+          "quote": "프리셋 소재 렌더, 프리셋정보 이거 두가지 항목이 용량이 엄청큰데 정리하는 방법 없을까요?"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "13:24",
+          "who": "수강생",
+          "quote": "픽셀링에서 프리셋작업 했던것이 C드라이브 용량차지하는데 영향을 끼치나요?"
+        }
+      ],
+      "days_open": 34
+    },
+    {
+      "key": "픽셀링-저장위치-재변경",
+      "kind": "need",
+      "title": "구글 동기화 오류 재문의, PC 저장공간도 가득 참",
+      "detail": "수강생은 2일에 픽셀링 구글 동기화 오류를 문의했지만 답을 받지 못했고, PC 저장공간까지 가득 찼다고 했다. 강사 안내: 12:15에 점심 식사 후 답변을 요청했으며, 동기화 오류에 대한 실제 조치는 확인되지 않았다.",
+      "answer": "",
+      "answered_date": "",
+      "status": "unanswered",
+      "archived": true,
+      "importance": 4,
+      "tags": [
+        "픽셀링",
+        "구글동기화",
+        "저장공간",
+        "저장위치",
+        "구글드라이브",
+        "루틴"
+      ],
+      "first_date": "2026-10-20",
+      "last_date": "2026-11-06",
+      "dates": [
+        "2026-10-20",
+        "2026-10-26",
+        "2026-10-28",
+        "2026-11-06"
+      ],
+      "mention_count": 10,
+      "evidence": [
+        {
+          "date": "2026-10-28",
+          "time": "12:06",
+          "who": "수강생",
+          "quote": "지난번에 룰쌤이 구글 드라이브 5TB에 저장공간 옮기는거 된다고 하셨는데 하신분 있어요? 픽셀링에 저장위치, 구글 대화 동기화 이렇게 두개가 있는데 뭘 해야되는거에요?"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "12:51",
+          "who": "수강생",
+          "quote": "픽셀링에 설정-저장위치는 APFS 형식의 드라이브로 선택할 수 있다고 나와서요"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "16:06",
+          "who": "수강생",
+          "quote": "다른 드라이브로 옮기기 하시면 백업용이 아니라 전부 옮겨 지는것으로 확인되는데~ 현재 폴더를 구글 드라이브로 옮기는게 오류가 있어서~ 수정중이라고 합니다~"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "12:15",
+          "who": "수강생",
+          "quote": "픽셀링 구글동기화오류 문의 2일에 남겼는데 답은 바쁘신지 아직 답은없고 컴 저장공간은 다차서 어떻게 해야될지 모르겠어요ㅠ"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "12:15",
+          "who": "강사",
+          "quote": "@수강생 해당부분 점심 식사 후 답변 부탁드려요 !!"
+        }
+      ],
+      "days_open": 38
+    },
+    {
       "key": "공기계-초기화-sd카드",
       "kind": "question",
       "title": "공기계 초기화 후 SD카드 백업이 남아도 되나",
@@ -13609,7 +13835,7 @@
           "quote": "깡계를 만들고 공폰에 로그인하려는데요 공폰에서 초기화할때 sd카드에 백업된데이터는 삭제되지 않는다는데 상관없는걸까요? 그런상태로 사용해도 될런지요?"
         }
       ],
-      "days_open": 21
+      "days_open": 22
     },
     {
       "key": "네이버클립-설정-업로드실습",
@@ -13640,7 +13866,7 @@
           "quote": "감사합니다~ 혹시 다음 수업때 네이버커넥트랑 클립 설정등 영상 올리는 방법등 상세설명이 있을까용?"
         }
       ],
-      "days_open": 21
+      "days_open": 22
     },
     {
       "key": "쇼츠-효과음-일분초과",
@@ -13671,7 +13897,7 @@
           "quote": "효과음 같은것도 1분 쇼츠에는 ㄱㅊ은데 1분 이상 쇼츠에 짧게라도 사용하면 유튜브에서 걸리나요?"
         }
       ],
-      "days_open": 21
+      "days_open": 22
     },
     {
       "key": "야담-교훈메시지-출력명령",
@@ -13702,7 +13928,7 @@
           "quote": "조교님 저는 교훈메시지는 안 나오고 작가의말만 나오는데 교훈메시지나 에필로그를 나오게 하려면 \"다음\" 외에 다른 명령을 해야 하는 걸까요"
         }
       ],
-      "days_open": 21
+      "days_open": 22
     },
     {
       "key": "픽셀링-리스트업-사용안내",
@@ -13746,7 +13972,7 @@
           "quote": "오 꿀팁 리스트업해야된다고 하셨는데 리스트업 페이지 사용하는법을 찾지를 못하고있어요 3일이면 그사이에 리스트업채널 찾아 넣을수 있지 않을까요"
         }
       ],
-      "days_open": 21
+      "days_open": 22
     },
     {
       "key": "픽셀링-영상제작-engine2오류",
@@ -13784,7 +14010,7 @@
           "quote": "혹시 다른 개발자님들께서도 제 오류 한번 확인해주실 수 있을까요ㅜㅜ 계속 시도하는데도 계속 동일한 오류(engine2_unavailable)로 실패했다고 뜹니다~"
         }
       ],
-      "days_open": 21
+      "days_open": 22
     },
     {
       "key": "nexlev-검색-추가연동",
@@ -13821,7 +14047,7 @@
           "quote": "혹시 룰쌤이 게릴라나 라이브에서 앞으로 뭘더 추가해서 쓰신다고 했는지 궁금해서 여쭤봤어요"
         }
       ],
-      "days_open": 22
+      "days_open": 23
     },
     {
       "key": "깡계-공기계-로그인",
@@ -13852,7 +14078,7 @@
           "quote": "구글 계정 가입할때 전화번호인증 없이 가입 후 폰에서 기기삭제 후 PC에 로그인해서 업로드 중인데 꼭 공기계에 계정을 다 로그인시켜서 할 필요는 없는거죵..?"
         }
       ],
-      "days_open": 22
+      "days_open": 23
     },
     {
       "key": "전자책-제작-가이드",
@@ -13889,7 +14115,7 @@
           "quote": "모닝 특강중 일부의 내용이었습니다. 전자책 제작은 아스트라에게 명령 내리고 잡도리 몇번 하면 아주 쉽게 제작 하실수 있으니 화이팅입니다."
         }
       ],
-      "days_open": 22
+      "days_open": 23
     },
     {
       "key": "픽셀링-api키-저장유실",
@@ -13926,7 +14152,7 @@
           "quote": "@수강생 @수강생 점심 식사후 확인 부탁드려요 !"
         }
       ],
-      "days_open": 22
+      "days_open": 23
     },
     {
       "key": "픽셀링-센터오류-채팅창",
@@ -13984,7 +14210,7 @@
           "quote": "일단 그리 해보시고 끈 김에 디드라이브 공간 확보도 하고 그래도 안되면 고객센터 문의해 보셔요"
         }
       ],
-      "days_open": 33
+      "days_open": 34
     },
     {
       "key": "픽셀링-프리랜서-기능",
@@ -14014,7 +14240,7 @@
           "quote": "픽셀링 프리랜서 맡길때 사용할수있게? 하는 기능 나왔나요?"
         }
       ],
-      "days_open": 22
+      "days_open": 23
     },
     {
       "key": "kie-api키-결제조건",
@@ -14045,7 +14271,7 @@
           "quote": "kie api키 복사하는게 없는데 결제해야지만 복제 가능한가요? 타입캐스트,kie,일레븐 랩스 전부 결제해서 사용하나요?"
         }
       ],
-      "days_open": 23
+      "days_open": 24
     },
     {
       "key": "디자인-잡도리-지침서",
@@ -14076,7 +14302,7 @@
           "quote": "룰루 5주차에서 공유한다고 한 디자인 잡도리 디테일 지침서 링크 부탁드립니다"
         }
       ],
-      "days_open": 23
+      "days_open": 24
     },
     {
       "key": "수작업영상-경쟁강도-선택",
@@ -14107,7 +14333,7 @@
           "quote": "픽셀링을 써서 나오는 영상이 비교적 경쟁강도가 더 올라가는거같아서 손품을 좀 타는 영상들을 하는게 오히려 좋을수도 있으려나?"
         }
       ],
-      "days_open": 23
+      "days_open": 24
     },
     {
       "key": "아스트라-프로-구독필수",
@@ -14138,7 +14364,7 @@
           "quote": "아스트라 프로 구독 필수인가요? 프로는 기획자로 플러스가 편집자라는데 이해가 잘 안됩니다"
         }
       ],
-      "days_open": 23
+      "days_open": 24
     },
     {
       "key": "일본노출-거주국가-설정",
@@ -14181,7 +14407,7 @@
           "quote": "그 신규채널 거주지를 일본으로 세팅해서 올리면되는걸로 알고있습니당^^(다른 세팅없이)"
         }
       ],
-      "days_open": 23
+      "days_open": 24
     },
     {
       "key": "차별화-채널조합-실습",
@@ -14224,7 +14450,7 @@
           "quote": "조선 -> 보통 사람들이 다함 탐라국 -> 요게 차별점이 좀 더 있는거같은데?"
         }
       ],
-      "days_open": 23
+      "days_open": 24
     },
     {
       "key": "채널데이터-분석리포트-절차",
@@ -14255,7 +14481,7 @@
           "quote": "채널 링크 넣고 코덱스 매일 분석리포트 발행? 요런식으로 하는건지 여쭤봐도 될까요ㅠ"
         }
       ],
-      "days_open": 23
+      "days_open": 24
     },
     {
       "key": "초보질문-응답불만-참여위축",
@@ -14297,7 +14523,7 @@
           "quote": "너무들 조용하셔서 나대기가 어려움 ㅋㅋ"
         }
       ],
-      "days_open": 23
+      "days_open": 24
     },
     {
       "key": "프로젝트-자동화-입력자료",
@@ -14334,7 +14560,7 @@
           "quote": "자동화설정 켜고 보니 뭐가뭔지 몰라서요 혹시 이부분에 대해 교육자료 있었나요?"
         }
       ],
-      "days_open": 24
+      "days_open": 25
     },
     {
       "key": "기존채널-유지-새계정",
@@ -14365,7 +14591,7 @@
           "quote": "숏폼도 올렷다가 롱폼도 올렷다가 하다보니 뭔가 조회수도 잘 안나오는거 같고.. 망한거 같은 느낌이 드는데.. 이럴때는 새로 아이디 파서 제대로 하는게 나을지.."
         }
       ],
-      "days_open": 26
+      "days_open": 27
     },
     {
       "key": "다량업로드-동시게시-영향",
@@ -14405,7 +14631,7 @@
           "quote": "아직 수창 못한 채널에 하루에 롱폼영상 2개정도 올려도 알고리즘 문제 없을까요?"
         }
       ],
-      "days_open": 37
+      "days_open": 38
     },
     {
       "key": "조회수영-가이드라인-판별",
@@ -14436,7 +14662,7 @@
           "quote": "조회수가 0이라고해서 무조건 가이드 위반은 아닌건가요?"
         }
       ],
-      "days_open": 26
+      "days_open": 27
     },
     {
       "key": "챌린지-인증주기-누락기준",
@@ -14467,7 +14693,7 @@
           "quote": "1일1영상 챌린지 55일에 카페글 작성 3일에한번 챌리지글쓰기 누락하면처음부터 다시 이게 맞나요?"
         }
       ],
-      "days_open": 26
+      "days_open": 27
     },
     {
       "key": "픽셀링-구글연결-정상화면",
@@ -14498,7 +14724,7 @@
           "quote": "픽셀링 구글 연결이 계속 오류나는데 정상연결 사진 부탁드립니다."
         }
       ],
-      "days_open": 26
+      "days_open": 27
     },
     {
       "key": "픽셀링-드라이브-이동중단",
@@ -14529,7 +14755,7 @@
           "quote": "왜 픽셀링 드라이버 옮기기가 중간에 중단될까요 ㅠ"
         }
       ],
-      "days_open": 26
+      "days_open": 27
     },
     {
       "key": "ai영상-업로드-표시",
@@ -14560,7 +14786,7 @@
           "quote": "아스트라로 만든건 업로드할때 ai처리 다들 하시나용?"
         }
       ],
-      "days_open": 27
+      "days_open": 28
     },
     {
       "key": "kie-ai-오류-500",
@@ -14603,7 +14829,7 @@
           "quote": "처음 시작이 로 가려져 있나요?ㅠㅠ 아스트라가 크레딧이랑 키랑은 다 잘 연결되어 있다해서요 ㅠ"
         }
       ],
-      "days_open": 27
+      "days_open": 28
     },
     {
       "key": "기존채널-활용안내-시점",
@@ -14640,7 +14866,7 @@
           "quote": "요건 구냥 갖고계시면 알려주실거에요. 정확히 언제인지는 모르겟습니다"
         }
       ],
-      "days_open": 27
+      "days_open": 28
     },
     {
       "key": "수익정지-당월수익-지급",
@@ -14671,7 +14897,7 @@
           "quote": "재사용 걸려서 항소영상 올렸는데, 오늘 수익 정지가 되었습니다. 이번달꺼 수익금 11월에 못받는건가요??"
         }
       ],
-      "days_open": 27
+      "days_open": 28
     },
     {
       "key": "애드센스-본인인증불가-연결시점",
@@ -14708,7 +14934,7 @@
           "quote": "이거 연결해도 될까요~? 소유권이 넘어온 이후에 바로 애센연결 시도하는게 좋다고 하셔갖궁.."
         }
       ],
-      "days_open": 27
+      "days_open": 28
     },
     {
       "key": "입모양-애니메이션-요금제",
@@ -14739,7 +14965,7 @@
           "quote": "질문있습니다. 입모양 애니메이션 효과는 아스트라로는 못하나요? 그록을 써야한다면 Plus: $8 / 월 이 요금제로도 가능할까요?"
         }
       ],
-      "days_open": 27
+      "days_open": 28
     },
     {
       "key": "첫영상-피드미노출-대기기간",
@@ -14776,7 +15002,7 @@
           "quote": "초반인트로에 효과음도 넣고 배경음악도 깔도 나름 차별화를 한거같은데 10일은 기다려 봐야할까요?"
         }
       ],
-      "days_open": 27
+      "days_open": 28
     },
     {
       "key": "픽셀링-tts-연결오류",
@@ -14821,7 +15047,7 @@
           "quote": "Tts오루 어제부터 계속 나는데 저만 그런건가요?"
         }
       ],
-      "days_open": 28
+      "days_open": 29
     },
     {
       "key": "쇼츠채널-롱폼전환-기존영상",
@@ -14852,7 +15078,7 @@
           "quote": "기존에 운영했던 쇼츠 채널을 롱폼 채널로 바꾸려고 하는데 업로드된 쇼츠들은 비공개로 할까요 그냥 냅둘까요?"
         }
       ],
-      "days_open": 28
+      "days_open": 29
     },
     {
       "key": "더우인-생년월일-로그인반복",
@@ -14906,7 +15132,7 @@
           "quote": "저도 같은문제로 문의했는데 감자조교님이 대안을 찾아보신다고 하셨어요 :)"
         }
       ],
-      "days_open": 39
+      "days_open": 40
     },
     {
       "key": "사용량-초기화주기-혼선",
@@ -14969,7 +15195,7 @@
           "from": "image"
         }
       ],
-      "days_open": 37
+      "days_open": 38
     },
     {
       "key": "야담-대본영상-타임라인",
@@ -15000,7 +15226,7 @@
           "quote": "혹시 야담 하시는분들 클로드 가 만들어준거랑 실제 영상이랑 타임라인 맞으시나요?"
         }
       ],
-      "days_open": 29
+      "days_open": 30
     },
     {
       "key": "저작권삼진-브랜드채널-영향",
@@ -15031,7 +15257,7 @@
           "quote": "제가 구글 계정으로 브랜드 채널에서 저작권 관련으로 스트라이크 삼진아웃을 당해서 해당 채널이 정지 또는 삭제를 당하면 그구글 계정에 있는 모든 브랜드 채널들도 못쓰게 되나요?"
         }
       ],
-      "days_open": 29
+      "days_open": 30
     },
     {
       "key": "챌린지보드-백업누락-복구",
@@ -15063,7 +15289,7 @@
           "quote": "챌린지 보드 백업을 안했어서 새 피씨에 열었다가 다 날라가버렸는데 어떻게 해야해요 ? ㅠㅠㅠ"
         }
       ],
-      "days_open": 29
+      "days_open": 30
     },
     {
       "key": "픽셀링-운영체제-표시불일치",
@@ -15094,7 +15320,7 @@
           "quote": "제가 쓰는 pc 환경은 윈도우11인데요. 픽셀링 정보보면 운영체제가 윈도우10 이라고 나오는데 왜 이럴까요?"
         }
       ],
-      "days_open": 29
+      "days_open": 30
     },
     {
       "key": "실습영상-전달경로-안내",
@@ -15130,7 +15356,7 @@
           "quote": "제가 오전에 장례식 다녀와야 해서 다녀와서 다시 콜 할게용~"
         }
       ],
-      "days_open": 30
+      "days_open": 31
     },
     {
       "key": "픽셀링-서버혼잡-작업지연",
@@ -15170,7 +15396,7 @@
           "from": "image"
         }
       ],
-      "days_open": 31
+      "days_open": 32
     },
     {
       "key": "kt듀얼번호-구글-문자인증",
@@ -15208,7 +15434,7 @@
           "quote": "제 듀얼번호를 넣는게 아니고 구글로 인증문자를 보내야해요..ㅠㅠ"
         }
       ],
-      "days_open": 31
+      "days_open": 32
     },
     {
       "key": "vrew-음성생성-처리시간",
@@ -15239,7 +15465,7 @@
           "quote": "344 클립만드는데 30분정도가 걸렸는데요... 이건 그냥 제 PC가 너무 안좋아서인거 겠죠?? 근데 막상 램이랑 CPU 사용량에서는 엄청 빡빡하게 차있지는 않던데..."
         }
       ],
-      "days_open": 31
+      "days_open": 32
     },
     {
       "key": "당일강의-녹화본-게시시점",
@@ -15270,7 +15496,7 @@
           "quote": "오늘 영상 몇 시쯤 올라올까요? 제가 일하면서 보느라 제대로 보질 못해서..ㅜㅜㅜ"
         }
       ],
-      "days_open": 31
+      "days_open": 32
     },
     {
       "key": "픽셀링-고객문의-응답누락",
@@ -15330,7 +15556,7 @@
           "quote": "안녕하세요..픽셀링이 똑같은 증상으로 또 에러가 나서 사용이 안됩니다..' 전송하지 못했어요' 라는 에러요"
         }
       ],
-      "days_open": 47
+      "days_open": 48
     },
     {
       "key": "픽셀링-롱투숏-메뉴위치",
@@ -15361,7 +15587,7 @@
           "quote": "혹시 픽셀링 롱투숏 어디서 찾을 수 있나요? 최신 버전에서 도저히 찾을 수가 없어서요…ㅠ"
         }
       ],
-      "days_open": 31
+      "days_open": 32
     },
     {
       "key": "픽셀링-인물화면-배경밝기",
@@ -15393,7 +15619,7 @@
           "from": "image"
         }
       ],
-      "days_open": 31
+      "days_open": 32
     },
     {
       "key": "vrew-자막음성-타이밍",
@@ -15424,7 +15650,7 @@
           "quote": "시니어 롱폼 vrew에서 만들었는데 자막과 목소리 타이밍 안 맞는데 하나하나 수정해야 할까요?다른방법 있는지 궁금하네요 90분짜리영상임다"
         }
       ],
-      "days_open": 33
+      "days_open": 34
     },
     {
       "key": "강의-ppt-선공유",
@@ -15455,7 +15681,7 @@
           "quote": "오늘 강의 PPT자료 먼저 공지방통해서 받아볼수 있을까요~? 숙제하려구 합니다 ㅎㅎ"
         }
       ],
-      "days_open": 33
+      "days_open": 34
     },
     {
       "key": "그록영상-픽셀링-연동사용",
@@ -15486,7 +15712,7 @@
           "quote": "반포자이님 그록영상 픽셀링 연동된 kai? ai사용할수있나요?"
         }
       ],
-      "days_open": 33
+      "days_open": 34
     },
     {
       "key": "기획분석-모델-선택",
@@ -15517,7 +15743,7 @@
           "quote": "기획 분석할때 아스트라 위에 sol6.1 이 있는데 아스트라 울트라 빠른모드로 하나요..sol 6.1 울트라 빠른모드로 하나요?"
         }
       ],
-      "days_open": 34
+      "days_open": 35
     },
     {
       "key": "롱폼-썸네일-교체기준",
@@ -15554,7 +15780,7 @@
           "quote": "업로드후에도 지속적으로 갈이 할때 하나올리고 나서 갈아치워야겠다고 판단할수있는 텀이나 기준이 어떻게 되나요"
         }
       ],
-      "days_open": 34
+      "days_open": 35
     },
     {
       "key": "롱폼-일강-재생오류",
@@ -15585,7 +15811,7 @@
           "quote": "1강 강의가 계속 버퍼링 상태였었는데 오늘은 네트워크의 연결이 안좋아서 안된다고 뜨는데 다른 강의는 모두 괞찮은데 왜 이것만 이러는지 아시는 분 계실까요?"
         }
       ],
-      "days_open": 34
+      "days_open": 35
     },
     {
       "key": "벤치마킹-업로드중단-선정",
@@ -15616,7 +15842,7 @@
           "quote": "1개월 전까지만 영상있고 이후 없는 건 채널 정지 됐다고 보고 .. 그채널은 숙제할 때 빼고 하나요?"
         }
       ],
-      "days_open": 34
+      "days_open": 35
     },
     {
       "key": "수창전-소유권주장-영향",
@@ -15648,7 +15874,7 @@
           "from": "image"
         }
       ],
-      "days_open": 34
+      "days_open": 35
     },
     {
       "key": "야담지침서-압축해제-사용법",
@@ -15692,7 +15918,7 @@
           "quote": "압축파일 풀어달라해서 풀었는데 들어가면 계속 노션 다운로드 되는것만 나와요. 왜그렇죠? 아침부터 지금까지 씨름하고 있네요."
         }
       ],
-      "days_open": 34
+      "days_open": 35
     },
     {
       "key": "엠넷영상-로고-저작권",
@@ -15750,7 +15976,7 @@
           "quote": "저는 수창전인데 저작권으로 며칠후 삭제됐어요 공연 영상인데 기획사측에서."
         }
       ],
-      "days_open": 39
+      "days_open": 40
     },
     {
       "key": "영드짜-장면-선정",
@@ -15781,7 +16007,7 @@
           "quote": "영드짜 하시는분들 궁금한게 있는데 영드짜도 잘터진 장면을 가져와서 차별화 짜집기를 하시나요? 아니면 없던 장면을 짜집기 하시나요?"
         }
       ],
-      "days_open": 34
+      "days_open": 35
     },
     {
       "key": "워크스페이스-중간파일-삭제기준",
@@ -15842,7 +16068,7 @@
           "quote": "아 다지우시군요 저도 그럼 최종본전에 다 지워야겠네요! 답변감사합니다"
         }
       ],
-      "days_open": 45
+      "days_open": 46
     },
     {
       "key": "정규강의-3d-대화자료",
@@ -15873,7 +16099,7 @@
           "quote": "혹시 정규강의때 3D 작업하시던 대화창 공유가 되었을까요? 그날 강의를 중간중간 들어서 ㅠㅠ 대화 다 주신다고 했던 것 같아서요~"
         }
       ],
-      "days_open": 34
+      "days_open": 35
     },
     {
       "key": "조회수인증-캡처-제출경로",
@@ -15904,7 +16130,7 @@
           "quote": "조회수인증 카페 올리고 url 쇼벤방하고 디하글방하고 올렸는데 캡쳐해서 어디에 올려야 하나요?"
         }
       ],
-      "days_open": 34
+      "days_open": 35
     },
     {
       "key": "챌린지-인증글-게시판",
@@ -15935,7 +16161,7 @@
           "quote": "이거 챌린지 인증글은 신규반, 전체반 둘 중 한군데만 올리면 되나요?"
         }
       ],
-      "days_open": 34
+      "days_open": 35
     },
     {
       "key": "bgm-길이제한-차단안내",
@@ -15974,7 +16200,7 @@
           "quote": "영상에 BGM 깔아서 쓰는데,, 이런게 계속 뜨는데.. 혹시 너무 길어서 그런걸까요? 좀 짧게 쓰는건 저렇게 안뜨던데 길게 써서 그런 것 같아서요...ㅠㅠ"
         }
       ],
-      "days_open": 36
+      "days_open": 37
     },
     {
       "key": "pc업로드-배경음악-추가",
@@ -16013,7 +16239,7 @@
           "quote": "저도 궁금해요! pc에서는 안되는거같고 모바일업로드할때만 음악 넣을수있는건지용….?"
         }
       ],
-      "days_open": 38
+      "days_open": 39
     },
     {
       "key": "갤럭시-초기화-어시스턴트차단",
@@ -16051,7 +16277,7 @@
           "quote": "추가로 실사용하는 제가 쓰는계정 넣어도 어시스턴트 안된다고나옵니다 다시 초기화된 안되고 방법이 없나요?"
         }
       ],
-      "days_open": 36
+      "days_open": 37
     },
     {
       "key": "롱폼-프로그램-대본시연",
@@ -16083,7 +16309,7 @@
           "quote": "빨리 내일 강의듣고싶어요,,프로그램어떻게 사용하는지 공금하고 클로드 잡도리해서 대본을 어떻게 쓰는지도 무척 궁금합니다"
         }
       ],
-      "days_open": 36
+      "days_open": 37
     },
     {
       "key": "애드센스-사업자-통장명의",
@@ -16114,7 +16340,7 @@
           "quote": "애드센스를 사업자로 가입하고 통장을 다른명의로 등록하면 세금은 통장명의 따라 가는건가요?"
         }
       ],
-      "days_open": 36
+      "days_open": 37
     },
     {
       "key": "얼굴사연-pip-제작절차",
@@ -16152,7 +16378,7 @@
           "quote": "그럼 저렇게 녹화뜨고 아스트라한테 붙혀넣기해서 영상은 이걸로해줘 하면되는건가요"
         }
       ],
-      "days_open": 36
+      "days_open": 37
     },
     {
       "key": "픽셀링-생성실패-연결오류",
@@ -16185,7 +16411,7 @@
           "from": "image"
         }
       ],
-      "days_open": 36
+      "days_open": 37
     },
     {
       "key": "픽셀링-음원-사용안내",
@@ -16243,7 +16469,7 @@
           "quote": "효과음같은것도 따로 캡컷같은데서 미리 다 만들어서 올려야 하는거죠? 픽셀링에서 효과음 그런거까지 되는거는 아닌거 같아서요."
         }
       ],
-      "days_open": 39
+      "days_open": 40
     },
     {
       "key": "vpn-아이피별-요금조건",
@@ -16274,7 +16500,7 @@
           "quote": "5개채널 만들고 VPN업체 찾는중입니다. 저번 강의때 IP당 8000원대 쓰신다고 하셨는데 장기플랜으로 쓰시는 가격인거죠?"
         }
       ],
-      "days_open": 37
+      "days_open": 38
     },
     {
       "key": "쇼핑쇼츠-채널별-업로드횟수",
@@ -16304,7 +16530,7 @@
           "quote": "조교님 어제부터 쇼핑쇼츠 강의 돌려보고 있는데 한 채널당 1일2영상 하셨나요?"
         }
       ],
-      "days_open": 37
+      "days_open": 38
     },
     {
       "key": "아스트라-음성인식-사용방법",
@@ -16334,7 +16560,7 @@
           "quote": "아스트라 음성인식 못하는거 하게 하려면 어떻게 해야 하나요?ㅠ"
         }
       ],
-      "days_open": 37
+      "days_open": 38
     },
     {
       "key": "조회수천대-구독증가-진단",
@@ -16365,7 +16591,7 @@
           "quote": "구독자는 아주 미세하게 늘어서 하루에 5명 10명 이런식으로 꾸역꾸역 100명 채널 400명 채널 이런식으로 올라가긴하는데.. 조회수는 늘 1000대만 됩니다 ㅠ"
         }
       ],
-      "days_open": 37
+      "days_open": 38
     },
     {
       "key": "픽셀링-모델설정-변경불가",
@@ -16395,7 +16621,7 @@
           "quote": "안녕하세요~ 혹시 픽실렝 기본모델로 되고 모델설정이안돼는건 왜그런건지 알수있을까요~?"
         }
       ],
-      "days_open": 37
+      "days_open": 38
     },
     {
       "key": "동시다채널-조회수영-원인",
@@ -16432,7 +16658,7 @@
           "quote": "특이한 점은 한 개 채널만 그런 게 아니라 운영 중인 3개 채널 모두 동일한 현상이 발생하고 있다는 점인데요."
         }
       ],
-      "days_open": 38
+      "days_open": 39
     },
     {
       "key": "쇼츠-예약공개-화질",
@@ -16469,7 +16695,7 @@
           "quote": "바로 오픈하면 화질이 좀 안좋다는 이야기를 어디서...들은듯해서~ 혹시나해서~ 문의드려요."
         }
       ],
-      "days_open": 38
+      "days_open": 39
     },
     {
       "key": "쇼핑쇼츠-대본모음-자료위치",
@@ -16512,7 +16738,7 @@
           "quote": "저도 카페에서 찾는데 안보여서 혹시 어디서 확인 가능할까요??"
         }
       ],
-      "days_open": 38
+      "days_open": 39
     },
     {
       "key": "쇼핑쇼츠-외부링크-인증",
@@ -16550,7 +16776,7 @@
           "quote": "네 대가성 문구를 넣는게 좋죠. 저번강의에서 4곳에 필수로 넣어야한다고 전달드렸습니다!"
         }
       ],
-      "days_open": 38
+      "days_open": 39
     },
     {
       "key": "수익화채널-성과소재-전환",
@@ -16581,7 +16807,7 @@
           "quote": "지금 공부 중인 채널에서 터지는 소재를 찾았거든요(수창은 한참 멀었음) 이 컨텐츠 수창 채널에 게시해봐야 할까요? 수창 채널에 올리는 컨텐츠보다 조회수가 더 잘 터져서요"
         }
       ],
-      "days_open": 38
+      "days_open": 39
     },
     {
       "key": "애드센스-블로그계정-유튜브연결",
@@ -16624,7 +16850,7 @@
           "quote": "저도 블로그 용 에센 이랑 유튜브용 에센 다르다는것만 알아서"
         }
       ],
-      "days_open": 38
+      "days_open": 39
     },
     {
       "key": "영화클립-짧은편집-저작권",
@@ -16655,7 +16881,7 @@
           "quote": "영짜 3초미만 2.8초로도 짤라봤는데 계속 저작권 걸리는데, 얼굴 확대 좌우반전 해봐도 안되는데 다른 수가 있을까요ㅠ?"
         }
       ],
-      "days_open": 38
+      "days_open": 39
     },
     {
       "key": "챌린지-중단후-재시작",
@@ -16692,7 +16918,7 @@
           "quote": "조교님들....저 챌린지 인증하다가 지난주 토요일에 못했는데...다시 1회차부터 인증해도 될까요?"
         }
       ],
-      "days_open": 38
+      "days_open": 39
     },
     {
       "key": "크롬분리-복수컴퓨터-계정공유",
@@ -16723,7 +16949,7 @@
           "quote": "이때 컴퓨터가 3대라면 그 3대 모두 A,B,C를 크롬창 분리해서 사용하는것도 괜찮겠죠?"
         }
       ],
-      "days_open": 38
+      "days_open": 39
     },
     {
       "key": "픽셀링-계정연결확인-서버접속",
@@ -16754,7 +16980,7 @@
           "quote": "어제부터 [계정연결확인 필요 ]로 서버에 연결을 못하고 있습니다. 부탁드립니다."
         }
       ],
-      "days_open": 38
+      "days_open": 39
     },
     {
       "key": "픽셀링-채팅-전체검색",
@@ -16791,7 +17017,7 @@
           "quote": "전체검색 기능 말씀드린거 맞습니다ㅎㅎ 코덱스는 있어서 편하게 쓰고있거든요. 감사합니다!"
         }
       ],
-      "days_open": 38
+      "days_open": 39
     },
     {
       "key": "해외수창채널-구매-위험",
@@ -16850,7 +17076,7 @@
           "quote": "시도남님 전자책을 보면 지금도 해수창으로 시도 해볼수 있다는걸까요~??"
         }
       ],
-      "days_open": 42
+      "days_open": 43
     },
     {
       "key": "api-생성오류-키저장소",
@@ -16881,7 +17107,7 @@
           "quote": "왜자꾸 API 생성오류 .. 키저장소를 열수 없다고 나오네요"
         }
       ],
-      "days_open": 39
+      "days_open": 40
     },
     {
       "key": "vidiq-분석크레딧-유료결제",
@@ -16912,7 +17138,7 @@
           "quote": "조교님 혹시 vidiq도 유료 결제해야하는지요? 멘트에 이렇게 나와서여 음향과 장면을 함께 분석하는 vidIQ 기능은 10크레딧이 듭니다"
         }
       ],
-      "days_open": 39
+      "days_open": 40
     },
     {
       "key": "리스트업-인스타-틱톡연동",
@@ -16950,7 +17176,7 @@
           "quote": "리스트업 인스타와 틱톡 연동 실패가 나오는데 혹시 해결법 알 수 있을까요?"
         }
       ],
-      "days_open": 39
+      "days_open": 40
     },
     {
       "key": "영상검토-장기대기-원인",
@@ -16980,7 +17206,7 @@
           "quote": "질문있습니다 왜 영상이 주루룩 계속 검토중일까요.. 보통 검토 오래걸려도 나중엔 풀려있던데 지금 24시간째...ㅠ"
         }
       ],
-      "days_open": 39
+      "days_open": 40
     },
     {
       "key": "윈도우-예약업로드-업데이트실패",
@@ -17017,7 +17243,7 @@
           "quote": "아 그런가요 그럼 제 컴이 문제인가보네요 업데이크가 자꾸 실패하던데.."
         }
       ],
-      "days_open": 39
+      "days_open": 40
     },
     {
       "key": "줌-기기변경-회의오류",
@@ -17048,7 +17274,7 @@
           "quote": "핸펀을바꿔더니 줌링크들어가면 회의 id가틀리다고 열리지가 않는데 어떻게 하면 될까요"
         }
       ],
-      "days_open": 39
+      "days_open": 40
     },
     {
       "key": "픽셀링-결제준비-등업기준",
@@ -17086,7 +17312,7 @@
           "quote": "제가 디하클 카페에서는 댓글3개, 게시글 1개 등록해서 자동 등업이 되었는데요. 쇼벤5기 카페에서도 등업이 되어야 하나요?"
         }
       ],
-      "days_open": 39
+      "days_open": 40
     },
     {
       "key": "픽셀링-리스트업-하위폴더",
@@ -17117,7 +17343,7 @@
           "quote": "혹시 픽셀링에서 리스트업 폴더 추가할때 어떻게하면 하위폴더로 추가가 안되나요??"
         }
       ],
-      "days_open": 39
+      "days_open": 40
     },
     {
       "key": "밍구링링-전자책-구매경로",
@@ -17168,7 +17394,7 @@
           "quote": "전자책 구매하려는데 아시는분 디하북스 링크 좀 올려주십시요 (나 왜 못찾냐..ㅠ)"
         }
       ],
-      "days_open": 47
+      "days_open": 48
     },
     {
       "key": "롱폼프로그램-클로드-연결방식",
@@ -17199,7 +17425,7 @@
           "quote": "반포자이님 프로그램 나중에 클로드 연결하려면 데스크콥버전으로 설치해야 하는거죠?"
         }
       ],
-      "days_open": 41
+      "days_open": 42
     },
     {
       "key": "신규계정-기존채널-이전판단",
@@ -17230,7 +17456,7 @@
           "quote": "만벽도 못뚫었는데 깡계 받으면 완전 새롭게 시작하는게 좋겠죠? 기존채널 옮기지 말구 ㅎ"
         }
       ],
-      "days_open": 41
+      "days_open": 42
     },
     {
       "key": "챌린지-제출주기-카톡공유",
@@ -17290,7 +17516,7 @@
           "quote": "사담방 공유하라고 공지 있었어요. 근데 카페에 올리셨으면, 지금이라도 사담방 공유하시면. 그정도 유도리는 인정해주시지 않을까요?"
         }
       ],
-      "days_open": 45
+      "days_open": 46
     },
     {
       "key": "픽셀링-ui변경-사용안내",
@@ -17328,7 +17554,7 @@
           "quote": "픽셀링 UI가 확 바뀌어서 지금까지 강의에서 배운게 적용이 어렵네요 새채팅이랑 프로젝트는 어디에 있을까요"
         }
       ],
-      "days_open": 41
+      "days_open": 42
     },
     {
       "key": "해외소재-지식창작-조회정체",
@@ -17366,7 +17592,7 @@
           "quote": "6천만뷰꺼가져왔는데 조회수가못뚫는거같아요 시청끝까지보는게107퍼센트거든요. 제가너무기대한걸까요ㅠㅠ"
         }
       ],
-      "days_open": 41
+      "days_open": 42
     },
     {
       "key": "강의일정-이주휴식-확인",
@@ -17403,7 +17629,7 @@
           "quote": "1.2주차에는 잘 안들리는데 3.4주차에는 좀 더 이해 하실 수 있을거에요 ! 라이브르 1234주하고 끝내버리니"
         }
       ],
-      "days_open": 42
+      "days_open": 43
     },
     {
       "key": "구글-이단계인증-본인확인실패",
@@ -17440,7 +17666,7 @@
           "quote": "현재 PC 크롬창에서 유튜브 스튜디오 사용은 가능한 상태이고 휴대폰에서도 크롬 사용 문제없는 상태인데 2단계 인증만 안되고 있네요"
         }
       ],
-      "days_open": 42
+      "days_open": 43
     },
     {
       "key": "국내리스트업-활용방식-구분",
@@ -17477,7 +17703,7 @@
           "quote": "리스트업은 유통이라고 알고있는데 국내걸 하면 어떤용도로 써야하나요? 잘나온영상가져와서 분석해서 다른영상만드는걸까요? 아니면 그걸 갖고유통해서 다른관점으로푸는걸까요?"
         }
       ],
-      "days_open": 42
+      "days_open": 43
     },
     {
       "key": "아스트라-소재탐색-명령예시",
@@ -17530,7 +17756,7 @@
           "quote": "퇴근후 앉아서 소재찾고분석하고 뭐병렬처리도 많이못하고 이러다보면 시간이 새벽이되어버립니다ㅜㅜ 소재의 굴레에서 못나오는 느낌?"
         }
       ],
-      "days_open": 46
+      "days_open": 47
     },
     {
       "key": "저작권삭제-경고-대응",
@@ -17562,7 +17788,7 @@
           "from": "image"
         }
       ],
-      "days_open": 42
+      "days_open": 43
     },
     {
       "key": "코덱스-제작과정-프리셋저장",
@@ -17601,7 +17827,7 @@
           "quote": "픽셀링 > 프리셋에서 만들어진 숏츠를 gpt로 가져와서 영상 제작 마무리를 했습니다. 이걸 다시 프리셋으로 업로드가 가능한가요?"
         }
       ],
-      "days_open": 46
+      "days_open": 47
     },
     {
       "key": "클리버겟-복수컴퓨터-사용",
@@ -17632,7 +17858,7 @@
           "quote": "클리버겟을 결제 한번하면 집 사무실 번갈아 쓸수 있나요? 아니면 한 컴퓨터에서만 되나요?"
         }
       ],
-      "days_open": 42
+      "days_open": 43
     },
     {
       "key": "타입캐스트-응답용량-음성실패",
@@ -17676,7 +17902,7 @@
           "quote": "저는 욕하면서 뭔소리냐 결제해놔서 토큰 많은데 그거 써라 하니까 죄송하다면서 됐어요"
         }
       ],
-      "days_open": 42
+      "days_open": 43
     },
     {
       "key": "픽셀링-md파일-반복제작",
@@ -17715,7 +17941,7 @@
           "quote": "기획돌려서 서브작가용md파일 나오면 그걸 이제 어떻게 해야하나요?"
         }
       ],
-      "days_open": 43
+      "days_open": 44
     },
     {
       "key": "픽셀링-무료체험-입문안내",
@@ -17761,7 +17987,7 @@
           "quote": "선배님들 어제 강의등록했는데 픽셀링 권한 언제 등록되는걸까요.. 문의해도 답이없으셔서 ㅜㅜ"
         }
       ],
-      "days_open": 45
+      "days_open": 46
     },
     {
       "key": "픽셀링-작가선택-제작불가",
@@ -17808,7 +18034,7 @@
           "quote": "작가와 여러 대화를 나눈 맥락을 유지한 채로 영상을 수정하면서 완성하고 싶거든요~ 현재 창에서 영상을 만들수는 없는걸까요??"
         }
       ],
-      "days_open": 43
+      "days_open": 44
     },
     {
       "key": "픽셀링-프리셋창-닫기오류",
@@ -17845,7 +18071,7 @@
           "quote": "다시 창닫기 하고새로열고를 수백번 반복중입니다..계속 업데이트 하라고 하루에 한번씩 나오고 왜이럴까요 저만 그런가요 조교님들 ...이현상 어찌 해결하나여"
         }
       ],
-      "days_open": 42
+      "days_open": 43
     },
     {
       "key": "효과음-배경음악-기본설정",
@@ -17876,7 +18102,7 @@
           "quote": "효과음 배경음악은 매번 채팅창에 링크나 지시를 해야할까요? 계정에 연결? 같은거 해서 채팅에 기본값으로 박아넣는(?) 방법은 없는지 문의드립니다"
         }
       ],
-      "days_open": 42
+      "days_open": 43
     },
     {
       "key": "리스트업-한국제목-영어표시",
@@ -17915,7 +18141,7 @@
           "quote": "리스트업을 하면 자꾸 리스트의 제목들이 영어로 뜨는 문제가 있습니다ㅠ 한국유튜브라 한국제목을 참고해야 감이 올 거 같은데,너무 불편해요.(다른 것들은 다 한글인데, 이 리스트만 영어로 나와요)"
         }
       ],
-      "days_open": 46
+      "days_open": 47
     },
     {
       "key": "브랜드채널-이전후-문제연동",
@@ -17946,7 +18172,7 @@
           "quote": "한계정에 만약 여러개의 브랜드 채널로 테스트하다가 하나씩 다른 계정으로 이사보냈을때 원계정에 문제가 생기면 이사보낸 채널도 같이 문제가 생긴다고 이해 했는데 맞는건가요?"
         }
       ],
-      "days_open": 43
+      "days_open": 44
     },
     {
       "key": "애드센스-타인명의-신청",
@@ -17977,7 +18203,7 @@
           "quote": "여쭤봅니다 / 애드센스 신청시 제 명의가 아닌 다른사람걸로 해도 될까여? ..... ㅜ ...ㅜ"
         }
       ],
-      "days_open": 43
+      "days_open": 44
     },
     {
       "key": "업로드후-영상튐-원인",
@@ -18013,7 +18239,7 @@
           "quote": "에고..저도 그런적 있어서 현재 비공개로 전환했어요"
         }
       ],
-      "days_open": 43
+      "days_open": 44
     },
     {
       "key": "영상삭제-재업로드-상충안내",
@@ -18066,7 +18292,7 @@
           "quote": "당연하죠 조회수0을 한 10번 4. 8.12 다양하게 맞아보았죠 결국은 지우는게 답이더라구요. 일반화 할수는 없습니다. 케바케라"
         }
       ],
-      "days_open": 44
+      "days_open": 45
     },
     {
       "key": "일본채널-언어설정-노출",
@@ -18097,7 +18323,7 @@
           "quote": "혹시 일본 체널은 특별히 따로 설정할 필요없이 자막하고 음성만 일본어로 해서 올리면 알아서 일본쪽에 노출이 되는건가요?"
         }
       ],
-      "days_open": 43
+      "days_open": 44
     },
     {
       "key": "재사용-항소영상-가이드",
@@ -18141,7 +18367,7 @@
           "quote": "수창 채널에 재상용 컨텐츠 날아왔는데..혹시 항소 영상 올리는법 카페에 찾아봐도 모르겠는데 아시는분 답변 좀 부탁드립니다~ㅜ.ㅜ"
         }
       ],
-      "days_open": 47
+      "days_open": 48
     },
     {
       "key": "픽셀링-결과물-동반실습",
@@ -18185,7 +18411,7 @@
           "quote": "아스트라 설명영상을 GPT에게 부탁해서 만든거라며 보여주신 영상도 어떻게 어떤명령어를 입력해서 그런 결과값이 나왔는지도 궁금해요."
         }
       ],
-      "days_open": 43
+      "days_open": 44
     },
     {
       "key": "픽셀링-두컴퓨터-동시사용",
@@ -18216,7 +18442,7 @@
           "quote": "선배님들 이번기회에 와이프도 같이 해보려고하는데 투컴으로 픽셀링 같이 쓸수있나요?"
         }
       ],
-      "days_open": 43
+      "days_open": 44
     },
     {
       "key": "픽셀링-프리셋-연결오류",
@@ -18279,7 +18505,7 @@
           "quote": "픽셀링 내 지피티한테 확인해달라 했더니 픽셀링 권한이 없어서 확인이 안된다해서요"
         }
       ],
-      "days_open": 48
+      "days_open": 49
     },
     {
       "key": "허용설정-반복승인-요구",
@@ -18310,7 +18536,7 @@
           "quote": "모두 허용으로 설정했는데 요즘 자꾸 허용 묻는데 이거 해결하신 분 계실까요?"
         }
       ],
-      "days_open": 43
+      "days_open": 44
     },
     {
       "key": "동일영상-복수채널-업로드",
@@ -18347,7 +18573,7 @@
           "quote": "계정이 10개라 가정하면 만든 영상을 10개에 모두올리나요? 아니면 모두 다른 영상을 올리나요?"
         }
       ],
-      "days_open": 44
+      "days_open": 45
     },
     {
       "key": "롱폼-숏폼-주제일치",
@@ -18378,7 +18604,7 @@
           "quote": "혹시 롱폼이랑 숏폼이랑 알고가 다르다고 들은거같은데 한채널에서 롱 숏 둘다 운영하면 주제나 결 안맞춰도될까요 ??"
         }
       ],
-      "days_open": 44
+      "days_open": 45
     },
     {
       "key": "수강해지-환불-연락불가",
@@ -18436,7 +18662,7 @@
           "quote": "조용히 해결을 하려고 했으나 무관심으로 답변도 없으니 안타까울 뿐이네요. 저 혼자 손해를 감수할수 없으니 행정쪽으로 도움을 청해야 할까봐요."
         }
       ],
-      "days_open": 48
+      "days_open": 49
     },
     {
       "key": "애드센스-수익정지-pin",
@@ -18473,7 +18699,7 @@
           "quote": "PIN 번호를 넣지도 못하고 수창 채널이 정지 되었는데, 이 애드센스는 향후 다시 써도 될까요?"
         }
       ],
-      "days_open": 44
+      "days_open": 45
     },
     {
       "key": "컴퓨터사용-미연결-복구",
@@ -18530,7 +18756,7 @@
           "quote": "원도우 업데이트 했습니다. 맥도 현재 업데이트 진행중입니다."
         }
       ],
-      "days_open": 45
+      "days_open": 46
     },
     {
       "key": "픽셀링-업로드-저화질",
@@ -18561,7 +18787,7 @@
           "quote": "픽셀링에서 완성된 영상을 다운받아 채널 업로드 하면 저화질 영상이 업로드 되는데 이거 혹시 해결방법이 있을까요..?"
         }
       ],
-      "days_open": 44
+      "days_open": 45
     },
     {
       "key": "노션자료-접근오류-지원",
@@ -18592,7 +18818,7 @@
           "quote": "노션자료보고싶은데 노션접근이 안되네요;; 혹시 다른분들은 잘되나요? 창도 껏다켜보고 컴터도 재시작해보는데"
         }
       ],
-      "days_open": 45
+      "days_open": 46
     },
     {
       "key": "늦은등록-초보자-지원창구",
@@ -18654,7 +18880,7 @@
           "quote": "5기 까페권한 부탁드려요 입성못하고있는 왕하영이여욤"
         }
       ],
-      "days_open": 48
+      "days_open": 49
     },
     {
       "key": "유통-리스트업-탐색차이",
@@ -18685,7 +18911,7 @@
           "quote": "유통 30개채널 리스트업 vs 아스트라 찾아줘 3일이내 10만 이상 동일조건이면 토큰차이 일까요? 다른 요인 뭐가있는기 궁금해요"
         }
       ],
-      "days_open": 45
+      "days_open": 46
     },
     {
       "key": "유통-창작-기획구분",
@@ -18728,7 +18954,7 @@
           "quote": "넵! 제가 계속 알려드릴거에용! 어려운게 초반이는 세팅이랑 용어가 많이 헷갈리실거에욥!"
         }
       ],
-      "days_open": 45
+      "days_open": 46
     },
     {
       "key": "저작권메일-비공개-계정운영",
@@ -18759,7 +18985,7 @@
           "quote": "질문이요~ 저 뭣도 모르고 올렸던 계정에 영상1개가 저작권위반이라고 메일이왔는데 비공개로 전체 봐꾸고 다른 영상 올려도 괜찮을까요?"
         }
       ],
-      "days_open": 45
+      "days_open": 46
     },
     {
       "key": "직장인-유통제작-루틴",
@@ -18802,7 +19028,7 @@
           "quote": "조회수 보시고 평조회수 높은 채널 가셔서 템플릿 따는 목적으로 분석하신 다음에 템플릿 땄다면 바로 제작해서 올려보세요~"
         }
       ],
-      "days_open": 45
+      "days_open": 46
     },
     {
       "key": "채널생성-고급기능-인증요구",
@@ -18833,7 +19059,7 @@
           "quote": "질문이 있습니다.. 사용하고있는 구글계정에 채널만들기를 하니 고급기능인증을 하라고 나오는데.. 왜 그런지 아시는분 계실까요?"
         }
       ],
-      "days_open": 45
+      "days_open": 46
     },
     {
       "key": "팬튜브-음원제한-모바일업로드",
@@ -18876,7 +19102,7 @@
           "quote": "네~~ 팬튜브라서 해당 음악이 들어가다보니~ 그냥 올리기는 하는데,,,수익창출제한..이런게..떠서..핸드폰으로 올려야하나했습니다.~"
         }
       ],
-      "days_open": 45
+      "days_open": 46
     },
     {
       "key": "픽셀링-로그인장애-복구확인",
@@ -18919,7 +19145,7 @@
           "quote": "전자제품은...껏다 키시죠ㅎㅎ 저는 픽셀링 아예 껏다 켜니까 되었어요"
         }
       ],
-      "days_open": 45
+      "days_open": 46
     },
     {
       "key": "픽셀링-연결끊김-반복장애",
@@ -18976,7 +19202,7 @@
           "quote": "픽셀링 말고 코덱스(클로드 코드 사용하면 클로드 코드) 켜서 그 스샷 첨부하시면서 해결해달라고 해보세요"
         }
       ],
-      "days_open": 46
+      "days_open": 47
     },
     {
       "key": "픽셀링-콘텐츠항목-누락",
@@ -19007,7 +19233,7 @@
           "quote": "확인 부탁드립니다..샘님의 강의에 컨텐츠란 항목이 있는데 저는 없습니다..열어보라하시는데..없습니다..픽셀링에 문의도 드렸습니다..동기님도 이리나오시나요"
         }
       ],
-      "days_open": 45
+      "days_open": 46
     },
     {
       "key": "대본추출-정지설명-검증",
@@ -19051,7 +19277,7 @@
           "quote": "근데 또 제 픽셀링에서 대본 추출은 되네요! 해서 드릴게요 😆"
         }
       ],
-      "days_open": 46
+      "days_open": 47
     },
     {
       "key": "동물영상-ai논란-비공개",
@@ -19088,7 +19314,7 @@
           "quote": "영상 비공개하는게 좋을까요? 희한한게 댓글들은 전부 부정적인데 좋아요가 600개가 넘고 조회수가 11.8만이에요ㅜㅜ"
         }
       ],
-      "days_open": 46
+      "days_open": 47
     },
     {
       "key": "쇼핑강의-분석숙제-시트",
@@ -19135,7 +19361,7 @@
           "quote": "‘영상 사고력 훈련을 위한 숙제’ 시트 다시 주실수 있을까요?"
         }
       ],
-      "days_open": 47
+      "days_open": 48
     },
     {
       "key": "쿠키작업-용어-구분설명",
@@ -19172,7 +19398,7 @@
           "quote": "쇼츠는 별다른 쿠키작업 안들어가도 유효성과가 있나요 ?"
         }
       ],
-      "days_open": 46
+      "days_open": 47
     },
     {
       "key": "타입캐스트-api-음성적용",
@@ -19203,7 +19429,7 @@
           "quote": "저 픽셀링에서 영상제작할 때 매번 음성이 AI음성으로 딱딱한 로봇 나레이션이 나오던데...원래 이런건지... typecast 연결해서 작업해 달라고 하면 저렇게 나오던데..."
         }
       ],
-      "days_open": 46
+      "days_open": 47
     },
     {
       "key": "프리셋-수정명령-품질저하",
@@ -19234,7 +19460,7 @@
           "quote": "프리셋을 만들고 영상만들때 잡도리 어느정도 하세요.. 잡도리가 늘어나면 날수록 어떤때는 결과가 안좋을때가 있어요. 이건 제가 명령을 잘못하는건가요??"
         }
       ],
-      "days_open": 46
+      "days_open": 47
     },
     {
       "key": "픽셀링-모델선택-반복누락",
@@ -19277,7 +19503,7 @@
           "quote": "저도 저렇게 잘 보여요~ 근데 저는 159000원짜리 두개쓰고있어요"
         }
       ],
-      "days_open": 46
+      "days_open": 47
     },
     {
       "key": "가이드위반-의심영상-처리",
@@ -19308,7 +19534,7 @@
           "quote": "가이드위반에 해당되는 영상으로 추정되면 해당영상을 비공개처리 하는게 나을까요? 아님 삭제나 그대로 두는게 나을까요?"
         }
       ],
-      "days_open": 47
+      "days_open": 48
     },
     {
       "key": "구글드라이브-저장위치-변경",
@@ -19339,7 +19565,7 @@
           "quote": "혹시 구글드라이브로 저장 위치 바꾸는 방법 나와있는 자료 있을까요?아시는분 계실까요"
         }
       ],
-      "days_open": 47
+      "days_open": 48
     },
     {
       "key": "비정규강의-알림-확인경로",
@@ -19370,7 +19596,7 @@
           "quote": "정해진 강의 외에도 강의 있는거 확인하려면 단톡방을 잘 봐야 하는건가요?"
         }
       ],
-      "days_open": 47
+      "days_open": 48
     },
     {
       "key": "쇼핑쇼츠-소재제작-실습",
@@ -19401,7 +19627,7 @@
           "quote": "쇼핑쇼츠 한번도 안해봐서^^;;;괜찮으시다면 ;담시간엔 소재찾고 만드는것까지 보여주셨음 합니다 더우인가봐도 모르겠네요;;;"
         }
       ],
-      "days_open": 47
+      "days_open": 48
     },
     {
       "key": "예약영상-후반묵음-처리",
@@ -19432,7 +19658,7 @@
           "quote": "예약걸어둔 영상이 두시간 전쯤에 올라갔는데 영상 뒷부분 음성이 찌지직 그러더니 묵음으로 올라갔네요,,ㅠ"
         }
       ],
-      "days_open": 47
+      "days_open": 48
     },
     {
       "key": "조회수인증-유효조회수-기준",
@@ -19463,7 +19689,7 @@
           "quote": "조회수 인증은 유효조회수를 의미할까요?"
         }
       ],
-      "days_open": 47
+      "days_open": 48
     },
     {
       "key": "프리셋-디자인영역-적용",
@@ -19494,7 +19720,7 @@
           "quote": "오늘 3주차에 마지막 디자인 입힐때는 1,2주차에 만든 프리셋에 디자인 영역만 템플릿을 입히면 되는거죠?"
         }
       ],
-      "days_open": 47
+      "days_open": 48
     },
     {
       "key": "픽셀링-재설치-데이터복구",
@@ -19531,7 +19757,7 @@
           "quote": "삭제 후 재설치 할 떄 데이터 남기기 있는데, 데이터 남기기 하고 삭제 하셨을까요? 아니면 완전 삭제하셨을까용?"
         }
       ],
-      "days_open": 47
+      "days_open": 48
     },
     {
       "key": "vm-아스트라-마우스제어",
@@ -19569,7 +19795,7 @@
           "quote": "제어 방법을 알수 있을까요? 아스트라가 마우스 컨트롤이 안된다고.. 크롬 원격으로도 해보고 ㅠㅠ 안되네요."
         }
       ],
-      "days_open": 48
+      "days_open": 49
     },
     {
       "key": "공기계-깡통계정-로그인수",
@@ -19606,7 +19832,7 @@
           "quote": "아니면 공기계 기존에 있던거에 깡통계정을 여러개 로그인해서 같이 사용해서 써도 되는 것일까요?"
         }
       ],
-      "days_open": 48
+      "days_open": 49
     },
     {
       "key": "깡통계정-구매후-사용시점",
@@ -19637,7 +19863,7 @@
           "quote": "깡통계정 이해를 못했는데... 신청해도 되나요?혹 나중에 신청 못하게 될까봐서요. 그리고 만약 신청을 해서 바로 사용을 해야 하나요 ?"
         }
       ],
-      "days_open": 48
+      "days_open": 49
     },
     {
       "key": "깡통계정-인증요구-막힘",
@@ -19696,7 +19922,7 @@
           "quote": "저도 저렇게 나와요 ㅠ 다른깡계 만들어보려구요"
         }
       ],
-      "days_open": 49
+      "days_open": 50
     },
     {
       "key": "랭킹형-영상삭제-주제변경",
@@ -19733,7 +19959,7 @@
           "quote": "저도 첫영상 랭킹형올렸는데 아예 안올라가서ㅠ"
         }
       ],
-      "days_open": 48
+      "days_open": 49
     },
     {
       "key": "픽셀링-결과물도구-연결충돌",
@@ -19766,7 +19992,7 @@
           "from": "image"
         }
       ],
-      "days_open": 48
+      "days_open": 49
     },
     {
       "key": "픽셀링-폰트-흐림",
@@ -19803,7 +20029,7 @@
           "quote": "마우스를 끌어서 해당 목록에 가져가면 그때 글씨가 선명하게 보입니다. 해결방법이 있을까요?"
         }
       ],
-      "days_open": 48
+      "days_open": 49
     },
     {
       "key": "게릴라강의-녹화본-요청",
@@ -19841,7 +20067,7 @@
           "quote": "오늘 퇴근이 늦어 여리조교님 특강 방금 들어갔는데 조교님이 뚫으셨다는 깡통계정 내용은 이미 지나갔을까요?"
         }
       ],
-      "days_open": 49
+      "days_open": 50
     },
     {
       "key": "구독취소-초기화권-유지",
@@ -19873,7 +20099,7 @@
           "quote": "챗 gpt 재설정(초기화)이 2개 있는데 내일 구독 갱신일이라서 우선 갱신 취소하고 다시 결제를 해도 이 초기화 권이 남아있을까요~?!"
         }
       ],
-      "days_open": 49
+      "days_open": 50
     },
     {
       "key": "솔울트라-병렬처리-한도",
@@ -19905,7 +20131,7 @@
           "quote": "픽셀링 솔 6.1울트라로 3개이상 못돌리나요?? 병렬처리 요굼제는 159000입니다"
         }
       ],
-      "days_open": 49
+      "days_open": 50
     },
     {
       "key": "솔패스트-공지-위치",
@@ -19936,7 +20162,7 @@
           "quote": "근데 마지막에 공지에 아스트라 쓰지말고 솔 패스트 쓰는거 있다고 하셨는데 어디 공지에 있을까요??"
         }
       ],
-      "days_open": 49
+      "days_open": 50
     },
     {
       "key": "애드센스-복수계정-인증",
@@ -19967,7 +20193,7 @@
           "quote": "애드센스 여러개 만든다면 각각 청구자의 이름과 인증번호가 전부 달라야 하나요?"
         }
       ],
-      "days_open": 49
+      "days_open": 50
     },
     {
       "key": "챌린지-제출확인-반복문의",
@@ -20005,7 +20231,7 @@
           "quote": "강의 챌린지 올린거 확인이 안되는데 화면에 나오는방법대로다 해봤어요 방법좀 알려주세요!"
         }
       ],
-      "days_open": 49
+      "days_open": 50
     },
     {
       "key": "팬튜브-변형-예시",
@@ -20037,7 +20263,7 @@
           "quote": "그런데 지금 서툰상태에서 하면 이게 맞는지 잘모르잖아요? 팬튜브도 변형을 해서 올려야하나요? 어떻게 변형을 해야할지도모르겠고 떡상하는 공식이나 스타일이 있는거죠?"
         }
       ],
-      "days_open": 49
+      "days_open": 50
     },
     {
       "key": "플레이리스트-수익창출-조건",
@@ -20069,7 +20295,7 @@
           "quote": "저도 그게 고민이라 지금 팬튜브하는데 구독자는 금방 1000명될거 같은데 1차 수창이 유효조회수가 300만이라 그게 고민되여ㅠ"
         }
       ],
-      "days_open": 49
+      "days_open": 50
     },
     {
       "key": "픽셀링-프롬프트-저장위치",
@@ -20100,7 +20326,7 @@
           "quote": "픽셀링에서 프롬프트만 저장해 놓은 곳이 있을까요?"
         }
       ],
-      "days_open": 49
+      "days_open": 50
     }
   ],
   "orphan_resolved": []
