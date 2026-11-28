@@ -1,8 +1,31 @@
 {
   "schema_version": 1,
   "room_id": "r-c00b1739",
-  "updated_at": "2026-11-28T01:20:46.961Z",
+  "updated_at": "2026-11-28T02:29:19.787Z",
   "items": [
+    {
+      "id": "beb292c3292a",
+      "url": "https://open.kakao.com/o/sg4Df2Oi",
+      "kind": "web",
+      "title": "의정뷰",
+      "site": "open.kakao.com",
+      "thumb": "media/r-c00b1739/link_thumbs/beb292c3292a.jpg",
+      "reachable": true,
+      "private": false,
+      "first_date": "2026-10-10",
+      "last_date": "2026-11-28",
+      "dates": [
+        "2026-10-10",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-21",
+        "2026-11-28"
+      ],
+      "mention_count": 7,
+      "contexts": [],
+      "fetched_at": "2026-10-10T06:09:06.189Z"
+    },
     {
       "id": "84f5336e37fc",
       "url": "https://www.youtube.com/watch?v=uZbn2OzwbSw",
@@ -1218,28 +1241,6 @@
       "mention_count": 1,
       "contexts": [],
       "fetched_at": "2026-10-23T03:08:47.706Z"
-    },
-    {
-      "id": "beb292c3292a",
-      "url": "https://open.kakao.com/o/sg4Df2Oi",
-      "kind": "web",
-      "title": "의정뷰",
-      "site": "open.kakao.com",
-      "thumb": "media/r-c00b1739/link_thumbs/beb292c3292a.jpg",
-      "reachable": true,
-      "private": false,
-      "first_date": "2026-10-10",
-      "last_date": "2026-10-21",
-      "dates": [
-        "2026-10-10",
-        "2026-10-13",
-        "2026-10-14",
-        "2026-10-15",
-        "2026-10-21"
-      ],
-      "mention_count": 6,
-      "contexts": [],
-      "fetched_at": "2026-10-10T06:09:06.189Z"
     },
     {
       "id": "32e434b2cb79",
